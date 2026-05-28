@@ -59,10 +59,10 @@ def test_parse_projects_decodes_html_entities() -> None:
     assert "Java & Spring Boot" in java_project["description"]
 
 
-def test_parse_projects_builds_absolute_urls() -> None:
+def test_parse_projects_builds_projekt_slug_urls() -> None:
     projects = parse_projects(FIXTURE_HTML)
     for project in projects:
-        assert project["url"].startswith(config.PROJECT_BASE_URL + "/")
+        assert project["url"].startswith(config.PROJECT_BASE_URL + "/projekt/")
 
 
 def test_parse_projects_assigns_stable_id_from_url() -> None:
@@ -85,12 +85,11 @@ def test_parse_projects_uses_created_as_published() -> None:
 
 
 def test_parse_projects_dedupes_same_url_across_top_and_regular() -> None:
+    # Give the top result the same slug as a regular result -> same URL ->
+    # same id -> it must be deduplicated.
     html_with_dupe = FIXTURE_HTML.replace(
-        '"initialTopResults":[{"id":3333333',
-        '"initialTopResults":[{"id":1111111',
-    ).replace(
-        "/projekt/product-owner-tso-3333333",
-        "/projekt/requirements-engineer-energie-1111111",
+        '"slug":"product-owner-tso"',
+        '"slug":"requirements-engineer-energie"',
     )
     projects = parse_projects(html_with_dupe)
     ids = [p["id"] for p in projects]
@@ -113,9 +112,9 @@ def test_parse_projects_raises_when_no_results_in_island() -> None:
 def test_parse_projects_skips_items_missing_required_fields() -> None:
     html = (
         '<html><body><script type="application/json">'
-        '{"initialResults":[{"id":1,"title":"","plink":"/projekt/a"},'
-        '{"id":2,"title":"Valid","plink":""},'
-        '{"id":3,"title":"Keep","plink":"/projekt/keep"}],'
+        '{"initialResults":[{"id":1,"title":"","slug":"a"},'
+        '{"id":2,"title":"Valid","slug":""},'
+        '{"id":3,"title":"Keep","slug":"keep"}],'
         '"initialTopResults":[]}'
         "</script></body></html>"
     )

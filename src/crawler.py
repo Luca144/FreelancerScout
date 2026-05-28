@@ -61,26 +61,28 @@ def _strip_html(value: str) -> str:
     return _WHITESPACE_RE.sub(" ", decoded).strip()
 
 
-def _build_url(plink: str) -> str:
-    if plink.startswith("http://") or plink.startswith("https://"):
-        return plink
-    if not plink.startswith("/"):
-        plink = "/" + plink
-    return config.PROJECT_BASE_URL + plink
+def _build_url(slug: str) -> str:
+    """Build the canonical project detail URL from a project slug.
+
+    The ``plink``/``url`` fields in the feed are unreliable (often null or an
+    external ATS reference that 404s). The ``slug`` reliably maps to
+    ``/projekt/<slug>``, which is the real freelancermap detail page.
+    """
+    return f"{config.PROJECT_BASE_URL}/projekt/{slug}"
 
 
 def _normalize(item: dict) -> RawProject | None:
     """Convert a raw freelancermap project dict into a ``RawProject``.
 
-    Returns ``None`` when required fields (title, plink) are missing — we
+    Returns ``None`` when required fields (title, slug) are missing — we
     skip such items rather than fail the whole crawl.
     """
-    plink = item.get("plink") or ""
+    slug = item.get("slug") or ""
     title = item.get("title") or ""
-    if not plink or not title:
+    if not slug or not title:
         return None
 
-    url = _build_url(plink)
+    url = _build_url(slug)
     description_raw = item.get("description") or ""
     published = item.get("created") or item.get("updated") or ""
 
