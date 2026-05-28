@@ -117,6 +117,36 @@ button {
   opacity: 0.45;
 }
 
+/* ---------- Header controls (notifications, sound) ---------- */
+
+.header-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.ghost-btn {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--ink-muted);
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 6px 12px;
+  cursor: pointer;
+  transition: border-color 200ms, color 200ms;
+}
+
+.ghost-btn:hover {
+  border-color: var(--ink-muted);
+  color: var(--ink);
+}
+
+.ghost-btn[hidden] {
+  display: none;
+}
+
 /* ---------- Filter bar ---------- */
 
 .filter-bar {
@@ -203,6 +233,24 @@ button {
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+/* New-arrival highlight: a single subtle accent-border flash on poll. */
+.card.is-new-arrival {
+  animation:
+    card-reveal 420ms ease-out forwards,
+    card-flash 2400ms ease-out 1;
+}
+
+@keyframes card-flash {
+  0% {
+    background: var(--bg-hover);
+    border-color: var(--accent);
+  }
+  100% {
+    background: var(--bg-elevated);
+    border-color: var(--border);
   }
 }
 

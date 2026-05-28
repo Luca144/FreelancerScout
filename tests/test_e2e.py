@@ -18,6 +18,7 @@ from src import config
 pytestmark = pytest.mark.e2e
 
 FIXTURE = Path(__file__).parent / "fixtures" / "sample_feed.html"
+APP_JS = Path(__file__).parent.parent / "docs" / "app.js"
 
 
 @pytest.fixture
@@ -145,3 +146,30 @@ def test_pipeline_returns_nonzero_when_feed_fetch_fails(isolated: dict[str, Path
     assert not isolated["projects_json"].exists()
     assert not isolated["docs_data_json"].exists()
     assert not isolated["docs_index_html"].exists()
+
+
+# ---------- frontend (app.js) static checks ----------
+# No JS test runner is set up, so we grep the source for the notification /
+# sound features required by Phase 5.
+
+
+def test_app_js_has_polling_and_seen_id_tracking() -> None:
+    js = APP_JS.read_text(encoding="utf-8")
+    assert "setInterval" in js
+    assert "POLL_INTERVAL_MS" in js
+    assert "localStorage" in js
+    assert "seenIds" in js or "SEEN_IDS_KEY" in js
+
+
+def test_app_js_has_beep_and_notification() -> None:
+    js = APP_JS.read_text(encoding="utf-8")
+    assert "function playBeep" in js
+    assert "AudioContext" in js
+    assert "Notification" in js
+    assert "requestPermission" in js
+
+
+def test_app_js_caps_seen_ids() -> None:
+    js = APP_JS.read_text(encoding="utf-8")
+    assert "MAX_SEEN_IDS" in js
+    assert "500" in js

@@ -93,6 +93,21 @@ Nach ~30 Sekunden grün. Der Bot-Commit aktualisiert `data/projects.json` und `d
 
 Ab jetzt läuft der Crawler stündlich (Cron `0 * * * *`, GitHub kann 5-15 min driften). Manuelle Läufe weiterhin über den Actions-Tab.
 
+## Benachrichtigungen
+
+Solange die Seite in einem offenen Tab läuft, pollt sie alle 5 Minuten `data.json`. Tauchen neue Projekte auf, gibt es:
+
+- eine Browser-Notification (sofern erlaubt),
+- einen kurzen Beep (Web Audio API),
+- einen einmaligen Highlight-Effekt auf den neuen Cards.
+
+Hinweise:
+
+- **Permission:** Beim ersten Besuch erscheint der Button „Benachrichtigungen aktivieren". Erst nach Erlauben kommen Notifications. Der Button „Sound testen" prüft den Beep.
+- **Tab muss offen bleiben:** Es gibt keinen Push-Dienst im Hintergrund. Live-Benachrichtigungen funktionieren nur bei geöffnetem Tab.
+- **Autoplay-Politik:** Der Beep braucht eine vorherige Interaktion mit der Seite (einmal „Sound testen" oder „Benachrichtigungen aktivieren" klicken). Danach klingt er bei neuen Treffern.
+- **iOS Safari:** Web-Notifications funktionieren dort nur als installierte PWA. Im normalen Tab fällt die Seite auf Sound + visuelles Highlight zurück. Das ist akzeptiert.
+
 ## Projektstatus
 
-Aktueller Stand: Phasen 0-4 implementiert. Phase 5 (Browser-Notifications + Sound) ausstehend.
+Aktueller Stand: Phasen 0-5 implementiert.
