@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site_title }}</title>
+  <meta name="description" content="Stündlich aktualisierte freelancermap-Projekte, gefiltert auf Requirements Engineering und Energie.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..600;1,9..144,400..600&family=JetBrains+Mono:wght@400;500&family=Manrope:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <h1 class="site-title">Freelancer <em class="italic-accent">Scout</em></h1>
+      <p class="site-meta">
+        <span class="counter" id="project-count">—</span>
+        <span class="counter-label" id="project-count-label">Projekte</span>
+        <span class="meta-divider">·</span>
+        <span class="last-updated" id="last-updated">lädt …</span>
+      </p>
+    </div>
+  </header>
+
+  <nav class="filter-bar" aria-label="Keyword-Filter">
+    <div class="filter-chips" id="filter-chips" role="group"></div>
+  </nav>
+
+  <main id="project-list" class="project-list" aria-live="polite">
+    <p class="loading-state" id="loading-state"><em>lädt …</em></p>
+  </main>
+
+  <template id="card-template">
+    <article class="card">
+      <span class="new-badge" hidden aria-label="Neu"></span>
+      <h2 class="card-title"></h2>
+      <p class="card-description"></p>
+      <ul class="card-keywords"></ul>
+      <div class="card-meta">
+        <time class="card-time"></time>
+        <a class="card-link" target="_blank" rel="noopener noreferrer">zum Projekt →</a>
+      </div>
+    </article>
+  </template>
+
+  <template id="empty-state-template">
+    <div class="empty-state">
+      <p><em>Heute noch nichts Spannendes. Komm später wieder.</em></p>
+    </div>
+  </template>
+
+  <template id="error-state-template">
+    <div class="empty-state">
+      <p><em>Daten konnten nicht geladen werden.</em></p>
+    </div>
+  </template>
+
+  <footer class="site-footer">
+    <p>
+      Quelle <a href="{{ source_url }}" target="_blank" rel="noopener noreferrer">{{ source_label }}</a>
+      <span class="meta-divider">·</span>
+      <a href="{{ repo_url }}" target="_blank" rel="noopener noreferrer">Repo</a>
+    </p>
+  </footer>
+
+  <script id="bootstrap-data" type="application/json">{{ bootstrap_json|safe }}</script>
+  <script src="app.js" defer></script>
+</body>
+</html>

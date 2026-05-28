@@ -1,0 +1,42 @@
+{
+  "positive": [
+    "requirements engineer",
+    "anforderungsmanager",
+    "business analyst",
+    "projektmanager",
+    "pmo",
+    "scrum master",
+    "product owner",
+    "prozessmanager",
+    "testmanager",
+    "ireb",
+    "cpre",
+    "iiba",
+    "babok",
+    "agil",
+    "scrum",
+    "energie",
+    "evu",
+    "stadtwerke",
+    "netz",
+    "scada",
+    "ems",
+    "redispatch",
+    "übertragungsnetz",
+    "tso",
+    "smart meter",
+    "marktkommunikation",
+    "edifact"
+  ],
+  "negative": [
+    "java entwickler",
+    "python entwickler",
+    "frontend",
+    "backend",
+    "fullstack",
+    "devops engineer",
+    "embedded",
+    "togaf",
+    "enterprise architect"
+  ]
+}

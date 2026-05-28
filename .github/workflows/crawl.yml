@@ -1,0 +1,49 @@
+name: Crawl
+
+on:
+  schedule:
+    # Top of every hour. GitHub Actions cron can drift by 5-15 min — accepted.
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -e .
+
+      - name: Run crawler
+        env:
+          REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+        run: python main.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data docs)" ]; then
+            git add data docs
+            git commit -m "chore: hourly crawl update [skip ci]"
+            git push
+          else
+            echo "No changes — nothing to commit."
+          fi

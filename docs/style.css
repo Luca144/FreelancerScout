@@ -1,0 +1,354 @@
+/* ---------- Tokens ---------- */
+
+:root {
+  --bg: #F5F1E8;
+  --bg-elevated: #FBF8F1;
+  --bg-hover: #F0EBDC;
+  --ink: #1A1A1A;
+  --ink-muted: #6B6B6B;
+  --border: #E5DFCF;
+  --accent: #C0392B;
+  --keyword-bg: #2D3D2A;
+  --keyword-ink: #F5F1E8;
+
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body: "Manrope", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --max-content: 720px;
+  --pad-x: 32px;
+  --pad-x-wide: 64px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0F0E0C;
+    --bg-elevated: #1A1815;
+    --bg-hover: #221F1A;
+    --ink: #E8E4D9;
+    --ink-muted: #8A8578;
+    --border: #2A2722;
+    --accent: #E74C3C;
+    --keyword-bg: #4A5A3C;
+    --keyword-ink: #E8E4D9;
+  }
+}
+
+/* ---------- Base ---------- */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: var(--ink);
+}
+
+button {
+  font: inherit;
+}
+
+/* ---------- Sticky header ---------- */
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--bg);
+  padding: 32px var(--pad-x) 20px;
+  border-bottom: 1px solid var(--border);
+}
+
+.site-header-inner {
+  max-width: var(--max-content);
+  margin: 0 auto;
+}
+
+.site-title {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 1.1;
+  margin: 0 0 12px;
+  letter-spacing: -0.01em;
+  font-optical-sizing: auto;
+}
+
+.site-title .italic-accent {
+  font-style: italic;
+  font-weight: 500;
+}
+
+.site-meta {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--ink-muted);
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: baseline;
+}
+
+.counter {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--ink);
+  font-optical-sizing: auto;
+}
+
+.meta-divider {
+  opacity: 0.45;
+}
+
+/* ---------- Filter bar ---------- */
+
+.filter-bar {
+  position: sticky;
+  top: 92px;
+  z-index: 9;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 10px var(--pad-x);
+}
+
+.filter-chips {
+  max-width: var(--max-content);
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.filter-chip {
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 11px;
+  padding: 4px 10px;
+  border-radius: 4px;
+  background: transparent;
+  color: var(--ink-muted);
+  border: 1px solid var(--border);
+  cursor: pointer;
+  transition: background 200ms, color 200ms, border-color 200ms;
+  white-space: nowrap;
+}
+
+.filter-chip:hover {
+  border-color: var(--ink-muted);
+  color: var(--ink);
+}
+
+.filter-chip.is-active {
+  background: var(--keyword-bg);
+  color: var(--keyword-ink);
+  border-color: var(--keyword-bg);
+}
+
+/* ---------- Project list ---------- */
+
+.project-list {
+  max-width: var(--max-content);
+  margin: 0 auto;
+  padding: 48px var(--pad-x) 96px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.loading-state {
+  text-align: center;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 18px;
+  color: var(--ink-muted);
+  padding: 64px 0 0;
+  margin: 0;
+}
+
+/* ---------- Card ---------- */
+
+.card {
+  position: relative;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  padding: 24px;
+  transition: background 200ms ease-out;
+  opacity: 0;
+  transform: translateY(8px);
+  animation: card-reveal 420ms ease-out forwards;
+}
+
+.card:hover {
+  background: var(--bg-hover);
+}
+
+@keyframes card-reveal {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.new-badge {
+  position: absolute;
+  left: -16px;
+  top: 30px;
+  width: 8px;
+  height: 8px;
+  background: var(--accent);
+  animation: badge-pulse 2s ease-in-out infinite;
+}
+
+@keyframes badge-pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.4;
+  }
+}
+
+.card-title {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.3;
+  margin: 0 0 12px;
+  letter-spacing: -0.005em;
+}
+
+.card-description {
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--ink-muted);
+  margin: 0 0 16px;
+}
+
+.card-keywords {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 18px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.card-keywords li {
+  background: var(--keyword-bg);
+  color: var(--keyword-ink);
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 11px;
+  padding: 4px 10px;
+  border-radius: 4px;
+}
+
+.card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--ink-muted);
+}
+
+.card-link {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1px;
+  transition: border-color 200ms;
+}
+
+.card-link:hover {
+  border-color: var(--ink);
+}
+
+/* ---------- Empty state ---------- */
+
+.empty-state {
+  text-align: center;
+  padding: 80px var(--pad-x);
+}
+
+.empty-state em {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 22px;
+  color: var(--ink-muted);
+}
+
+/* ---------- Footer ---------- */
+
+.site-footer {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--ink-muted);
+  text-align: center;
+  padding: 32px var(--pad-x) 48px;
+  border-top: 1px solid var(--border);
+}
+
+.site-footer a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--border);
+  text-underline-offset: 3px;
+}
+
+.site-footer a:hover {
+  text-decoration-color: var(--ink-muted);
+}
+
+/* ---------- Desktop overrides ---------- */
+
+@media (min-width: 640px) {
+  .site-header {
+    padding: 56px var(--pad-x-wide) 28px;
+  }
+  .site-title {
+    font-size: 48px;
+  }
+  .counter {
+    font-size: 32px;
+  }
+  .filter-bar {
+    top: 138px;
+    padding: 14px var(--pad-x-wide);
+  }
+  .project-list {
+    padding: 64px var(--pad-x-wide) 120px;
+  }
+  .card {
+    padding: 32px;
+  }
+  .new-badge {
+    left: -22px;
+    top: 38px;
+  }
+  .empty-state {
+    padding: 120px var(--pad-x-wide);
+  }
+  .site-footer {
+    padding: 48px var(--pad-x-wide) 64px;
+  }
+}
