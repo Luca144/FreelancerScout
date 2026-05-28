@@ -1,6 +1,56 @@
 {
   "projects": [
     {
+      "description": "We are looking for an experienced C++ developer to support a business-critical legacy software landscape with complex dependencies and continuously evolved functionality. The role requires strong analytical skills and the ability to understand, stabilize and modernize existing systems while ensuring operational continuity. YOUR RESPONSIBILITIES • Analyze, maintain and enhance complex C++ codebases and legacy systems • Modernize existing functionality into scalable and maintainable solutions • Investigate and resolve production issues, race conditions and stability problems • Refactor tightly coupled code incrementally without disrupting operations • Support the transition from sequential to parallelized and multi-threaded architectures • Identify and resolve thread-safety issues involving shared state and synchronization • Collaborate closely with product, support and operations teams to understand real-world system behavior YOUR PROFILE • Strong modern C++ expertise, including memory management and ownership concepts • Deep understanding of multithreading, concurrency and synchronization mechanisms • Experience with large, partially undocumented legacy systems • Strong debugging and root-cause analysis skills • Ability to safely evolve long-lived codebases written by multiple developers • Pragmatic mindset with focus on stability, maintainability and operational reliability",
+      "first_seen": "2026-05-28T14:38:05.302004+00:00",
+      "id": "d894767b055af10b",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-05-28T16:33:02+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Software Developer C++",
+      "url": "https://www.freelancermap.de/projekt/senior-software-developer-c-3004792"
+    },
+    {
+      "description": "Keil Business Solutions GmbH is an innovative IT service provider. For a client project, we are currently looking for a-/an Business Functional Analyst (f/m/d) - Banking Customer Sales Retail - ASAP - remote 100% Task /Requirements: -Experience Business Analyst at Banks / Financial Services Clients -Longterm experience in requirements engineering, including user stories, use cases, functional specifications and adherence to documentation standards -Ability to capture and translate customer-facing business requirements (e.g., advisory journeys, onboarding, sales processes) into IT specifications within banking environments -Experience in designing UX-driven, customer-centric processes across omni-channel touchpoints (branch, digital) To ensuring strong user experience and business value -Proficiency in business process modeling (e.g., ADONIS) to document, analyze, and optimize end-to-end sales and customer processes in regulated environments -Ability to work effectively in cross-functional teams with fluency in German (min. C2) or English, ensuring alignment between business, IT, and compliance requirements Project Language: Englisch (fluent), German would be a plus Date: 15th of June 2026 or later Duration: 6 month Workload: 4-5 days per week Location: 100% remote Please let us know, if you are interested in this project opportunity (CV - Word)? Contact KeilBS see below: Junos Talari Business Development Manager Keil Business Solutions GmbH Landsberger Straße 154 | 80339 München Tel: +49 89 954 5750 32 Fax: +49 89 954 5750 39 E-Mail: J.Talari@keil-bs.com",
+      "first_seen": "2026-05-28T14:38:05.302004+00:00",
+      "id": "14f03da9ac64c746",
+      "matched_keywords": [
+        "requirements engineer",
+        "business analyst"
+      ],
+      "published": "2026-05-28T16:25:03+02:00",
+      "source": "freelancermap.de",
+      "title": "Business Functional Analyst (f/m/d) - Banking Customer Sales Retail - ASAP - remote 100%",
+      "url": "https://www.freelancermap.de/projekt/business-functional-analyst-f-m-d-banking-customer-sales-retail-asap-remote-100-prozent"
+    },
+    {
+      "description": "Aktuell suchen wir für unseren Kunden einen Lead Utilities Data Transformation Architect (m/w/d). Start: ab sofort Dauer: 6 Monate+ Auslastung: Vollzeit Standort: Ruhrgebiet, 3 Tage/Woche Remote Aufgaben: Entwicklung eines konsistenten Utilities-Stammdatenzielmodells Entwicklung eines Canonical Utilities Data Models Harmonisierung von Daten- und Prozesslogiken Definition fachlicher Zielobjekte und Beziehungen Harmonisierung von Vetrags-, Geräte-, Tarif- und Marktrollenmodellen Modellierung historisierter Utilities-Datenstrukturen Steuerung fachlicher Harmonisierungsworkshops Aufbau Data Governance und Verantwortlichkeiten Sicherstellung von Datenqualität, Governance und Clean-Core-Konformität Stakeholder Management Anforderungen: Mehrjährige Erfahrung in SAP IS-U / SAP Utilities Sehr gutes Verständnis von Marktkommunikation Erfahrung in Datenmigration, Datenharmonisierung sowie mit historisierten Datenmodellen Kenntnisse SAP S/4HANA Utilities Erfahrung mit Enterprise Architektur und Data Governance sowie Canonical Data Models Verständnis von Clean Core Prinzipien Fähigkeit zur semantischen Harmonisierung komplexer Datenmodelle",
+      "first_seen": "2026-05-28T14:38:05.302004+00:00",
+      "id": "e2deeb78cd46801a",
+      "matched_keywords": [
+        "marktkommunikation"
+      ],
+      "published": "2026-05-28T16:18:21+02:00",
+      "source": "freelancermap.de",
+      "title": "Lead Utilities Data Transformation Architekt (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/lead-utilities-data-transformation-architekt-m-w-d"
+    },
+    {
+      "description": "Business Analyst (m/w/d) – AFRA-10478 Projektbeschreibung Die Leistungen des Dienstleisters werden für Projekte im Agile Release Train (ART) im Bereich Order2Cash eines Großkonzerns im Logistik- und Infrastrukturumfeld erbracht. Die Durchführung findet in der Einheit für Vertriebs- und Abrechnungslösungen sowie verwandter Themengebiete statt. Diese IT-Projektleistungen bestehen im Wesentlichen aus der Definition und dem Design von Anwendungsarchitekturen in der fachlichen Domäne und der (Weiter-)Entwicklung, Integration und Migration von Applikationen in diesem Bereich. Der technologische Kontext ist eine moderne Cloudnative Architektur basierend auf Kubernetes. Die Entwicklung von Anwendungen erfolgt in Spring Boot, Angular, React und TIBCO mit Java. Die Projekte werden nach SAFe (Scaled Agile Framework) organisiert. Leistungen: Kooperation mit den Geschäftseinheiten, um Geschäftsanforderungen zu identifizieren und zu dokumentieren Analyse und Identifikation von Geschäftsprozessen, um Schwachstellen und Verbesserungsmöglichkeiten aufzudecken Entwicklung und Präsentation von Lösungen, die den Geschäftsanforderungen entsprechen und gleichzeitig effektiv und effizient sind Kooperation mit den Entwicklungsteams und anderen Stakeholdern innerhalb der Organisation, so dass Lösungen gemäß den Anforderungen implementiert werden (können) Validieren von Lösungen, so dass sie den Geschäftsanforderungen entsprechen Vorbereitung von Schulungsmaterial in Kooperation mit entsprechenden verantwortlichen Geschäftseinheiten, so dass neue Lösungen effektiv genutzt werden können Anforderungen – must have: (zwingend erforderlich, auch in Jahren und in den einzelnen Projektreferenzen aufgeführt und erläutert!) Erfahrung als technisch versierter Business Analyst in beratender Funktion für komplexe Softwarelösungen (mind. 3 Jahre) Erfahrung im agilen Anforderungsmanagement in einem skalierten Framework (SAFe) mit mehreren parallelen Entwicklungsteams (mind. 3 Jahre) Erfahrung in der Modellierung von Geschäftsprozessen unter Verwendung einer etablierten Notation (z.B.: BPMN) (mind. 3 Jahre) Erfahrung in der technisch-fachlichen Analyse bestehender Systeme mit dem Ziel der Ableitung konkreter Optimierungsmaßnahmen (mind. 3 Jahre) Erfahrung in der technischen Begleitung von Schnittstellenanbindungen (z.B.: REST-APIs) von der Spezifikation bis zur erfolgreichen Implementierung (mind. 3 Jahre) Anforderungen – should + nice to have: Erfahrung in der Erstellung technischer Spezifikationen für Entwicklungsteams (z.B.: API-Contracts, Datenflussdiagramme) (mind. 3 Jahre) Erfahrung in der Bewertung und Dokumentation von Systemarchitekturen (z.B.: Microservices, Event-Driven) als Entscheidungsgrundlage (mind. 3 Jahre) Kenntnisse in SQL zur eigenständigen Analyse und Validierung von Datenstrukturen in relationalen Datenbanken (mind. 3 Jahre) Erfahrung mit Abrechnungsprozessen in komplexen Systemlandschaften (mind. 3 Jahre) Erfahrung als Business Analyst in einem SAP-Umfeld (z.B.: SD oder FI/CO) (mind. 3 Jahre) Erfahrung im Umgang mit Versionsverwaltung und technischen Kollaborationstools (z.B.: Git, Jira, Confluence) im Entwicklungskontext (mind. 3 Jahre) Rahmendaten: Zeitraum: 22.06.2026 - 21.12.2029 + Option auf Verlängerung Einsatzort: 90% Remote / 10% onsite Frankfurt am Main (780 PT gesamt | davon 78 PT in FFM) Auslastung: Vollzeit Anstellungsart: Projektbezogene Festanstellung Ich freue mich auf die Zusendung Ihres Profils inkl. Verfügbarkeit und gewünschter Konditionen (Jahresbruttogehalt)!",
+      "first_seen": "2026-05-28T14:38:05.302004+00:00",
+      "id": "f9139de551e806b7",
+      "matched_keywords": [
+        "business analyst",
+        "agil"
+      ],
+      "published": "2026-05-28T16:16:40+02:00",
+      "source": "freelancermap.de",
+      "title": "AFRA-10478 - Business Analyst (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/afra-10478-business-analyst-m-w-d"
+    },
+    {
       "description": "🏁 Start: Juli 2026⏳ Dauer: 7 Monate ++📍 Ort: Ulm / hybrid 🔢 Projekt-ID: 14436 📅 Bewerbungsfrist: 18.06.2026 Liebes Netzwerk, Für unseren Kunden in Ulm suchen wir einen AI Data Engineer (m/w/d). ▶ Link: https://www.constaff.com/projektbeschreibung/?positionID=14436 Aufgaben: Strategische Unterstützung beim Einsatz moderner agentenbasierter AI-Systeme Bereitstellung und Aufbereitung von AI-ready Daten aus verschiedenen fahrzeugnahen Domänen Sicherstellung der optimalen Nutzbarkeit und Strukturierung von Daten für automatisierte Anwendungsfälle Konzeption, Entwicklung und Implementierung skalierbarer Datenpipelines und Datenprodukte Aufbau und Weiterentwicklung robuster sowie effizienter Datenarchitekturen Entwicklung und Etablierung von Transformationspipelines in Zusammenarbeit mit Data Science-, AI- und Domain-Teams Bereitstellung hochwertiger AI-ready Datensätze und wiederverwendbarer Datenmodelle Integration und Verarbeitung von Fahrzeugdaten für produktive AI-Anwendungen Unterstützung bei der Entwicklung intelligenter und datengetriebener Mobilitätslösungen Anforderungen: Sehr gute Kenntnisse in Python für Datenverarbeitung und Pipeline-Entwicklung Fundierte Erfahrung mit Databricks, PySpark, Delta Lake und SQL Expertise im Aufbau von ETL-/ELT-Pipelines sowie skalierbaren Datenarchitekturen Know-how in Datenmodellierung und Feature Engineering Erfahrung mit MLflow oder vergleichbaren Tools Kenntnisse in Cloud-Technologien, Datenplattformen sowie API-Integration Verständnis agentenbasierter Systeme und deren Datenanforderungen Erfahrung mit Databricks Genie oder vergleichbaren AI-gestützten Datenwerkzeugen Grundkenntnisse in der Orchestrierung von AI-Agenten Agile und End-to-End-orientierte Arbeitsweise mit Fokus auf Datenqualität und Wiederverwendbarkeit Analytisches Denkvermögen sowie eigenverantwortliche und strukturierte Arbeitsweise Erfahrung im Umfeld produktiver AI-Systeme, wünschenswert Kenntnisse moderner Daten- und AI-Architekturen, von Vorteil Erfahrung in iterativen und schnelllebigen Entwicklungsumgebungen, idealerweise vorhanden Sehr gute Deutsch- und Englischkenntnisse Aufgrund von Kundenvorgaben wird eine projektbezogene Anstellung vorausgesetzt. Haben Sie Zeit und Interesse an einem spannenden Projekt? Dann freuen wir uns auf Ihre Kontaktaufnahme 📞 Kontakt: Julia Barth Expert Candidate Relations _________________________________ Constaff GmbH - 100%OpenBook. Ehrlich. Kompetent. Transparent.",
       "first_seen": "2026-05-28T10:55:36.727711+00:00",
       "id": "819ca369c9516ed0",
@@ -324,5 +374,5 @@
       "url": "https://www.freelancermap.de/projekt/sofico-miles-developer-konfigurator-3002479"
     }
   ],
-  "updated_at": "2026-05-28T10:55:36.734561+00:00"
+  "updated_at": "2026-05-28T14:38:05.310433+00:00"
 }
