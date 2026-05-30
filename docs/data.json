@@ -1,6 +1,20 @@
 {
   "projects": [
     {
+      "description": "Zur besseren Lesbarkeit wird die männliche Form verwendet. Sämtliche Personenbezeichnungen gelten für alle Geschlechtsformen. Projektübersicht Unterstützung des Managements bei der bereichsübergreifenden Steuerung und Verbesserung zentraler KPIs in den Regionen (München, Karlsruhe, Frankfurt Köln, Berlin, Hamburg, Leipzig) durch regionale 7 Senior-Experten. Ausgangssituation Steigende Komplexität, alternde Infrastruktur sowie wachsender Kosten- und Effizienz-druck gefährden Stabilität und Verfügbarkeit des Bahnsystems. Ein bundesweites Sofortprogramm fokussiert Engpassbereiche mit dem Ziel, insbesondere Beginn- und Ausbruchsplanmäßigkeit im Nah- und Fernverkehr nachhaltig zu verbessern. Die gesamte End-to-End-Prozesskette (Instandhaltung, Bereitstellung, Engpassdurchlauf) wird bereichsübergreifend mit EIU und EVU analysiert und optimiert. Zielsetzung Etablierung einer regionalen Steuerungsfunktion, eng angebunden an ein zentrales Programmteam. Zentrale Aufgaben: Transparenz schaffen, Schwachstellen identifizieren, Maßnahmen ableiten, umsetzen und nachhalten. Eine datenbasierte Steuerung stellt sicher, dass KPIs nachhaltig erreicht und die Leistungsfähigkeit messbar gesteigert werden. Leistungen E2E-Prozessoptimierung: Analyse, Bewertung und Optimierung entlang der gesamten Prozesskette Maßnahmensteuerung: Priorisierung, Koordination, Umsetzung und Tracking inklusive Gegensteuerung Programmsteuerung: Unterstützung bei Planung, Priorisierung und Gesamttracking Projektsteuerung & PMO: Steuerung regionaler Programme und zentrale PMO-Aufgaben Operationalisierung: Analyse von Prozessen und Schwachstellen Umsetzung von Quick Wins und nachhaltigen Maßnahmen Durchführung und Koordination von Analysen an Engpassstellen Maßnahmenentwicklung: Ableitung wirksamer Lösungen und Transfer von Best Practices Stakeholder-Management: Einbindung relevanter Fachbereiche Monitoring & Reporting: KPI-Tracking, Managementreporting, Gremienarbeit Nachhaltigkeit: Dokumentation struktureller Schwächen und Ableitung langfristiger Verbesserungen Anforderungen - Fachlich: Erfahrung in Leitung komplexer Projekte und Transformationsinitiativen Fundiertes Bahnverständnis (Instandhaltung, Betrieb, Fahrplan, EVU) Expertise in Prozessanalyse und -optimierung Anwendung von Lean-Methoden und KVP Schnelle Einarbeitung in komplexe Strukturen Persönlich/Methodisch: Ergebnis- und Umsetzungsstärke (Ownership, KPI-Fokus) Konflikt- und Stakeholdermanagement Kommunikations- und Präsentationsstärke Belastbarkeit, Durchsetzungsfähigkeit Rahmenbedingungen Zeitraum: 01.08.–31.12.2026 (Option Verlängerung) Umfang: 105 Tage je Berater (4 Tage vor Ort, 1 Tag remote) Einsatzorte: München, Karlsruhe, Frankfurt, Köln, Berlin, Hamburg, Leipzig Tagessätze je nach Qualifikation & Level Bewerbung Aussagekräftige Profile in Word-Format bitte an recruiting@henning-experts.com senden, inkl. Einsatzort, Verfügbarkeit und Tagessatz. HENNING eXperts Recruiting www.henning-experts.com Wir besetzen Projekte - zeitnah, zuverlässig & passgenau",
+      "first_seen": "2026-05-30T17:01:36.928435+00:00",
+      "id": "5fced7e31c73367f",
+      "matched_keywords": [
+        "pmo",
+        "evu",
+        "ems"
+      ],
+      "published": "2026-05-30T18:05:20+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektangebot - bereichsübergreifende Steuerung & Verbesserung von KPIs im Bahnverkehr",
+      "url": "https://www.freelancermap.de/projekt/projektangebot-bereichsuebergreifende-steuerung-verbesserung-von-kpis-im-schienenverkehr"
+    },
+    {
       "description": "Einleitung Unser Kunde aus dem Handelsumfeld benötigt externe Unterstützung im Rahmen der Weiterentwicklung seiner Cloud-Produkte sowie der zugehörigen Netzwerktools. Der Einsatz kann per remote erfolgen. Ihre Aufgaben Entwicklung von Cloud-Netzwerkproduktlösungen , einschließlich VPC, NAT Gateway und Cloud Interconnect. Entwicklung, Optimierung und Betrieb bestehender Cloud-Netzwerkproduktlösungen in Python und C. Eigenverantwortliches End-to-End-Design und Entwicklung von Infrastruktur-APIs für Cloud-Dienste. Zusammenarbeit bei der Implementierung von APIs sowie Gewährleistung von sicherem, gründlich getestetem Code, der den Best Practices der Branche entspricht. Durchführung detaillierter Fehlersuche (Troubleshooting) und Ursachenanalysen (Root Cause Analysis) Dokumentation der entwickelten Lösungen Unsere Anforderungen Umfangreiche Erfahrung in der Softwareentwicklung mit Golang . Tiefgehende Kenntnisse in Schnittstellen - und Kommunikationstechnologien (z. B. REST, gRPC) sowie Datenbanksystemen (z. B. PostgreSQL, MariaDB). Fundierte Kenntnisse im Software- Deployment und der Softwareentwicklung unter Verwendung von Kubernetes, Docker und Helm-Charts. Praxisorientierter Problemlöser (Hands-on-Mentalität) mit einem soliden Verständnis von Softwaredesign und Architekturmustern. Kommunikationsstärke und die Fähigkeit, komplexe technische Ideen sowohl schriftlich als auch mündlich klar auszudrücken. Sprachkenntnisse: Fließend in Deutsch und/oder Englisch.",
       "first_seen": "2026-05-30T09:13:48.161103+00:00",
       "id": "b8b91b22d12126e8",
@@ -1176,5 +1190,5 @@
       "url": "https://www.freelancermap.de/projekt/sofico-miles-developer-konfigurator-3002479"
     }
   ],
-  "updated_at": "2026-05-30T15:04:56.188550+00:00"
+  "updated_at": "2026-05-30T17:01:36.951970+00:00"
 }
