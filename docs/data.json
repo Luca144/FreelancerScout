@@ -1,6 +1,55 @@
 {
   "projects": [
     {
+      "description": "Einleitung Unser Kunde aus dem Handelsumfeld benötigt externe Unterstützung im Rahmen der Weiterentwicklung seiner Cloud-Produkte sowie der zugehörigen Netzwerktools. Der Einsatz kann per remote erfolgen. Ihre Aufgaben Entwicklung von Cloud-Netzwerkproduktlösungen , einschließlich VPC, NAT Gateway und Cloud Interconnect. Entwicklung, Optimierung und Betrieb bestehender Cloud-Netzwerkproduktlösungen in Python und C. Eigenverantwortliches End-to-End-Design und Entwicklung von Infrastruktur-APIs für Cloud-Dienste. Zusammenarbeit bei der Implementierung von APIs sowie Gewährleistung von sicherem, gründlich getestetem Code, der den Best Practices der Branche entspricht. Durchführung detaillierter Fehlersuche (Troubleshooting) und Ursachenanalysen (Root Cause Analysis) Dokumentation der entwickelten Lösungen Unsere Anforderungen Umfangreiche Erfahrung in der Softwareentwicklung mit Golang . Tiefgehende Kenntnisse in Schnittstellen - und Kommunikationstechnologien (z. B. REST, gRPC) sowie Datenbanksystemen (z. B. PostgreSQL, MariaDB). Fundierte Kenntnisse im Software- Deployment und der Softwareentwicklung unter Verwendung von Kubernetes, Docker und Helm-Charts. Praxisorientierter Problemlöser (Hands-on-Mentalität) mit einem soliden Verständnis von Softwaredesign und Architekturmustern. Kommunikationsstärke und die Fähigkeit, komplexe technische Ideen sowohl schriftlich als auch mündlich klar auszudrücken. Sprachkenntnisse: Fließend in Deutsch und/oder Englisch.",
+      "first_seen": "2026-05-30T09:13:48.161103+00:00",
+      "id": "b8b91b22d12126e8",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-05-30T09:39:30+02:00",
+      "source": "freelancermap.de",
+      "title": "Go-Entwickler (m/w/d) Cloud- / API- und Netzwerkentwicklung - Homeoffice",
+      "url": "https://www.freelancermap.de/projekt/go-entwickler-m-w-d-cloud-api-und-netzwerkentwicklung-homeoffice"
+    },
+    {
+      "description": "Einleitung Unser Kunde, ein internationales Handelsunternehmen sucht ab sofort einen Linux Kernel Entwickler im Homeoffice. Ihre Aufgaben Im Rahmen dieses Projekts wird ein Cloudservice (weiter-)entwickelt. Der Prozess umfasst mehrere Phasen - beginnend mit der Analyse der bestehenden Infrastruktur, gefolgt von der Implementierung neuer Komponenten und der Optimierung bestehender Systeme. Der Fokus liegt auf der Entwicklung und Integration von Technologien zur Netzwerkvirtualisierung und Software Defined Networking (SDN) in großen Rechenzentren. Folgende Aufgaben sind angedacht: - Weiterentwicklung und Anpassung von OpenStack-, OVN- und OVS-Komponenten zur Verbesserung der Cloudservice-Infrastruktur. - Entwicklung und Implementierung von Funktionen im Linux Kernel, insbesondere im Bereich Netzwerkvirtualisierung und SDN. - Programmierung und Optimierung von Systemkomponenten in den Programmiersprachen C und/oder Rust. - Beitrag zu Open-Source-Projekten im Bereich Cloud-Infrastruktur, um die Innovationskraft und Effizienz zu steigern. - Entwicklung skalierbarer Technologien für den stabilen Betrieb großer Rechenzentren. - Analyse und Verbesserung von Netzwerk-Stack, Scheduling, Memory Management, Namespaces und cgroups im Linux Kernel. - Implementierung von virtuellen Netzwerktechnologien wie Open vSwitch (OVS) und OVN. - Überwachung der Systemstabilität und -sicherheit durch tiefgehendes Systemverständnis bis in die Grundebenen von Netzwerk, Storage und Virtualisierung. - Dokumentation der entwickelten Lösungen und Technologien zur Nachvollziehbarkeit und Weiterentwicklung. Unsere Anforderungen - Linux-Kernel-Kenntnisse: tiefgehende Kenntnisse - Programmierkenntnisse in C und/oder Rust: sehr gute Kenntnisse - Erfahrung mit OpenStack-Komponenten: gute Kenntnisse - Verständnis von Software Defined Networking (SDN): fundiertes Verständnis - Erfahrung mit virtuellen Netzwerk-Technologien (OVS, OVN): gute Kenntnisse",
+      "first_seen": "2026-05-30T09:13:48.161103+00:00",
+      "id": "4e3eb22d2a798bf4",
+      "matched_keywords": [
+        "netz",
+        "ems"
+      ],
+      "published": "2026-05-30T09:37:53+02:00",
+      "source": "freelancermap.de",
+      "title": "Linux Kernel Entwickler Homeoffice (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/linux-kernel-entwickler-homeoffice-m-w-d"
+    },
+    {
+      "description": "Einleitung Unser Kunde aus dem Banken-Umfeld benötigt externe Unterstützung im Rahmen des Betriebs und der Automatisierung seiner Checkpoint-Landschaft. Zwingend von Nöten sind mehrjährige und nachweisliche Checkpoint-Erfahrungen. Nach einer Einarbeitung vor Ort in Frankfurt von 1 bis max. 2 Wochen kann komplett per remote gearbeitet werden. Ihre Aufgaben Eigenverantwortliche Implementierung, Optimierung, Betriebsunterstützung und Automatisierung von komplexen Checkpoint-Lösungen Analyse bestehender Sicherheitsrichtlinien sowie Behebung komplexer Störungen, Performance-Engpässen und Schwachstellen im Rahmen des Projekt-Supports Entwicklung, Implementierung und Optimierung von automatisierten Prozessen zur Bereitstellung, Verwaltung und Richtlinien-Steuerung der Checkpoint-Infrastruktur Unsere Anforderungen Mindestens 5 Jahre nachweisbare Projekterfahrung im Netzwerk/IT-Security -Bereich mit tiefgehendem und nachweislichem Schwerpunkt auf Checkpoint-Technologien",
+      "first_seen": "2026-05-30T09:13:48.161103+00:00",
+      "id": "c080440f1f3ef13e",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-05-30T09:35:29+02:00",
+      "source": "freelancermap.de",
+      "title": "2 Netzwerkexperten (m/w/d) mit Fokus Checkpoint - 100% Homeoffice nach Einarbeitung",
+      "url": "https://www.freelancermap.de/projekt/2-netzwerkexperten-m-w-d-mit-fokus-checkpoint-100-prozent-homeoffice-nach-einarbeitung"
+    },
+    {
+      "description": "Einleitung Unser Kunde aus dem Banken-Umfeld benötigt externe Unterstützung im Rahmen des Betriebs und der Optimierung seiner Cisco-Landschaft. Zwingend von Nöten sind Cisco ACI sowie VxLAN Erfahrungen. Nach einer Einarbeitung vor Ort in Frankfurt von 1 bis max. 2 Wochen kann komplett per remote gearbeitet werden. Ihre Aufgaben Eigenverantwortliche Konzeption, Konfiguration, Betrieb, Virtualisierung und Migration von komplexen Netzwerken auf Basis von Cisco ACI und VxLAN-Architekturen Analyse bestehender Netzwerkstrukturen sowie Behebung komplexer Störungen und Performance Unsere Anforderungen Mindestens 5 Jahre nachweisbare Projekterfahrung im Bereich Network Engineering mit tiefgehendem Schwerpunkt auf Cisco-Technologien Fundierte Expertenkenntnisse und praktische Projekterfahrung hinsichtlich Cisco ACI (Application Centric Infrastructure) und VxLAN",
+      "first_seen": "2026-05-30T09:13:48.161103+00:00",
+      "id": "e112b5fa8570f71b",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-05-30T09:33:57+02:00",
+      "source": "freelancermap.de",
+      "title": "2 Cisco ACI / VXLAN - Experten (w/m/d) - 100% Homeoffice nach Einarbeitung",
+      "url": "https://www.freelancermap.de/projekt/2-cisco-aci-vxlan-experten-w-m-d-100-prozent-homeoffice-nach-einarbeitung"
+    },
+    {
       "description": "Remote | ca. 10 Stunden pro Woche | 65 €/Stunde | Start ab sofort Wer wir sind Wir sind AI-THINK. Ein deutsches AI-Startup mit einer klaren Überzeugung: KI funktioniert nur dann, wenn Menschen ihr vertrauen können. Mit unserer AI-VI Plattform verwandeln wir Inhalte in strukturierte, validierte und interaktive AI-Dialoge, die über AI-Avatare jederzeit verfügbar gemacht werden können. Unsere Lösungen kommen unter anderem in den Bereichen Audit, Wissensmanagement und Training zum Einsatz. Technologisch sind wir überzeugt von dem, was wir aufgebaut haben. Was uns aktuell fehlt, ist mehr Sichtbarkeit. Genau deshalb suchen wir Unterstützung. Warum wir suchen Wir haben in den vergangenen Monaten bereits verschiedene Marketing- und Lead-Generation-Maßnahmen ausprobiert. LinkedIn-Kampagnen Cold Outreach E-Mail-Marketing Die Ergebnisse waren bislang jedoch nicht dort, wo wir sie uns wünschen. Deshalb suchen wir bewusst jemanden, der über klassische Ansätze hinausdenkt. Jemanden, der neue Ideen einbringt. Jemanden, der Chancen erkennt. Jemanden, der versteht, wie man ein junges Technologieunternehmen sichtbar macht und nachhaltiges Wachstum erzeugt. Wir suchen niemanden, der einfach nur weitere LinkedIn-Posts plant oder Standardkampagnen startet. Wir suchen jemanden, der uns dabei hilft, neue Wege zu finden, neue Kontakte aufzubauen und AI-THINK. bekannter zu machen. Wen wir suchen Wir suchen keinen reinen Social-Media-Manager. Wir suchen keine Agentur. Wir suchen einen Macher. Jemanden, der aktiv mit uns daran arbeitet: neue Vertriebskanäle zu identifizieren neue Partnerschaften aufzubauen relevante Netzwerke zu erschließen Multiplikatoren zu gewinnen Medien, Magazine und Verbände anzusprechen neue Wege zur Lead-Generierung zu entwickeln Erstgespräche mit potenziellen Kunden zu führen unsere Sichtbarkeit am Markt nachhaltig zu steigern Kurz gesagt: Wir suchen jemanden, der aktiv dabei hilft, AI-THINK. bekannter zu machen, neue Geschäftsmöglichkeiten zu identifizieren und unser Wachstum voranzutreiben. Deine Aufgaben Entwicklung neuer Growth- und Business-Development-Strategien Identifikation neuer Vertriebs- und Marketingkanäle Aufbau strategischer Partnerschaften Ansprache von Magazinen, Medien, Verbänden und Multiplikatoren Unterstützung bei PR- und Kommunikationsaktivitäten Durchführung von Erstgesprächen mit potenziellen Kunden Unterstützung bei Lead-Generierung und Vertrieb Aufbau einfacher und skalierbarer Vertriebsprozesse Regelmäßiger Austausch mit der Geschäftsführung Einbringen eigener Ideen und Initiativen zur Steigerung unserer Marktpräsenz Das solltest Du mitbringen Erfahrung in Vertrieb, Business Development, Growth oder Marketing Nachweisbare Erfolge beim Aufbau von Kundenbeziehungen, Partnerschaften oder Wachstum Hands-on-Mentalität Eigeninitiative und Kreativität Kommunikationsstärke und sicheres Auftreten Freude am Netzwerken Strukturierte und eigenverantwortliche Arbeitsweise Besonders wichtig Ein bestehendes Netzwerk ist für uns ein entscheidender Faktor. Wir suchen jemanden, der bereits über Kontakte und Zugänge in relevanten Branchen verfügt und diese aktiv nutzen kann, um AI-THINK. sichtbarer zu machen, Partnerschaften aufzubauen und neue Geschäftsmöglichkeiten zu erschließen. Besonders interessant sind bestehende Netzwerke im: IT-Umfeld Software- und SaaS-Bereich AI- und Digitalisierungsumfeld Audit- und Compliance-Bereich Cybersecurity-Umfeld Beratungs- und Consulting-Umfeld Medien- und Verbandsumfeld Wir suchen ausdrücklich niemanden, der erst bei null beginnen muss, sondern jemanden, der vorhandene Kontakte, Erfahrungen und Marktkenntnisse einbringen kann. Rahmenbedingungen Freelancer / Selbstständige Tätigkeit Remote Ca. 10 Stunden pro Woche Vergütung: 65 € pro Stunde Langfristige Zusammenarbeit gewünscht Start ab sofort Deine Bewerbung Bitte sende uns: einige Informationen zu Deinem Hintergrund relevante Referenzen oder bisherige Projekte eine kurze Beschreibung Deines Netzwerks und vor allem: Welche drei konkreten Maßnahmen würdest Du in den ersten 90 Tagen umsetzen, um AI-THINK. sichtbarer zu machen und neue Kunden zu gewinnen? Klingt spannend? Dann freuen wir uns auf Deine Nachricht. Wir suchen keinen Dienstleister. Wir suchen jemanden, der gemeinsam mit uns etwas aufbauen möchte, Verantwortung übernimmt und aktiv dazu beiträgt, AI-THINK. auf die nächste Stufe zu bringen.",
       "first_seen": "2026-05-29T23:10:10.822735+00:00",
       "id": "31b05f3cffe0de3c",
@@ -1127,5 +1176,5 @@
       "url": "https://www.freelancermap.de/projekt/sofico-miles-developer-konfigurator-3002479"
     }
   ],
-  "updated_at": "2026-05-30T06:22:18.473811+00:00"
+  "updated_at": "2026-05-30T09:13:48.186282+00:00"
 }
