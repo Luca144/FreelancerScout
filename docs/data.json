@@ -1,6 +1,33 @@
 {
   "projects": [
     {
+      "description": "Aufgabenschwerpunkt Unterstützung der Scrum Teams bei der Anwendung des Scrum Frameworks und der agilen Prinzipien Sicherstellung einer effektiven Zusammenarbeit innerhalb des Scrum Teams und evtl. Fachexperten im Rahmen des Requirements-Engineerings, Refinements bis hin zu Testing und Abnahme Beratung und Unterstützung der Product Owner bei der Erstellung und Priorisierung des Product Backlogs Organisation und Durchführung von Scrum-Events (z.B. Sprint Planning, Daily Scrum, Sprint Review und Sprint Retrospective Entwicklung eines funktionierenden Working Models für das Agentic Development Setup inkl. Anpassung des Scrum-Setups bei Bedarf Unterstützung der Teams bei der Überwindung von Hindernissen Durchführung von Workshops zur Vermittlung von agilen Methoden, Prinzipien und Praktiken Austausch und Zusammenarbeit mit den Scrum-Mastern der anderen Produktteams innerhalb der IT-Erzeugung",
+      "first_seen": "2026-05-31T22:03:49.345653+00:00",
+      "id": "3f2278f6ef58753f",
+      "matched_keywords": [
+        "scrum master",
+        "product owner",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-05-31T23:56:57+02:00",
+      "source": "freelancermap.de",
+      "title": "Scrum Master / Arebitnehmerüberlassung / 12 Monate",
+      "url": "https://www.freelancermap.de/projekt/scrum-master-arebitnehmerueberlassung-12-monate"
+    },
+    {
+      "description": "Projektbeschreibung Das Projekt umfasst die Umsetzung der neuen EU-Geldwäscheverordnung innerhalb eines größeren bankfachlichen Transformationsprogramms. Das Programm besteht aus mehreren Teilprojekten und zahlreichen beteiligten Anwendungen in einer hybriden Projektorganisation. Die Gesamtsteuerung erfolgt überwiegend klassisch, während einzelne Teilprojekte agil beziehungsweise teilagil arbeiten. Aufgrund systemübergreifender Abhängigkeiten, paralleler Weiterentwicklungen und regulatorisch festgelegter Zieltermine besteht ein hoher Integrations- und Abstimmungsbedarf. Ziel ist die Einführung eines gemeinsamen Releaseverständnisses sowie die Planung und Steuerung integrierter, testbarer Systemzustände über alle Teilprojekte hinweg. Leistungsbeschreibung Gesucht wird ein erfahrener Release Manager auf Senior- beziehungsweise Programmebene. Die Rolle verantwortet die Planung, Koordination und Steuerung systemübergreifender Releases im Rahmen der AMLR-Umsetzung. Kern der Aufgabe ist die Herstellung transparenter Integrationsstände, um Entwicklungen aus unterschiedlichen Teilprojekten zu synchronisieren und in kontrollierbaren, testbaren Systemzuständen zusammenzuführen. Dazu gehören die Definition und Pflege von Release-Abhängigkeiten, die Erstellung umsetzbarer Release-Pfade, die Abstimmung von Deploymentfenstern sowie die Koordination technischer und organisatorischer Abhängigkeiten zwischen Anwendungen, Projekten und Betriebseinheiten. Die Tätigkeit erfolgt in enger Zusammenarbeit mit dem Testmanagement, um testfähige Integrationsstände und stabile technische Grundlagen für Testzyklen sicherzustellen. Anforderungen Erforderlich sind mehrjährige Erfahrung im Release Management großer Programme oder Transformationen sowie nachweisbare Praxis in der Steuerung anwendungsübergreifender Releases. Erwartet werden ein fundiertes Verständnis komplexer IT-Systemlandschaften, paralleler Anwendungen, Deploymentprozesse, Versionsmanagement, Integrationsarchitekturen sowie ITIL-orientierter Change- und Releaseprozesse. Erfahrung in regulatorisch geprägten Bankprojekten mit festen Zielterminen ist von Vorteil. Key Skills IT-Systemlandschaft > 5 yrs. parallel betriebene Anwendungen > 5 yrs. Deploymentprozesse > 5 yrs. Versionsmanagement > 5 yrs. Integrationsarchitekturen > 5 yrs. ITIL-orientierte Change- und Releaseprozesse > 5 yrs",
+      "first_seen": "2026-05-31T22:03:49.345653+00:00",
+      "id": "0547c02dce2fe897",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-05-31T23:50:33+02:00",
+      "source": "freelancermap.de",
+      "title": "Release Manager / Program Release Manager – AMLR Umsetzung, Banking, ITIL",
+      "url": "https://www.freelancermap.de/projekt/release-manager-program-release-manager-amlr-umsetzung-banking-itil"
+    },
+    {
       "description": "Wir sind ein IT-Dienstleistungs- und Beratungsunternehmen mit Fokus auf Microsoft-Technologien und wurden 1999 gegründet. Heute beschäftigen wir 400 Mitarbeiter. Diese betreuen vielseitige und anspruchsvolle Projekte öffentlicher und privater Auftraggeber von der Konzeption bis zur Realisierung. Für ein Projekt im behördlichen Umfeld suchen wir einen Senior Software Tester (m/w/d) auf freiberuflicher Basis. Rahmenbedingungen Rolle: Senior Softwareentwickler) – Senior Tester (m/w/d Projektumfeld: Projekt im behördlichen Umfeld Start: 1.9.26 Laufzeit: 24 Monate Auslastung: Vollzeit Einsatzort / Remote-Anteil: Wiesbaden überwiegend Remote bei vorhandener SÜ2 Sabo Bereitschaft zu einer Sicherheitsüberprüfung Leistungsgegenstand Testvorbereitung und Dokumentation füreine Produktneueinführung Testunterstützung eines Abnahmetests als E“E-Test Unterstützung bei der Vorbereitung zur Produkteinführung Unbedingte Kenntnisse Auswertung und Dokumentation von Testergebnissen TestdurchführungSmoke Tests, Entwicklertests, Regressionstests Testautomatisierung Konzeptionierung, Durchführung Agiles Arbeiten Wünschenswerte Kenntnisse: Kenntnisse der Prozesse innerhalb einer Sicherheitsbehörde, oder Kenntnisse der Arbeitsweise im Behördenumfeld Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihr aktuelles Profil unter Angabe Ihrer Verfügbarkeit sowie Ihres Stundensatzes. Ralf Spinnler SINC GmbH Rheingaustraße 182 65203 Wiesbaden Tel.: +49 (0) 611 504518-75 Fax: +49 (0) 611 987972-8 E-Mail: ralf.spinnler@sinc.de",
       "first_seen": "2026-05-31T18:00:03.970796+00:00",
       "id": "179bd57fc93464b6",
@@ -1240,5 +1267,5 @@
       "url": "https://www.freelancermap.de/projekt/sofico-miles-developer-konfigurator-3002479"
     }
   ],
-  "updated_at": "2026-05-31T20:57:41.876469+00:00"
+  "updated_at": "2026-05-31T22:03:49.372917+00:00"
 }
