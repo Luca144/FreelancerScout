@@ -1,6 +1,124 @@
 {
   "projects": [
     {
+      "description": "Gesucht wird ein erfahrener COBOL-/Mainframe-Entwickler für projektbezogene Einsätze in geschäftskritischen Kernbankensystemen im Automotive-Financial-Services- und Kfz-Versicherungsumfeld. Der Fokus liegt auf der Betreuung, Wartung und Weiterentwicklung gewachsener COBOL-Anwendungen rund um Vertrags-, Bestands-, Finanzierungs-, Leasing- und versicherungsnahe Prozesse. Besonders relevant ist jemand, der bereits in produktionskritischen Mainframe-Umgebungen gearbeitet hat und fachliches Verständnis für Kfz-nahe Versicherungsprodukte, Vertragsverwaltung oder Bestandssysteme mitbringt. Aufgaben: Entwicklung, Wartung und Optimierung bestehender COBOL-Anwendungen im IBM-Mainframe-/z/OS-Umfeld Betreuung und Weiterentwicklung von Kernbankensystemen für Vertrags-, Bestands-, Finanzierungs-, Leasing- und Versicherungsprozesse Umsetzung fachnaher Anforderungen in stabile technische Lösungen Betreuung von Batch- und Online-Prozessen Fehleranalyse, Debugging und nachhaltige Stabilisierung produktionskritischer Anwendungen Weiterentwicklung von Schnittstellen zu Fachsystemen, Portalen, Vertriebs- und Bestandssystemen Unterstützung bei Tests, Releases, Dokumentation und 3rd-Level-Support Mitarbeit an Optimierungs- und Modernisierungsthemen im bestehenden Mainframe-Umfeld Must-haves: Mehrjährige Erfahrung in der COBOL-Entwicklung Erfahrung mit IBM Mainframe / z/OS Gute Kenntnisse in JCL, DB2 und SQL Erfahrung mit Batch-Verarbeitung Erfahrung in der Wartung und Weiterentwicklung produktionskritischer Legacy- oder Kernsysteme Fähigkeit, fachnahe Anforderungen technisch sauber umzusetzen Sehr gute Deutschkenntnisse Strukturierte, zuverlässige und lösungsorientierte Arbeitsweise Stark wünschenswert: Erfahrung im Automotive-Financial-Services-Umfeld, insbesondere mit Finanzierung, Leasing oder Kfz-nahen Versicherungsprodukten Erfahrung in Kfz-Versicherung, Sach-/Kompositversicherung oder versicherungsnahen Bestandssystemen Kenntnisse in Vertragsverwaltung, Policenverwaltung, Bestandsführung oder Kernbankensystemen Erfahrung mit Tarifierung, Beitrags-/Prämienberechnung, Schaden, Inkasso oder Exkasso Kenntnisse in CICS oder IMS Grundkenntnisse in der Entwicklung mit Java Erfahrung mit TSO, ISPF, SDSF, Endevor, ChangeMan, UC4 oder TWS Erfahrung mit Schnittstellen zwischen Kernsystemen, Kundenportalen, Vertriebssystemen und Fachanwendungen Erfahrung in der Stabilisierung oder Modernisierung gewachsener Mainframe-Systeme Rahmenbedingungen: Start: ASAP Auslastung: Vollzeit Einsatz: 100% remote Laufzeit: bis mindestens 12/2026 (Verlängerung definitiv möglich und auch sehr wahrscheinlich) Wenn Sie sich mit dieser Ausschreibung identifizieren können und diese zu Ihnen passt, senden Sie mir gerne Ihren aktuellen Lebenslauf inklusive der Angabe Ihres aktuellen Stundensatzes an folgende E-Mail-Adresse: beste.aruk@verveconsulting.de Vielen Dank! :)",
+      "first_seen": "2026-06-01T18:37:02.124388+00:00",
+      "id": "90d55ea5c4ec1cd1",
+      "matched_keywords": [
+        "tso"
+      ],
+      "published": "2026-06-01T19:22:54+02:00",
+      "source": "freelancermap.de",
+      "title": "COBOL-/Mainframe-Entwickler im Automotive-Financial-Services- / Kfz-Versicherungskontext (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/cobol-mainframe-entwickler-im-automotive-financial-services-kfz-versicherungskontext-m-w-d"
+    },
+    {
+      "description": "Für meinen Kunden suche nach mehreren Lead Developern (m/w/d) Skills: Mehrjährige Erfahrung als Lead Developer in Großprojekten sehr gute Kenntnisse in der Entwicklung von Java-basierten Lösungen (wünschenswert Java EE und Eclipse Microprofile), Architekturmuster und WebServices sowie entsprechender Frameworks ODER sehr gute Kenntnisse in modernen JavaScript Frameworks (z.B. Angular, React, Vue) - jeweils mindestens grundlegende bis gute Kenntnisse im anderem Bereich; optional Kenntnisse in Python Mehrjährige Erfahrung im Aufbau von IT-Lösungsarchitekturen sowie Verständnis und Fachexpertise im Bereich Microservice Architekturen (Quarkus und WebSphere Liberty), Container-Technologie und Sicherheitsarchitekturen. Sehr gute Kenntnisse beim Entwurf von Softwarearchitekturkonzepten (idealerweise \"ISAQB® - Certified Professionell for Software Architecture Advanced Level\") und deren Implementierung im Programmcode Erfahrung mit den agilen Vorgehensweisen Scrum und SAFe Erfahrung im Onboarding / Coaching von Entwicklern Bei Interesse freue ich mich über Ihren CV an: Alena.Arnold@pont-connects.de",
+      "first_seen": "2026-06-01T18:37:02.124388+00:00",
+      "id": "c3ae9801dd467715",
+      "matched_keywords": [
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-06-01T19:03:22+02:00",
+      "source": "freelancermap.de",
+      "title": "Lead Developer (m/w/d) REMOTE // Quarkus, Python, Java EE",
+      "url": "https://www.freelancermap.de/projekt/lead-developer-m-w-d-remote-quarkus-python-java-ee"
+    },
+    {
+      "description": "Für meinen Kunden suche ich nach einem Senior Network Specialist (m/w/d) Aufgaben: Betrieb und Konfiguration von Netzwerk- und Storage-Komponenten Durchführung von Server- und Hardware-Updates Dokumentation der Infrastruktur Arbeit mit gängiger Enterprise-Hardware Wichtig: Der Einsatz erfolgt vor Ort // Raum FFM Bei Interesse freue ich mich über Ihren CV an: Alena.Arnold@pont-connects.de",
+      "first_seen": "2026-06-01T18:37:02.124388+00:00",
+      "id": "d94ed138f3955ea2",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-06-01T18:58:31+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Network Specialist (m/w/d) vor ORT in FFM",
+      "url": "https://www.freelancermap.de/projekt/senior-network-specialist-m-w-d-vor-ort-in-ffm"
+    },
+    {
+      "description": "Wir sind ein IT-Dienstleistungs- und Beratungsunternehmen mit Fokus auf Microsoft-Technologien und wurden 1999 gegründet. Heute beschäftigen wir 400 Mitarbeiter. Diese betreuen vielseitige und anspruchsvolle Projekte öffentlicher und privater Auftraggeber von der Konzeption bis zur Realisierung. Für ein Projekt im behördlichen Umfeld suchen wir einen erfahrenen Senior Entwickler Datenqualität & Dublettenvermeidung (m/w/d) auf freiberuflicher Basis. Rahmenbedingungen Rolle: Senior Entwickler Datenqualität & Dublettenvermeidung (m/w/d) Projektumfeld: Behörden-Kunde / Registermodernisierung / Stammdatensysteme Start: 06.2026 Laufzeit: bis 31.03.2027 Auslastung: 100% Einsatzort / Remote-Anteil: 100% Remote Projektkontext Im Rahmen eines Vorhabens zur Verbesserung der Datenqualität in behördlichen Stammdatensystemen liegt der Fokus auf der Vermeidung, Erkennung und Bereinigung von Dubletten im Personenkontext. Dazu sollen bestehende Systeme und Prozesse im Umfeld von STEP und KUSOS weiterentwickelt sowie ein Monitoring-Konzept zur Bewertung der Dublettensituation erstellt werden. Aufgaben Entwicklung, Test, Integration und Dokumentation von Software im Umfeld von Online-Services Anpassung und Erweiterung von REST- und Kafka-basierten KUSOS-Endpunkten Umsetzung technischer Erweiterungen in STEP und KUSOS Analyse und Behebung von Softwarefehlern Unterstützung bei Architektur- und Designentscheidungen Mitwirkung bei Maßnahmen zur Verbesserung von Datenqualität und Dublettenvermeidung Erstellung eines technischen Konzepts für das Monitoring der Dublettensituation Analyse bestehender Prozesse und Dokumentationen in STEP Anpassung von Oberflächen im Bereich Personenregistrierung zur Verbesserung der Datenqualität Mitarbeit in einem agilen Projektumfeld sowie Abstimmung mit Product Ownern, Fachbereichen und Architektur Dokumentation von Ergebnissen in Confluence Anforderungen Mehrjährige Erfahrung als Senior Full Stack Entwickler Fundierte Kenntnisse in der Entwicklung von Online-Services Sehr gute Erfahrung mit REST-Schnittstellen Erfahrung mit Kafka und Systemintegration Erfahrung in Analyse, Fehlerbehebung und technischer Konzeption Fähigkeit zur Umsetzung fachlicher Anforderungen in technische Lösungen Erfahrung mit Scrum oder Kanban Sicherer Umgang mit Backlogs und technischer Dokumentation Sehr gute Deutschkenntnisse in Wort und Schrift Wünschenswerte Kenntnisse Erfahrung im behördlichen Umfeld oder mit Stammdatensystemen Kenntnisse in Datenqualität, Datenkonsistenz und Dublettenmanagement Erfahrung mit Monitoring- und Auswertungskonzepten Kenntnisse in ARIS, Innovator und SQL Erfahrung mit nutzerfreundlicher Oberflächengestaltung Tools / Technologien STEP KUSOS REST Kafka Innovator ARIS Confluence SQL Scrum Kanban Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihr aktuelles Profil unter Angabe Ihrer Verfügbarkeit sowie Ihres Stundensatzes.",
+      "first_seen": "2026-06-01T18:37:02.124388+00:00",
+      "id": "5b7dd1af20f5da36",
+      "matched_keywords": [
+        "product owner",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-06-01T18:48:03+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Entwickler Datenqualität & Dublettenvermeidung (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-entwickler-datenqualitaet-und-dublettenvermeidung-m-w-d"
+    },
+    {
+      "description": "Aufgaben: Für ein interessantes Projekt unseres Kunden sind wir auf der Suche nach einem Senior Business Analyst. Aufgaben: + Leitung der Analyse komplexer, funktionsübergreifender Initiativen im Bereich E-Mobilität / Ladestationsmanagementsysteme (CPMS) und Umsetzung der geschäftlichen Anforderungen in klare, ergebnisorientierte Spezifikationen. + Kritische Überprüfung von Problemstellungen, Annahmen, Anforderungen und Lösungsvorschlägen; Sicherstellung, dass diese fundiert, realisierbar und auf die Geschäftsziele sowie die Kundenergebnisse abgestimmt sind. + Bewertung der bestehenden CPMS-Lösungslandschaft, einschließlich Prozessen, Geschäftsregeln, Datenflüssen, Schnittstellen, Integrationen und betrieblichen Einschränkungen; Identifizierung von Lücken, Konflikten und Möglichkeiten zur Wiederverwendung. + Verantwortung für die durchgängige Integrität der Anforderungen, einschließlich Konsistenz, Vollständigkeit, Rückverfolgbarkeit, Akzeptanzkriterien, Validierung und Rollout-Bereitschaft. + Erarbeitung, Verfeinerung und Entscheidungsfindung für Product Owner, agilen Software-Projektmanagern, Architekten, den Bereichen Engineering und Operations sowie den Stakeholdern aus dem Geschäft. + Antizipiere Abhängigkeiten, Auswirkungen und Änderungsrisiken über Teams, Domänen, Integrationen und Releases hinweg; halte Entscheidungen, Kompromisse und Risiken transparent. + Als vertrauenswürdiger Sparringspartner für Product Owner, Architekten, den Chief Product Owner, Stakeholder und Software-Engineering-Teams fungieren. + Zu Standards im Requirements Engineering beitragen, Wissen teilen und iterative Arbeitsweisen in einer agilen Umgebung (z. B. Scrum/SAFe) unterstützen. Projekt-Nr.: 106236 Projekttitel: Senior Business Analyst eMobility (Charge Point Management Systems) (m/w/d) Stellentyp: freiberuflich Einsatzort: Remote Starttermin: 15.06.2026 Dauer: 6 Monate Anforderungen: Must-Have: + Mehrjährige praktische Erfahrung als Senior Business Analyst, Requirements Engineer, Product Analyst oder in einer vergleichbaren Position in komplexen digitalen Produkt- oder Plattformumgebungen. + Umfassende Erfahrung in den Bereichen Anforderungserfassung, Stakeholder-Workshops, Prozess- und Journey-Mapping, User Stories, Akzeptanzkriterien, Rückverfolgbarkeit, Validierung und Rollout-Vorbereitung. + Fähigkeit, selbstbewusst mit Product Ownern, Architekten, Ingenieuren, dem Operations-Team und Stakeholdern aus dem Geschäftsbereich zusammenzuarbeiten und dabei zwischen geschäftlichen Anforderungen und technischen Umsetzungsbeschränkungen zu vermitteln. + Erfahrung mit der Analyse von Lösungslandschaften, Datenflüssen, Schnittstellen, Integrationen, Abhängigkeiten und teamübergreifenden Auswirkungen. + Sicherer Umgang mit gängigen Tools für Zusammenarbeit und Projektabwicklung wie Jira, Confluence, Miro/Mural oder ähnlichen + Professionelle Englischkenntnisse Nice to Have: + eMobility, CPMS, SaaS oder Plattform Erfahrung + Deutschkenntnisse Zusätzliche Informationen: Konnten wir Ihr Interesse wecken? Dann freuen wir uns auf die Zusendung Ihres aussagekräftigen Expertenprofils unter Angabe Ihrer Stundensatzvorstellung. SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
+      "first_seen": "2026-06-01T18:37:02.124388+00:00",
+      "id": "8b4d220b7101f1b2",
+      "matched_keywords": [
+        "requirements engineer",
+        "business analyst",
+        "projektmanager",
+        "product owner",
+        "agil",
+        "scrum",
+        "ems"
+      ],
+      "published": "2026-06-01T18:34:45+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Business Analyst eMobility (Charge Point Management Systems) (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-business-analyst-emobility-charge-point-management-systems-m-w-d"
+    },
+    {
+      "description": "Aufgaben: Aktuell sind wir auf der Suche nach einem erfahrenen Projektmanager für ein KI / Digitalisierungseinführungsprojekt. Die Auslastung beträgt ca. 60% Zu Ihren Aufgaben gehören: Sparingspartner für Projektleiter: + Kritisches Hinterfragen von Projektzielen und -nutzen, Lösungsansätzen, Priorisierungen + Sicherstellung von Klarheit in Scope und Zielbild, belastbaren Entscheidungsgrundlagen + Einbringen von Best Practices (z.B. aus Digital/Transformation) strukturierten Vorgehensweisen + Vorbereitung bei Eskalationsthemen, Entscheidungsfindung Kommunikation: + Selbstständige Konzipierung der Kommunikationskampagne zu digitalen Themen + Aufbereitung komplexer Inhalte in verständliche Botschaften + Sicherstellung einer klaren, konsistenten Kommunikation über alle Kommunikationskaskaden hinweg + eigenständige Erstellung von Unterlagen für relevante Gremien PMO: + Weiterentwicklung von PMO-Strukturen und -Standards + Planung, Organisation und Moderation von Regelterminen (z.B. Statusrunden, Lenkungskreise) + Erstellung und Pflege von Projektplänen, Roadmaps, Statusberichten und Risiko- und Maßnahmen-Tracking + Sicherstellung von Transparenz über Fortschritt, Abhängigkeiten und Risiken Projekt-Nr.: 106238 Projekttitel: Projektmanager für die Einführung von KI / Digitalisierung (m/w/d) Stellentyp: freiberuflich Einsatzort: Remote Starttermin: asap Dauer: 6 Monate Anforderungen: Projekt- & PMO-Kompetenzen + Erfahrung im Projektmanagement bzw. PMO in komplexen, cross-funktionalen Projekten + Fähigkeit zur Strukturierung von Themen, Arbeitspaketen und Meilensteinen + Sicheres Tracking von Fortschritt, Risiken und Abhängigkeiten sowie Aufbereitung für Reporting + Erfahrung in der Moderation und Vorbereitung von Abstimmungsformaten (Workshops, Regeltermine) Koordination & Stakeholdermanagement + Ausgeprägte Koordinationsfähigkeit zwischen verschiedenen Arbeitspaketen und Stakeholdern + Fähigkeit, unterschiedliche Perspektiven (Fachbereiche, Governance, HR etc.) zusammenzubringen + Proaktive Unterstützung der Arbeitspaket-Leads und Sicherstellung von Transparenz im Gesamtprojekt Kommunikationskompetenz + Fähigkeit, Inhalte zielgruppengerecht aufzubereiten (z.B. Präsentationen, Intranet, kurze Texte) + Verständnis für interne Kommunikation und Kampagnenunterstützung + Kreativität bei der Entwicklung von Impulsen für Formate und Sichtbarkeit Arbeitsweise & Mindset + Strukturierte, eigenständige und lösungsorientierte Arbeitsweise + Hohe Zuverlässigkeit und Verantwortungsbewusstsein in der Steuerung von Themen + Affinität zu Digitalisierung, KI und Veränderungsthemen + Gespür für Zusammenarbeit, Dynamiken und „was ein Thema braucht“, um voranzukommen Tools & Arbeitsformen + Sicherer Umgang mit gängigen PM- und Kollaborationstools (z. B. Planner, Teams, PowerPoint) + Erfahrung mit Reporting-Setups und Dokumentation Zusätzliche Informationen: Konnten wir Ihr Interesse wecken? Dann freuen wir uns auf die Zusendung Ihres aussagekräftigen Expertenprofils unter Angabe Ihrer Stundensatzvorstellung. SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
+      "first_seen": "2026-06-01T18:37:02.124388+00:00",
+      "id": "ef52706043938667",
+      "matched_keywords": [
+        "projektmanager",
+        "pmo"
+      ],
+      "published": "2026-06-01T18:34:35+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektmanager für die Einführung von KI / Digitalisierung (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/projektmanager-fuer-die-einfuehrung-von-ki-digitalisierung-m-w-d"
+    },
+    {
+      "description": "Aufgaben: Aufgaben: + Analyse der aktuellen Prozesse + Aufnahme von User Anforderungen + Identifikation von Ineffizienzen + Optimieren hinsichtlich FTE- oder Zeitersparnis + Feature Definition für die Entwickler / POs + Erstellung einer techn. Dokumentation Projekt-Nr.: 1015531 Projekttitel: Projektmanager digitale Transformation (m/w/d) Stellentyp: freiberuflich Einsatzort: keine Angabe Starttermin: 08.06.2026 Dauer: 9-12 Monate + Anforderungen: + sehr gute Erfahrung im Projektmanagement von digitalen Transformationsprojekten (Größenordnung: Unternehmen mit ca. 3000 MA) + Erfahrung in der Formulierung von User Anforderungen zu techn. Requirements (Feature Definition für die PO/Entwickler) + sehr ausgeprägte Hands-On Mentalität + Erfahrung in der Identifikation von Ineffizienzen (via Mitarbeiter-Interviews) + sehr gute Deutschkenntnisse in Wort und Schrift + sehr gute Englischkenntnisse in Wort und Schrift Nice to have: + Background: Unternehmensberatung + Prozess-Affinität + einschlägige Erfahrung mit BH4SF (Salesforce) Zusätzliche Informationen: Auslastung: 100 SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
+      "first_seen": "2026-06-01T18:37:02.124388+00:00",
+      "id": "42b59bbf380780b5",
+      "matched_keywords": [
+        "projektmanager"
+      ],
+      "published": "2026-06-01T18:34:18+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektmanager digitale Transformation (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/projektmanager-digitale-transformation-m-w-d-3005861"
+    },
+    {
+      "description": "Aufgaben: Ihre Aufgaben: + Analyse bestehender Netzwerk- und WLAN-Infrastrukturen sowie Aufnahme der aktuellen Umgebung + Konzeption und Design neuer Netzwerkarchitektur auf Basis von Cisco- und Cisco-Meraki + Design und Implementierung neuer Netzwerk- und WLAN-Konzepte + Konfiguration und Inbetriebnahme von Netzwerkkomponenten wie Switches und Access Points + Tests, Fehleranalysen und Optimierungen während und nach der Migration Projekt-Nr.: 106242 Projekttitel: Netzwerkarchitekt (m/w/d) Stellentyp: freiberuflich Einsatzort: Remote Starttermin: 01.07.2026 Dauer: 6 Monate Anforderungen: must-haves: + Erfahrung im Bereich Netzwerkinfrastruktur und Netzwerktechnologien + Kenntnisse in Cisco Routing, Switching und WLAN + Erfahrung mit Cisco Meraki und cloudbasierten Netzwerkmanagement-Lösungen Zusätzliche Informationen: Konnten wir Ihr Interesse wecken? Dann freuen wir uns auf die Zusendung Ihres aussagekräftigen Expertenprofils unter Angabe Ihrer Stundensatzvorstellung. SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
+      "first_seen": "2026-06-01T18:37:02.124388+00:00",
+      "id": "85b1e3c0aa8c0502",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-06-01T18:34:14+02:00",
+      "source": "freelancermap.de",
+      "title": "Netzwerkarchitekt (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/netzwerkarchitekt-m-w-d-3005860"
+    },
+    {
+      "description": "Leistungsbeschreibung * Implementierung und Betrieb von Netzwerkinfrastrukturen auf Basis von Cisco ACI * Konzeption, Konfiguration und Betrieb von VxLAN-Netzwerkarchitekturen * Integration und Nutzung von Netzwerkautomatisierung innerhalb von Pipeline-Umgebungen * Überwachung, Analyse und kontinuierliche Optimierung der Netzwerkperformance Anforderungen * Fundierte Fachkenntnisse in Cisco-Netzwerktechnologien und entsprechenden Produkten * Praxiserprobter Umgang mit Application Centric Infrastructure (ACI) * Routine in der Implementierung und Nutzung von VxLAN-basierten Overlay-Netzwerken * Versierter Einsatz automatisierter Prozesse zur Netzwerkbereitstellung mittels Pipelines Kontaktperson: Team Manager Recruiting Frau Natalie Tudyka FERCHAU Contract GmbH Niederlassung Frankfurt CONTRACT Herriotstraße 1 60528 Frankfurt",
+      "first_seen": "2026-06-01T18:37:02.124388+00:00",
+      "id": "11be22a0d78ee04a",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-06-01T18:33:10+02:00",
+      "source": "freelancermap.de",
+      "title": "Aufbau von Netzwerkinfrastrukturen",
+      "url": "https://www.freelancermap.de/projekt/aufbau-von-netzwerkinfrastrukturen"
+    },
+    {
       "description": "Moin Moin! Wir – die EFK GmbH - sind ein seit rund 40 Jahren erfolgreich am Markt tätiger hanseatischer IT-Dienstleister. Gemeinsam mit unseren ca. 50 festangestellten Mitarbeitern und einem gepflegten und umfangreichen Pool an Freelancern, begleiten wir sowohl Konzerne als auch KMU erfolgreich bei ihren IT Projekten. Für unseren Kunden eine Versicherung, suchen wir zur befristeten Anstellung, zwecks ANÜ, einen Business Analysten (m/w/d). Aufgaben: • Analyse von Geschäftsprozessen und User Flows • Analyse von Benutzeranforderungen • Unterstützung der Fachanwender und strukturierte Aufnahme von Anforderungen • Erstellung und Pflege fachlicher Dokumentationen zur Underwriting Workbench • Analyse und Pflege von Prozessen und Schnittstellen im Underwriting Umfeld • Sicherstellung der Integration angrenzender Anwendungen (Fokus AI Use Cases) • Mitarbeit an internationalen Underwriting Prozessen • Durchführung manueller Tests für Regression und User Stories • Anwendung gängiger BA Methoden • Erstellung von Analysen und Prozessdokumentationen • Schreiben von User Stories und Enablern • Planung und Durchführung von Workshops Fach-Skills: • Branchenkenntnisse im Versicherungswesen • Technisches Grundverständnis (non coding), u. a.: APIs und Schnittstellenlogik, Datenmodellierung, Validierungslogiken • Erfahrung im systematischen Software Testen Erforderliche Soft-Skills: - Kenntnisse in der Business-Analyse und im Requirements-Engineering - Einsatz und in der Bewertung von AI Technologien (z. B. zur Prozessautomatisierung oder Entscheidungsunterstützung); die Fähigkeit, Potenziale und Risiken im fachlichen Kontext kompetent einzuschätzen - moderne Softwareentwicklung, einschließlich grundlegender Architekturprinzipien, Cloud- und API basierten Integrationen und gängigen Entwicklungs- und Deployment -Prozessen - Erfahren Industrieversicherung - Erfahrung mit Scrum, mit SAFe - Verhandlungssicheres Englisch Laufzeit: 06.2026 bis 12.2026 Einsatzort: 90% Remote / 10% Hannover Auslastung: Vollzeit Können SIE uns in diesem Projekt unterstützen? Dann freuen wir uns auf die Zusendung Ihres aktuellen CV sowie Ihre genaue Verfügbarkeit und Ihre Jahresbruttogehaltsvorstellung. Viele Grüße Andrea Johannes Vertriebsassistenz / Recruiting EFK IT Consulting GmbH email: andrea.johannes@efk.de Bremen: +49 421 - 340 78 23 Home: www.efk.de",
       "first_seen": "2026-06-01T12:35:26.546947+00:00",
       "id": "6605ec5f12004a60",
@@ -1457,5 +1575,5 @@
       "url": "https://www.freelancermap.de/projekt/sofico-miles-developer-konfigurator-3002479"
     }
   ],
-  "updated_at": "2026-06-01T12:35:26.577576+00:00"
+  "updated_at": "2026-06-01T18:37:02.156726+00:00"
 }
