@@ -1,6 +1,43 @@
 {
   "projects": [
     {
+      "description": "Projektbeschreibung Das Projekt umfasst die Umsetzung der neuen EU-Geldwäscheverordnung innerhalb eines größeren bankfachlichen Transformationsprogramms. Das Programm besteht aus mehreren Teilprojekten und zahlreichen beteiligten Anwendungen in einer hybriden Projektorganisation. Die Gesamtsteuerung erfolgt überwiegend klassisch, während einzelne Teilprojekte agil beziehungsweise teilagil arbeiten. Aufgrund systemübergreifender Abhängigkeiten, paralleler Weiterentwicklungen und regulatorisch festgelegter Zieltermine besteht ein hoher Integrations- und Abstimmungsbedarf. Ziel ist die Einführung eines gemeinsamen Releaseverständnisses sowie die Planung und Steuerung integrierter, testbarer Systemzustände über alle Teilprojekte hinweg. Leistungsbeschreibung Gesucht wird ein erfahrener Release Manager auf Senior- beziehungsweise Programmebene. Die Rolle verantwortet die Planung, Koordination und Steuerung systemübergreifender Releases im Rahmen der AMLR-Umsetzung. Kern der Aufgabe ist die Herstellung transparenter Integrationsstände, um Entwicklungen aus unterschiedlichen Teilprojekten zu synchronisieren und in kontrollierbaren, testbaren Systemzuständen zusammenzuführen. Dazu gehören die Definition und Pflege von Release-Abhängigkeiten, die Erstellung umsetzbarer Release-Pfade, die Abstimmung von Deploymentfenstern sowie die Koordination technischer und organisatorischer Abhängigkeiten zwischen Anwendungen, Projekten und Betriebseinheiten. Die Tätigkeit erfolgt in enger Zusammenarbeit mit dem Testmanagement, um testfähige Integrationsstände und stabile technische Grundlagen für Testzyklen sicherzustellen. Anforderungen Erforderlich sind mehrjährige Erfahrung im Release Management großer Programme oder Transformationen sowie nachweisbare Praxis in der Steuerung anwendungsübergreifender Releases. Erwartet werden ein fundiertes Verständnis komplexer IT-Systemlandschaften, paralleler Anwendungen, Deploymentprozesse, Versionsmanagement, Integrationsarchitekturen sowie ITIL-orientierter Change- und Releaseprozesse. Erfahrung in regulatorisch geprägten Bankprojekten mit festen Zielterminen ist von Vorteil. Key Skills IT-Systemlandschaft > 5 yrs. parallel betriebene Anwendungen > 5 yrs. Deploymentprozesse > 5 yrs. Versionsmanagement > 5 yrs. Integrationsarchitekturen > 5 yrs. ITIL-orientierte Change- und Releaseprozesse > 5 yrs",
+      "first_seen": "2026-06-01T00:04:58.881315+00:00",
+      "id": "8eb1412cb1e87a5f",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-06-01T00:11:59+02:00",
+      "source": "freelancermap.de",
+      "title": "Release Manager / Program Release Manager – AMLR Umsetzung, Banking, ITIL",
+      "url": "https://www.freelancermap.de/projekt/release-manager-program-release-manager-amlr-umsetzung-banking-itil-3005376"
+    },
+    {
+      "description": "Projektbeschreibung Das Projekt umfasst die Umsetzung der neuen EU-Geldwäscheverordnung innerhalb eines größeren bankfachlichen Transformationsprogramms. Das Programm besteht aus mehreren Teilprojekten und zahlreichen beteiligten Anwendungen in einer hybriden Projektorganisation. Die Gesamtsteuerung erfolgt überwiegend klassisch, während einzelne Teilprojekte agil beziehungsweise teilagil arbeiten. Aufgrund systemübergreifender Abhängigkeiten, paralleler Weiterentwicklungen und regulatorisch festgelegter Zieltermine besteht ein hoher Integrations- und Abstimmungsbedarf. Ziel ist die Einführung eines gemeinsamen Releaseverständnisses sowie die Planung und Steuerung integrierter, testbarer Systemzustände über alle Teilprojekte hinweg. Leistungsbeschreibung Gesucht wird ein erfahrener Release Manager auf Senior- beziehungsweise Programmebene. Die Rolle verantwortet die Planung, Koordination und Steuerung systemübergreifender Releases im Rahmen der AMLR-Umsetzung. Kern der Aufgabe ist die Herstellung transparenter Integrationsstände, um Entwicklungen aus unterschiedlichen Teilprojekten zu synchronisieren und in kontrollierbaren, testbaren Systemzuständen zusammenzuführen. Dazu gehören die Definition und Pflege von Release-Abhängigkeiten, die Erstellung umsetzbarer Release-Pfade, die Abstimmung von Deploymentfenstern sowie die Koordination technischer und organisatorischer Abhängigkeiten zwischen Anwendungen, Projekten und Betriebseinheiten. Die Tätigkeit erfolgt in enger Zusammenarbeit mit dem Testmanagement, um testfähige Integrationsstände und stabile technische Grundlagen für Testzyklen sicherzustellen. Anforderungen Erforderlich sind mehrjährige Erfahrung im Release Management großer Programme oder Transformationen sowie nachweisbare Praxis in der Steuerung anwendungsübergreifender Releases. Erwartet werden ein fundiertes Verständnis komplexer IT-Systemlandschaften, paralleler Anwendungen, Deploymentprozesse, Versionsmanagement, Integrationsarchitekturen sowie ITIL-orientierter Change- und Releaseprozesse. Erfahrung in regulatorisch geprägten Bankprojekten mit festen Zielterminen ist von Vorteil. Key Skills IT-Systemlandschaft > 5 yrs. parallel betriebene Anwendungen > 5 yrs. Deploymentprozesse > 5 yrs. Versionsmanagement > 5 yrs. Integrationsarchitekturen > 5 yrs. ITIL-orientierte Change- und Releaseprozesse > 5 yrs",
+      "first_seen": "2026-06-01T00:04:58.881315+00:00",
+      "id": "d3e1bf68e42532ae",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-06-01T00:11:50+02:00",
+      "source": "freelancermap.de",
+      "title": "Release Manager / Program Release Manager – AMLR Umsetzung, Banking, ITIL",
+      "url": "https://www.freelancermap.de/projekt/release-manager-program-release-manager-amlr-umsetzung-banking-itil-3005375"
+    },
+    {
+      "description": "Das Projekt umfasst die Umsetzung der neuen EU-Geldwäscheverordnung in einem größeren bankfachlichen Transformationsprogramm mit mehreren Teilprojekten und zahlreichen beteiligten Anwendungen. Die Projektorganisation ist hybrid; die Gesamtsteuerung erfolgt überwiegend klassisch, einzelne Teilprojekte arbeiten agil beziehungsweise teilagil. Aufgrund systemübergreifender Abhängigkeiten und regulatorischer Zieltermine besteht ein hoher Integrations- und Abstimmungsbedarf. Ziel ist die Etablierung eines einheitlichen E2E-Testverständnisses sowie die Steuerung der Testaktivitäten über alle Teilprojekte hinweg. Leistungsbeschreibung Gesucht wird ein erfahrener Test Manager auf Senior- beziehungsweise Lead-Level. Die Rolle verantwortet die übergreifende Planung, Steuerung und Weiterentwicklung des Testmanagements auf Programmebene. Schwerpunkte sind die Entwicklung einer konsistenten End-to-End-Teststrategie, die Koordination von Integrations-, E2E- und Abnahmetests sowie die Sicherstellung klar definierter Teststufen, Testgegenstände und Testzyklen. Zudem bewertet der Test Manager die Testreife, Stabilität und fachliche Eignung integrierter Systemstände und stellt Qualitäts- und Integrationsrisiken transparent dar. Die Tätigkeit erfolgt in enger Zusammenarbeit mit dem Release Management zur Sicherstellung der Release- und Go-live-Fähigkeit. Anforderungen Erforderlich sind mehrjährige Erfahrung im Testmanagement großer Programme, nachweisbare Praxis in E2E-Tests über mehrere Anwendungen hinweg sowie Erfahrung in komplexen Multi-System-Landschaften. Erwartet werden Kenntnisse in Testorganisation, Integrationsumgebungen, Testdatenmanagement, Defect Management, hybriden Delivery-Modellen sowie CI/CD-Prozessen. Erfahrung in regulatorischen Bankprojekten ist von Vorteil. Key Skills IT-Testing/ Testmanagement > 5 yrs. Erfahrung in komplexen Multi-System-Landschaften > 5 yrs. tiefes Verständnis moderner Testprozesse > 5 yrs. Testorganisation > 5 yrs. hybride Delivery-Modelle > 5 yrs. Testdatenmanagement 3-5 yrs. Umgang mit Integrationsumgebung 3-5 yrs. Kenntnisse von Continuous-Integration- und Deployment-Prozessen 3-5 yrs. Smarag = nice to have GFT = nice to have",
+      "first_seen": "2026-06-01T00:04:58.881315+00:00",
+      "id": "d718d57182b1aea2",
+      "matched_keywords": [
+        "agil",
+        "ems"
+      ],
+      "published": "2026-06-01T00:08:28+02:00",
+      "source": "freelancermap.de",
+      "title": "Test Manager / Lead Test Manager – AMLR-Umsetzung, E2E Testing, Banking",
+      "url": "https://www.freelancermap.de/projekt/test-manager-lead-test-manager-amlr-umsetzung-e2e-testing-banking"
+    },
+    {
       "description": "Aufgabenschwerpunkt Unterstützung der Scrum Teams bei der Anwendung des Scrum Frameworks und der agilen Prinzipien Sicherstellung einer effektiven Zusammenarbeit innerhalb des Scrum Teams und evtl. Fachexperten im Rahmen des Requirements-Engineerings, Refinements bis hin zu Testing und Abnahme Beratung und Unterstützung der Product Owner bei der Erstellung und Priorisierung des Product Backlogs Organisation und Durchführung von Scrum-Events (z.B. Sprint Planning, Daily Scrum, Sprint Review und Sprint Retrospective Entwicklung eines funktionierenden Working Models für das Agentic Development Setup inkl. Anpassung des Scrum-Setups bei Bedarf Unterstützung der Teams bei der Überwindung von Hindernissen Durchführung von Workshops zur Vermittlung von agilen Methoden, Prinzipien und Praktiken Austausch und Zusammenarbeit mit den Scrum-Mastern der anderen Produktteams innerhalb der IT-Erzeugung",
       "first_seen": "2026-05-31T22:03:49.345653+00:00",
       "id": "3f2278f6ef58753f",
@@ -1267,5 +1304,5 @@
       "url": "https://www.freelancermap.de/projekt/sofico-miles-developer-konfigurator-3002479"
     }
   ],
-  "updated_at": "2026-05-31T22:03:49.372917+00:00"
+  "updated_at": "2026-06-01T00:04:58.908886+00:00"
 }
