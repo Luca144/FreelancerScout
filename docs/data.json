@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Guten Tag, im Rahmen der Projektvorbereitung für geplante Kundenprojekte im Bereich Künstliche Intelligenz suchen wir mehrere Senior AI Infrastructure Engineers / Cloud Architects / Enterprise AI Consultants (m/w/d) auf Freelancer-Basis. Rahmendaten Standort: Remote / DACH, projektabhängig punktuell OnSite Start: nach Projektstart / kurzfristig Remote: überwiegend Remote + Bereitschaft für gelegentliche OnSite Termine Auslastung: projektabhängig Stundensatz: Bitte angeben Aufgaben Analyse und Bewertung bestehender IT-, Cloud- und Systemlandschaften hinsichtlich AI-Readiness Planung und Aufbau AI-fähiger Infrastruktur-, Daten- und Plattformarchitekturen Integration von KI-Lösungen in bestehende Unternehmenssysteme und Datenquellen Aufbau von MLOps-, LLMOps- oder AI-Plattform-Umgebungen Konzeption von Security-, Governance- und Compliance-Strukturen für produktive KI-Systeme Unterstützung bei Skalierung, Monitoring, Performance und Betriebsstabilität von Enterprise-AI-Lösungen Technische Abstimmung mit Infrastruktur-, Cloud-, Security- und Architekturteams Dokumentation und Übergabe produktiver Plattform- und Infrastruktur-Lösungen Must-Haves Nachweisbare Erfahrung mit Enterprise-Infrastrukturen oder Cloud-Architekturen Erfahrung mit Azure, AWS oder GCP Erfahrung mit Datenplattformen, APIs und Systemintegration Kenntnisse in Kubernetes, Container-Technologien oder modernen Plattformarchitekturen Erfahrung mit MLOps, LLMOps oder produktiven KI-Umgebungen Sehr gute Kenntnisse in Netzwerk-, Security- und Identity-Themen Verständnis für Governance-, Compliance- und Datenschutzanforderungen Erfahrung im Enterprise-Umfeld mit komplexen Systemlandschaften Strukturierte und saubere technische Arbeitsweise Nice-to-have Erfahrung im Maschinenbau-, Industrie- oder Produktionsumfeld Erfahrung mit SAP-, ERP-, MES- oder Produktionssystemen Erfahrung mit AI-Readiness Assessments Erfahrung mit GenAI-, RAG- oder Agentic-AI-Architekturen Erfahrung mit Hybrid-Cloud- oder Multi-Cloud-Architekturen Erfahrung mit Observability-, Monitoring- oder FinOps-Konzepten Bitte senden Sie uns Ihr aktuelles Profil inkl. Stundensatz, Verfügbarkeit sowie 2 relevante Referenzprojekte. Bitte geben Sie je Referenzprojekt kurz an: Infrastruktur- oder Plattform-Use-Case Eigene Rolle im Projekt Größenordnung der Umgebung (User, Systeme oder Cloud-Umfang) Aktuell handelt es sich noch nicht um ein konkretes Kundenmandat, sondern um den strategischen Aufbau für kommende Projekte.",
+      "first_seen": "2026-06-02T03:43:45.405093+00:00",
+      "id": "eae9ff13790af7a7",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-06-02T03:41:10+02:00",
+      "source": "freelancermap.de",
+      "title": "KI-Infrastruktur-Integration (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/ki-infrastruktur-integration-m-w-d"
+    },
+    {
       "description": "Wir, die bridgingIT-Gruppe, sind eine herstellerunabhängige, produktneutrale Technologie- und Unternehmensberatung, die Kunden aus den verschiedensten Branchen bei wegweisenden Veränderungsvorhaben unterstützt. Immer dann, wenn wir aufgrund von fehlender Kapazität, dennoch unseren Kunden zufrieden stellen möchten, treten wir über unser Partnermanagement an Externe Professionals. Wir würden uns freuen, Sie schon bald in unserem Partnernetzwerk begrüßen zu dürfen. Anforderungen Entwicklung und Weiterentwicklung von skalierbaren Softwarekomponenten innerhalb einer event-getriebenen Microservice-Architektur Implementierung von Services in Scala 3 unter Nutzung funktionaler Programmierparadigmen Modellierung und Weiterentwicklung von Datenstrukturen auf Basis von Protobuf Umsetzung von Integrationen und Kommunikation zwischen Services über ein event-basiertes Messaging-System (z.B. NATS JetStream) Entwicklung und Deployment von Services in einer containerisierten Umgebung (AWS EKS / Kubernetes) Sicherstellung von Codequalität durch Tests, Debugging und Code-Reviews Enge Abstimmung mit Architekt*innen und anderen Entwickler*innen zur Weiterentwicklung der Systemarchitektur Muss-Kriterien Deployment komplexer Services auf Kubernetes-Clustern in AWS Erfahrung mit CI/CD-Tooling (Git/GitLab) GitLab CI mit Monorepo Erfahrung mit dem Protobuf Framework Programmiererfahrung mit Scala 3.8 mit Typelevel-Stack (ZIO, Cats Effect, FS2). Tiefes Verständnis des funktionalen Ökosystems ist erforderlich Melden Sie sich bei Interesse oder Rückfragen jederzeit gerne bei Ihrem Ansprechpartner: Cihan Falay",
       "first_seen": "2026-06-01T21:59:21.388376+00:00",
       "id": "69f393ee6b7fdbc7",
@@ -1588,5 +1600,5 @@
       "url": "https://www.freelancermap.de/projekt/sofico-miles-developer-konfigurator-3002479"
     }
   ],
-  "updated_at": "2026-06-01T23:40:38.222869+00:00"
+  "updated_at": "2026-06-02T03:43:45.434902+00:00"
 }
