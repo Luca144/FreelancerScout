@@ -1,6 +1,96 @@
 {
   "projects": [
     {
+      "description": "Projekthintergrund: Für ein laufendes Projekt im Versicherungsumfeld wird kurzfristig ein(e) erfahrene(r) IT-Business Analyst (m/w/d) gesucht. Unser Kunde ist international aufgestellt und hat spezifische Anforderungen für das Thema Commercial Insurance. Leistungsbeschreibung: Aufnahme, Analyse und Strukturierung von fachlichen Anforderungen. klassisch Requirement Engineering Übersetzung der Geschäftsanforderungen in technische Spezifikationen und Lösungskonzepte End-to-End Betrachtung von Prozessen inkl. Schnittstellen, Datenflüssen und Systemabhängigkeiten Erstellung und Pflege von fachlichen Dokumentationen, User Stories und Spezifikationen Unterstützung bei Abnahmeprozessen Aufnahme und Strukturierung fachlicher Anforderungen in enger Abstimmung mit Fachanwendern Erstellung und Pflege fachlicher Dokumentationen im Kontext relevanter Fachanwendungen Sicherstellung der Integration angrenzender Anwendungen Planung und Durchführung von Workshops mit Stakeholdern Erstellung von User Stories und Enablern Anforderungen: Mehrjährige, nachweisbare Erfahrung als Business Analyst im IT-Umfeld, idealerweise in komplexen Projektlandschaften Fundierte Expertise im Requirements Engineering, einschließlich strukturierter Erhebung, Dokumentation und Validierung von Anforderungen Sicherer Umgang mit Methoden der Prozessmodellierung (z. B. BPMN), insbesondere im Kontext von End-to-End-Prozessen Gutes Verständnis von IT-Architekturen, Schnittstellen sowie Datenmodellen zur Sicherstellung konsistenter und integrierter Lösungen Praxiserprobte Erfahrung mit agilen Vorgehensmodellen (z. B. SAFe, Scrum, Kanban, Design Thinking) unter Berücksichtigung regulatorischer Rahmenbedingungen Kenntnisse in der Datenanalyse, idealerweise ergänzt durch Erfahrung in SQL-basierter Spezifikation oder Datenabfragen Routine im Einsatz gängiger Projekt- und Kollaborationstools (z. B. Jira, Confluence oder vergleichbare Systeme) Hohes Maß an Eigenverantwortung, strukturierter Arbeitsweise sowie ausgeprägte Seniorität im Stakeholder-Management Nachgewiesene Erfahrung in agilen Projektumfeldern mit Fokus auf Qualität, Nachvollziehbarkeit und Compliance-Anforderungen Nice-to-have: Projekterfahrung bei Unternehmen wie Coface, Atradius, Allianz Trade oder vergleichbaren Organisationen im Bereich Warenkreditversicherung Rahmendaten: Start: asap, spätestens 01.07.2026 Ende: 31.12.2026 Auslastung: bis 100% möglich Einsatzort und Arbeitsmodell: überwiegend remote, gelegentliche Termine vor Ort in Frankfurt am Main Projektsprache: Deutsch und Englisch Über OURLANCE: Wir sind auf die Durchführung von Kundenprojekten mit externen Mitarbeitern spezialisiert. Sourcing und Vertrieb übernehmen bei uns selbständige Vertriebspartner. Bewerbungen direkt bitte über den folgenden Link: https://jobboard.online/ourlanceconsulting/checkJob/1403?openJob=8ee07 Ihr Ansprechpartner: Khashayar Farhangi Senior Partner OURLANCE Consulting GmbH T: +49 211 909 949 24 M: +49 171 15 343 15 E: kf@ourlance.de",
+      "first_seen": "2026-06-03T08:54:10.258436+00:00",
+      "id": "22476492bd70cad2",
+      "matched_keywords": [
+        "requirements engineer",
+        "business analyst",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-06-03T10:46:19+02:00",
+      "source": "freelancermap.de",
+      "title": "(Senior) IT- Business Analyst (m/w/d) Fokus auf Versicherungswesen",
+      "url": "https://www.freelancermap.de/projekt/senior-it-business-analyst-m-w-d-fokus-auf-versicherungswesen"
+    },
+    {
+      "description": "Gesucht wird ein erfahrener IT-Berater mit starkem technischen Schwerpunkt in Netzwerk- und Datacenter-Infrastrukturen Kernkompetenzen: Netzwerk & WLAN Planung, Betrieb und Troubleshooting von LAN-/WLAN-Infrastrukturen Netzwerkmanagement, Monitoring und Performance-Analyse Absicherung von Netzwerksegmenten (VLAN, ACL, grundlegende Firewall-Konzepte) Virtualisierung Aufbau und Administration von Proxmox-Virtualisierungsumgebungen Betrieb von VMs und Containern, Ressourcenplanung und Hochverfügbarkeit Storage & Backup Konzeption und Betrieb zentraler Speicherdienste Storage-Technologien: Ceph, ZFS (inkl. Snapshots, Replikation) Samba Fileserver (Berechtigungskonzepte, Integration in bestehende Umgebungen) Backup-Strategien und Wiederherstellungstests Linux-Server & Automation Linux-Administration: Debian und Derivate (Installation, Hardening, Monitoring) Konfigurationsmanagement und Automatisierung mit Ansible Betrieb von Applikations- und Datenbankservern im Linux-Umfeld Datenbanken & Entwicklung Datenbankbetrieb und -tuning: MySQL, MariaDB, PostgreSQL Skript- und Anwendungsentwicklung: Python, PHP, Bash (Linux-Shell) Webentwicklung: HTML, JavaScript (grundlegende Webanwendungen, interne Tools) Rolle als IT-Berater Schnittstelle zwischen Fachbereichen, Entwicklung und IT-Betrieb Anforderungsanalyse, technische Konzeption, Steuerung von Umsetzungsteams Dokumentation, Übergabe in den Regelbetrieb und Knowledge Transfer Rahmendaten: Start: Herbst 2026 Laufzeit: 12 Monate Einsatzort: Rostock Auslastung: Vollzeit Vertragsmodell: Arbeitnehmerüberlassung Bei Interesse freue ich mich auf deine Rückmeldung. Wende dich gerne mit deinem aktuellen Lebenslauf per E-Mail an l.braun(at)progressive.de SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-06-03T08:54:10.258436+00:00",
+      "id": "9b031242dc2c101b",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-06-03T10:36:59+02:00",
+      "source": "freelancermap.de",
+      "title": "Netzwerk- und Datacenter-Spezialist*in",
+      "url": "https://www.freelancermap.de/projekt/netzwerk-und-datacenter-spezialist-in"
+    },
+    {
+      "description": "Aktuell sind wir für unseren Kunden auf der Suche nach einem freiberuflichen Projektmanager (m/w/d) im DORA-Kontext. Start: ab sofort Projektlänge: bis Dezember 2028 (ca. 2,5 Jahre) Auslastung: Vollzeit remote / vor Ort: remote, mindestens 1 Tag pro Woche in Stuttgart oder alternativ blockweise alle 2 Wochen für mind. 2 Tage vor Ort Projektsprache: Deutsch Branche: Finanzdienstleistung Projektkontext: Für unseren Kunden aus der Finanzdienstleistungsbranche unterstützen wir bei der Umsetzung regulatorischer Anforderungen im DORA-Umfeld. Hintergrund ist eine BaFin-Prüfung („44er-Prüfung“), bei der wesentliche Findings in verschiedenen IT-Fachbereichen identifiziert wurden. Diese wurden bislang nicht vollständig behoben und müssen nun nachhaltig adressiert werden. Ziel ist die strukturierte Abarbeitung der Findings sowie die Sicherstellung der regulatorischen Konformität gemäß DORA (Digital Operational Resilience Act). Aufgabe: • Gesamtverantwortung für das Projektmanagement im DORA-Kontext • Steuerung und Nachverfolgung der Maßnahmenumsetzung in den Fachbereichen • Tracking von Fortschritten, KPIs und Deliverables • Proaktives Eskalationsmanagement bis auf Geschäftsführungsebene • Regelmäßiges Reporting (monatlich an die Geschäftsführung, quartalsweise an die BaFin) • Ressourcen- und Budgetplanung • Enge Abstimmung mit fachlichen Leads, IT- und Fachbereichen sowie dem Leitungsteam • Vorbereitung und Moderation von Lenkungsausschüssen • Sicherstellung der Umsetzung regulatorischer Anforderungen Anforderungen: Nachweisbare Erfahrung im IT-Projektmanagement, idealerweise in regulierten Umfeldern Fundierte Kenntnisse von BaFin-regulierten Prozessen Erfahrung im DORA-Umfeld Starkes methodisches Know-how (Projektsteuerung, Reporting, Stakeholdermanagement) Ausgeprägte Durchsetzungsstärke und Fähigkeit zur Eskalation Sicheres Auftreten gegenüber Management und Geschäftsführung Erfahrung im Umgang mit kritischen Projektsituationen Zwingend erforderlich ist zudem, dass der Kandidat bereits eigenverantwortlich folgende Aufgaben durchgeführt hat: DORA-Projektleitung : Steuerung und Nachverfolgung der Maßnahmenumsetzung aus BaFin-Prüfungsergebnissen in IT-Fachbereichen Proaktives Eskalationsmanagement bis auf Geschäftsführungsebene Monatliches Reporting an die Geschäftsführung Steuerung kritischer Projektsituationen Klingt das Projekt interessant? Ich freue mich auf Ihre Rückmeldung mit folgenden Informationen: • Ihre aktuelle Projektverfügbarkeit (frühester Start) • Ihre maximale Auslastung/Woche insgesamt • Können Sie diese Auslastung regelmäßig anbieten? • Ihr Stundensatz (remote / vor Ort) • Ihr aktuelles Profil",
+      "first_seen": "2026-06-03T08:54:10.258436+00:00",
+      "id": "6f44c9122e95bbff",
+      "matched_keywords": [
+        "projektmanager"
+      ],
+      "published": "2026-06-03T10:29:08+02:00",
+      "source": "freelancermap.de",
+      "title": "Interim  Projektmanager (m/w/d) im DORA-Kontext",
+      "url": "https://www.freelancermap.de/projekt/interim-projektmanager-m-w-d-im-dora-kontext-3006643"
+    },
+    {
+      "description": "Einleitung Wir suchen ab sofort ein Senior Program Management Consultant (SAP S/4 Hana Transformation) (m/w/d) - 2 Tage die Woche in Frankfurt a.M. wünschenswert Ihre Aufgaben Das Programm besteht aus 12 Teilprojekten mit Schwerpunkt auf der Umstellung der Meter 2 Cash-Prozesse auf S4 Hana. Beratung des PMO-Leiters bei der Weiterentwicklung des PMOs und seiner Methoden Beratung bei der Ausgestaltung von Projektmanagement-Vorgaben (Templates, Ergebnistypen und Tools). Beratung bei der Organisation des Change-, Risiko- und Abhängigkeiten-Managements Selbstständige Mitarbeit beim Programm-Controlling Beratender Sparringspartner für Projekte Hilfestellung und Qualitätssicherung bei der Erstellung der wichtigsten Ergebnistypen in den Projekten (Projektauftrag, Plan, Change Request, Abschluss, Stakeholder-Kommunikation) Vorbereitung und Nachbereitung von Gremiensitzungen wie Lenkungskreisen bis zur Vorstandsebene Unsere Anforderungen Muss: Mindestens 5 Jahre Erfahrung in einer größeren (IT- oder Management-)Beratung Mindestens 5 Jahre Tätigkeit in einem PMO eines oder mehrerer Programme in Groß-Konzernen Umfangreiche Kenntnisse und Zertifizierung in einem oder mehrerer gängiger Programm- und Projektmanagement-Standards (GPM, Prince2, PMP, SAFe) Mehrjährige Erfahrung als Projektleiter oder Teilprojektleiter von größeren Projekten Erfahrung im Projektcontrolling (idealerweise Earned Value Analyse) Erfahrungen im Abhängigkeiten- und Rolloutmanagement Sehr gute Kommunikationsfähigkeiten Sehr hohe Kundenorientierung Eigeninitiativ, intrinsisch motiviert, nimmt Aufgaben eigenständig auf, macht eigenständig Vorschläge Präzises, strukturiertes und effizientes Vorgehen Bereitschaft 2 Tage vor Ort in Frankfurt zu arbeiten Programm- oder Projektmanagement-Zertifizierung (GPM/IPMA, Prince2, PMP, Scrum, SAFe oder vergleichbar) Wünschenswert: Erfahrung in IT-Projekten in der Energiewirtschaft gute Kenntnisse in MS Project und Jira",
+      "first_seen": "2026-06-03T08:54:10.258436+00:00",
+      "id": "d781ecb721cce2cf",
+      "matched_keywords": [
+        "pmo",
+        "scrum",
+        "energie"
+      ],
+      "published": "2026-06-03T10:27:55+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Program Management Consultant (SAP S/4 Hana Transformation) (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-program-management-consultant-sap-s-4-hana-transformation-m-w-d"
+    },
+    {
+      "description": "Softwaretester – Air Traffic Management / sicherheitskritische Systeme– 6 Monate + Option – vor Ort - Start Juli 2026 Für ein internationales Projekt im Bereich Air Traffic Management (ATM) wird ein erfahrener Softwaretester gesucht. Im Fokus steht die Qualitätssicherung eines Linux-basierten, sicherheitskritischen Systems. Aufgaben • Planung, Durchführung und Dokumentation von Test- und QS-Aktivitäten • Testdesign, Testausführung sowie Fehleranalyse • Sicherstellung der Traceability (Requirements ? Architektur ? Tests) • Mitarbeit in internationalen Projektteams • Durchführung interner und externer Abnahmen • Erstellung von Test-, Abnahme- und Freigabedokumentation • Aufbau und Betreuung von Testumgebungen • Nutzung von ALM-Tools (z. B. Jama) • Unterstützung bei Inbetriebnahmen Anforderungen Must-have • >3 Jahre Erfahrung im Softwaretest • Sicherer Umgang mit Linux (Command Line) • Erfahrung mit Bash oder Python • Kenntnisse in Testframeworks (z. B. Robot Framework) • Erfahrung mit Testmethoden & QS-Standards • Erfahrung mit ALM-Tools • Sehr gutes Englisch • Internationale Reisebereitschaft Projektdetails: • Start: Juli 2026 • Projektdauer: 6 Monate + Optionen • Auslastung: 100% • Ort: 5 Tage vor Ort im Rhein-Main-Gebiet • Sprache: Deutsch & Englisch Bei Interesse an diesem Projekt kommen Sie gerne auf mich zu.",
+      "first_seen": "2026-06-03T08:54:10.258436+00:00",
+      "id": "b7fe5e462d4d3ac7",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-06-03T10:15:59+02:00",
+      "source": "freelancermap.de",
+      "title": "Softwaretester – Air Traffic Management / sicherheitskritische Systeme",
+      "url": "https://www.freelancermap.de/projekt/softwaretester-air-traffic-management-sicherheitskritische-systeme"
+    },
+    {
+      "description": "Für unseren Kunden besetzen wir auf freiberuflicher Basis einen System Engineer Linux / Nutanix (m/w/d) Start: ab sofort / kurzfristig Dauer: ca. 6 Monate mit Option auf Verlängerung Auslastung: Vollzeit, ca. 40 Std./Woche Einsatzort: bevorzugt Essen, alternativ Braunschweig, Berlin, Hamburg 3 Tage/Woche Remote pro Woche / 2 Tage/Woche Onsite Aufgaben: Betrieb, Administration und Lifecycle-Management von Linux-Serverumgebungen auf Basis von SUSE, RHEL, CentOS und Oracle Linux Betrieb und Weiterentwicklung der Virtualisierungsplattform auf Basis von Nutanix AHV sowie Nutanix Files Planung, Durchführung und Begleitung von Infrastrukturmigrationen, insbesondere aus VMware-, NetApp-HCI- und NetApp-MetroCluster-Umgebungen Richtung Nutanix Analyse, Bearbeitung und nachhaltige Behebung von Incidents und Problems inkl. Root-Cause-Analysen, Patchplanung und CVE-/Security-Bewertung Automatisierung von Betriebs-, Deployment- und Konfigurationsprozessen mit Ansible, GitLab CI/CD und Bash-Scripting sowie Erstellung technischer Dokumentationen, Runbooks und Betriebshandbücher Qualifikationen: Mehrjährige praktische Erfahrung im Betrieb von Linux-Serverlandschaften inkl. Patch-, Lifecycle- und Vulnerability-Management Fundierte Kenntnisse mit Nutanix AHV sowie idealerweise Nutanix Files; Erfahrung mit VMware vSphere, NetApp HCI, NetApp MetroCluster, ONTAP und Commvault ist von Vorteil Sehr gute Kenntnisse in Ansible, GitLab CI/CD, Bash-Scripting sowie idealerweise Python und Terraform Solides Verständnis von Netzwerk- und Storage-Technologien wie TCP/IP, VLAN, NFS, iSCSI, Snapshots und Replikation Erfahrung mit Security-/Monitoring-Tools und Betriebsprozessen, z. B. Microsoft Defender for Linux, Defender Vulnerability Management, Azure Arc, Log Analytics/KQL, Prometheus, Grafana, CheckMK, Nutanix Prism, AWS, Jira und Confluence Was sucht der Kunde zwischen den Zeilen? Gesucht wird kein reiner Linux-Administrator, sondern ein betriebserfahrener Infrastruktur-Spezialist, der Linux, Nutanix, Storage, Migration, Security/Patching und Automatisierung praktisch zusammenbringt. Wichtig ist eine pragmatische, dokumentationsstarke Person, die in kritischen Betriebs- und Störungssituationen sauber analysiert, priorisiert und eng mit Storage-, Netzwerk- und Security-Teams zusammenarbeitet. Wir freuen uns auf deine Bewerbung!",
+      "first_seen": "2026-06-03T08:54:10.258436+00:00",
+      "id": "6dc727c0db66295f",
+      "matched_keywords": [
+        "netz",
+        "ems"
+      ],
+      "published": "2026-06-03T10:12:33+02:00",
+      "source": "freelancermap.de",
+      "title": "System Engineer Linux / Nutanix (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/system-engineer-linux-nutanix-m-w-d"
+    },
+    {
+      "description": "Freiberuflicher Konstrukteur für Aluminium-Profilsysteme gesucht Für die Entwicklung eines eigenen Aluminium-Profilsystems für Terrassenüberdachungen suchen wir einen erfahrenen freiberuflichen Konstrukteur (m/w/d). Ihre Aufgaben Entwicklung von Aluminium-Profilen für Terrassenüberdachungen Konstruktion von Verbindungsknoten und Bauteilen Erstellung von 2D- und 3D-CAD-Zeichnungen Erstellung von Werkzeug- und Matrizenzeichnungen für die Profilherstellung Optimierung der Konstruktion hinsichtlich Statik, Fertigung und Montage Abstimmung mit Profilherstellern und Produktionsbetrieben Ihr Profil Erfahrung im Bereich Aluminium-, Fenster-, Fassaden- oder Metallbausysteme Sehr gute Kenntnisse in SolidWorks, Inventor, AutoCAD oder vergleichbaren CAD-Systemen Erfahrung mit Aluminium-Profilsystemen, Fassaden, Wintergärten oder Terrassenüberdachungen Selbstständige und praxisorientierte Arbeitsweise Projektumfang Entwicklung eines neuen Systems für Terrassenüberdachungen Projektbeginn: sofort Zusammenarbeit auf freiberuflicher Basis Vor-Ort-Termine im Raum Nürnberg / Oberasbach erwünscht Bitte senden Sie Ihre Referenzen, bisherige Projekte sowie Ihren Stundensatz an uns. Wir freuen uns auf Ihre Kontaktaufnahme.",
+      "first_seen": "2026-06-03T08:54:10.258436+00:00",
+      "id": "d0fb2a63ee053cb8",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-06-03T09:47:47+02:00",
+      "source": "freelancermap.de",
+      "title": "Konstrukteur für Aluminium-Profilsysteme",
+      "url": "https://www.freelancermap.de/projekt/konstrukteur-fuer-aluminium-profilsysteme"
+    },
+    {
       "description": "Freelance Native Mobile Developer (iOS & Android) Location: Remote (CET ±2) Start: June 2026 Contract: 3 months We're seeking a freelance mobile developer to assist our client to design, build, and evolve high-impact Android and iOS apps used at scale. Responsibilities & Experience Develop and support large-scale native mobile apps across Android and iOS, delivering new features and improvements. Build modern UIs using Jetpack Compose and SwiftUI (with UIKit where needed) aligned to a design system. Contribute across the full lifecycle - from architecture and coding to testing and app release. Integrate AI-driven features and leverage generative AI tools to accelerate development and prototyping. Write clean, maintainable, and testable code, following established patterns and conducting thoughtful code reviews (including AI-generated code). Collaborate closely with product and UX teams to deliver seamless, user-focused experiences. 3+ years' experience in native mobile development with strong Kotlin and Swift expertise, including modern concurrency. Solid grounding in mobile architecture, testing practices, and common tooling (eg MVVM/Clean Architecture, Git, dependency management and build systems). AI-first coding experience, actively utilising GenAI tools (eg code assistants) Darwin Recruitment is acting as an Employment Business in relation to this vacancy.",
       "first_seen": "2026-06-02T20:46:11.942749+00:00",
       "id": "6022916525b9815b",
@@ -1963,5 +2053,5 @@
       "url": "https://www.freelancermap.de/projekt/sofico-miles-developer-konfigurator-3002479"
     }
   ],
-  "updated_at": "2026-06-03T03:53:55.603136+00:00"
+  "updated_at": "2026-06-03T08:54:10.301048+00:00"
 }
