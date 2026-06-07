@@ -1,6 +1,19 @@
 {
   "projects": [
     {
+      "description": "Für einen Kunden suchen wir einen erfahrenen Interim SAP SCM Berater. (mwd). Aufgaben: * Ownership Product Backlog & Demand Management * Steuerung AMS-Provider, Incident/Change/Release Management * Unterstützung kritischer Incidents & RCA-Freigaben * E2E-Prozessverantwortung (Plan-to-Produce, Procure-to-Pay, Order-to-Deliver) * Stakeholder-Management (Business, IT, externe Partner) * Moderation agiler Prozesse (Scrum, Sprint Planning, Reviews) Profil: * Mehrjährige SAP-Erfahrung in den Modulen PP, MM, QM, PM und APO (idealerweise auch ME, BW) * Erfahrung in Produktions-/Supply-Chain-Prozessen * Know-how in Berechtigungskonzepten, Reporting & Datenverständnis * Grundkenntnisse ABAP * Starke Kommunikations- und Steuerungskompetenz im internationalen Umfeld * Erfahrung in agilen Methoden (Scrum) Rahmen: * Start: ASAP | Dauer: 6 Monate, mit Option auf Verlängerung * Sprachen: Deutsch und Englisch verhandlungssicher * Vor Ort Tätigkeit (Großraum Augsburg), Remote-Tätigkeit teilweise möglich",
+      "first_seen": "2026-06-07T10:27:22.520247+00:00",
+      "id": "1ff398697b093603",
+      "matched_keywords": [
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-06-07T11:43:36+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior SAP SCM Berater gesucht! (mwd) (3-4 Tage/Woche vor Ort)",
+      "url": "https://www.freelancermap.de/projekt/senior-sap-scm-berater-gesucht-mwd-3-4-tage-woche-vor-ort"
+    },
+    {
       "description": "Overview For an AI-driven public sector initiative, we are looking for an experienced Senior AI / MLOps Engineer to support the development, deployment, and operation of modern AI solutions based on Large Language Models (LLMs) and AI Agents. Responsibilities • Design, build, and operate AI/LLM-based applications and agent systems. • Develop scalable AI infrastructure and deployment pipelines. • Implement MLOps and LLMOps best practices. • Support integration of foundation models into enterprise environments. • Define monitoring, evaluation, and governance mechanisms for AI systems. • Implement AI safeguards and guardrails where required. • Collaborate with architects, developers, and business stakeholders. Required Skills • Strong experience as AI Engineer, ML Engineer, MLOps Engineer or AI Platform Engineer. • Hands-on experience with LLMs and Agentic AI frameworks. • Experience with AI deployment, orchestration and operations. • Knowledge of MLOps / LLMOps concepts and tooling. • Experience with cloud environments (Azure, AWS and/or GCP). • Experience with containerization and CI/CD pipelines. • Understanding of AI governance, observability and monitoring. Nice-to-Have • Experience with AI safety and AI security topics. • Knowledge of prompt injection mitigation and AI guardrails. • Familiarity with AI evaluation frameworks. • Experience working in public sector or regulated environments. • Knowledge of RAG architectures and vector databases. Mandatory Requirements • EU Citizenship. • Fluent English. • Ability to work in an international and security-conscious environment.",
       "first_seen": "2026-06-06T19:19:22.009937+00:00",
       "id": "95367f3218c95a45",
@@ -3362,5 +3375,5 @@
       "url": "https://www.freelancermap.de/projekt/sofico-miles-developer-konfigurator-3002479"
     }
   ],
-  "updated_at": "2026-06-07T07:53:05.863433+00:00"
+  "updated_at": "2026-06-07T10:27:22.588763+00:00"
 }
