@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Über die Rolle Für ein anspruchsvolles Transformationsprojekt im Bereich Cloud Management, IT Service- und Infrastruktur Management suchen wir einen erfahrenen Senior Azure Cloud Engineer / Cloud Infrastructure Specialist (m/w/d). Deine Aufgaben Umsetzung dynamischer, skalierbarer, stabiler und kosteneffektiver Cloud-Architekturen in Microsoft Azure Erarbeitung und Anwendung praxisgerechter Verfahren zur Transformation und Optimierung bestehender Cloud-Architekturen Erstellung und Modernisierung cloudbasierter Applikationen Migration klassischer serverbasierter Applikationen auf Containerplattformen, insbesondere Kubernetes Ausbau und Weiterentwicklung cloudbasierter Systemlandschaften Erarbeitung und Umsetzung von Best Practices für den cloudbasierten IT-Betrieb mit Fokus auf Sicherheit, Compliance, Zuverlässigkeit, Skalierbarkeit und Kosteneffizienz Implementierung von Verfahren zur Sicherstellung von Sicherheits-, Compliance- und Betriebsanforderungen Identifikation von Automatisierungspotenzialen im cloudbasierten IT-Betrieb Erarbeitung von Standards und Regeln für die Automatisierung von Cloud-Betriebsprozessen Praktische Umsetzung entsprechender Automatisierungslösungen Durchführung von Workshops für IT-Operations im Cloud-Umfeld Austausch mit Fachbereichen, Konzern-IT sowie internen und externen Dienstleistern zur erfolgreichen Umsetzung beauftragter Leistungspakete Dein Profil Mehrjährige Erfahrung im Betrieb und in der Administration cloudbasierter Applikationen und Infrastrukturen Hohes Verständnis von IT-Infrastruktur und IT-Architektur in Microsoft Azure sowie im klassischen Rechenzentrum Fundierte Kenntnisse und praktische Erfahrung mit Container-Technologien, insbesondere Kubernetes und Docker Erfahrung in der Transformation, Stabilisierung und Weiterentwicklung cloudifizierter Systemlandschaften Kenntnisse in Cloud-Betrieb, Cloud Governance, Automatisierung und Betriebsstandards Erfahrung mit Sicherheit, Compliance, Zuverlässigkeit, Skalierbarkeit und Kosteneffizienz im Cloud-Umfeld Ausgeprägte Beratungskompetenz in Deutsch und Englisch Sehr hohe Eigeninitiative und ausgeprägte Hands-on-Mentalität Azure-Zertifizierungen von Vorteil Erfahrung im Betrieb und in der Administration klassischer und cloudbasierter Datenbanksysteme von Vorteil Praktische Erfahrung mit agilen Methoden und Arbeitsweisen von Vorteil Erfahrung im IT-Service-Management nach ITIL von Vorteil Kenntnisse zu Datenschutz, Cyber-Security und ISMS-Anforderungen von Vorteil Was dich erwartet Verantwortungsvolle Rolle in einem anspruchsvollen Cloud-Transformationsprogramm Gestaltungsspielraum im Bereich Azure Cloud Management, Infrastrukturmodernisierung und Betriebsautomatisierung Zusammenarbeit mit Fachbereichen, Konzern-IT, IT-Operations und externen Dienstleistern Pragmatisches, lösungsorientiertes Projektumfeld Klare Zielarchitektur und hohe Umsetzungsnähe Fokus auf stabile, skalierbare und sichere cloudbasierte Systemlandschaften",
+      "first_seen": "2026-06-10T21:59:49.340017+00:00",
+      "id": "907fcf562cc45286",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-06-10T22:05:41+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Azure Cloud Engineer (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-azure-cloud-engineer-m-w-d-3009847"
+    },
+    {
       "description": "Aufgaben: Aktuell sind wir auf der Suche nach einem Software Ingenieur für ein spannendes Projekt bei einem unserer Kunden. Die Aufgabe umfasst: + Entwicklung von Trainingssoftwares Projekt-Nr.: 106433 Projekttitel: Software Ingenieur (m/w/d) Stellentyp: freiberuflich Einsatzort: Remote Starttermin: asap / spät. 15.07.2026 Dauer: 2 Jahre Anforderungen: Must-haves: + Tiefere Kenntnisse von C++ unter Windows + Kenntnisse in der Programmierung von Benutzeroberflächen erwünscht + Kenntnisse von Qt unter Windows erwünscht + Kenntnisse von Umgang miSW t Grafik-Libraries erwünscht + Erfahrung mit Build-Pipelines (Jenkins, Git, etc.) + Erfahrung mit JIRA und Confluence + Erfahrung mit Erstellung von Software Design-Dokumenten + Defence Erfahrung Nice-Haves: + Erfahrung mit Agilen Vorgehensweisen Zusätzliche Informationen: Konnten wir Ihr Interesse wecken? Dann freuen wir uns auf die Zusendung Ihres aussagekräftigen Expertenprofils unter Angabe Ihrer Stundensatzvorstellung. SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
       "first_seen": "2026-06-10T19:33:45.887755+00:00",
       "id": "185bc7e96cf56936",
@@ -4925,5 +4937,5 @@
       "url": "https://www.freelancermap.de/projekt/sofico-miles-developer-konfigurator-3002479"
     }
   ],
-  "updated_at": "2026-06-10T19:33:45.979954+00:00"
+  "updated_at": "2026-06-10T21:59:49.438573+00:00"
 }
