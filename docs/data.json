@@ -1,6 +1,127 @@
 {
   "projects": [
     {
+      "description": "Aufgaben: Damit wir dieses spannende Projekt perfekt besetzen können, suchen wir hier nach einem SAP DRC Consultant Voll remote Es kann zu Workshops vor ort nach Absprache kommen Kennenlernen vor Ort 1-2 Tage persönlich wäre gut. Auslastung: 40% / 2 Tage die Woche Aufgaben: + Beratung & Customizing: Fachliche Konzeption und systemseitiges Customizing der länderspezifischen SAP DRC Module (Fokus auf die drängenden Go-Lives im Januar). + Hands-on Implementierung: Technische Umsetzung in Personalunion, d. h. eigenständige XML-Erweiterungen , Einpflegen von behördlich geforderten Tags in die Business Partner und Anpassung von Schnittstellen. + Testing & Validierung: Durchführung und Überwachung von End-to-End-Integrationstests (z. B. Validierung von XML-Übertragungen und Kommunikationstests mit staatlichen Schnittstellen). + Deployment: Einspielen von notwendigen SAP Notes (z. B. Note 2671909 für Outbound-Prozesse) sowie Vorbereitung und Durchführung des produktiven Go-Lives. Hintergrund:-> Projektkontext: Globales Rollout- und Compliance-Programm eines Automotive Unternehmens zur Digitalisierung und Automatisierung des internationalen Rechnungswesens und des gesetzlichen Meldewesens. Im Rahmen des S4-Ugrades -> Zielstellung: Sicherstellung der uneingeschränkten, gesetzeskonformen operativen Handlungsfähigkeit in den Kernmärkten. Projekt-Nr.: 106476 Projekttitel: Senior SAP DRC Consultant / Techno-Functional Expert (m/w/d) Stellentyp: freiberuflich Einsatzort: D7 Starttermin: 01.07.2026 Dauer: 3 Monate + Anforderungen: MUST HAVE: ### Module & Technologien: SAP DRC (Document and Reporting Compliance) / SAP eDocument Engine & Cockpit. ###Länderspezifische Core-Pakete (Januar Go-Live): !!!+ Deutschland: Elektronischer Rechnungsversand und -empfang über das Peppol-Netzwerk (SAP Cloud Edition / Peppol Exchange). + Ungarn: Anbindung an die nationale Steuerbehörde (NAV). + Spanien: Echtzeitübermittlung über SII (Suministro Inmediato de Información) und FACe. Technische Skills: Implementierung von SAP Notes, XML-Schnittstellen-Erweiterungen & Daten-Mapping (z.B. für rechtliche Behörden-Tags) SD-Invoicing NICE TO HAVE: ## Länderspezifika (Zweite Welle ab Juli & Pipeline): + Brasilien: Tiefes Verständnis für die dortige DRC NF-e Implementierung (Inbound/Outbound, Model 55, SEFAZ-Kommunikationstests, Hintergrund-Jobs) + Mexiko: Erfahrung mit CFDI 4.0 (Factura Electronica), Complemento Carta Porte (Bill of Lading) und Contabilidad Electronica. + China: Integration mit dem Golden Tax System (GTS) bzw. FDEI (Fully Digitalized Electronic Invoices). + Indien: GST Reporting (GSTR1 via JSON / GSTR2A Konsistenzprüfungen). ## Architektur: SAP Integration Suite und bestehende CPI-Architekturen. ## Modulintegration: Gute Schnittstellenkenntnisse zu den logistischen und finanzseitigen SAP-Vorgängermodulen (SAP SD und SAP FI / MM). ## ABAP-Kenntnisse (Debugging, User-Exits) Zusätzliche Informationen: Konnten wir Ihr Interesse wecken? Dann freuen wir uns auf die Zusendung Ihres aussagekräftigen Expertenprofils unter Angabe Ihrer Stundensatzvorstellung. SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
+      "first_seen": "2026-06-12T17:36:35.391785+00:00",
+      "id": "9a9614c9c2d34d98",
+      "matched_keywords": [
+        "netz",
+        "ems"
+      ],
+      "published": "2026-06-12T19:08:06+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior SAP DRC Consultant / Techno-Functional Expert (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-sap-drc-consultant-techno-functional-expert-m-w-d"
+    },
+    {
+      "description": "Für ein etabliertes Unternehmen aus dem Versicherungsumfeld (großer Konzern-/Konzernbereich) wird ein:e Expert:in im Anforderungsmanagement / Business Analyst (m/w/d) gesucht! Start: 07/2026 (ASAP ab 01.07.2026 möglich) Dauer: 6 Monate (bis 12/2026) mit Verlängerungsoption Remote/On-Site: Remote (100%) Auslastung: 100% (5 Tage/Woche) DEINE CHALLENGE Strukturierte Erhebung, Analyse und Dokumentation fachlicher sowie nichtfunktionaler Anforderungen in einem komplexen Stakeholder-Umfeld Durchführung und Moderation von Workshops/Interviews (Fachbereich, IT, ggf. externe Dienstleister) inkl. Ergebnisdokumentation Modellierung fachlicher Abläufe/Prozesse (z. B. BPMN/Use Cases) als Grundlage für Umsetzung und Test Formulierung und Pflege von Geschäftsregeln, Akzeptanzkriterien sowie Traceability zwischen Anforderungen, Design und Umsetzung Übersetzung fachlicher Bedarfe in umsetzungsnahe Spezifikationen für Entwicklungsteams entlang der Systemkette Enge Zusammenarbeit mit Projektleitung und Teams zur Planung, Priorisierung und Scope-Steuerung (Backlog-/Change-Management) Sicherstellung einer nutzungszentrierten Arbeitsweise (Persona-/User-Needs-orientiert) und kontinuierliche Qualitätsverbesserung der Artefakte Zielgruppenorientierte Kommunikation und Komplexitätsreduktion (Management-taugliche Entscheidungsgrundlagen, Team-Briefings) DEINE TALENTE Must-have: Mehrjährige Erfahrung im Anforderungsmanagement (Requirements Engineering/Business Analysis) in IT-nahen Transformations- oder Systemprojekten Must-have: Praxis in der Erhebung von fachlichen und nichtfunktionalen Anforderungen (z. B. Performance, Security, Compliance, Betrieb) Must-have: Erfahrung in Prozess-/Ablaufmodellierung und Spezifikation (z. B. BPMN, Use Cases, User Stories) Must-have: Sehr gute Fähigkeiten in Moderation, Stakeholder-Management und verständlicher Dokumentation Must-have: Hohe IT-Affinität und Verständnis IT-gestützter End-to-End-Prozesse; idealerweise Erfahrung in Integrations-/Systemketten Wünschenswert: Grundkenntnisse im Versicherungsumfeld (Produkte/Bestandsprozesse/Regulatorik-Bewusstsein) Wünschenswert: Verständnis moderner Vorgehensweisen wie Scrum und SAFe (Backlog, PI-/Sprint-Kontext, Refinements) Nice-to-have: Rolle/Erfahrung als Business Analyst sowie solides, nicht-technisches Verständnis des SDLC Jetzt bei consultingheads als Berater registrieren: https://app.consultingheads.com/kandidat/registrieren Über uns consultingheads ist das Expertennetzwerk, wenn Ergebnisse entscheiden. Wir bringen Sie mit den wirkungsstärksten Independent Consultants, Freelance Experts und Interim Managern zusammen - persönlich ausgewählt, schnell verfügbar und verlässlich im Projekt. Was wir tun Wo reine Algorithmen an ihre Grenzen stoßen, beginnt unsere Stärke: die persönliche Beratung. Wir analysieren gemeinsam Ihre Herausforderung und finden genau die Persönlichkeit, die fachlich und menschlich zu Ihnen passt. Unser Netzwerk Mit über 22.000 Experten eines der größten und sorgfältigst selektionierten im DACH-Raum, voller qualitätsgesicherter Berater, Fach- und Führungskräfte, die bereit sind, Ihre Projekte zum Erfolg zu führen. Unser Ansatz Wir kombinieren die Exzellenz einer Beratung mit der Flexibilität und Geschwindigkeit, die moderne Unternehmen brauchen. Handverlesen, ergebnisorientiert und immer partnerschaftlich. Seit 2016 vertrauen führende Unternehmen, Beratungen und Private-Equity-Gesellschaften auf uns - in mehr als 3.000 erfolgreichen Projekten.",
+      "first_seen": "2026-06-12T17:36:35.391785+00:00",
+      "id": "f2806729a6f27254",
+      "matched_keywords": [
+        "requirements engineer",
+        "business analyst",
+        "scrum",
+        "netz"
+      ],
+      "published": "2026-06-12T18:24:08+02:00",
+      "source": "freelancermap.de",
+      "title": "Business Analyst - Software Development Life Cycle (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/business-analyst-software-development-life-cycle-m-w-d"
+    },
+    {
+      "description": "Für unseren Kunden suchen wir aktuell eine/n Scrum Master (Prince2 & Energieversorgung) (m/w/d) Rahmeninformationen Referenz:178858 Einsatzort:remote / Frankfurt am Main Starttermin:01.07.2026 Arbeitszeit:Vollzeit 324 PT, davon 32 vor Ort Dauer:01.07.2026 - 31.12.2027 Sprachen:Deutsch (C2) Ihre Qualifikationen - (Muss) 5 Jahre Erfahrung im Bereich Domain-Driven Design - (Muss) PRINCE2 Zertifikat - (Muss) Erfahrung zu deutschen Energieversorgungsunternehmen und Vorgaben der Bundesnetzagentur (BNetzA) aus einem Projekt - (Muss) 5 Jahre Erfahrung im Projektmanagement einschließlich Planung, Durchführung und Überwachung komplexer Software- und IT-Projekte - (Muss) 5 Jahre Erfahrung in der Anwendung und Moderation von Liberating-Structures-Methoden zur Förderung kollaborativer Zusammenarbeit und strukturierter Entscheidungsfindung - (Soll) Erfahrung im Scaled-Agile-Umfeld einschließlich der Zusammenarbeit in skalierten Organisations- und Projektstrukturen aus einem Projekt Anzahl Referenzen 1 40% - (Soll) Erfahrung in der Planung, Konzeption und Durchführung von Design-Thinking-Workshops zur strukturierten Entwicklung nutzerzentrierter fachlicher und technischer Lösungsansätze aus einem Projekt - (Soll) 3 Jahre Erfahrung in der Rolle Agile Coach einschließlich der Begleitung agiler Teams, der Moderation agiler Prozesse sowie der Unterstützung bei der kontinuierlichen Verbesserung - (Soll) 5 Jahre Erfahrung im Risikomanagement einschließlich der Identifikation, Bewertung, Dokumentation und Nachverfolgung fachlicher und technischer Projektrisiken - (Soll) Scrum Master Zertifikat - PSM I Ihre Aufgaben - Fachliche Beratung zur Einführung und Anpassung agiler Methoden, insbesondere Scrum, sowie Erarbeitung von Einführungs- und Vorgehensempfehlungen - Fachliche Beratung zur Gestaltung von Kommunikations- und Abstimmungsprozessen sowie zur Weiterentwicklung der agilen Vorgehensweisen insbesondere im Kontext von SAFe - Entwicklung und Dokumentation von Verbesserungsvorschlägen für agile Arbeitsweisen und Prozesse - Durchführung von agilen Reviews zur Bewertung der Umsetzung agiler Prinzipien und Ableitung von Empfehlungen - Beseitigung von Hindernissen sowie fachliche Beratung zu möglichen Lösungs- und Eskalationsprozessen und somit Steigerung der Produktivität der agilen Projektteams - Fachliche Beratung zur Strukturierung, Priorisierung und Qualitätssicherung des Product Backlogs; - Erstellung von Beispielen und Empfehlungen - Durchführung von Scrum-Events (Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospektive) - Konzeption und Durchführung von Schulungsformaten zu Methoden agiler Frameworks - Fachliche Beratung zur Identifikation von Verbesserungspotenzialen agiler Praktiken und Methoden und Ableitung konkreter Handlungsempfehlungen - Identifikation und Analyse von Risiken und Problemen in agilen Prozessstrukturen und Erarbeitung von Maßnahmenempfehlungen zur Risikominimierung - Beratung bei der methodischen Vorbereitung und Durchführung von SAFe-spezifischen Events wie Inspect & Adapt-Workshop, PI-Planning, System Demo und ART-Sync - Fachlicher Austausch und Beratung des Release Train Engineer (RTE) zur Analyse und Optimierung der Prozesse und Wertströme Interessiert? Wir freuen uns auf Ihre aussagekräftigen Bewerbungsunterlagen in elektronischer Form. Ihr Ansprechpartner: Sven Schäfer s.schaefer@westhouse-group.com +49-21-120053120",
+      "first_seen": "2026-06-12T17:36:35.391785+00:00",
+      "id": "3c274b8e434c0ad8",
+      "matched_keywords": [
+        "scrum master",
+        "agil",
+        "scrum",
+        "energie",
+        "netz"
+      ],
+      "published": "2026-06-12T18:22:27+02:00",
+      "source": "freelancermap.de",
+      "title": "Scrum Master (Prince2 & Energieversorgung) (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/scrum-master-prince2-und-energieversorgung-m-w-d"
+    },
+    {
+      "description": "Wir sind ein IT-Dienstleistungs- und Beratungsunternehmen mit Fokus auf Microsoft-Technologien und wurden 1999 gegründet. Heute beschäftigen wir 400 Mitarbeiter. Diese betreuen vielseitige und anspruchsvolle Projekte öffentlicher und privater Auftraggeber von der Konzeption bis zur Realisierung. Für ein Projekt im behördlichen Umfeld suchen wir einen Senior Sicherheit & Compliance BSI-Grundschutz (m/w/d) auf freiberuflicher Basis. Rahmenbedingungen Projektumfeld: Projekt im behördlichen Umfeld Start: 1.7.26 Laufzeit: 18 Monate Auslastung: 300 PT Einsatzort / Remote-Anteil: Wiesbaden überwiegend Remote bei vorhandener SÜ2 Sabo Bereitschaft zu einer Sicherheitsüberprüfung Leistungsgegenstand Erstellen von Informationssicherheitskonzepten und Risikoanalysen nach BSI IT-Grundschutz 200-x für mehrere IT-Fachverfahren aus den Bereichen IT-Netzwerke, Cloud Technologien, Anwendungsentwicklung, E-Mail-Systeme, DNS, Active Directory, Windows-/Linux Server, MDM, Datenbank-Systeme, Sicherheits-Gateways. Die Projektbearbeitung erfolgt mittels agiler Vorgehensmodelle. Unbedingte Kenntnisse BSI-Grundschutz Analyse komplexer und heterogener Systeme Wünschenswerte Kenntnisse: Kenntnisse der Prozesse innerhalb einer Sicherheitsbehörde, oder Kenntnisse der Arbeitsweise im Behördenumfeld Kenntnisse über die IT-Sicherheitsarchitektur der unteren Netzebene, insbesondere Netz-Anwendungs- und Hypervisor-Architektur Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihr aktuelles Profil unter Angabe Ihrer Verfügbarkeit sowie Ihres Stundensatzes. Ralf Spinnler SINC GmbH Rheingaustraße 182 65203 Wiesbaden Tel.: +49 (0) 611 504518-75 Fax: +49 (0) 611 987972-8 E-Mail: ralf.spinnler@sinc.de",
+      "first_seen": "2026-06-12T17:36:35.391785+00:00",
+      "id": "d4dc4706681895c7",
+      "matched_keywords": [
+        "agil",
+        "netz"
+      ],
+      "published": "2026-06-12T18:17:28+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Sicherheit & Compliance BSI-Grundschutz  (m/w/d)  auf freiberuflicher Basis.",
+      "url": "https://www.freelancermap.de/projekt/senior-sicherheit-und-compliance-bsi-grundschutz-m-w-d-auf-freiberuflicher-basis-3010870"
+    },
+    {
+      "description": "Wir sind ein IT-Dienstleistungs- und Beratungsunternehmen mit Fokus auf Microsoft-Technologien und wurden 1999 gegründet. Heute beschäftigen wir 400 Mitarbeiter. Diese betreuen vielseitige und anspruchsvolle Projekte öffentlicher und privater Auftraggeber von der Konzeption bis zur Realisierung. Für ein Projekt im behördlichen Umfeld suchen wir einen Spezialist Sicherheit & Compliance Analyse komplexer und heterogener Systeme (m/w/d) auf freiberuflicher Basis. Rahmenbedingungen Projektumfeld: Projekt im behördlichen Umfeld Start: 1.7.26 Laufzeit: 18 Monate Auslastung: 150 PT Einsatzort / Remote-Anteil: Wiesbaden überwiegend Remote bei vorhandener SÜ2 Sabo Bereitschaft zu einer Sicherheitsüberprüfung Leistungsgegenstand Erstellen von Informationssicherheitskonzepten und Risikoanalysen nach BSI IT-Grundschutz 200-x für mehrere IT-Fachverfahren aus den Bereichen IT-Netzwerke, Cloud Technologien, Anwendungsentwicklung, E-Mail-Systeme, DNS, Active Directory, Windows-/Linux Server, MDM, Datenbank-Systeme, Sicherheits-Gateways. Die Projektbearbeitung erfolgt mittels agiler Vorgehensmodelle. Unbedingte Kenntnisse BSI-Grundschutz Analyse komplexer und heterogener Systeme Wünschenswerte Kenntnisse: Kenntnisse der Prozesse innerhalb einer Sicherheitsbehörde, oder Kenntnisse der Arbeitsweise im Behördenumfeld Kenntnisse über die IT-Sicherheitsarchitektur der unteren Netzebene, insbesondere Netz-Anwendungs- und Hypervisor-Architektur Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihr aktuelles Profil unter Angabe Ihrer Verfügbarkeit sowie Ihres Stundensatzes. Ralf Spinnler SINC GmbH Rheingaustraße 182 65203 Wiesbaden Tel.: +49 (0) 611 504518-75 Fax: +49 (0) 611 987972-8 E-Mail: ralf.spinnler@sinc.de",
+      "first_seen": "2026-06-12T17:36:35.391785+00:00",
+      "id": "32f30222e431cb8b",
+      "matched_keywords": [
+        "agil",
+        "netz"
+      ],
+      "published": "2026-06-12T18:14:50+02:00",
+      "source": "freelancermap.de",
+      "title": "Spezialist Sicherheit & Compliance Analyse komplexer und heterogener Systeme  (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/spezialist-sicherheit-und-compliance-analyse-komplexer-und-heterogener-systeme-m-w-d"
+    },
+    {
+      "description": "Wir sind ein IT-Dienstleistungs- und Beratungsunternehmen mit Fokus auf Microsoft-Technologien und wurden 1999 gegründet. Heute beschäftigen wir 400 Mitarbeiter. Diese betreuen vielseitige und anspruchsvolle Projekte öffentlicher und privater Auftraggeber von der Konzeption bis zur Realisierung. Für ein Projekt im behördlichen Umfeld suchen wir einen Senior Sicherheit & Compliance Firewalls und Netzwerksicherheit (m/w/d) auf freiberuflicher Basis. Rahmenbedingungen Projektumfeld: Projekt im behördlichen Umfeld Start: 1.7.26 Laufzeit: 18 Monate Auslastung: 300 PT Einsatzort / Remote-Anteil: Wiesbaden überwiegend Remote bei vorhandener SÜ2 Sabo Bereitschaft zu einer Sicherheitsüberprüfung Leistungsgegenstand Erstellen von Informationssicherheitskonzepten und Risikoanalysen nach BSI IT-Grundschutz 200-x für mehrere IT-Fachverfahren aus den Bereichen IT-Netzwerke, Cloud Technologien, Anwendungsentwicklung, E-Mail-Systeme, DNS, Active Directory, Windows-/Linux Server, MDM, Datenbank-Systeme, Sicherheits-Gateways. Die Projektbearbeitung erfolgt mittels agiler Vorgehensmodelle. Unbedingte Kenntnisse BSI-Grundschutz Firewalls und Netzwerksicherheit Analyse komplexer und heterogener Systeme Wünschenswerte Kenntnisse: Kenntnisse der Prozesse innerhalb einer Sicherheitsbehörde, oder Kenntnisse der Arbeitsweise im Behördenumfeld Kenntnisse über die IT-Sicherheitsarchitektur der unteren Netzebene, insbesondere Netz-Anwendungs- und Hypervisor-Architektur Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihr aktuelles Profil unter Angabe Ihrer Verfügbarkeit sowie Ihres Stundensatzes. Ralf Spinnler SINC GmbH Rheingaustraße 182 65203 Wiesbaden Tel.: +49 (0) 611 504518-75 Fax: +49 (0) 611 987972-8 E-Mail: ralf.spinnler@sinc.de",
+      "first_seen": "2026-06-12T17:36:35.391785+00:00",
+      "id": "0d235c15bdd4f480",
+      "matched_keywords": [
+        "agil",
+        "netz"
+      ],
+      "published": "2026-06-12T18:11:13+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Sicherheit & Compliance Firewalls und Netzwerksicherheit  (m/w/d)  auf freiberuflicher Basis.",
+      "url": "https://www.freelancermap.de/projekt/senior-sicherheit-und-compliance-firewalls-und-netzwerksicherheit-m-w-d-auf-freiberuflicher-basis"
+    },
+    {
+      "description": "Wir sind ein IT-Dienstleistungs- und Beratungsunternehmen mit Fokus auf Microsoft-Technologien und wurden 1999 gegründet. Heute beschäftigen wir 400 Mitarbeiter. Diese betreuen vielseitige und anspruchsvolle Projekte öffentlicher und privater Auftraggeber von der Konzeption bis zur Realisierung. Für ein Projekt im behördlichen Umfeld suchen wir einen Senior Sicherheit & Compliance BSI Grundschutz (m/w/d) auf freiberuflicher Basis. Rahmenbedingungen Projektumfeld: Projekt im behördlichen Umfeld Start: 1.7.26 Laufzeit: 18 Monate Auslastung: 300 PT Einsatzort / Remote-Anteil: Wiesbaden überwiegend Remote bei vorhandener SÜ2 Sabo Bereitschaft zu einer Sicherheitsüberprüfung Leistungsgegenstand Erstellen von Informationssicherheitskonzepten und Risikoanalysen nach BSI IT-Grundschutz 200-x für mehrere IT-Fachverfahren aus den Bereichen IT-Netzwerke, Cloud Technologien, Anwendungsentwicklung, E-Mail-Systeme, DNS, Active Directory, Windows-/Linux Server, MDM, Datenbank-Systeme, Sicherheits-Gateways. Die Projektbearbeitung erfolgt mittels agiler Vorgehensmodelle. Unbedingte Kenntnisse BSI-Grundschutz Cloud Konzepte und Cloud native Entwicklung Analyse komplexer und heterogener Systeme Dokumentation komplexer IT Wünschenswerte Kenntnisse: Kenntnisse der Prozesse innerhalb einer Sicherheitsbehörde, oder Kenntnisse der Arbeitsweise im Behördenumfeld Kenntnisse über die IT-Sicherheitsarchitektur der unteren Netzebene, insbesondere Netz-Anwendungs- und Hypervisor-Architektur Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihr aktuelles Profil unter Angabe Ihrer Verfügbarkeit sowie Ihres Stundensatzes. Ralf Spinnler SINC GmbH Rheingaustraße 182 65203 Wiesbaden Tel.: +49 (0) 611 504518-75 Fax: +49 (0) 611 987972-8 E-Mail: ralf.spinnler@sinc.de",
+      "first_seen": "2026-06-12T17:36:35.391785+00:00",
+      "id": "146cd642c6d8fae8",
+      "matched_keywords": [
+        "agil",
+        "netz"
+      ],
+      "published": "2026-06-12T18:07:53+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Sicherheit & Compliance BSI Grundschutz  (m/w/d)  auf freiberuflicher Basis.",
+      "url": "https://www.freelancermap.de/projekt/senior-sicherheit-und-compliance-bsi-grundschutz-m-w-d-auf-freiberuflicher-basis"
+    },
+    {
+      "description": "Wir sind ein IT-Dienstleistungs- und Beratungsunternehmen mit Fokus auf Microsoft-Technologien und wurden 1999 gegründet. Heute beschäftigen wir 400 Mitarbeiter. Diese betreuen vielseitige und anspruchsvolle Projekte öffentlicher und privater Auftraggeber von der Konzeption bis zur Realisierung. Für ein Projekt im behördlichen Umfeld suchen wir einen Spezialist Sicherheit & Compliance BSI-Grundschutz (m/w/d) auf freiberuflicher Basis. Rahmenbedingungen Projektumfeld: Projekt im behördlichen Umfeld Start: 1.7.26 Laufzeit: 18 Monate Auslastung: 150 PT Einsatzort / Remote-Anteil: Wiesbaden überwiegend Remote bei vorhandener SÜ2 Sabo Bereitschaft zu einer Sicherheitsüberprüfung Leistungsgegenstand Erstellen von Informationssicherheitskonzepten und Risikoanalysen nach BSI IT-Grundschutz 200-x für mehrere IT-Fachverfahren aus den Bereichen IT-Netzwerke, Cloud Technologien, Anwendungsentwicklung, E-Mail-Systeme, DNS, Active Directory, Windows-/Linux Server, MDM, Datenbank-Systeme, Sicherheits-Gateways. Die Projektbearbeitung erfolgt mittels agiler Vorgehensmodelle. Unbedingte Kenntnisse BSI-Grundschutz Cloud Konzepte und Cloud native Entwicklung Analyse komplexer und heterogener Systeme Dokumentation komplexer IT Wünschenswerte Kenntnisse: Kenntnisse der Prozesse innerhalb einer Sicherheitsbehörde, oder Kenntnisse der Arbeitsweise im Behördenumfeld Kenntnisse über die IT-Sicherheitsarchitektur der unteren Netzebene, insbesondere Netz-Anwendungs- und Hypervisor-Architektur Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihr aktuelles Profil unter Angabe Ihrer Verfügbarkeit sowie Ihres Stundensatzes. Ralf Spinnler SINC GmbH Rheingaustraße 182 65203 Wiesbaden Tel.: +49 (0) 611 504518-75 Fax: +49 (0) 611 987972-8 E-Mail: ralf.spinnler@sinc.de",
+      "first_seen": "2026-06-12T17:36:35.391785+00:00",
+      "id": "770cea0d99dc569e",
+      "matched_keywords": [
+        "agil",
+        "netz"
+      ],
+      "published": "2026-06-12T18:04:17+02:00",
+      "source": "freelancermap.de",
+      "title": "Spezialist Sicherheit & Compliance BSI-Grundschutz  (m/w/d)  auf freiberuflicher Basis.",
+      "url": "https://www.freelancermap.de/projekt/spezialist-sicherheit-und-compliance-bsi-grundschutz-m-w-d-auf-freiberuflicher-basis"
+    },
+    {
+      "description": "Guten Tag, Für ein spannendes Kundenprojekt suchen wir einen erfahrenen ABAP Entwickler (m/w/d) mit Schwerpunkt SAP HCM. Rahmenbedingungen Start: ASAP Laufzeit: 4-6 Monate Auslastung: ca. 60 % Remote, ca. 40 % vor Ort (Standort außerhalb von München) Dynamisches Team mit viel Eigenverantwortung und Freiraum für kreative Lösungsansätze Must-have Mehrjährige Erfahrung in der SAP HCM ABAP Entwicklung Fundierte Kenntnisse in mindestens einem der Bereiche: Abrechnung (Payroll) Zeitwirtschaft (Time Management) Nice-to-have Erfahrung mit SAP Fiori Kenntnisse im Organisationsmanagement (OM) Persönlich Selbstständige und proaktive Arbeitsweise Passt gut in ein agiles, offenes Umfeld mit pragmatischer Hands-on-Mentalität Kommunikationsstark und teamorientiert Spricht Sie dieses Projekt an und haben Sie noch freie Kapazitäten? Senden Sie mir gerne Ihren aktuellen CV, sowie Ihren Remote-/On-Site Stundensatz zu. Ich freue mich auf die Rückmeldung.",
+      "first_seen": "2026-06-12T17:36:35.391785+00:00",
+      "id": "57520f5e8ae55fc7",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-06-12T17:59:48+02:00",
+      "source": "freelancermap.de",
+      "title": "Gesucht: ABAP Entwickler (m/w/d) HCM – ab mid. Senior Level",
+      "url": "https://www.freelancermap.de/projekt/gesucht-abap-entwickler-m-w-d-hcm-ab-mid-senior-level"
+    },
+    {
       "description": "Für den Einsatz bei unserem Kunden suchen wir einen erfahrenen Entwickler (m/w/d) für SAP Enable Now. Aufgaben: Unterstützung bei Lokalisierung, Analyse und Beseitigung von SW-Fehlern in den relevanten Produkten und Programmen, insbesondere in den Lernprogrammen, Sicherstellung dauerhafter Ablauffähigkeit Unterstützung bei Qualitätsmanagement der Lernmodul-Konzeptionen Unterstützung der Schnittstelle zwischen Fachabteilung, Realisierung und Qualitätskontrolle Unterstützung beim Sicherstellen der Barrierefreiheit der erstellten E-Learnings Unterstützung bei Identifizierung von Optimierungspotentialen in den Qualifizierungskonzeptionen Unterstützung bei der Veröffentlichung der erstellten Qualifizierungen. Unterstützung bei Abstimmung, Koordination von Abhängigkeiten zwischen beteiligten Fach- und Servicebereichen Anforderungen: nachweisliche, fundierte Kenntnisse und Projekterfahrung in der Entwicklung mit SAP Enable Now Erfahrungen mit der Herstellung von Barrierefreiheit vorzugsweise Kenntnisse des SCORM-Standards sehr gute Deutschkenntnisse (mind. C1) vorhandene Ü2 oder Bereitschaft zur Erlangung der Ü2 Projektstart: 01.07.2026 Ihre Vorteile als Freelancer bei der Tempton Next Level Experts: Ein über 20 Jahre lang ausgebautes Kundennetzwerk in der D-A-CH Region Pünktliche Zahlung und absolut faire Zahlungsziele (maximal 30 Tage nach Rechnungseingang) RSS-Jobfeed - Verpassen Sie keinen Job Persönliche und individuelle Betreuung durch unsere IT HR Consultants Schnelle Bearbeitung Ihrer Anliegen Tausende erfolgreich besetzte IT-Vakanzen Rabatte bei bekannten Marken und Unternehmen Compliance Know-How in Bezug auf Ihre Selbstständigkeit Haben Sie noch Fragen? Diese beantwortet Ihnen gerne Herr Kai Kähler. Sie erreichen ihn unter der Nummer +49 40 514007-123 oder kai.kaehler@tempton.de Wir freuen uns auf Ihre Rückmeldung.",
       "first_seen": "2026-06-12T14:09:53.708548+00:00",
       "id": "8fbcdbe871ec7191",
@@ -4949,94 +5070,7 @@
       "source": "freelancermap.de",
       "title": "Senior-Analytiker Anforderungsanalyse / Konzept (m/w/d)",
       "url": "https://www.freelancermap.de/projekt/senior-analytiker-anforderungsanalyse-konzept-m-w-d-3005235"
-    },
-    {
-      "description": "Für einen unserer Kunden, ein international aufgestelltes Industrieunternehmen im Bereich der diskreten Fertigung, suchen wir zum nächstmöglichen Zeitpunkt einen erfahrenen SAP Application Expert (m/w/d) mit Schwerpunkt auf Extended Warehouse Management (EWM) und Inventory Management (IM). Die Position bietet nach erfolgreichem Projektabschluss perspektivisch die Möglichkeit einer Festanstellung beim Kunden. Rahmendaten Start ASAP Laufzeit 3 Monate Auslastung 100% Remote-Anteil Flexibel – Einsatz an einem der Kundenstandorte möglich Einsatzort Flexibel (mehrere Standorte in Deutschland möglich) Sprachen Deutsch (fließend), Englisch (mind. B2) Anstellung Festanstellung gewünscht; bei gegenseitigem Interesse wird nach Projektabschluss eine Übernahme in eine Festanstellung angestrebt Folgende Aufgaben bilden Ihren Schwerpunkt Betreuung und Weiterentwicklung von SAP EWM und MM sowie angrenzender Subsysteme in einem S/4 HANA- und Fiori-Umfeld Analyse von Problemstellungen in Bezug auf Geschäftsprozesse, Daten und Funktionen sowie Erarbeitung von Lösungsvorschlägen in den Bereichen Logistik und Lager Erfassung der Bedürfnisse und Erwartungen der Fachbereiche sowie Erstellung von Entscheidungsgrundlagen Realisierung gewählter Lösungsvarianten (Konzeption, Spezifikation, Design und Customizing) in SAP EWM, MM und weiteren angrenzenden SAP-Modulen Unterstützung der Fachbereiche bei der Erstellung von Anforderungsspezifikationen Analyse, Betreuung und Optimierung der Logistikprozesse in enger Zusammenarbeit mit den Fachbereichen Leitung von und Mitarbeit in SAP-Projekten mit Fokus auf EWM und IM 2nd-Level-Support für SAP-Key-User im Bereich Logistik Folgende Skills bringen Sie mit Abgeschlossenes Studium (FH, Wirtschaftsinformatik o. Ä.) oder vergleichbare Qualifikation durch entsprechende Weiterbildung Mindestens 3 Jahre Berufserfahrung in einer vergleichbaren Position Fundiertes Verständnis von Prozessen, Abläufen und Schnittstellen in der Logistik, insbesondere im Bereich der diskreten Fertigung Praktische Erfahrung in der Abwicklung internationaler SAP-Projekte Sehr gute Kenntnisse in SAP EWM und MM, idealerweise im S/4 HANA-Kontext Ausgezeichnete mündliche und schriftliche Kommunikationsfähigkeit in Deutsch und Englisch (mind. B2) Reisebereitschaft für projektbezogene Einsätze an externen Standorten",
-      "first_seen": "2026-05-29T15:01:02.962762+00:00",
-      "id": "d05d11512420b35b",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-05-29T16:58:54+02:00",
-      "source": "freelancermap.de",
-      "title": "SAP Application Expert (m/w/d) Logistics – EWM & IM (mit Festanstellungsoption)",
-      "url": "https://www.freelancermap.de/projekt/sap-application-expert-m-w-d-logistics-ewm-und-im-mit-festanstellungsoption"
-    },
-    {
-      "description": "Stellenbeschreibung We are currently looking for experienced GitOps / DevOps Specialists to support a long-term remote project focused on building and operating a centralized Low-Code Appian platform.- Start: ASAP- Duration: Minimum 12 months- Location: Fully Remote- Workload: 100%Key responsibilities:- Design, setup, and operation of the Low-Code Appian platform.- Establishment of a central Appian platform for the entire administration. Unbedingt erforderlich - Strong technical focus on GitOps / DevOps- Solid hands-on technical experience- Experience with building and managing Appian platforms is highly desirable Ihr(e) Ansprechpartner(in): Omayma Hagag E-Mail: omayma.hagag@satzsoft.com Festnetz: +49 89 383862 47",
-      "first_seen": "2026-05-29T15:01:02.962762+00:00",
-      "id": "9922f31a9775f66f",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-05-29T16:43:04+02:00",
-      "source": "freelancermap.de",
-      "title": "GitOps / DevOps Specialist (Appian Platform)  _  Remote",
-      "url": "https://www.freelancermap.de/projekt/gitops-devops-specialist-appian-platform-remote"
-    },
-    {
-      "description": "? IT Support Specialist (m/w/d) gesucht! ? Start: Juni 2026 ? Dauer: 2 Monate ++?Ort: Zeulenroda-Triebes / hybrid ? Projekt-ID: 14446? Bewerbungsfrist: 12.06.2026 Liebes Netzwerk, für unseren Kunden in Zeulenroda-Triebes suchen wir einen IT Support Specialist (m/w/d). ? Link: https://www.constaff.com/projektbeschreibung/?positionID=14446 Aufgaben: Durchführung von 1st- und 2nd-Level-Support Annahme, Analyse und Vorqualifizierung von Tickets Bearbeitung und Lösung von Supportanfragen Dokumentation und Nachverfolgung von Störungen und Serviceanfragen Unterstützung der Anwender im Umgang mit IT-Systemen und Anwendungen Zusammenarbeit mit Fachbereichen und weiteren Supporteinheiten Anforderungen: Erfahrung im 1st- und 2nd-Level-Support Gute Kenntnisse in ServiceNow, SAP, Matrix und Microsoft 365 Allgemeines IT-Verständnis und technische Affinität Erfahrung im Ticket- und Incident-Management Strukturierte und serviceorientierte Arbeitsweise Kommunikationsstärke und Problemlösungskompetenz Fähigkeit zur eigenständigen Analyse und Lösung von Störungen Sehr gute Deutsch- und Englischkenntnisse Haben Sie Zeit und Interesse an einem spannenden Projekt? Dann freuen wir uns auf Ihre Kontaktaufnahme! ? Kontakt: Ann-Kathrin Gelb Expert Candidate Relations _________________________________ Constaff GmbH - 100%OpenBook. Ehrlich. Kompetent. Transparent.",
-      "first_seen": "2026-05-29T15:01:02.962762+00:00",
-      "id": "80aed5c0668d34b5",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-05-29T16:39:44+02:00",
-      "source": "freelancermap.de",
-      "title": "IT Support Specialist (m/w/d) - AKH14446 - Constaff GmbH",
-      "url": "https://www.freelancermap.de/projekt/it-support-specialist-m-w-d-akh14446-constaff-gmbh"
-    },
-    {
-      "description": "Für einen unserer Kunden suchen wir einen Senior Java Softwareentwickler (w/m/d) mit Schwerpunkt Webtechnologie zur Projektmitarbeit. Aufgaben: Analyse, Konzeption und Aufwandsschätzung neuer Anforderungen Entwurf sowie kontinuierliche Weiterentwicklung der Systemarchitektur Umsetzung fachlicher Anforderungen unter Einsatz moderner, agiler Methoden Integration und Wartung externer Services über Schnittstellen- und Middleware-Lösungen Beratung interner Stakeholder bei Designentscheidungen, fachlichen Fragestellungen und Lösungsoptionen Aktive Mitgestaltung und kontinuierliche Verbesserung des Produkts sowie der Entwicklungsprozesse Durchführung komplexer systemübergreifender Updates und technischer Modernisierungen Analyse, Optimierung und Refactoring bestehender Altsysteme im Rahmen von Migrationsstrategien Identifikation, Priorisierung und Behebung von Fehlern sowie Übernahme von Wartungs- und Betriebsaufgaben Sicherstellung eines stabilen, sicheren und performanten Betriebs im Sinne moderner Betriebs- und Sicherheitskonzepte Enge Zusammenarbeit in einem interdisziplinären, agilen Team über den gesamten Entwicklungszyklus hinweg Anwendung qualitätssichernder Maßnahmen, insbesondere testgetriebener Entwicklungsansätze Erforderliche Qualifikationen: Mehrjährige Erfahrung mit Softwareentwicklung in Java Erfahrung mit Spring, Spring Boot und Spring Security Erfahrung mit Angular (V18 oder neuer) Erfahrung mit REST und anderen WebServices Kenntnisse in HTML und CSS Erfahrung mit Gradle Erfahrung mit Git und Bitbucket Projekterfahrung Scrum Projekterfahrung mit Clean Code Development Projekterfahrung mit Acceptance Test Driven Development Erfahrung mit CI und Jenkins Kenntnisse in Kubernetes, Docker, Helm Kenntnisse in Hibernate, JPA und SQL Erfahrung mit Wicket Kenntnisse in DevSecOps Erfahrung mit Architektur-, Security- und Technologieauswahlthemen Sehr gute Kenntnisse der deutschen Sprache (mündlich und schriftlich) Zusätzlich gewünschte Qualifikationen: Kenntnisse in responsive Webdesign Erfahrung mit Domain Driven Design Kenntnisse in IntelliJ Erfahrung in Projekten im regulierten Umfeld (Gesundheitswesen/Medizin, Militär, öffentliche Behörden, o.ä.) Projektdaten: Position Nr.: 2956 Arbeitsort: 1-2 Tage je Monat vor Ort in München, rest remote innerhalb Deutschlands Startdatum: 01.08.2026 Laufzeit: 3 Monate mit Option Klingt gut? Dann bewerben Sie sich jetzt mit aktuellem Profil",
-      "first_seen": "2026-05-29T15:01:02.962762+00:00",
-      "id": "4fb767f3097cc87c",
-      "matched_keywords": [
-        "agil",
-        "scrum",
-        "tso"
-      ],
-      "published": "2026-05-29T16:39:25+02:00",
-      "source": "freelancermap.de",
-      "title": "Senior Java Softwareentwickler (w/m/d) mit Schwerpunkt Webtechnologie - Pos. 2956",
-      "url": "https://www.freelancermap.de/projekt/senior-java-softwareentwickler-w-m-d-mit-schwerpunkt-webtechnologie-pos-2956"
-    },
-    {
-      "description": "Sehr geehrte Damen und Herren, für einen Kunden suchen wir einen ServiceNow Engineer / ServiceNow Entwickler (m/w/d) für den Schwerpunkt ServiceNow Development sowie Plattform-, Architektur- und Infrastrukturthemen . Gerne möchten wir Ihnen das Projekt vorstellen: Wichtiger Hinweis: Die Kandidaten müssen sozialversicherungspflichtig beschäftigt sein. Projektstart: ab sofort Projektdauer: 9 Monate mit Option auf Verlängerung Projektauslastung: Vollzeit Projektstandort: Berlin oder GR Heilbronn und Remote Ihre Aufgaben: Entwicklung, Weiterentwicklung und Betrieb von Lösungen auf Basis von ServiceNow Technische Analyse und Optimierung bestehender Plattform- und Systemlandschaften Mitarbeit an Architektur- und Infrastrukturthemen rund um die ServiceNow-Plattform Analyse von Code sowie Fehlerbehebung in komplexen Systemumgebungen Durchführung von Reverse Engineering bei technischen Problemstellungen, z. B. bei Versionswechseln oder Systemanpassungen (z. B. Java) Enge Zusammenarbeit mit Infrastruktur- und Entwicklungsteams innerhalb der Plattform- und Cloudumgebung Mitarbeit an Cloud-Services, die sowohl intern als auch für Kunden bereitgestellt werden Arbeiten innerhalb der unternehmenseigenen Cloudplattform Ihr Profil: Mehrjährige praktische Erfahrung mit ServiceNow (idealerweise mindestens 5-7 Jahre) Erfahrung im Bereich Entwicklung sowie Architektur, Administration oder Plattformbetrieb von ServiceNow Sehr gutes technisches Verständnis der zugrunde liegenden Systeme sowie der Applikationsebene und deren Zusammenspiel Erfahrung mit Linux sowie Automatisierungstools wie Ansible und Terraform Gute Kenntnisse in Java sowie die Fähigkeit, Code zu lesen, zu analysieren und technische Zusammenhänge zu verstehen Fähigkeit, komplexe technische Strukturen zu analysieren und über Reverse Engineering nachzuvollziehen Erfahrung in Cloud- oder Plattformumgebungen von Vorteil Reisebereitschaft zu einem der beiden Bürostandorte (Teamtag 1x alle zwei Wochen, ansonsten remote) Sehr gute Deutsch- und Englischkenntnisse Klingt das Projekt spannend für Sie? Dann freue ich mich über die Zusendung Ihres aussagekräftigen CVs. Mit dem Versenden Ihrer Unterlagen erklären Sie sich mit unserer Datenschutzerklärung einverstanden.",
-      "first_seen": "2026-05-29T15:01:02.962762+00:00",
-      "id": "f1803f13c6d73042",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-05-29T16:36:01+02:00",
-      "source": "freelancermap.de",
-      "title": "ServiceNow Engineer / ServiceNow Entwickler (m/w/d)_GR Berlin/Heilbronn_9M++",
-      "url": "https://www.freelancermap.de/projekt/servicenow-engineer-servicenow-entwickler-m-w-d-gr-berlin-heilbronn-9m-3005188"
-    },
-    {
-      "description": "In dieser Position übernimmst du die Verantwortung für die Projektabwicklung und Service Delivery, sobald ein Kundenprojekt gewonnen wurde. Du bist zentrale Schnittstelle zwischen Kunde, Vertrieb, technischen Teams und internationalen Stakeholdern. Dein Fokus liegt auf Kommunikation, Steuerung, Qualitätssicherung und Service Governance – nicht auf operativem Support. Deine Tätigkeit Projektabwicklung & Delivery Management für IT?Services (Workplace, Infrastruktur, Support) Steuerung der Serviceerbringung nach Projektgewinn (Post?Sales) Kommunikation & Erwartungsmanagement mit Kund:innen, Fachbereichen und internen Teams Eskalationsmanagement sowie Moderation kritischer Situationen Durchführung von Service Reviews, KPI?Analysen und Reporting (z.?B. ServiceNow, Power BI) Koordination internationaler Stakeholder und Abstimmung mit technischen Einheiten Sicherstellung der Einhaltung von ITIL?Standards Unterstützung im PMO?Umfeld (Dokumentation, Planung, Statusberichte) Identifikation von Optimierungspotenzialen in Prozessen und Serviceabläufen Dein Profil Erfahrung im IT?Service? oder Service?Delivery?Umfeld vom Vorteil Hintergrund aus dem Systemhaus?Geschäft (z.?B. Workplace, Infrastruktur, Managed Services) Kenntnisse in ITIL / ITSM Erfahrung in Projektabwicklung, PMO oder Presales?nahen Tätigkeiten Starke Kommunikations? und Stakeholder?Management?Skills Fähigkeit, mehrere Kunden und Prioritäten gleichzeitig zu steuern Sicherer Umgang mit Eskalationen und komplexen Kundensituationen Technisches Grundverständnis im Bereich End?User?Support, Windows, Mobile Devices, Netzwerk?Basics Sprachanforderungen Deutsch: Verhandlungssicher Englisch: Sehr gute Kenntnisse Französisch Gute Kenntnisse (nice to have) Stundensatz 40-65€ Interesse? Dann freue ich mich auf Ihre Bewerbungsunterlagen per Mail: dominik.lehmhecker@somi.de",
-      "first_seen": "2026-05-29T15:01:02.962762+00:00",
-      "id": "2a4a100bc3ee793c",
-      "matched_keywords": [
-        "pmo",
-        "netz"
-      ],
-      "published": "2026-05-29T16:16:32+02:00",
-      "source": "freelancermap.de",
-      "title": "Pre Sales Manager / begleitende Assistenz (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/pre-sales-manager-begleitende-assistenz-m-w-d-3005169"
-    },
-    {
-      "description": "Für ein Kundenprojekt suchen wir einen erfahrenen freiberuflichen Berater im Bereich IT-Infrastruktur, Rechenzentrumsoptimierung und technische Migration . Im Projekt geht es um die Analyse und Weiterentwicklung einer bestehenden, international verteilten IT-Infrastruktur. Ziel ist es, vorhandene Betriebsstrukturen transparenter und einheitlicher zu gestalten, technische Abhängigkeiten sichtbar zu machen und eine belastbare Planung für Migration, Konsolidierung und künftige Betriebsvereinfachung zu erstellen. Aufgaben Sie unterstützen unter anderem bei folgenden Themen: Analyse einer bestehenden Rechenzentrums- und Infrastrukturumgebung Strukturierung und Dokumentation des vorhandenen technischen Bestands Entwicklung eines Konzepts zur Vereinheitlichung und Optimierung der Infrastruktur Erstellung einer Roadmap mit sinnvollen Umsetzungsschritten, Meilensteinen und Prioritäten Ausarbeitung technischer Migrationsszenarien für On-Premises-, Cloud- und Hybrid-Umgebungen Bewertung technischer Abhängigkeiten, Risiken und sinnvoller Umsetzungsreihenfolgen Erstellung von Migrations- und Umsetzungsplänen für einzelne Standorte oder Teilbereiche Dokumentation von Risiken, offenen Punkten und Entscheidungsbedarfen Abstimmung technischer Anforderungen mit beteiligten Fach- und IT-Bereichen Erstellung regelmäßiger Status- und Entscheidungsunterlagen Entwicklung pragmatischer Standards und Prozessvorschläge für den künftigen Betrieb Beratung des Managements durch klar strukturierte Entscheidungsgrundlagen Anforderungen Mehrjährige Erfahrung in komplexen IT-Infrastrukturprojekten Erfahrung mit Rechenzentrumsumgebungen, Infrastrukturmigration oder Konsolidierung Gute Kenntnisse in On-Premises-, Cloud- und Hybrid-Architekturen Erfahrung mit international verteilten IT-Umgebungen von Vorteil Technische Kenntnisse von Vorteil Server-, Storage- und Netzwerkinfrastrukturen Virtualisierung, z. B. VMware oder Hyper-V Cloud-Migration und Cloud-Architektur Netzwerk- und Security-Grundlagen Automatisierungs- und Monitoring-Tools",
-      "first_seen": "2026-05-29T15:01:02.962762+00:00",
-      "id": "94c7524e74c15642",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-05-29T14:33:53+02:00",
-      "source": "freelancermap.de",
-      "title": "Technischer Berater IT-Infrastruktur / Rechenzentrumsoptimierung",
-      "url": "https://www.freelancermap.de/projekt/technischer-berater-it-infrastruktur-rechenzentrumsoptimierung"
     }
   ],
-  "updated_at": "2026-06-12T14:09:53.785146+00:00"
+  "updated_at": "2026-06-12T17:36:35.482407+00:00"
 }
