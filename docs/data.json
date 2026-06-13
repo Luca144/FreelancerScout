@@ -1,6 +1,19 @@
 {
   "projects": [
     {
+      "description": "We are currently exclusively looking for a senior SPS / PLC developer (m/f/d) with experience in high tech / manufacturing industry for one of our top customers of our freelancer cooperative Parameters: • Start: July 2026 • Duration: 7 months extension • Workload: full-time, but 80%+ also possible • Location: hybrid, 90% remote with occasional on-site meetings • Languages: project-proof, fluent English at least B2 and / or German B2 Technology stack: Beckhoff TwinCAT 3, TF2000, EtherCAT, industrial fieldbuses Environment: Machine and plant automation, development of a Process Orchestration Layer on Beckhoff platform Tasks: Responsibilities: Design and implementation of a Process Orchestration Layer in a Beckhoff-based automation environment Development, adaptation, and testing of PLC programs based on TwinCAT 3 Configuration and use of TF2000 to implement orchestration logic, sequences, state machines, and process flowsIntegration of machine modules, subsystem, and field devices into a higher-level orchestration layer Creation and maintenance of function blocks, libraries, and standards for process controlIntegration with higher-level IT/OT systems (e.g. MES, SCADA, databases, REST/MQTT - if relevant) Execution of module, integration, and commissioning tests (FAT/SAT, incl. on-site at customer if required) Troubleshooting, root cause analysis, and optimization of cycle times and process performance Preparation of technical documentation (functional descriptions, interface specs, test documentation) Required Skills (Must-have) Several years of experience in PLC programming in machine or plant engineering Strong knowledge of Beckhoff TwinCAT 3 (PLC, and optionally NC/HMI as needed) Hands-on experience with TF2000 for: Process orchestration / sequence control Task and sequence configuration Handling of state machines and transitions Solid command of IEC 61131-3 (Structured Text, preferably also FBD, SFC) Experience with EtherCAT and common industrial fieldbuses Proven experience in commissioning, debugging, and optimization in running production environments Good understanding of process flows, material handling, interlock concepts, and safety considerations (in cooperation with safety experts) Industry experience in high-tech, manufacturing, production or similar fields Fluent German and/or English (written and spoken) for specifications and documentation. Desired Skills (Nice-to-have) • Experience in modular machine concepts and MTP-/PackML-like standards • Experience integrating MES/ERP/SCADA systems • Familiarity with version control and collaboration tools (e.g. Git, TFS/Azure DevOps) • Basic knowledge of C#, .NET or scripting for tooling, simulation, or test automation in the Beckhoff envi- ronment Soft skills and mindset: strong communication with mechanical, software and electrical teams analytical thinking, high abstraction capability autonomous and accountable working style Experience working in international, distributed teams and high-tech industry experience is essential. Interviews are scheduled to take place shortly. Suitable candidates will have relevant project experience as an SPS / PLC developer from comparable roles. The client expects a short personally written letter of motivation (no AI slop) listing comparable projects and references. If you are interested / highly qualified, I look forward to hearing from you soon, preferably with a WORD or PDF profile, availability, remote hourly rate, and mini-application. IMPORTANT: For compliance reasons, this project is ONLY open to freelancers from the EU, i.e., permanent employees of consulting firms or non-EU citizens CANNOT be considered.",
+      "first_seen": "2026-06-13T11:13:10.343359+00:00",
+      "id": "741ecb41267ca36f",
+      "matched_keywords": [
+        "scada",
+        "ems"
+      ],
+      "published": "2026-06-13T12:07:10+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior SPS / PLC Developer (mfd) / Automation Engineer (Beckhoff)",
+      "url": "https://www.freelancermap.de/projekt/senior-sps-plc-developer-mfd-automation-engineer-beckhoff"
+    },
+    {
       "description": "Sehr geehrte Damen und Herren, die NEVOTEC IT-Service GmbH unterstützt seit über 12 Jahren Systemhäuser und IT-Dienstleister bei der erfolgreichen Realisierung von bundesweiten IT-Projekten sowie bei der Besetzung offener Positionen mit qualifizierten IT-Experten. Für eine aktuelle Projektanforderung sind wir derzeit auf der Suche nach qualifizierter personeller Unterstützung mit folgendem Profil: Rahmendaten: Service Desk / 1st & 2nd Level IT-Support Techniker (m/w/d)in Leipzig Start: Asap Laufzeit: Langfristig Verlängerungsoption: Ja Auslastung: Vollzeit Einsatzort: Leipzig Stellentyp: Freiberuflich Remote: Nein Std. Satz: 40,-€/ Allin Stellentyp: Freiberuflich (Freelancer) Aufgaben: Unterstützung bei der Überwachung von Monitoring- und Netzwerkmanagement-Systemen sowie der Einleitung entsprechender Maßnahmen bei Alarmen Ereigniskorrelation und systematische Ursachenidentifizierung im Störungsfall Mitwirkung bei der Durchführung von Entstörungsmaßnahmen Begleitung und Steuerung von Incidents im Ticketsystem Mitverantwortung für die Lösung von Störungen und die zeitnahe Wiederherstellung des Services unter Einhaltung der vereinbarten SLA-Vorgaben Unterstützung bei der Koordination der internen und externen Kommunikation mit Kunden, Netz-Carriern und Dienstleistern, einschließlich Eskalationsmanagement Mitarbeit an der kontinuierlichen Prozess- und Ablaufoptimierung sowie in fachbezogenen Projekten Profil: Abgeschlossenes Studium der Informatik oder eine vergleichbare Ausbildung mit erster relevanter Berufserfahrung Von Vorteil sind Erfahrungen im Kundensupport, in Netzwerktechniken und WAN-Technologien sowie mit ITIL-basierten Betriebsprozessen Hohe Servicebereitschaft, Belastbarkeit in Störungssituationen und Flexibilität Eigeninitiative sowie selbstständiges und lösungsorientiertes Arbeiten Ausgeprägtes Verantwortungsbewusstsein für die Servicequalität, gepaart mit starker Kommunikations- und Koordinationsfähigkeit Teamfähigkeit und soziale Kompetenz im Umgang mit unterschiedlichsten Gesprächspartnern Bereitschaft zur Teilnahme an der Rufbereitschaft Deutsche Sprache fließend in Wort und Schrift (C2) Bei Interesse freuen wir uns über Ihre Rückmeldung sowie die Zusendung eines aussagekräftigen CVs bzw. IT-Skillprofils. Für Rückfragen stehen wir Ihnen jederzeit gerne zur Verfügung.",
       "first_seen": "2026-06-13T08:55:18.965236+00:00",
       "id": "b8d54940e991fddc",
@@ -4796,56 +4809,7 @@
       "source": "freelancermap.de",
       "title": "Projektangebot - bereichsübergreifende Steuerung & Verbesserung von KPIs im Bahnverkehr",
       "url": "https://www.freelancermap.de/projekt/projektangebot-bereichsuebergreifende-steuerung-verbesserung-von-kpis-im-schienenverkehr"
-    },
-    {
-      "description": "Einleitung Unser Kunde aus dem Handelsumfeld benötigt externe Unterstützung im Rahmen der Weiterentwicklung seiner Cloud-Produkte sowie der zugehörigen Netzwerktools. Der Einsatz kann per remote erfolgen. Ihre Aufgaben Entwicklung von Cloud-Netzwerkproduktlösungen , einschließlich VPC, NAT Gateway und Cloud Interconnect. Entwicklung, Optimierung und Betrieb bestehender Cloud-Netzwerkproduktlösungen in Python und C. Eigenverantwortliches End-to-End-Design und Entwicklung von Infrastruktur-APIs für Cloud-Dienste. Zusammenarbeit bei der Implementierung von APIs sowie Gewährleistung von sicherem, gründlich getestetem Code, der den Best Practices der Branche entspricht. Durchführung detaillierter Fehlersuche (Troubleshooting) und Ursachenanalysen (Root Cause Analysis) Dokumentation der entwickelten Lösungen Unsere Anforderungen Umfangreiche Erfahrung in der Softwareentwicklung mit Golang . Tiefgehende Kenntnisse in Schnittstellen - und Kommunikationstechnologien (z. B. REST, gRPC) sowie Datenbanksystemen (z. B. PostgreSQL, MariaDB). Fundierte Kenntnisse im Software- Deployment und der Softwareentwicklung unter Verwendung von Kubernetes, Docker und Helm-Charts. Praxisorientierter Problemlöser (Hands-on-Mentalität) mit einem soliden Verständnis von Softwaredesign und Architekturmustern. Kommunikationsstärke und die Fähigkeit, komplexe technische Ideen sowohl schriftlich als auch mündlich klar auszudrücken. Sprachkenntnisse: Fließend in Deutsch und/oder Englisch.",
-      "first_seen": "2026-05-30T09:13:48.161103+00:00",
-      "id": "b8b91b22d12126e8",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-05-30T09:39:30+02:00",
-      "source": "freelancermap.de",
-      "title": "Go-Entwickler (m/w/d) Cloud- / API- und Netzwerkentwicklung - Homeoffice",
-      "url": "https://www.freelancermap.de/projekt/go-entwickler-m-w-d-cloud-api-und-netzwerkentwicklung-homeoffice"
-    },
-    {
-      "description": "Einleitung Unser Kunde, ein internationales Handelsunternehmen sucht ab sofort einen Linux Kernel Entwickler im Homeoffice. Ihre Aufgaben Im Rahmen dieses Projekts wird ein Cloudservice (weiter-)entwickelt. Der Prozess umfasst mehrere Phasen - beginnend mit der Analyse der bestehenden Infrastruktur, gefolgt von der Implementierung neuer Komponenten und der Optimierung bestehender Systeme. Der Fokus liegt auf der Entwicklung und Integration von Technologien zur Netzwerkvirtualisierung und Software Defined Networking (SDN) in großen Rechenzentren. Folgende Aufgaben sind angedacht: - Weiterentwicklung und Anpassung von OpenStack-, OVN- und OVS-Komponenten zur Verbesserung der Cloudservice-Infrastruktur. - Entwicklung und Implementierung von Funktionen im Linux Kernel, insbesondere im Bereich Netzwerkvirtualisierung und SDN. - Programmierung und Optimierung von Systemkomponenten in den Programmiersprachen C und/oder Rust. - Beitrag zu Open-Source-Projekten im Bereich Cloud-Infrastruktur, um die Innovationskraft und Effizienz zu steigern. - Entwicklung skalierbarer Technologien für den stabilen Betrieb großer Rechenzentren. - Analyse und Verbesserung von Netzwerk-Stack, Scheduling, Memory Management, Namespaces und cgroups im Linux Kernel. - Implementierung von virtuellen Netzwerktechnologien wie Open vSwitch (OVS) und OVN. - Überwachung der Systemstabilität und -sicherheit durch tiefgehendes Systemverständnis bis in die Grundebenen von Netzwerk, Storage und Virtualisierung. - Dokumentation der entwickelten Lösungen und Technologien zur Nachvollziehbarkeit und Weiterentwicklung. Unsere Anforderungen - Linux-Kernel-Kenntnisse: tiefgehende Kenntnisse - Programmierkenntnisse in C und/oder Rust: sehr gute Kenntnisse - Erfahrung mit OpenStack-Komponenten: gute Kenntnisse - Verständnis von Software Defined Networking (SDN): fundiertes Verständnis - Erfahrung mit virtuellen Netzwerk-Technologien (OVS, OVN): gute Kenntnisse",
-      "first_seen": "2026-05-30T09:13:48.161103+00:00",
-      "id": "4e3eb22d2a798bf4",
-      "matched_keywords": [
-        "netz",
-        "ems"
-      ],
-      "published": "2026-05-30T09:37:53+02:00",
-      "source": "freelancermap.de",
-      "title": "Linux Kernel Entwickler Homeoffice (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/linux-kernel-entwickler-homeoffice-m-w-d"
-    },
-    {
-      "description": "Einleitung Unser Kunde aus dem Banken-Umfeld benötigt externe Unterstützung im Rahmen des Betriebs und der Automatisierung seiner Checkpoint-Landschaft. Zwingend von Nöten sind mehrjährige und nachweisliche Checkpoint-Erfahrungen. Nach einer Einarbeitung vor Ort in Frankfurt von 1 bis max. 2 Wochen kann komplett per remote gearbeitet werden. Ihre Aufgaben Eigenverantwortliche Implementierung, Optimierung, Betriebsunterstützung und Automatisierung von komplexen Checkpoint-Lösungen Analyse bestehender Sicherheitsrichtlinien sowie Behebung komplexer Störungen, Performance-Engpässen und Schwachstellen im Rahmen des Projekt-Supports Entwicklung, Implementierung und Optimierung von automatisierten Prozessen zur Bereitstellung, Verwaltung und Richtlinien-Steuerung der Checkpoint-Infrastruktur Unsere Anforderungen Mindestens 5 Jahre nachweisbare Projekterfahrung im Netzwerk/IT-Security -Bereich mit tiefgehendem und nachweislichem Schwerpunkt auf Checkpoint-Technologien",
-      "first_seen": "2026-05-30T09:13:48.161103+00:00",
-      "id": "c080440f1f3ef13e",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-05-30T09:35:29+02:00",
-      "source": "freelancermap.de",
-      "title": "2 Netzwerkexperten (m/w/d) mit Fokus Checkpoint - 100% Homeoffice nach Einarbeitung",
-      "url": "https://www.freelancermap.de/projekt/2-netzwerkexperten-m-w-d-mit-fokus-checkpoint-100-prozent-homeoffice-nach-einarbeitung"
-    },
-    {
-      "description": "Einleitung Unser Kunde aus dem Banken-Umfeld benötigt externe Unterstützung im Rahmen des Betriebs und der Optimierung seiner Cisco-Landschaft. Zwingend von Nöten sind Cisco ACI sowie VxLAN Erfahrungen. Nach einer Einarbeitung vor Ort in Frankfurt von 1 bis max. 2 Wochen kann komplett per remote gearbeitet werden. Ihre Aufgaben Eigenverantwortliche Konzeption, Konfiguration, Betrieb, Virtualisierung und Migration von komplexen Netzwerken auf Basis von Cisco ACI und VxLAN-Architekturen Analyse bestehender Netzwerkstrukturen sowie Behebung komplexer Störungen und Performance Unsere Anforderungen Mindestens 5 Jahre nachweisbare Projekterfahrung im Bereich Network Engineering mit tiefgehendem Schwerpunkt auf Cisco-Technologien Fundierte Expertenkenntnisse und praktische Projekterfahrung hinsichtlich Cisco ACI (Application Centric Infrastructure) und VxLAN",
-      "first_seen": "2026-05-30T09:13:48.161103+00:00",
-      "id": "e112b5fa8570f71b",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-05-30T09:33:57+02:00",
-      "source": "freelancermap.de",
-      "title": "2 Cisco ACI / VXLAN - Experten (w/m/d) - 100% Homeoffice nach Einarbeitung",
-      "url": "https://www.freelancermap.de/projekt/2-cisco-aci-vxlan-experten-w-m-d-100-prozent-homeoffice-nach-einarbeitung"
     }
   ],
-  "updated_at": "2026-06-13T08:55:19.059399+00:00"
+  "updated_at": "2026-06-13T11:13:10.437404+00:00"
 }
