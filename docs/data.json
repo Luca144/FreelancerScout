@@ -1,6 +1,43 @@
 {
   "projects": [
     {
+      "description": "Wir suchen derzeit erfahrene SAP-Experten für mehrere unbefristete Festanstellungen. Gesucht werden Kandidaten mit Erfahrung in einer oder mehreren der folgenden Branchen: Pharma Automotive Einzelhandel (Retail) Konsumgüterindustrie Fertigungsindustrie (Manufacturing) Offene Positionen: SAP Functional Consultants SAP Projektmanager SAP S/4HANA Transformationsexperten SAP Entwickler (ABAP, BTP, Fiori, Integration usw.) Anforderungen: Erfahrung in SAP S/4HANA Transformationsprojekten Sehr gute Deutschkenntnisse (zwingend erforderlich) Bereitschaft für eine Festanstellung Bei Interesse senden Sie bitte Ihr Profil einschließlich Verfügbarkeit und Gehaltsvorstellung an ***** . Wir freuen uns auf Ihre Bewerbung.",
+      "first_seen": "2026-06-18T22:05:37.370089+00:00",
+      "id": "ed1cf33ab1e19788",
+      "matched_keywords": [
+        "projektmanager"
+      ],
+      "published": "2026-06-18T22:32:48+02:00",
+      "source": "freelancermap.de",
+      "title": "Festanstellungen für erfahrene SAP-Experten - Functional  | Entwickler |Projekt Manager",
+      "url": "https://www.freelancermap.de/projekt/festanstellungen-fuer-erfahrene-sap-experten-functional-entwickler-projekt-manager"
+    },
+    {
+      "description": "Für einen unserer Großkunden suchen wir derzeit eine Unterstützung , die die nachfolgenden Anforderungen erfüllt: Deine Aufgaben: Arbeiten als Teil eines agilen Entwicklungs- und Betriebs-Team nach Scrum, welches Hauptsächlich an Verzeichnisdiensten und Windows-Infrastrukturkomponenten (WSUS und KMS) arbeitet, Im weiteren Services genannt. Der Aufgabenbereich teilt sich in Betriebsaufgaben (Ticketbearbeitung und Entstörung) und Entwicklungsaufgaben (kontinuierliche Weiterentwicklung, Ausarbeitung, Planung, Umsetzung und Produktivsetzung der Services) Erarbeitung interner und kundengerichteter Dokumentation Mitarbeit bei Zertifizierungs-Audits Dein Profil: Erfahrung im Aufbau und Betrieb von Verzeichnisdiensten Erfahrung im Aufbau und Betrieb von Windows Infrastrukturkomponenten Erfahrung im Bereich automatischer Deployments mit Ansible Erfahrung mit Gitlab und CI/CD-Pipelines Erfahrung mit Windows Server und RHEL Erfahrung mit Containerisierung Cloud Native Gedanke Sehr gutes Deutsch in Wort und Schrift Agile Arbeitsweise nach Scrum Technologien: WSUS, KMS, Active-Directory Pingidentity IDM und DS, OpenLdap, Ansible, Puppet, Podman, Traefik-Proxy, Gitlab, CI/CD, Scripting, RHEL, Windows Server, Jira, Confluence Rahmenparameter: Einsatzort: Remote Laufzeit: 01.07.2026 - 31.12.2026 Auslastung: Vollauslastung Dein GECO-Ansprechpartner freut sich auf Deine Kontaktaufnahme und über die Zusendung Deiner aussagekräftigen Projekthistorie sowie Deiner Honorarvorstellung/Gehaltsvorstellung/Preisvorstellung.",
+      "first_seen": "2026-06-18T22:05:37.370089+00:00",
+      "id": "05d018820abb90e9",
+      "matched_keywords": [
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-06-18T21:27:15+02:00",
+      "source": "freelancermap.de",
+      "title": "IT-Administrator Windows Infrastruktur und Verzeichnisdienste (m/w/d) Remote / ZCTA238036",
+      "url": "https://www.freelancermap.de/projekt/it-administrator-windows-infrastruktur-und-verzeichnisdienste-m-w-d-remote-zcta238036"
+    },
+    {
+      "description": "Senior Data Engineer AWS Datenpipelines und Cloud Integration Für einen unserer Großkunden suchen wir derzeit einen Mitarbeiter zur Festanstellung, der die nachfolgenden Anforderungen erfüllt: Projektrolle: Senior Data Engineer im Umfeld AWS, Datenpipelines, Datenintegration und automatisierter Verarbeitung großvolumiger Sensordaten. Projektbeschreibung: Im Projekt wird eine datenschutzkonforme, qualitätsgeprüfte und standardisierte Plattform zur Bereitstellung großvolumiger, georeferenzierter multimodaler Sensordaten aufgebaut. Die Daten entstehen beispielsweise durch Befliegung, Begehung oder Befahrung und werden internen sowie externen Konsumenten bereitgestellt. Die Lösung basiert auf nativen AWS Services, einer skalierbaren Cloud Architektur und DevOps Prinzipien. Im Fokus stehen der Aufbau eines C2C Ingress Kanals, die automatisierte Annahme und Prüfung von Massendaten, Datenqualitätsprüfungen, Malware Scanning, Provisioning sowie die Bereitstellung geprüfter Daten für Konsumenten. Das Projekt arbeitet agil nach SAFe. Ihre Aufgaben: Entwicklung von Datenpipelines zur Datenaufnahme und Datenverarbeitung Aufbau von Datenbanken und Data Warehouses Entwicklung von Datenmodellen zur strukturierten Speicherung von Daten Integration von Daten aus unterschiedlichen und heterogenen Quellen Implementierung von Data Governance und Sicherheitsrichtlinien Optimierung von Datenbanken und Datenverarbeitungsprozessen Automatisierung von Datenprozessen Entwicklung skalierbarer Lösungen für Dateninfrastrukturen Erstellung von APIs und Integration von Daten in Anwendungen Entwicklung der Ingest Pipeline für S3 Transfer, Prüfung und Provisioning Implementierung automatisierter Datenqualitätsprüfungen, insbesondere Schema Validierung und Integritätsprüfung Dokumentation der Ergebnisse und Zusammenarbeit über Confluence, SharePoint, Office 365 und Jira Ihr Profil: Senior Erfahrung als Data Engineer, Cloud Data Engineer, AWS Data Engineer oder in einer vergleichbaren Rolle Mindestens 5 Jahre fundierte Erfahrung im Aufbau von Datenpipelines auf AWS mit S3, Step Functions, Lambda/Fargate und AWS Batch Mindestens 5 Jahre fundierte Erfahrung in der Implementierung mit Python Mindestens 3 Jahre fundierte Erfahrung mit AWS Glue Mindestens 3 Jahre fundierte Erfahrung mit Datenformaten und Schema Validierung, insbesondere Parquet, CSV, JSON und YAML Projekterfahrung in der Datenintegration aus heterogenen Quellen, idealerweise nachweisbar über mindestens 2 Referenzen Erfahrung in Infrastructure as Code mit AWS CDK von Vorteil Idealerweise AWS Zertifizierung als AWS Certified Data Engineer oder Data Analytics Specialty Erfahrung mit GitLab, GitHub, Docker Desktop, Artifactory, Defect Dojo, AquaSec, VSCode, Jira und Confluence von Vorteil Deutschkenntnisse auf annähernd muttersprachlichem Niveau C2 erforderlich Rahmenparameter: Einsatzort: Remote mit gelegentlichen Onsite Terminen in Frankfurt am Main Beschäftigungsart: Festanstellung Ihr GECO-Ansprechpartner freut sich auf Ihre Kontaktaufnahme und über die Zusendung Ihrer aussagekräftigen Unterlagen sowie Ihrer Gehaltsvorstellung.",
+      "first_seen": "2026-06-18T22:05:37.370089+00:00",
+      "id": "976b4645169c8c8a",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-06-18T21:27:05+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Data Engineer AWS Datenpipelines /Cloud Integration (m/w/d) Remote und FFM / ZCRE238083",
+      "url": "https://www.freelancermap.de/projekt/senior-data-engineer-aws-datenpipelines-cloud-integration-m-w-d-remote-und-ffm-zcre238083"
+    },
+    {
       "description": "Good evening, We are seeking an experienced SAP PP-PI Consultant to support a long-term project within the process industry environment. The role will primarily focus on the execution layer of PP-PI, ensuring seamless integration with manufacturing operations and related systems. Project: Start: August Capacity: Full-time Initial Duration: until January 2028 Remote and on-site Share: remote plus On-site presence in Switzerland required (last two weeks of September) Project languages: English (Fluent) German (Big Plus, NOT MUST) ________________________________________ Your Responsibilities • Lead and support the implementation and optimization of SAP PP-PI (Process Industry) module • Strong focus on the execution phase, including production order/process order handling • Design, specify, and coordinate WRICEF objects (Workflows, Reports, Interfaces, Conversions, Enhancements, Forms) • Collaborate closely with development teams and ensure end-to-end delivery including testing and validation • Manage and support integration with MES systems • Configure and support: Control Recipes, Process Messages and IDoc communication interfaces • Work with cross-functional teams (SAP modules, business stakeholders, external partners) • Ensure high-quality documentation and adherence to project standards ________________________________________ Required Expertise • Proven experience in SAP PP-PI implementations, particularly in process industry environments • Strong hands-on expertise in execution processes (process orders, confirmations, production execution) • Solid understanding of: MES integration with SAP, Control recipes and process messages and IDoc-based communication • Experience in WRICEF specification and coordination with development teams • Strong involvement in testing cycles (unit testing, integration testing, UAT support) • Excellent stakeholder communication skills If you are interested in this project, please send me your current CV to ***** and I will contact you within the next few days for more details about the project. If you know someone, who might fit and might be interested in this project, do not hesitate to forward this mail and my contact details, because recommendations are always welcome. :) Kind Regards, Veronika Igic Senior Candidate Consultant Computer Futures Wiedner Gürtel 13, Turm 24, 10. OG, 1100 Vienna, Austria E: ***** *****",
       "first_seen": "2026-06-18T19:26:16.126273+00:00",
       "id": "477221d1c66c1a45",
@@ -5027,5 +5064,5 @@
       "url": "https://www.freelancermap.de/projekt/f50260610p9b3-koordinator-schnittstellen-und-eskalationsmanagement-grosskugel-95-prozent-onsite-7-monate"
     }
   ],
-  "updated_at": "2026-06-18T19:26:16.224043+00:00"
+  "updated_at": "2026-06-18T22:05:37.461795+00:00"
 }
