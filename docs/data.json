@@ -1,6 +1,47 @@
 {
   "projects": [
     {
+      "description": "Start: nach Vereinbarung Laufzeit: langfristig Auslastung: Vollzeit Umfeld: Öffentlicher Sektor, agiles Großprojekt (SAFe) Für dieses Projekt werden bevorzugt sozialversicherungspflichtig angestellte Kandidaten berücksichtigt. Projektbeschreibung Für ein agiles Großvorhaben im öffentlichen Sektor wird ein bestehendes Kernverfahren grundlegend modernisiert und auf eine moderne, microservicebasierte Architektur überführt. Die Umsetzung läuft in einem skalierten agilen Umfeld (SAFe) mit mehreren zusammenarbeitenden Teams. Ein besonderer Fokus liegt auf nachhaltiger Qualität, Befähigung der Organisation und strukturiertem Wissenstransfer. Ihre Rolle Als Solution Architekt verantworten Sie die strategische Architekturentwicklung und richten die Agile Release Trains aus. Konkret: * Steuerung hochkomplexer, unternehmenskritischer IT-Projekte (Systems Engineering) * Strategische Architekturentscheidungen treffen und die Zielarchitektur ausgestalten * Ausrichtung der Agile Release Trains entlang der Architekturvorgaben * Einsatz moderner Architekturen (Microservices, Container, DevOps, Sicherheitsarchitekturen) Was Sie mitbringen * Steuerung hochkomplexer IT-Projekte (Systems Engineering) (Expertenwissen) * Moderne Vorgehensweisen und Notationen (Scrum, Kanban, SAFe, UML, BPMN) (Expertenwissen) * Moderne Architekturen (Microservices, Container, DevOps, Sicherheitsarchitekturen) (Expertenwissen) * Java, JEE, Java Microprofile, Architekturmuster, SOA, WebServices (Vertiefte Kenntnisse) * Open Group Certified Architect Level 3 oder gleichwertig (Formale Qualifikation) Von Vorteil * Erfahrung im öffentlichen Sektor * Erfahrung mit Bestandssystem-Technologien (Java EJBs, Cobol) Interesse? Senden Sie mir Ihren Lebenslauf (Word oder PDF) und Ihren Stundensatz an contracting [at]codex-solutions.de. Sie erhalten zeitnah eine Rückmeldung. Jochen Gierl Codex Solutions GmbH Datenschutzhinweis Wenn Sie sich auf diese Position bewerben, verarbeiten wir die von Ihnen übermittelten personenbezogenen Daten (z. B. Name, Kontaktdaten, Qualifikationen, Lebenslauf, Verfügbarkeit, Vergütungssatz) zur Bearbeitung Ihrer Bewerbung und zur Vertragsanbahnung gemäß Art. 6 Abs. 1 lit. b DSGVO. Weitere Informationen zur Verarbeitung Ihrer Daten finden Sie in unserer Datenschutzerklärung unter: www.codex-solutions.de/DSE",
+      "first_seen": "2026-06-21T16:43:48.915139+00:00",
+      "id": "2d3f6aa7d0a3bd2a",
+      "matched_keywords": [
+        "agil",
+        "scrum",
+        "ems"
+      ],
+      "published": "2026-06-21T16:14:27+02:00",
+      "source": "freelancermap.de",
+      "title": "Solution Architekt (m/w/d), Öffentlicher Sektor",
+      "url": "https://www.freelancermap.de/projekt/solution-architekt-m-w-d-oeffentlicher-sektor"
+    },
+    {
+      "description": "Start: nach Vereinbarung Laufzeit: langfristig Auslastung: Vollzeit Umfeld: Öffentlicher Sektor, agiles Großprojekt (SAFe) Für dieses Projekt werden bevorzugt sozialversicherungspflichtig angestellte Kandidaten berücksichtigt. Projektbeschreibung Für ein agiles Großvorhaben im öffentlichen Sektor wird ein bestehendes Kernverfahren grundlegend modernisiert und auf eine moderne, microservicebasierte Architektur überführt. Die Umsetzung läuft in einem skalierten agilen Umfeld (SAFe) mit mehreren zusammenarbeitenden Teams. Ein besonderer Fokus liegt auf nachhaltiger Qualität, Befähigung der Organisation und strukturiertem Wissenstransfer. Ihre Rolle Als IT-Sicherheitsarchitekt definieren und verantworten Sie die Sicherheitsarchitektur und entwickeln die IT-Sicherheit strategisch weiter. Konkret: * Konzeption und Einführung von Cybersecurity-Strategien * Aufbau von Security Operation Modellen * Umsetzung nach BSI IT-Grundschutz * Berücksichtigung von Digitaler Souveränität und Datenschutz (EU-DSGVO) * IT-Sicherheitsberatung und Schulung der Organisation Was Sie mitbringen * Digitale Souveränität (Expertenwissen) * Cybersecurity-Strategien (Konzeption und Einführung) (Expertenwissen) * Security Operation Modelle (Expertenwissen) * BSI IT-Grundschutz (mindestens 5 Jahre Erfahrung) (Expertenwissen) * Steuerung hochkomplexer IT-Projekte (Systems Engineering) (Vertiefte Kenntnisse) * Moderne Architekturen (Microservices, Container, DevOps, Sicherheitsarchitekturen) (Vertiefte Kenntnisse) * Datenschutz (EU-DSGVO) (Vertiefte Kenntnisse) * IT-Sicherheitsberatung und Schulung (Vertiefte Kenntnisse) Von Vorteil * Erfahrung mit Projekten auf europäischer oder nationaler Ebene (z. B. Gaia-X) * Erfahrung mit sicherheitsrelevanten Anwendungen (z. B. Metasploit, Maltego) Interesse? Senden Sie mir Ihren Lebenslauf (Word oder PDF) und Ihren Stundensatz an contracting [at]codex-solutions.de. Sie erhalten zeitnah eine Rückmeldung. Jochen Gierl Codex Solutions GmbH Datenschutzhinweis Wenn Sie sich auf diese Position bewerben, verarbeiten wir die von Ihnen übermittelten personenbezogenen Daten (z. B. Name, Kontaktdaten, Qualifikationen, Lebenslauf, Verfügbarkeit, Vergütungssatz) zur Bearbeitung Ihrer Bewerbung und zur Vertragsanbahnung gemäß Art. 6 Abs. 1 lit. b DSGVO. Weitere Informationen zur Verarbeitung Ihrer Daten finden Sie in unserer Datenschutzerklärung unter: www.codex-solutions.de/DSE",
+      "first_seen": "2026-06-21T16:43:48.915139+00:00",
+      "id": "ba51db6c706fb520",
+      "matched_keywords": [
+        "agil",
+        "ems"
+      ],
+      "published": "2026-06-21T16:11:57+02:00",
+      "source": "freelancermap.de",
+      "title": "IT-Sicherheitsarchitekt (Senior) (m/w/d), Öffentlicher Sektor",
+      "url": "https://www.freelancermap.de/projekt/it-sicherheitsarchitekt-senior-m-w-d-oeffentlicher-sektor"
+    },
+    {
+      "description": "Start: nach Vereinbarung Laufzeit: langfristig Auslastung: Vollzeit Umfeld: Öffentlicher Sektor, agiles Großprojekt (SAFe) Für dieses Projekt werden bevorzugt sozialversicherungspflichtig angestellte Kandidaten berücksichtigt. Projektbeschreibung Für ein agiles Großvorhaben im öffentlichen Sektor wird ein bestehendes Kernverfahren grundlegend modernisiert und auf eine moderne, microservicebasierte Architektur überführt. Die Umsetzung läuft in einem skalierten agilen Umfeld (SAFe) mit mehreren zusammenarbeitenden Teams. Ein besonderer Fokus liegt auf nachhaltiger Qualität, Befähigung der Organisation und strukturiertem Wissenstransfer. Ihre Rolle Als Scrum Master sorgen Sie für ein stabiles, kontinuierlich lieferfähiges Team im skalierten agilen Umfeld. Konkret: * Moderation und kontinuierliche Verbesserung aller Scrum-Events (Sprint Planning, Daily, Review, Retrospektive) * Sicherstellung eines stabilen Sprint-Flows und termingerechter Lieferung * Impediments sichtbar machen und nachhaltig beseitigen, auf Team- und Schnittstellenebene * Etablierung von SAFe- und Scrum-Prinzipien im Team * Enge Abstimmung mit angrenzenden Teams und ART-Funktionen (z. B. RTE, Delivery Lead) * Aktive Befähigung des Teams durch Coaching und strukturierten Wissenstransfer Was Sie mitbringen * Fundierte Erfahrung in Scrum * Fundierte Erfahrung in SAFe * Fundierte Erfahrung in Moderation und Impediment Management * Fundierte Erfahrung in Stakeholder-Kommunikation * Fundierte Erfahrung in Coaching agiler Teams Von Vorteil * Erfahrung im öffentlichen Sektor * Zertifizierung als Scrum Master oder SAFe (z. B. SSM) Interesse? Senden Sie mir Ihren Lebenslauf (Word oder PDF) und Ihren Stundensatz an contracting [at]codex-solutions.de. Sie erhalten zeitnah eine Rückmeldung. Jochen Gierl Codex Solutions GmbH Datenschutzhinweis Wenn Sie sich auf diese Position bewerben, verarbeiten wir die von Ihnen übermittelten personenbezogenen Daten (z. B. Name, Kontaktdaten, Qualifikationen, Lebenslauf, Verfügbarkeit, Vergütungssatz) zur Bearbeitung Ihrer Bewerbung und zur Vertragsanbahnung gemäß Art. 6 Abs. 1 lit. b DSGVO. Weitere Informationen zur Verarbeitung Ihrer Daten finden Sie in unserer Datenschutzerklärung unter: www.codex-solutions.de/DSE",
+      "first_seen": "2026-06-21T16:43:48.915139+00:00",
+      "id": "26564318a11745b8",
+      "matched_keywords": [
+        "scrum master",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-06-21T16:08:36+02:00",
+      "source": "freelancermap.de",
+      "title": "Scrum Master (m/w/d), Öffentlicher Sektor",
+      "url": "https://www.freelancermap.de/projekt/scrum-master-m-w-d-oeffentlicher-sektor"
+    },
+    {
       "description": "Projektziel: Entwicklung eines Gläubigerinformationssystems (GIS) als Online-Portal mit rollenbasiertem Zugang für Schuldner, Gläubiger und Gerichte, das mit einer bestehenden FileMaker-Datenbank verbunden ist. Zusätzlich wird Unterstützung bei der Implementierung der elektronischen Rechnung (ZUGFeRD) sowie der Integration von PDF-Formularen benötigt. Hauptaufgaben: - Entwicklung eines Online-Portals, über das aus einer FileMaker-Datenbank heraus Dateien für registrierte Benutzer hinterlegt werden können - Implementierung eines rollenbasierten Zugangssystems für drei Benutzergruppen: Schuldner, Gläubiger und Gerichte, wobei jede Gruppe ausschließlich die für sie bestimmten Dateien einsehen kann - Einrichtung individueller Online-Zugänge für jede Benutzergruppe - Entwicklung einer Funktion zur Forderungsanmeldung im Insolvenzverfahren über den Gläubigerzugang - Anbindung der Forderungsanmeldedaten an die FileMaker-Datenbank (Datenübernahme) - Implementierung der elektronischen Rechnung (ZUGFeRD) in bestehende Datenbanken - Integration von PDF-Formularen unter Nutzung des MBS-Plugins und gegebenenfalls DynaPDF Voraussetzungen: - Erfahrung in der Entwicklung von Online-Portalen mit Benutzerverwaltung und rollenbasiertem Zugriff - Kenntnisse in der FileMaker-Datenbankentwicklung und -integration - Kenntnisse zur Implementierung von ZUGFeRD (elektronische Rechnung) - Erfahrung mit dem MBS-Plugin und gegebenenfalls DynaPDF Erwartetes Ergebnis: - Funktionsfähiges Online-Portal (GIS) mit rollenbasiertem Zugang für Schuldner, Gläubiger und Gerichte - Funktionsfähige Schnittstelle zwischen dem Online-Portal und der FileMaker-Datenbank für den Datenaustausch - Implementierte Forderungsanmeldefunktion für Gläubiger mit Datenübernahme in FileMaker - Implementierte ZUGFeRD-Funktionalität in bestehenden Datenbanken - Integrierte PDF-Formulare mittels MBS-Plugin und gegebenenfalls DynaPDF",
       "first_seen": "2026-06-21T11:44:32.371462+00:00",
       "id": "af352f1216fae6b2",
@@ -5142,5 +5183,5 @@
       "url": "https://www.freelancermap.de/projekt/senior-service-manager-m-w-d-3008140"
     }
   ],
-  "updated_at": "2026-06-21T14:05:26.501499+00:00"
+  "updated_at": "2026-06-21T16:43:49.012720+00:00"
 }
