@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Projektziel: Entwicklung eines Gläubigerinformationssystems (GIS) als Online-Portal mit rollenbasiertem Zugang für Schuldner, Gläubiger und Gerichte, das mit einer bestehenden FileMaker-Datenbank verbunden ist. Zusätzlich wird Unterstützung bei der Implementierung der elektronischen Rechnung (ZUGFeRD) sowie der Integration von PDF-Formularen benötigt. Hauptaufgaben: - Entwicklung eines Online-Portals, über das aus einer FileMaker-Datenbank heraus Dateien für registrierte Benutzer hinterlegt werden können - Implementierung eines rollenbasierten Zugangssystems für drei Benutzergruppen: Schuldner, Gläubiger und Gerichte, wobei jede Gruppe ausschließlich die für sie bestimmten Dateien einsehen kann - Einrichtung individueller Online-Zugänge für jede Benutzergruppe - Entwicklung einer Funktion zur Forderungsanmeldung im Insolvenzverfahren über den Gläubigerzugang - Anbindung der Forderungsanmeldedaten an die FileMaker-Datenbank (Datenübernahme) - Implementierung der elektronischen Rechnung (ZUGFeRD) in bestehende Datenbanken - Integration von PDF-Formularen unter Nutzung des MBS-Plugins und gegebenenfalls DynaPDF Voraussetzungen: - Erfahrung in der Entwicklung von Online-Portalen mit Benutzerverwaltung und rollenbasiertem Zugriff - Kenntnisse in der FileMaker-Datenbankentwicklung und -integration - Kenntnisse zur Implementierung von ZUGFeRD (elektronische Rechnung) - Erfahrung mit dem MBS-Plugin und gegebenenfalls DynaPDF Erwartetes Ergebnis: - Funktionsfähiges Online-Portal (GIS) mit rollenbasiertem Zugang für Schuldner, Gläubiger und Gerichte - Funktionsfähige Schnittstelle zwischen dem Online-Portal und der FileMaker-Datenbank für den Datenaustausch - Implementierte Forderungsanmeldefunktion für Gläubiger mit Datenübernahme in FileMaker - Implementierte ZUGFeRD-Funktionalität in bestehenden Datenbanken - Integrierte PDF-Formulare mittels MBS-Plugin und gegebenenfalls DynaPDF",
+      "first_seen": "2026-06-21T11:44:32.371462+00:00",
+      "id": "af352f1216fae6b2",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-06-21T13:42:22+02:00",
+      "source": "freelancermap.de",
+      "title": "Programmierer für Gläubigerinformationssystem & FileMaker-Integration gesucht",
+      "url": "https://www.freelancermap.de/projekt/programmierer-fuer-glaeubigerinformationssystem-und-filemaker-integration-gesucht"
+    },
+    {
       "description": "Bauleiter Umspannwerk Aktuell suchen wir für unsere Kunden nach erfahrenen Bauleitern / Baustellenleitern , die über Erfahrungen im Neubau / der Erneuerung von Umspannwerken verfügen. Es gibt verschiedene Projekte in Baden-Württemberg (bspw. bei Stuttgart, Karlsruhe, Freiburg), die ab Juli-September starten und für 12 Monate mit Option auf Verlängerung laufen. Für die Projekte werden Freelancer aus dem Bauingenieurswesen und der Elektrotechnik (Elektroingenieure / Elektrotechniker) gesucht. Wichtig sind einschlägige Erfahrungen mit Hochvolt-Umspannwerken / Konverterstationen sowie fließende Deutschkenntnisse, um die Dokumentation und Kommunikation vor Ort abdecken zu können. Zu den Funktionen: Bauingenieur zur Bauleitung nach LBO - Baustellenleitung inklusive Sicherheitsmanagement, Planung und Kontrolle der laufenden Prozesse vor Ort, Evaluierung von Risiken, Planung wichtiger Meetings mit Projektbeteiligten Elektrotechnischer Bauleiter Hochvolt - Überwachung von elektrotechnischen Bauprozessen inklusive der Montage, Lieferanten- und Dienstleistermanagement, aktive Dokumentation aller Prozesse und Unterstützung des Projektmanagement-Teams, Durchführung von Qualitätsaudits in Zusammenarbeit mit operativem Team Wenn Sie Interesse an diesen Positionen haben, senden Sie gerne eine Nachricht mit Ihren Unterlagen an ***** Ich werde mich dann umgehend bei Ihnen melden, um die weiteren Details zu beiden Rollen mit Ihnen zu besprechen. Auch für Empfehlungen aus Ihrem Kontaktnetzwerk zeigen wir uns erkenntlich! Ihr Ansprechpartner: Roman Kiebgis - Client Services Manager Stromnetzinfrastruktur DACH *****",
       "first_seen": "2026-06-20T15:47:37.333105+00:00",
       "id": "c98e7031c4295de3",
@@ -5128,20 +5140,7 @@
       "source": "freelancermap.de",
       "title": "Senior Service Manager (m/w/d)",
       "url": "https://www.freelancermap.de/projekt/senior-service-manager-m-w-d-3008140"
-    },
-    {
-      "description": "Für einen Kunden suchen wir einen erfahrenen Interim SAP SCM Berater. (mwd). Aufgaben: * Ownership Product Backlog & Demand Management * Steuerung AMS-Provider, Incident/Change/Release Management * Unterstützung kritischer Incidents & RCA-Freigaben * E2E-Prozessverantwortung (Plan-to-Produce, Procure-to-Pay, Order-to-Deliver) * Stakeholder-Management (Business, IT, externe Partner) * Moderation agiler Prozesse (Scrum, Sprint Planning, Reviews) Profil: * Mehrjährige SAP-Erfahrung in den Modulen PP, MM, QM, PM und APO (idealerweise auch ME, BW) * Erfahrung in Produktions-/Supply-Chain-Prozessen * Know-how in Berechtigungskonzepten, Reporting & Datenverständnis * Grundkenntnisse ABAP * Starke Kommunikations- und Steuerungskompetenz im internationalen Umfeld * Erfahrung in agilen Methoden (Scrum) Rahmen: * Start: ASAP | Dauer: 6 Monate, mit Option auf Verlängerung * Sprachen: Deutsch und Englisch verhandlungssicher * Vor Ort Tätigkeit (Großraum Augsburg), Remote-Tätigkeit teilweise möglich",
-      "first_seen": "2026-06-07T10:27:22.520247+00:00",
-      "id": "1ff398697b093603",
-      "matched_keywords": [
-        "agil",
-        "scrum"
-      ],
-      "published": "2026-06-07T11:43:36+02:00",
-      "source": "freelancermap.de",
-      "title": "Senior SAP SCM Berater gesucht! (mwd) (3-4 Tage/Woche vor Ort)",
-      "url": "https://www.freelancermap.de/projekt/senior-sap-scm-berater-gesucht-mwd-3-4-tage-woche-vor-ort"
     }
   ],
-  "updated_at": "2026-06-21T08:38:49.686579+00:00"
+  "updated_at": "2026-06-21T11:44:32.468826+00:00"
 }
