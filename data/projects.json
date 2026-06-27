@@ -9588,15 +9588,5 @@
     "source": "freelancermap.de",
     "title": "Entwickler SAP FI/PSM, ABAP - 2 Positionen (m/w)",
     "url": "https://www.freelancermap.de/projekt/entwickler-sap-fi-psm-abap-2-positionen-m-w"
-  },
-  {
-    "description": "Aktuell suchen wir in Festanstellung derzeit einen Senior Infrastructure Engineer AWS Cloud und DevOps , die die nachfolgenden Anforderungen erfüllt: Ihre Aufgaben: Planung, Design und Implementierung von IT Infrastrukturen und Cloud Systemen Aufbau und Betrieb von AWS Cloud Infrastruktur, insbesondere VPC, Netzwerk, KMS, S3, IAM und CloudWatch Aufbau und Betrieb von CI/CD Pipelines mit GitLab CI und automatisiertem Deployment Entwicklung und Umsetzung von Prozessen zur Automatisierung von IT Infrastruktur und Cloud Systemen Monitoring, Alerting und Observability über CloudWatch, Dashboards und Alarme Umsetzung von Provider und Konsumenten Isolation, insbesondere IAM Boundaries und Bucket Policies Aufbau und Betrieb von Container Infrastruktur mit ECS/Fargate oder Kubernetes Überwachung, Wartung, Fehleranalyse und Problemlösung in produktionsnahen IT Systemen Implementierung von Disaster Recovery und Business Continuity Konzepten Dokumentation von IT Infrastrukturen und Cloud Systemen in Confluence, SharePoint und Office 365 Ihr Profil: Senior Erfahrung als Infrastructure Engineer, Cloud Engineer, DevOps Engineer oder in einer vergleichbaren Rolle Mindestens 5 Jahre fundierte Erfahrung mit AWS Cloud Infrastruktur, insbesondere S3, IAM, VPC, KMS und CloudWatch Mindestens 5 Jahre fundierte Erfahrung in der Implementierung mit Python Mindestens 3 Jahre Erfahrung im Aufbau von CI/CD Pipelines und Deployment Automatisierung Mindestens 3 Jahre Erfahrung mit Container Technologien wie Docker, ECS/Fargate oder Kubernetes Sehr gute Kenntnisse in Infrastructure as Code, idealerweise mit AWS CDK Erfahrung im Aufbau von Monitoring und Alerting, insbesondere mit CloudWatch, Grafana und Incident Response Erfahrung im IAM Least Privilege Design und Policy Authoring Erfahrung im Netzwerkdesign und in Netzwerksicherheit, insbesondere VPC, Security Groups, NACLs und Transit Gateway Idealerweise AWS Zertifizierung als AWS Certified DevOps Engineer oder SysOps Administrator Erfahrung mit GitLab, GitHub, Docker Desktop, Artifactory, Defect Dojo, AquaSec, VSCode, Jira und Confluence von Vorteil Deutschkenntnisse auf annähernd muttersprachlichem Niveau C2 erforderlich Rahmenparameter: Einsatzort: remote und Frankfurt Auslastung: Vollzeit Ihr GECO-Ansprechpartner freut sich auf Ihre Kontaktaufnahme und über die Zusendung Ihrer aussagekräftigen Projekthistorie sowie Ihrer Gehaltsvorstellung.",
-    "first_seen": "2026-06-12T22:23:37.919216+00:00",
-    "id": "8285947a7560e166",
-    "matched_keywords": [],
-    "published": "2026-06-12T22:33:05+02:00",
-    "source": "freelancermap.de",
-    "title": "Senior Infrastructure Engineer AWS Cloud und DevOps (m/w/d) Remote und Frankfurt / ZCRE238065",
-    "url": "https://www.freelancermap.de/projekt/senior-infrastructure-engineer-aws-cloud-und-devops-m-w-d-remote-und-frankfurt-zcre238065"
   }
 ]
