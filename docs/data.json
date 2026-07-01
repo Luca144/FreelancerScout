@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Für einen unserer Großkunden suchen wir derzeit eine Unterstützung , die die nachfolgenden Anforderungen erfüllt: Deine Aufgaben: Betrieb und Administration von Genua Genugate- und Genuscreen-Systemen im produktiven Umfeld Übernahme operativer und beratender Tätigkeiten zur Entlastung interner Betriebsteams Mitarbeit im laufenden Betrieb innerhalb bestehender PAP-Strukturen Unterstützung bei speziellen Einsatzszenarien, beispielsweise im Bereich DNS Doctoring Mitwirkung bei der Transformation bestehender physischer Systeme auf virtuelle Plattformen Aufbau und Betrieb dynamischer N-Cluster mit Lastverteilung und vorgelagertem Load Balancing Automatisierung und kontinuierliche Optimierung bestehender Betriebsprozesse Unterstützung bei der Einführung und Weiterentwicklung von IPv6 sowie Dual-Stack-Umgebungen inklusive Übergangsbewertung Beratung von Projekten hinsichtlich Architektur, Kommunikationspfaden und ALG-Funktionalitäten Unterstützung bei der fachlichen Bewertung technischer Anforderungen im Netzwerk- und Security-Umfeld Dein Profil: Mehrjährige Erfahrung im Betrieb von Genua Genugate und Genuscreen Fundierte Kenntnisse im operativen Betrieb von Sicherheitsgateways und Netzwerksicherheitslösungen Erfahrung bei der Transformation physischer Systeme in virtuelle Infrastrukturen Praxiserfahrung im Aufbau und Betrieb dynamischer N-Cluster Kenntnisse im Bereich Load Balancing und Hochverfügbarkeitslösungen Erfahrung in der Automatisierung und Optimierung von Betriebsprozessen Gute Kenntnisse im Bereich IPv4, IPv6 und Dual-Stack-Szenarien Erfahrung mit Netzwerk- und Security-Infrastrukturen Rahmenparameter: Einsatzort: Remote (95%) und nach Absprache in Berlin oder Bonn (5%) Laufzeit: Ab sofort - 31.12.2026 Auslastung: Vollauslastung Dein GECO-Ansprechpartner freut sich auf Deine Kontaktaufnahme und über die Zusendung Deiner aussagekräftigen Projekthistorie sowie Deiner Honorarvorstellung/Gehaltsvorstellung/Preisvorstellung.",
+      "first_seen": "2026-07-01T23:12:49.529114+00:00",
+      "id": "5a3aace0bf8a0eee",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-02T00:57:05+02:00",
+      "source": "freelancermap.de",
+      "title": "Genugate & Genuscreen Spezialist (m/w/d) Remote / ZCTA238112",
+      "url": "https://www.freelancermap.de/projekt/genugate-und-genuscreen-spezialist-m-w-d-remote-zcta238112"
+    },
+    {
       "description": "Für ein laufendes Projekt im Bereich Refinanzierung suchen wir einen erfahrenen Senior Business Analysten mit starkem Bankenfachverständnis und Projekterfahrung im Kreditumfeld. Fachliche Konzeption und Definition der Prozesstrecke BAG Eingangssammler Definition von Oberflächen, Services und Systemschnittstellen (Maskenkonzeption, Softwareergonomie) Fortschreibung des fachlichen Datenmodells sowie Definition der prozessrelevanten Daten und Dokumente Erstellung fachlicher Dokumentationen als Entwicklungsvorgabe für die IT Abstimmung mit BAG Hamm sowie Steuerung interner Auftragnehmer und betroffener Teams Mitarbeit im Squad Refinanzierung; weitere Aufgaben im Projektverlauf möglich Anforderungen: Bankfachliches Grundverständnis – Schwerpunkt Kreditgeschäft Primärbanken und/oder BAG Kenntnisse in der Immobilienfinanzierung Methodenkompetenz: Businessanalyse, Prozessdesign, Sachverhaltsaufbereitung Tools: Jira, Confluence, Aqua, Figma, Conceptboard, Microsoft 365 Atruvia-Kenntnisse (OKP/BWS, aVGM) von Vorteil Verhandlungssicheres Deutsch zwingend erforderlich",
       "first_seen": "2026-07-01T21:25:56.378806+00:00",
       "id": "337991efe29a4cb1",
@@ -5577,5 +5589,5 @@
       "url": "https://www.freelancermap.de/projekt/it-support-systemadministrator-windows-linux-und-m365-m-w-d-in-hamburg-und-remote-znmi238082"
     }
   ],
-  "updated_at": "2026-07-01T21:25:56.484644+00:00"
+  "updated_at": "2026-07-01T23:12:49.628391+00:00"
 }
