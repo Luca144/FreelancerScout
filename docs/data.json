@@ -1,6 +1,82 @@
 {
   "projects": [
     {
+      "description": "Leistungsbeschreibung Projektbeschreibung: Konzeption und Entwicklung der Schnittstelle „ S1 zwischen SAP und Robotron „eCount“ gemäß Funktionsbeschreibung der S1 Schnittstelle von Robotron Konzeption und Entwicklung der „Formelschnittstelle“ zwischen SAP und Robotron „eCount“ gemäß Funktionsbeschreibung Weiterentwicklung und Fehlerbehebung der Schnittstelle Mabis-Box zwischen SAP und Robotron „eCount“ gemäß Funktionsbeschreibung Anpassung von bestehendem Schnittstellencoding (ABAP) – analog bisheriger Einführungsprojekte im Konzern Implementierung von Datenexporten SAP IS-U (EDM) <> robotron eCount per Webservices bzw. XML-Exporten Aufgaben Abschluss Analyse und Konzeptionierung der notwendigen Entwicklungen Umsetzung der Schnittstellenentwicklung Begleitung und Optimierung der Schnittstelle im Rahmen von Tests Produktivsetzung der Schnittstelle (voraussichtlich Q1 2027) Anforderungen fundierte Kenntnisse des (Stamm-)Datenmodells von SAP IS-U, gute Programmierkenntnisse in ABAP bzw. ABAP OO des Moduls IS-U EDM (Energiedatenmanagement) und der Energiemengen- und Verteilnetzbilanzierung Kenntnisse der robotron Lösung \"eCount\" (Zielsystem) insbesondere Implementierung des eCount- Schnittstellen (S1 & Mabis-Box) Erfahrung in der SOAP/Webserviceentwicklung grundlegende Kenntnisse Marktregeln für die Durchführung der Bilanzkreisabrechnung Strom (MaBiS) aktueller Expertise im deutschen Energiemarkt (Tätigkeit in den letzten 2-3 Jahren) Über den Auftraggeber !!! Hierzu können ausschließlich sozialversicherungspflichtige Angestellte oder alternativ Nearshore-Ressourcen berücksichtigt werden !!! Start: ab sofort / zeitnah Ende: bis 30.04.2027 + Option Volumen: 1.220 Offsite Stunden Einsatzort: Remote",
+      "first_seen": "2026-07-01T15:39:34.107825+00:00",
+      "id": "d513725ef1fa9559",
+      "matched_keywords": [
+        "energie",
+        "netz"
+      ],
+      "published": "2026-07-01T17:37:07+02:00",
+      "source": "freelancermap.de",
+      "title": "SAP IS‑U Schnittstellenentwickler (m/w/d) - Remote",
+      "url": "https://www.freelancermap.de/projekt/sap-is-u-schnittstellenentwickler-m-w-d-remote"
+    },
+    {
+      "description": "Für ein spannendes Projekt aus dem öffentlichen Sektor suchen wir dich als erfahrene Projektassistenz (PMO) (m/w/d) im Rahmen der Arbeitnehmerüberlassung. - Start: ab sofort - Laufzeit: bis Ende des Jahres - Auslastung: Vollzeit - Projektstandort: Hamburg, 80% remote Aufgaben: Die Projektassistenz übernimmt Aufgaben im PMO, das zuständig für die gesamte Organisation des Programms/Projekts ist. Hierzu gehören: * On- und Offboarding von internen und externen Kräften * Organisation von Veranstaltungen * Betreuung des Sharepoints sowohl inhaltlich als auch administrativ * Kommunikation der Aktivitäten des Programms in verschiedene Gremien sowohl intern als auch zum Kunden * Controllingaufgaben (Budget des Programms, Prüfung und Freigabe von Leistungsnachweisen und Rechnungen) * Erstellung und Pflege/Steuerung von Statusberichten und Risikolisten in verschiedenen Medien * Meilensteinplanung und -überwachung, sowie Erstellung/Pflege der Roadmaps * Erstellung regelmäßiger Status in Jira zu den Projektfortschritten * Erstellung von Dokumentationen in Zusammenarbeit mit den Projekten (z.B. Statuspräsentationen) * Weiterentwicklung Organisation des Programms in Zusammenarbeit mit dem Programmleiter * Vor- und Nachbereitung von verschiedenen Sitzungen unterschiedlicher Ebenen (operativ, strategisch/Management, Kunden) inkl. Moderation und Protokollführung * Organisation von Veranstaltungen Anforderungen: * Kenntnisse des Projektcontrollings * Kenntnisse SAP, Outlook, Excel * Mehrjährige Erfahrungen im PMO von Großprojekten mit verschiedenen Teilprojekten * Grundkenntnisse der Rollen in agilen IT-Projekten (gerne auch Kenntnisse Rechenzentrum) * Erfahrung in der (Live-)protokollierung * Erfahrung in der Organisation von Veranstaltungen, Terminen und Workshops * Selbstorganisationsfähigkeit * Problemlösekompetenz * Durchsetzungsvermögen * Zahlenaffinität * Fähigkeit zur adressatengerechten Kommunikation * Hohe Belastbarkeit auch in schwierigen, sich häufig verändernden Aufgabestellungen Ref: IC",
+      "first_seen": "2026-07-01T15:39:34.107825+00:00",
+      "id": "d3a599ed45f7f360",
+      "matched_keywords": [
+        "pmo",
+        "agil"
+      ],
+      "published": "2026-07-01T17:35:33+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektassistenz (PMO) (m/w/d) | öffentlicher Dienst | Arbeitnehmerüberlassung",
+      "url": "https://www.freelancermap.de/projekt/projektassistenz-pmo-m-w-d-oeffentlicher-dienst-arbeitnehmerueberlassung"
+    },
+    {
+      "description": "Projektbeschreibung Für unseren Kunden aus dem industriellen Umfeld suchen wir einen erfahrenen Inbetriebnahmeingenieur (m/w/d), der die verantwortliche Inbetriebnahme und technische Betreuung von komplexen Gleichstromsystemen (DC) und moderner Energieversorgungsinfrastruktur übernimmt. Hintergrund des Projekts ist die technologische Integration und Netzanbindung von Photovoltaikanlagen über Transformatoren sowie die Einbindung innovativer Energiespeichersysteme (SuperCaps) im Kontext eines automatisierten Hochregallagers. Gesucht wird ausdrücklich ein pragmatischer Experte (m/w/d) mit fundierter Praxis- und Hands-on-Erfahrung in der industriellen Elektrotechnik, der dieses anspruchsvolle Inbetriebnahme-Projekt eigenverantwortlich und lösungsorientiert vorantreibt. Projektdetails Start: 03.08.2026 Laufzeit: 6 Monate + Option auf Verlängerung Auslastung: Vollzeit Einsatzort: Onsite - Erlangen Aufgaben Eigenverantwortliche Inbetriebnahme von DC-Energieversorgungssystemen im industriellen Umfeld Technische Betreuung, Optimierung und Stabilitätsüberwachung von Gleichstromnetzen (DC) Inbetriebnahme und nahtlose Integration von Photovoltaikanlagen inklusive der Transformatorenanbindung Unterstützung bei der Einbindung von modernen Energiespeichersystemen auf Basis von SuperCaps (Superkondensatoren) Begleitung und Überwachung der Inbetriebnahme eines automatisierten Hochregallagers mit speziellem DC-Versorgungskonzept Konzeptionierung und Durchführung von umfassenden Funktions-, Sicherheits- und Abnahmetests direkt an der Anlage Systematische Fehleranalyse und nachhaltige Störungsbehebung im laufenden Inbetriebnahmeprozess Enges Schnittstellenmanagement und Abstimmung mit internen Fachbereichen, externen Lieferanten und Projektpartnern Erstellung, lückenlose Pflege und Strukturierung der technischen Inbetriebnahmedokumentation Must-have Qualifikationen Erfolgreich abgeschlossenes Studium der Elektrotechnik, Energietechnik, Automatisierungstechnik oder eine vergleichbare technische Qualifikation Mehrjährige Erfahrung als Inbetriebnahmeingenieur (IBN) im industriellen Anlagenbau Tiefgehendes Fachwissen im Bereich Gleichstromsysteme (DC) sowie in der industriellen Energieversorgung Nachweisbare Erfahrung in der elektrotechnischen Einbindung von PV-Anlagen und Transformatoren Kenntnisse im Umgang mit SuperCaps bzw. Superkondensatoren sind ausdrücklich wünschenswert Idealerweise Erfahrung im Umfeld von automatisierten Hochregallagern, der Fördertechnik oder allgemeinen Intralogistikanlagen Ausgeprägte Hands-on-Mentalität sowie die Bereitschaft, aktiv und eigenverantwortlich direkt an den Anlagen zu arbeiten Strukturierte, selbstständige und lösungsorientierte Arbeitsweise gepaart mit hoher Eigenverantwortung Sehr gute Kommunikations- und Koordinationsfähigkeiten im Projektumfeld Fließende Deutschkenntnisse in Wort und Schrift Projektziel Ziel des Projekts ist die sichere, termingerechte und erfolgreiche Inbetriebnahme der gesamten DC-Infrastruktur sowie die stabile Systemintegration der PV-Anlagen und SuperCaps in das automatisierte Hochregallager. Durch Ihren praxisnahen Einsatz stellen Sie die funktionale Zuverlässigkeit und die Einhaltung aller Sicherheits- und Qualitätsstandards der industriellen Energieversorgung nachhaltig sicher. Sind Sie aktuell verfügbar und bringen die erforderliche Erfahrung mit? Dann freuen wir uns auf Ihr aktuelles Profil inklusive Verfügbarkeit und Stundensatz an: ***** Mit freundlichen Grüßen Dilan Senkaya",
+      "first_seen": "2026-07-01T15:39:34.107825+00:00",
+      "id": "655a52d3afd980c4",
+      "matched_keywords": [
+        "energie",
+        "netz"
+      ],
+      "published": "2026-07-01T17:32:27+02:00",
+      "source": "freelancermap.de",
+      "title": "FREELANCE Senior Inbetriebnahmeingenieur Elektrotechnik – DC-Systeme / PV-Anbindung (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/freelance-senior-inbetriebnahmeingenieur-elektrotechnik-dc-systeme-pv-anbindung-m-w-d"
+    },
+    {
+      "description": "Deine Aufgaben Unterstützung des Verpackungsteams in der Impfstoffproduktion Mitarbeit im lokalen und globalen Track & Trace-Team Enge Zusammenarbeit mit Produktion, IT, Automatisierung und Engineering Erstellung, Pflege und Schulung GMP-relevanter Dokumentationen Qualifizierung von Track & Trace-Anlagen sowie Durchführung von Change Controls Sicherstellung des störungsfreien Betriebs von Track & Trace- und Automatisierungssystemen Analyse und Behebung von Störungen sowie kontinuierliche Systemoptimierung Bearbeitung von Abweichungen, Fehleranalysen und CAPA-Maßnahmen Übernahme der Rolle als Subject Matter Expert (SME) für UniSecure und digitale Produktionslösungen Dein Profil Abgeschlossenes Studium der Pharmatechnik, Pharmazie, Elektrotechnik, Informatik, Maschinenbau oder einer vergleichbaren Fachrichtung; alternativ Meister oder Techniker mit entsprechender Berufserfahrung Erfahrung im Bereich Serialisierung und Aggregation, idealerweise mit dem Track & Trace-System Systech Kenntnisse in der Automatisierungstechnik und im GMP-regulierten Umfeld Erfahrung mit Abfüll-, Verpackungs- oder Produktionsanlagen in der Pharma-, Kosmetik- oder Lebensmittelindustrie Praxis in der Bearbeitung von Change Controls, Abweichungen, CAPAs, SOPs und Reklamationen Erfahrung in der Qualifizierung von Anlagen und computergestützten Systemen Strukturierte, qualitätsorientierte Arbeitsweise sowie sehr gute Englischkenntnisse SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-07-01T15:39:34.107825+00:00",
+      "id": "11a980ffcb7f673c",
+      "matched_keywords": [
+        "tso"
+      ],
+      "published": "2026-07-01T17:27:26+02:00",
+      "source": "freelancermap.de",
+      "title": "Automation Engineer (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/automation-engineer-m-w-d-3018136"
+    },
+    {
+      "description": "Wir, die bridgingIT-Gruppe, sind eine herstellerunabhängige, produktneutrale Technologie- und Unternehmensberatung, die Kunden aus den verschiedensten Branchen bei wegweisenden Veränderungsvorhaben unterstützt. Immer dann, wenn wir aufgrund von fehlender Kapazität, dennoch unseren Kunden zufrieden stellen möchten, treten wir über unser Partnermanagement an Externe Professionals. Wir würden uns freuen, Sie schon bald in unserem Partnernetzwerk begrüßen zu dürfen. Anforderungen Analyse der bestehenden ColdFusion-Anwendung und ihrer Fachlogik Untersuchung der eingebetteten SQL-Abfragen und Datenflüsse Analyse der bestehenden Teradata-Datenquellen und ihrer Nutzung Bewertung der technischen Machbarkeit einer Migration nach Google Cloud Platform (BigQuery) Erstellung einer Aufwandsschätzung für die Migration von Teradata auf BigQuery Identifikation technischer Abhängigkeiten und möglicher Migrationsrisiken Dokumentation der Analyseergebnisse und Handlungsempfehlungen Abstimmung mit Fachbereichen und technischen Ansprechpartnern Unterstützung bei der Planung der Systemumstellung im Rahmen des Teradata Ramp-down Programms Optional Zusammenarbeit im Tandem oder in Teilzeit, je nach Projektbedarf Muss-Kriterien Mehrjährige Erfahrung als Data Analyst / Data Consultant Sehr gute SQL-Kenntnisse Erfahrung mit Teradata Erfahrung mit Google Cloud Platform (GCP) und BigQuery Kenntnisse in ColdFusion Erfahrung in Analyse, Impact Assessments und Aufwandsschätzungen für Migrationsprojekte Melden Sie sich bei Interesse oder Rückfragen jederzeit gerne bei Ihrem Ansprechpartner: Cihan Falay",
+      "first_seen": "2026-07-01T15:39:34.107825+00:00",
+      "id": "f200291079cc0023",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-01T17:13:49+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Data Analytics Consultant (NUR ANGESTELLTE!)",
+      "url": "https://www.freelancermap.de/projekt/senior-data-analytics-consultant-nur-angestellte"
+    },
+    {
+      "description": "Für unseren Kunden aus dem öffentlichen Sektor suchen wir nach einem Projektmanager Qualitätsmanagement (m/w/d). Rahmendaten: Start: ab September Dauer: bis Ende August 2027 Auslastung: Teilzeit 60% Einsatzort: 30% vor Ort in Nürnberg, 70% Remote Aufgaben: Konkrete Ausgestaltung der Qualitätssicherung und daraus notwendige Durchführung der Qualitätssicherungsmaßnahmen Abstimmung mit der Projektleitung und Berichterstattung in Form eines Qualitätsstatusberichts Überwachung der Qualität im Projekt und damit auch der Qualität der Projektergebnisse, Vorgabe von Richtlinien, Mitwirkung bei der Projektplanung, Dokumentation von Prüfergebnissen in den QS-Berichten Konzeption und Weiterentwicklung der Prozesse im Rahmen des Qualitätsmanagements Analyse von Qualitätsabweichungen und Nachverfolgung definierter Korrektur- und Präventivmaßnahmen Erstellung und Pflege von Qualitätsmanagement-Dokumenten Anforderungen: Zwingend erforderlich: Projekterfahrung bei der Bundesagentur für Arbeit Expertenkenntnisse im Qualitätsmanagement, Risikomanagement, Anforderungsmanagement und im Programmmanagement Sehr gute Kenntnisse in der Projektplanung und im Projektcontrolling Kenntnisse in der Kosten- bzw. Einsatzmittelplanung Kenntnisse in Ablauf- und Terminplanung Erfahrung im Change- / Konfiguration-Management Projekterfahrung mit Jira & Confluence Kenntnisse im agilen Projektmanagement und in der Strategieentwicklung Bei Interesse senden Sie mir bitte Ihren Stundensatz und Ihren CV!",
+      "first_seen": "2026-07-01T15:39:34.107825+00:00",
+      "id": "1ad5c13a5a4d5f1d",
+      "matched_keywords": [
+        "projektmanager",
+        "agil"
+      ],
+      "published": "2026-07-01T14:23:31+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektmanager Qualitätsmanagement (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/projektmanager-qualitaetsmanagement-m-w-d-3017924"
+    },
+    {
       "description": "Die Rolle des Product Owners Marketplace zielt darauf ab, die internationale Einführung des Marktplatzes zu ermöglichen und sicherzustellen, dass alle geschäftlichen Anforderungen erfüllt werden. Der Product Owner fungiert als Hauptansprechpartner und verantwortet die Strategieentwicklung sowie die enge Zusammenarbeit mit verschiedenen Stakeholdern zur Verbesserung der Nutzererfahrung und Leistungsfähigkeit des Marktplatzes.",
       "first_seen": "2026-07-01T12:03:05.246675+00:00",
       "id": "ed6d609c84153b82",
@@ -5464,67 +5540,7 @@
       "source": "freelancermap.de",
       "title": "QA Engineer (m/w/d) REMOTE",
       "url": "https://www.freelancermap.de/projekt/qa-engineer-m-w-d-remote-3012602"
-    },
-    {
-      "description": "Ihr Aufgabengebiet Einbau, Ausbau und Inbetriebnahme von Servern und IT?Hardware in Racks Durchführung von Verkabelungsarbeiten (Kupfer & Glasfaser / LWL) nach vorgegebenen Plänen Anschluss und Betrieb von Netzwerk-, Storage- und IT?Infrastrukturkomponenten Durchführung elektrotechnischer Arbeiten z. B. Stromanschlüsse, PDUs und Lastverteilung Analyse und Behebung technischer Störungen im Rechenzentrumsbetrieb Austausch defekter Hardware sowie die Unterstützung im laufenden Betrieb Pflege und Aktualisierung technischer Dokumentationen (Verkabelung, Racks, Infrastruktur) Das bieten wir Ihnen Fachliche und persönliche Weiterentwicklungsmöglichkeiten Bei uns können Sie eigene Ideen einbringen und aktiv mitgestalten Echter Teamspirit und Leidenschaft für das, was wir tun Networking und einfach Spaß haben bei Teamevents, Weihnachtsfeiern oder Sommerfesten Vergütete Urlaubs-, Kranken- und Feiertage sowie Zuschuss für Bildschirmarbeitsplatzbrillen Gesicherte und konstante Auslastung über den gesamten Projektzeitraum Ihr Profil Abgeschlossene Berufsausbildung im elektrotechnischen Umfeld, z. B. als Elektroniker, Elektriker, Mechatroniker oder in einem vergleichbaren technischen Beruf Qualifikation als Elektrofachkraft (EFK) oder Elektrofachkraft für festgelegte Tätigkeiten (EFKffT) bzw. die fachliche Voraussetzung, diese Funktion im Unternehmen auszuüben Praktische Wissen im Betrieb technischer Infrastrukturen, idealerweise im Rechenzentrums- oder vergleichbaren industriellen Umfeld Kenntnisse im Einbau und in der Verkabelung von IT-Hardware z. B. Server, Netzwerk- und Storage-Komponenten Erfahrung im Umgang mit Netzwerk- und Glasfaserverkabelung (Kupfer / LWL) Grundverständnis von Netzwerktechnologien wie IP-basierte Netzwerke und VLANs Sicherer Umgang mit technischer Dokumentation sowie strukturierte Arbeitsweise nach Vorgaben und Plänen",
-      "first_seen": "2026-06-17T15:22:12.068544+00:00",
-      "id": "9238f9403d350785",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-06-17T17:13:33+02:00",
-      "source": "freelancermap.de",
-      "title": "Datacenter Engineer (m/w/d) *****-MA-CO",
-      "url": "https://www.freelancermap.de/projekt/datacenter-engineer-m-w-d-ma-co"
-    },
-    {
-      "description": "Für einen Kunden aus dem öffentlichen Sektor suchen wir derzeit einen Testmanager (m/w/d) mit Hands-On Testing Anteil. WICHTIG: Für diese Position ist die Bereitschaft für eine SÜ2 (Sabotageschutz) notwendig. Zudem fordert der Kunde eine kostenfreie Einarbeitung von ca. 10% der Auftragssumme (ca. 60 Stunden). Für diese Position können wir einen max netto Stundensatz von 80,00 € für vor Ort und remote anbieten. Laufzeit: asap - 31.10.2026 Auslastung: 80% - 100% (ca. 600 Stunden) Standort: 80% Remote | 20% Nürnberg Tasks: Konzeption und Weiterentwicklung des fachlichen und technischen Testvorgehens bzw. von Last- und Performance-Tests unter Berücksichtigung der Prozesse, Methoden und Werkzeuge des IT-Systemhauses Planung und Steuerung des Testvorgehens in den Umsetzungsteams Konzeption der Testautomatisierung Fachliche Entwicklung von Systemintegrationstest Konzeption, Planung und Durchführung von Verbundlasttests Erstellung und Fortschreibung von Testkonzept und Testplanung in Zusammenarbeit mit den Entwicklungsteams Koordination aller Testaktivitäten des Projektes (intern und mit Partnern) Der Testmanager ist verantwortlich dafür, dass in den Teststufen Entwicklungstest, Systemtest (inkl. Last- und Performancetest), Produktintegrationstest und Test des Deployments: das erstellte Testkonzept von den Umsetzungsteams eingehalten wird Testspezifikationen erstellt, Tests durchgeführt, Tests automatisiert, Testergebnisse berichtet werden. Skills / Technologien im Projekt: Tamara (alternativ Selenium) Barrierefreiheit Aqua Kafka Java Angular GitHub Jira Confluence Rest",
-      "first_seen": "2026-06-17T15:22:12.068544+00:00",
-      "id": "f38ba09e8bf591b7",
-      "matched_keywords": [
-        "testmanager"
-      ],
-      "published": "2026-06-17T17:11:03+02:00",
-      "source": "freelancermap.de",
-      "title": "80% Remote: Testmanager (m/w/d) mit Hands-On Testing Anteil - Kostenlose Einarbeitung",
-      "url": "https://www.freelancermap.de/projekt/80-prozent-remote-testmanager-m-w-d-mit-hands-on-testing-anteil-kostenlose-einarbeitung"
-    },
-    {
-      "description": "Start: Juli 20026 Dauer: Dezember 2027 Auslastung: 35 Stunden/Woche Einsatzort: Berlin Remote-Anteil: bis zu 90% möglich Vertragsart: Arbeitnehmerüberlassung Aufgabenbereich: Sie übernehmen das Active Sourcing von Kandidatinnen und Kandidaten, insbesondere im IT- und Security-Umfeld. Dabei identifizieren Sie geeignete Talente und sprechen diese proaktiv über Plattformen wie LinkedIn, Xing und ähnliche Netzwerke an. Zu Ihren Aufgaben gehört außerdem das Screening von Lebensläufen sowie die Durchführung von Pre-Screening-Gesprächen zur ersten fachlichen und persönlichen Einschätzung. Darüber hinaus bauen Sie Talentpools auf und pflegen diese kontinuierlich, um eine nachhaltige Kandidatenpipeline sicherzustellen. Sie unterstützen den gesamten Recruiting-Prozess, insbesondere durch die Koordination von Interviews und die Kommunikation mit Kandidaten und internen Ansprechpartnern. Ergänzend wirken Sie bei der Erstellung und Veröffentlichung von Stellenanzeigen sowie bei weiteren Recruiting- und Personalmarketingmaßnahmen mit. Das bringen Sie mit: Sie verfügen über mehrjährige praktische Erfahrung im Active Sourcing und in der direkten Ansprache von Kandidatinnen und Kandidaten. Zudem bringen Sie fundierte Erfahrung im Recruiting, insbesondere im IT- oder Tech-Umfeld, mit. Sie sind routiniert im Umgang mit gängigen Recruiting-Plattformen wie LinkedIn, Xing oder vergleichbaren Tools und setzen diese sicher im Arbeitsalltag ein. Darüber hinaus können Sie mindestens zwei aktuelle und aussagekräftige Referenzen vorweisen, die Ihre Erfahrung im Active Sourcing bzw. Recruiting belegen. Sollte die Aufgabe spannend für Sie klingen, zögern Sie nicht mich zu kontaktieren. Gerne dürfen Sie das Projekt auch in Ihrem Netzwerk teilen. Bei erfolgreicher Vermittlung eines Kollegen winkt Ihnen ein 250 EUR Amazon Gutschein als Dankeschön zu. Ich freue mich auf Ihre Rückmeldung! SThree_Germany is acting as an Employment Business in relation to this vacancy.",
-      "first_seen": "2026-06-17T15:22:12.068544+00:00",
-      "id": "2ead2ae0c4242dfa",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-06-17T17:01:25+02:00",
-      "source": "freelancermap.de",
-      "title": "Active Sourcer / Recruiter (IT) (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/active-sourcer-recruiter-it-m-w-d"
-    },
-    {
-      "description": "Sehr geehrte Damen und Herren, für einen unserer direkten Kunden suchen wir aktuell einen Kafka Platform Engineer (m/w/d) im Rahmen eines öffentlichen IT-Modernisierungsprogramms. Projektbeschreibung Start: 11.05.2026 Ende: 31.12.2026 Ort: Remote (Einsätze vor Ort nach Bedarf, max. ca. 10 Tage pro Jahr, Standort flexibel innerhalb Deutschlands) Auslastung: ca. 100% Projekthintergrund: Im Rahmen eines behördlichen Programms wird eine bestehende IT-Systemlandschaft für kritische Verwaltungsprozesse modernisiert und auf eine skalierbare, cloud- und containerbasierte Architektur überführt. Ziel ist die Ablösung und Weiterentwicklung bestehender Fachverfahren in den Bereichen Planung, Verarbeitung und Abrechnung öffentlicher Haushaltsprozesse. Der Fokus liegt auf einer zukunftsfähigen Plattformarchitektur, die hohe Sicherheits-, Verfügbarkeits- und Skalierbarkeitsanforderungen erfüllt und eine flexible Anpassung an regulatorische und organisatorische Änderungen ermöglicht. Aufgaben: Design, Aufbau und Betrieb skalierbarer Apache-Kafka-Cluster (on-prem, Azure, OpenShift) Konfiguration und Wartung von Kafka-Komponenten (Broker, Kafka Connect, ksqlDB, Schema Registry, MirrorMaker) Implementierung von Sicherheits- und Authentifizierungsmechanismen (TLS, SASL, ACLs, Kerberos) Monitoring, Logging und Performance-Optimierung (Prometheus, Grafana, JMX, Kafka Metrics) Incident-Management inkl. Fehleranalyse, Root Cause Analysis, Wiederherstellung und Post-Mortem-Dokumentation Automatisierung von Deployments und Infrastruktur-Konfigurationen mittels IaC und GitOps-Ansätzen Kapazitätsplanung sowie Kosten- und Performance-Optimierung (Partitionierung, Tiered Storage, Dynamic Scaling) Unterstützung bei Architekturentscheidungen im Kafka-Umfeld Erstellung technischer Dokumentationen, Best Practices und Wissensaufbau für Betriebs- und Entwicklungsteams Anforderungen: Tiefgehende Expertise in Apache Kafka / Confluent Kafka (Broker-Installation, Cluster-Setup, Topic-Management, Partitioning, Replication, Quotas, ACLs) Erfahrung mit Kafka-Connect, ksqlDB / Kafka Streams, Schema Registry Monitoring & Performance-Tuning (JMX-Metriken, Prometheus, Grafana, Kafka-Metrics) Fehlerdiagnose & Incident-Response in einer produktiven Kafka-Umgebung Grundlegende Kenntnisse in Kubernetes/OpenShift (Deployment von Kafka-Clustern in Container-Umgebungen) Sicheres Verständnis von Netzwerk- und Sicherheitskonzepten (TLS/SSL, Kerberos, SASL) Nice-to-Haves: Erfahrung mit GitOps-Automatisierung (ArgoCD/Flux, Helm-Charts, CRDs) für Kafka-Deployment Infrastruktur-as-Code (IaC) mit Terraform für Azure / Kubernetes-Ressourcen Kenntnisse in Hybrid-Cloud-Umgebungen (Azure + On-Prem) und deren Netzwerkintegration Erfahrung mit Container-Security-Frameworks (OPA, Kyverno, Image-Scanning) Praktische Umsetzung von Disaster-Recovery- und HA-Strategien (Raft-Mode, Zookeeper-Free, MirrorMaker) Optimierung von Kafka-Kosten und Kapazitäten (Dynamic Scaling, Tiered Storage) Für Rückfragen stehen wir Ihnen jederzeit gern zur Verfügung. Mit freundlichen Grüßen Johannes Araya Associate Recruiter ISO Recruiting Consultants GmbH – Ein Unternehmen der ISO-Gruppe – Zum Laurenburger Hof 76 | 60594 Frankfurt am Main Johannes.Araya(et)iso-gruppe.com www.iso-recruiting-consultants.com Amtsgericht Nürnberg HRB 29609 Geschäftsführer: Harald Goeb, Johannes Reichel | Sitz: Nürnberg Die gesetzlichen Pflichtinformationen zum Thema Datenschutz finden Sie hier: https://iso-recruiting-consultants.com/datenschutzerklaerung#datenschutzinformationspflicht_irc_extern Wichtiger Hinweis: Diese E-Mail und etwaige Anlagen enthalten firmenvertrauliche Informationen. Sollten Sie diese E-Mail irrtümlich erhalten haben, benachrichtigen Sie uns bitte durch Antwort-Mail und löschen Sie diese E-Mail nebst Anlagen von Ihrem System. Vielen Dank.",
-      "first_seen": "2026-06-17T15:22:12.068544+00:00",
-      "id": "e78bb9eb7771b3b6",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-06-17T16:54:22+02:00",
-      "source": "freelancermap.de",
-      "title": "Kafka Platform Engineer (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/kafka-platform-engineer-m-w-d-3012543"
-    },
-    {
-      "description": "Ein weltweit führendes, stark wachsendes Technologieunternehmen aus dem Segment der High-Tech-Geodaten- und SaaS-Lösungen sucht einen versierten Freelancer (m/w/d). In dieser Schlüsselposition steuern Sie die globalen Vermarktungsaktivitäten über das gesamte Partner- und Reseller-Ökosystem hinweg. Unser Partner bietet ein hochmodernes Arbeitsumfeld im Raum München sowie die Perspektive, das Projekt bei beidseitigem Interesse (langfristig dann im Rahmen einer Festanstellung) fortzuführen. Ihre Aufgaben Eigenständige Steuerung und Administration des MDF-Programms (Market Development Fund) , inklusive der Budgetüberwachung, Freigabeprozesse und der finalen Abrechnung mit globalen Resellern. Souveränes Projektmanagement von Co-Branded-Kampagnen zur Lead-Generierung (Paid, Organic, Events) in direkter Abstimmung mit den Partnern und internen Content-Teams. Konzeption, Redaktion und eigenverantwortlicher Versand des Reseller-Newsletters sowie die kontinuierliche Bereitstellung von Kampagnen-Assets und Updates über die Kommunikationskanäle. Strategische Pflege und inhaltliche Aktualisierung des Reseller-Portals , um den globalen Partnern jederzeit autarken Zugriff auf relevante Marketingmaterialien zu garantieren. Vollständige Vorbereitung und Durchführung von Onboarding-Events , Zertifizierungsprogrammen sowie von Produktlaunch-Kampagnen zur Sicherung der vertrieblichen Partner-Readiness. Proaktives Beziehungsmanagement und Beratung der Reseller über verschiedene Zeitzonen hinweg sowie strategische Synchronisation der Aktivitäten mit dem internen Channel-Sales-Team. Ihr Profil für dieses Projekt Mehrjährige, fundierte Projekterfahrung (3+ Jahre) im B2B-Marketing , explizit in der Steuerung von Channel-, Partner- oder Reseller-Programmen im Tech- bzw. SaaS-Umfeld. Nachweisbare Praxisstärke im Management von MDF- und Co-op-Marketingbudgets sowie in der eigenständigen Koordination globaler Netzwerke. Exzellente, verhandlungssichere Kommunikationsfähigkeiten in englischer Sprache (Deutsch ist ein vorteilhaftes Add-on) für den täglichen, weltweiten Austausch. Ausgeprägte Macher-Mentalität (Self-Starter) mit der Fähigkeit, sich extrem zügig und autark in komplexe, technische Themengebiete einzuarbeiten. Erfahrung im Umgang mit modernen Marketing- & Projekt-Tools (idealerweise HubSpot, Monday.com, Confluence oder MS Teams) wird vorausgesetzt. Branchenkenntnisse aus den Bereichen Geodaten (Geospatial), AEC (Architektur/Bauwesen) oder Vermessung runden Ihr Profil ideal ab. Die Eckdaten (Hard Facts) Projektstart: Zum nächstmöglichen Zeitpunkt Projektdauer: ca. 12 Monate – Option auf anschließende Festanstellung gegeben Projektauslastung: Vollzeit bevorzugt (Flexibilität im Rahmen des Projektbedarfs abstimmbar) Einsatzort / Arbeitsmodell: Full Remote möglich",
-      "first_seen": "2026-06-17T15:22:12.068544+00:00",
-      "id": "ecc5d0eff61ae08c",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-06-17T16:47:03+02:00",
-      "source": "freelancermap.de",
-      "title": "Freelance B2B Marketing Manager (m/w/d) Focus: Reseller Programs & MDF",
-      "url": "https://www.freelancermap.de/projekt/freelance-b2b-marketing-manager-m-w-d-focus-reseller-programs-und-mdf"
     }
   ],
-  "updated_at": "2026-07-01T12:03:05.328976+00:00"
+  "updated_at": "2026-07-01T15:39:34.206036+00:00"
 }
