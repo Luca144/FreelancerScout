@@ -1,6 +1,112 @@
 {
   "projects": [
     {
+      "description": "Für unseren Kunden suchen wir aktuell eine/n Operations Engineer (m/w/d) Rahmeninformationen Referenz: 179201 Einsatzort: Berlin Starttermin: 01.08.2026 Arbeitszeit: Vollzeit (35h/Woche) Vertragsart: Arbeitnehmerüberlassung Ihre Qualifikationen - Erfolgreich abgeschlossenes Studium mit Schwerpunkt Informatik, eine abgeschlossene Ausbildung im IT-Bereich oder eine gleichwertige Qualifikation - mehrjährige Erfahrungen im IT-Betrieb oder Produktionssupport - fundierte Erfahrung mit Systemadministrationsaufgaben - fundierte Erfahrung mit Linux-Plattformen - ITIL-Grundkenntnisse - sehr gute Deutsch-Kenntnisse (C1) in Wort und Schrift - Englisch-Kenntnisse (B2) - Mindestens 3 Jahre relevante Erfahrung im Support (2nd-3rd Level) oder Operations Tätigkeiten im Anwendungsbetrieb mit Kubernetes - Know-how im Umgang mit mindestens 3 Technologien: Kubernetes, Openshift, Docker, Postgres, Grafana, Prometheus, Gitlab, Terraform - Erfahrung in der Arbeit mit Services eines Hyperscaler wie AWS, Microsoft Azure oder Google Cloud Plattform - relevante Erfahrung im Umgang mit Jira und Confluence - Kenntnisse in mindestens einer der Programmiersprachen: Python, Bash Scripting, Go, Ruby, Perl oder anderen vergleichbaren Ihre Aufgaben - Verantwortung für gemeldete Kundenprobleme und Verfolgung dieser bis zur Lösung, - Untersuchung, Diagnose und Ermittlung von Lösungen zur Behebung von Problemen in den Services - Einhaltung der vorgegebenen Prozesse für die Eskalation von ungelösten Problemen an die zuständigen internen Teams - Überwachung und Einhaltung der SLO-Alarme und Fehlerbudgets, - Management des Incident-Response-Flows, - Identifizierung und Implementierung von Automatisierungsmöglichkeiten, - Bearbeitung und Lösung offener Support-Tickets unter Einhaltung der SLAs, Koordination mit unterschiedlichen Stakeholdern zur Durchführung von blameless Post Mortems. Interessiert? Wir freuen uns auf Ihre aussagekräftigen Bewerbungsunterlagen in elektronischer Form. Ihr Ansprechpartner: Justus von Lenthe ***** *****",
+      "first_seen": "2026-07-02T15:14:39.627633+00:00",
+      "id": "d89d792c82783139",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-07-02T17:10:10+02:00",
+      "source": "freelancermap.de",
+      "title": "Operations Engineer  (m/w/d) - Arbeitnehmerüberlassung / ANÜ - Berlin",
+      "url": "https://www.freelancermap.de/projekt/operations-engineer-m-w-d-arbeitnehmerueberlassung-anue-berlin"
+    },
+    {
+      "description": "Leistungsbeschreibung Beratung Konzernprogramm im SAP-Umfeld bei der Programmmanagement-Strategie, d.h. in Prozessen, Organisation und Projektmanagement-Tools und deren Umsetzung Das Programm besteht aus 12 Teilprojekten mit Schwerpunkt auf der Umstellung der Meter2ash-Prozesse auf S4 Hana. Anforderungen Beratung des PMO-Leiters bei der Weiterentwicklung des PMOs und seiner Methoden Beratung bei der Ausgestaltung von Projektmanagement-Vorgaben (Templates, Ergebnistypen und Tools). Beratung bei der Organisation des Change-, Risiko- und Abhängigkeiten-Managements Selbstständige Mitarbeit beim Programm-Controlling Beratender Sparringspartner für Projekte Hilfestellung und Qualitätssicherung bei der Erstellung der wichtigsten Ergebnistypen in den Projekten (Projektauftrag, Plan, Change Request, Abschluss, Stakeholder-Kommunikation) Vorbereitung und Nachbereitung von Gremiensitzungen wie Lenkungskreisen bis zur Vorstandseben\" Areas of Expertise MS Project | +6 Jahre Areas of Expertise Project Management | 4 - 6 Jahre Technical Skills Project Management | +6 Jahre Technical Skills Project Planning | +6 Jahre Zusätzliche Kompetenzen: Muss: Mindestens 6+ Jahre Erfahrung in einer (IT-)Beratung Mindestens 6+ Jahre Tätigkeit in einem PMO eines oder mehrerer Programme in Konzernen Umfangreiche Kenntnisse eines oder mehrerer gängiger Programm- unnd Projektmanagement-Standards (GPM, Prince2, PMP, Scrum, SAFe) Erfahrung als Projektleiter oder Teilprojektleiter Erfahrung im Projektcontrolling (z.B. mit Earned Value Analyse) Erfahrungen im Abhängigkeiten- und Rolloutmanagement Sehr gute Kommunikationsfähigkeiten Sehr hohe Kundenorientierung Eigeninitiativ, intrinsisch motiviert, nimmt Aufgaben eigenständig auf, macht eigenständig Vorschläge Präzises, strukturiertes und effizientes Vorgehen Bereitschaft 2-3 Tage vor Ort in Frankfurt zu arbeiten Programm- oder Projektmanagement-Zertifizierung (GPM/IPMA, Prince2, PMP, Scrum, SAFe oder vergleichbar) Über den Auftraggeber Start: 03.08.2026 Ende: 31.12.2027 Auslastung: ca. 100% Onsite Stunden: 979 Offsite Stunden: 1468 Stunden Reisezeit für projektbedingte Reisen: 50 Vertragsart: Contracting | Nur sozialversicherungspflichtige Angestellte können berücksichtig werden | Bitte machen Sie es beim hochladen in unseren Portal kenntlich das Sie Anbieter statt Selbstständig sind! Standort: Remote sowie Vor Ort | Verfügbarkeit in Frankfurt 1-2 Tage pro Woche notwendig",
+      "first_seen": "2026-07-02T15:14:39.627633+00:00",
+      "id": "04c529c8247579ba",
+      "matched_keywords": [
+        "pmo",
+        "scrum"
+      ],
+      "published": "2026-07-02T17:07:10+02:00",
+      "source": "freelancermap.de",
+      "title": "Berater des PMO-Leiter (m/w/d) Fokus Change | Roll-Out | Programmebene",
+      "url": "https://www.freelancermap.de/projekt/berater-des-pmo-leiter-m-w-d-fokus-change-roll-out-programmebene"
+    },
+    {
+      "description": "Für ein Wasserstoff-Großprojekt suche ich aktuell einen Lead Engineer Konstruktion & Anlagenplanung (m/w/d) im PMC-Umfeld. Rahmenbedingungen Start: Ab 01.09. Laufzeit: 02/2027 mit Option auf Verlängerung, Projekt läuft bis 2028 Auslastung: Vollzeit Einsatzort: vor Ort + Remote Projektsprache: Deutsch Aufgaben: - Steuerung und Integration des Gesamtanlagenlayouts - Schnittstellenkoordination (Process, Piping, Civil, E/MSR) - Technische Führung externer Planer, EPCs und Lieferanten - Durchführung von Design- und 3D-Modellreviews - Bewertung von Layout-, Piping- und Trassierungsplanungen - Auflösung von Kollisions- und Schnittstellenkonflikten Profil: - Studium im Anlagenbau / Verfahrenstechnik / Maschinenbau / Bau - Erfahrung in Anlagenlayout & Schnittstellenmanagement - Projekterfahrung im EPC- oder PMC-Umfeld - Kenntnisse in 3D-Modellkoordination & Piping-Integration - Sehr gutes Englisch Wenn Sie Interesse haben, freue ich mich auf einen CV inkl. Stundensatz an Leiten Sie die Anfrage auch gern in Ihrem Netzwerk weiter! Viele Grüße aus HH SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-07-02T15:14:39.627633+00:00",
+      "id": "1c5a441aa0cf2fed",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-02T16:57:38+02:00",
+      "source": "freelancermap.de",
+      "title": "Lead Engineer Konstruktion & Anlagenplanung (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/lead-engineer-konstruktion-und-anlagenplanung-m-w-d"
+    },
+    {
+      "description": "Projektbeschreibung Für einen unserer Kunden – ein schnell wachsendes Climate-Tech-Unternehmen an der Schnittstelle von Batteriespeichern, PV-Direktvermarktung und algorithmischem Energiehandel – suchen wir Freelance-Unterstützung. Der Kunde vermarktet ein wachsendes PV-Portfolio über alle vier deutschen Regelzonen und baut parallel ein eigenes Batteriespeicher-Portfolio auf – erste Anlage in Betrieb, weitere gehen bis Jahresende ans Netz. Gesucht wird eine erfahrene Freelance-Expertin/ein erfahrener Freelance-Experte für Energy Operations mit klarem Fokus auf Regelenergie-Präqualifikation von Batteriespeichern und Co-Location . Du arbeitest eng mit dem Trading-Team des Kunden zusammen und bringst operative wie konzeptionelle Stärke in genau die Themen, die dessen Wachstum gerade fordert. Deine Aufgaben Präqualifikation Regelenergie (FCR/aFRR) für Batteriespeicher: Präqualifikations-Konzept, PQ-Portal, Koordination der Tests mit den Batterie-Optimizern des Kunden, Kommunikation mit Übertragungsnetzbetreibern Anmeldung und Onboarding neuer Batterie-Assets : Vorbereitung der Präqualifizierung, Koordination mit EPC- und Optimizer-Partnern Co-Location (PV/Wind + Batterie): konzeptionelle Ausarbeitung von Marktkommunikation und Fahrplanmanagement (behind-the-meter) sowie Repräsentation dieser Themen intern und gegenüber Kunden/Sales Optional (je nach Kapazität): Optimierung bestehender Direktvermarktungs-, Bilanzkreis- und Abrechnungsprozesse Must-have Nachweisliche, praktische Erfahrung in der Regelenergie-Präqualifikation von Batteriespeichern (FCR und aFRR) – PQ-Portal, Präqualifikationstests, ANB-/ÜNB-Kommunikation Fundierte Erfahrung in Direktvermarktung, Bilanzkreismanagement, Marktkommunikation (MaBiS/MaKo) und Fahrplanmanagement Verständnis von Co-Location-Konzepten (behind-the-meter, Netzverknüpfungspunkt) Deutsch verhandlungssicher Nice-to-have Erfahrung mit VPP-Systemen (z. B. emsys), EMS-/Optimizer-Koordination, EPC-Schnittstellen Abrechnung / Settlement-Plausibilisierung (Marktwert, Spot, Ausgleichsenergie) Automatisierungs-/Daten-Affinität (z. B. Python) Was dich erwartet Ein technisch starkes, schnell wachsendes Team beim Kunden (Softwareentwickler, KI-Experten, Energiehändler) mit eigenem Trading-System und EPEX-Zugang Hohe Eigenverantwortung und direkter Impact auf ein skalierendes BESS- und DV-Portfolio Remote möglich, Berlin bevorzugt – flexible Zusammenarbeit auf Freelance-Basis Abwicklung über Teclead Ventures als beauftragte Beratung",
+      "first_seen": "2026-07-02T15:14:39.627633+00:00",
+      "id": "b1ff171dc9b2358e",
+      "matched_keywords": [
+        "energie",
+        "netz",
+        "ems",
+        "übertragungsnetz",
+        "marktkommunikation"
+      ],
+      "published": "2026-07-02T16:42:28+02:00",
+      "source": "freelancermap.de",
+      "title": "Freelance Energy Operations Expert (m/w/d) – Batteriespeicher-Präqualifikation & Co-Location",
+      "url": "https://www.freelancermap.de/projekt/freelance-energy-operations-expert-m-w-d-batteriespeicher-praequalifikation-und-co-location"
+    },
+    {
+      "description": "Für unseren Kunden bin ich auf der Suche nach Unterstützung: Rahmendaten Standort: Remote (EU weit möglich), punktuell Frankfurt ca 1x Quartal Start: Ab September möglich Einsatzdauer:12 Monate + Option auf Verlängerung Auslastung: Vollzeit Freelance Projekt: Openshift Plattform Aufbau Ihre Aufgaben Administration und Betrieb von Red Hat OpenShift Clustern (Enterprise / OnPrem / AirGapped) Automatisierung mit ArgoCD/GitOps sowie Ansible oder Terraform Monitoring & Logging im KubernetesUmfeld Mitarbeit in agilen ScrumTeams (Scaled Agile) Technische Beratung im Banking Umfeld Ihr Profil Mind. 5 Jahre OpenShift Erfahrung (Must Have) Sehr gute Kenntnisse in Kubernetes / OpenShift Administration Idealerweise Red Hat OpenShift Zertifizierung Sehr gutes Deutsch, Englisch mind. B2",
+      "first_seen": "2026-07-02T15:14:39.627633+00:00",
+      "id": "b485280273b72a83",
+      "matched_keywords": [
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-07-02T16:29:17+02:00",
+      "source": "freelancermap.de",
+      "title": "Openshift Experte gesucht (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/openshift-experte-gesucht-m-w-d"
+    },
+    {
+      "description": "Aufgaben: Aufgaben: + Analyse der bestehenden Dokumente + energiewirtschaftliche Betrachtung + Bepreisung und Berechnung der Dampfentstehungskosten + Dokumentation der Bewertung der Kosten und Preise Projekt-Nr.: ***** Projekttitel: Berater Energiewirtschaft mit Fokus auf Dampferzeugung (m/w/d) Stellentyp: freiberuflich Einsatzort: keine Angabe Starttermin: 08.07.2026, spätestens 20.07.2026 Dauer: 40 Std + 12 Monate Anforderungen: + mind. 1 einschlägiges Projekt als energiewirtschaftlicher Berater für die Festlegung von Kosten + Zertifizierung in diesem Kontext + sehr gute Fachkenntnisse im Bereich Chemiepark, Dampferzeugnis, Dampfverteilernetz, etc. + sehr gute Deutschkenntnisse Nice to have: + Englischkenntnisse in Wort und Schrift Zusätzliche Informationen: Auslastung: 50-100 SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
+      "first_seen": "2026-07-02T15:14:39.627633+00:00",
+      "id": "9c5918eb1e20879e",
+      "matched_keywords": [
+        "energie",
+        "netz"
+      ],
+      "published": "2026-07-02T16:26:09+02:00",
+      "source": "freelancermap.de",
+      "title": "Berater Energiewirtschaft mit Fokus auf Dampferzeugung (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/berater-energiewirtschaft-mit-fokus-auf-dampferzeugung-m-w-d"
+    },
+    {
+      "description": "Hinweis: Für diese Position können ausschließlich sozialversicherungspflichtig Beschäftigte Kandidatinnen und Kandidaten berücksichtigt werden. Bewerbungen und Anfragen von Freiberuflern können daher leider nicht bearbeitet werden. Branche: Energiewirtschaft Start: 03.08.2026 Ende: 31.12.2027 Auslastung: 84% Offsite: 1468h (Vor-Ort - Verfügbarkeit in Frankfurt 1-2 Tage pro Woche notwendig) Onsite: 979h Reisezeit: 50h Einsatzort: Frankfurt und remote (Onshore aus Deutschland) Max. Stundensatz remote: 95€/h Weitere Hinweise: Bei den Konditionen ist eine Differenz 18€/h von Onsite zum Offsite Stundensatz nötig. (Onsite +18€/h). Die geplante Aufteilung der Stunden ist wie genannt, kann aber abweichen. Aufgaben Das Programm besteht aus 12 Teilprojekten mit Schwerpunkt auf der Umstellung der Meter 2 Cash-Prozesse auf S4 Hana. Beratung des PMO-Leiters bei der Weiterentwicklung des PMOs und seiner Methoden Beratung bei der Ausgestaltung von Projektmanagement-Vorgaben (Templates, Ergebnistypen und Tools). Beratung bei der Organisation des Change-, Risiko- und Abhängigkeiten-Managements Selbstständige Mitarbeit beim Programm-Controlling Beratender Sparringspartner für Projekte Hilfestellung und Qualitätssicherung bei der Erstellung der wichtigsten Ergebnistypen in den Projekten (Projektauftrag, Plan, Change Request, Abschluss, Stakeholder-Kommunikation) Vorbereitung und Nachbereitung von Gremiensitzungen wie Lenkungskreisen bis zur Vorstandseben Skills: Muss: Mindestens 6+ Jahre Erfahrung in einer (IT-)Beratung Mindestens 6+ Jahre Tätigkeit in einem PMO eines oder mehrerer Programme in Konzernen Umfangreiche Kenntnisse eines oder mehrerer gängiger Programm- unnd Projektmanagement-Standards (GPM, Prince2, PMP, Scrum, SAFe) Erfahrung als Projektleiter oder Teilprojektleiter Erfahrung im Projektcontrolling (z.B. mit Earned Value Analyse) Erfahrungen im Abhängigkeiten- und Rolloutmanagement Sehr gute Kommunikationsfähigkeiten Sehr hohe Kundenorientierung Eigeninitiativ, intrinsisch motiviert, nimmt Aufgaben eigenständig auf, macht eigenständig Vorschläge Präzises, strukturiertes und effizientes Vorgehen Bereitschaft 2-3 Tage vor Ort in Frankfurt zu arbeiten Programm- oder Projektmanagement-Zertifizierung (GPM/IPMA, Prince2, PMP, Scrum, SAFe oder vergleichbar) Wünschenswert: Erfahrung in IT-Projekten in der Energiewirtschaft Auf Ihre Nachricht freue ich mich. Bitte fügen Sie Ihrer Bewerbung Ihren Lebenslauf sowie Ihre Stundensatzvorstellungen hinzu, da Bewerbungen ohne diese Angaben nicht berücksichtigt werden können. Viele Grüße Dominik Ehlers",
+      "first_seen": "2026-07-02T15:14:39.627633+00:00",
+      "id": "f56b252dfc17ca66",
+      "matched_keywords": [
+        "pmo",
+        "scrum",
+        "energie"
+      ],
+      "published": "2026-07-02T16:25:11+02:00",
+      "source": "freelancermap.de",
+      "title": "ITP-892: Senior Programmmanagement Consultant (PMO) – S/4HANA (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/itp-892-senior-programmmanagement-consultant-pmo-s-4hana-m-w-d"
+    },
+    {
+      "description": "Für unseren Kunden suchen wir zum nächstmöglichen Zeitpunkt nach einem Projektkoordinator Umspannwerk (m/w/d). Rahmendaten Start: Ab sofort Auslastung: Vollzeit Einsatzdauer: 12 Monate mit Verlängerungsoption Einsatzort: Hamburg Aufgaben Begleitung und technische Koordination des Baus eines 380-kV-Umspannwerks Steuerung und Abstimmung technischer Schnittstellen zwischen Fachbereichen, Gewerken und Dienstleistern Koordination technischer Anforderungen und Randbedingungen mit internen sowie externen Projektbeteiligten Nachverfolgung von Terminen, Meilensteinen, Maßnahmen und offenen Punkten Erarbeitung von Entscheidungsgrundlagen, Statusberichten und Handlungsempfehlungen Erstellung, Prüfung und Konsolidierung technischer Anforderungen und Spezifikationen Bewertung technischer Änderungen, Nachträge und Abweichungen Erstellung und Pflege der technischen Projektdokumentation (Protokolle, Berichte, Maßnahmen- und Prüflisten) Anforderungen Abgeschlossene Ausbildung oder Weiterbildung als Elektrotechniker oder vergleichbare Qualifikation Mehrjährige Berufserfahrung in der Hoch- und Höchstspannungstechnik (110 kV bis 380 kV) Erfahrung in Projekten im Bereich Umspannwerke, Schaltanlagen, Netzanschlüsse oder Energieinfrastruktur Kenntnisse in technischer Projektkoordination, Schnittstellen- und Anforderungsmanagement Erfahrung in Ausschreibungen, technischer Bewertung, Qualitätssicherung und Dokumentation Bitte senden Sie bei Interesse Ihren aktuellen Stundensatz und CV!",
+      "first_seen": "2026-07-02T15:14:39.627633+00:00",
+      "id": "2437b781f14676f5",
+      "matched_keywords": [
+        "energie",
+        "netz"
+      ],
+      "published": "2026-07-02T16:35:06+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektkoordinator Umspannwerk (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/projektkoordinator-umspannwerk-m-w-d"
+    },
+    {
       "description": "***Abwechslung und Sicherheit*** im Klartext heißt das: Du profitierst von unserer Marktkompetenz und den stabilen, langjährigen Beziehungen zu unseren Kunden in Deutschland und europaweit. Wir haben nationale und internationale Projekte für Dich. Natürlich in renommierten Unternehmen und technologisch anspruchsvollen Branchen. Faire Vertragsbedingungen und eine schnelle und unbürokratische Arbeitsweise verstehen sich bei uns von selbst. Erstellung und Pflege von Projekt-, Termin- und Ressourcenplänen Steuerung komplexer IT-Projekte im agilen Umfeld Identifikation und Management von Risiken, Abhängigkeiten und kritischen Pfaden Status-Reporting gegenüber Management und Stakeholdern Moderation von Workshops, Projektmeetings und Abstimmungsrunden Anforderungsanalyse und Requirements Engineering Erstellung von User Stories und Akzeptanzkriterien Priorisierung von Backlogs gemeinsam mit Product Ownern und Stakeholdern Begleitung der Anforderungen bis zur Abnahme Unterstützung bei Test- und Rollout-Aktivitäten ***Muss-Kriterien:*** Mindestens 5 Jahre Erfahrung im Projektmanagement von IT-Projekten Mindestens 5 Jahre Erfahrung mit Jira und Confluence oder vergleichbaren Tools Fundierte Erfahrung in der fachlichen Unterstützung agiler Projektteams Zertifizierung in Scrum oder ITIL 4 Zertifizierung in PRINCE2 oder IPMA Fundierte Erfahrung im Requirements Engineering komplexer Systemlandschaften Idealerweise Zertifizierung CPRE (Certified Professional for Requirements Engineering) ***Soll-Kriterien:*** Mehrjährige Erfahrung als Projektleiter in kritischen oder herausfordernden Projektsituationen (Krisenmanagement) Erfahrung im Verkehrs-, Bahn- oder Automotive-Umfeld Grundverständnis für Informationssicherheit in IT-Systemen Kenntnisse zu Verfügbarkeit, Performance und Latenzanforderungen von IT-Systemen Erfahrung in Scrum- und DevOps-nahen Projektorganisationen ***Bitte beachte: Dieses Projekt kann nur mit sozialversicherungspflichtigen Angestellten erbracht werden.*** Wir sind ein europäischer IT-Solutions Provider. Unser Ziel: Durch passgenaue IT-Dienstleistungen unterstützen wir unsere Kunden dabei effizienter zu werden. Wir setzen auf modernste Technologien und maßgeschneiderte Lösungen. Ganz wichtig: Höchste Qualität auf Augenhöhe wir arbeiten stets partnerschaftlich und respektvoll mit unseren Kunden und im Team. Das Ergebnis wir agieren international, sind aber auf dem Boden geblieben! Als Familienunternehmen mit mehr als 9.000 MitarbeiterInnen in 17 europäischen Ländern verbinden wir globale Reichweite mit familiären Werten. Wenn unsere Stellenausschreibung Dein Interesse weckt, dann melde Dich einfach. Wir freuen uns! Noch ein kurzer Hinweis zum obligatorischen Sternchen (*): Wir suchen M/E/N/S/C/H/E/N Deine Stärken und Deine Persönlichkeit zählen. Alles andere ist super, wenn es Dich glücklich macht. Wir leben Vielfalt und Chancengleichheit schon lange, das ist nichts Neues für uns. Come as you are!",
       "first_seen": "2026-07-02T12:55:53.567265+00:00",
       "id": "25193648cb1b1f33",
@@ -5682,5 +5788,5 @@
       "url": "https://www.freelancermap.de/projekt/requirements-engineer-m-w-d-h-co"
     }
   ],
-  "updated_at": "2026-07-02T12:55:53.675156+00:00"
+  "updated_at": "2026-07-02T15:14:39.738634+00:00"
 }
