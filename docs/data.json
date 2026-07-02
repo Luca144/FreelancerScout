@@ -1,6 +1,150 @@
 {
   "projects": [
     {
+      "description": "Für unseren Kunden bin ich auf der Suche nach Unterstützung: Rahmendaten: Start: Mitte Juli Auslastung: Vollzeit Projektsprache: Deutsch Überwiegend Remote ggf. vereinzelte Termine Onsite bei München Laufzeit: 6 Monate + Option auf Verlängerung Für ein strategisches SAP-Transformationsprogramm suchen wir einen erfahrenen Senior SAP Testmanager zur übergreifenden Steuerung des Testmanagements für zwei zentrale Projektstränge: eine Greenfield-Einführung von SAP S/4HANA Public Cloud sowie die Einführung von SAP SuccessFactors . Der Testmanager soll beide Projekte innerhalb des Programms abdecken, die Testaktivitäten gesamthaft strukturieren, koordinieren und aktiv vorantreiben. Das Umfeld ist anspruchsvoll und stakeholderintensiv: Im geplanten Go-live sind über 80 Gesellschaften / Companies involviert. Gesucht wird daher eine seniorige Persönlichkeit, die methodisch stark ist, kommunikativ sicher auftritt und auch in komplexen Situationen Orientierung schafft. Aufgaben Prüfung, Überarbeitung und Weiterentwicklung des bestehenden Testkonzepts Ableitung einer tragfähigen Teststrategie für beide Projektstränge unter Berücksichtigung bisheriger Vorarbeiten Bewertung, welche bestehenden Inhalte, Strukturen, Testfälle und Vorgehensweisen übernommen, angepasst oder neu aufgebaut werden müssen Planung, Steuerung und Begleitung der ersten Testphase ab Mitte Juli Aufbau und Strukturierung der Testfälle in Zusammenarbeit mit Delivery Team, Fachbereichen und Key Usern Definition und Abstimmung von Testumfang, Testphasen, Testzyklen, Quality Gates und Abnahmekriterien Koordination von Testvorbereitung, Testdurchführung, Ergebnisnachverfolgung und Defect Management inklusive Priorisierung und Eskalation kritischer Fehler Aufbau eines transparenten Testreportings für Programmleitung, Projektleitung und relevante Stakeholder Sicherstellung klarer Rollen, Verantwortlichkeiten und Abstimmungen innerhalb der Testorganisation Bewertung und Einplanung sinnvoller Testautomatisierungsansätze sowie Aufbau von Testautomatisierung zum passenden Zeitpunkt Sicherstellung der Nutzung und Weiterentwicklung von SAP Cloud ALM als zentrales Testmanagement-Tool Vorbereitung von Entscheidungsvorlagen, Statusberichten und Management-Updates Identifikation von Risiken, Abhängigkeiten und Engpässen im Testmanagement sowie Ableitung geeigneter Maßnahmen Anforderungen Mehrjährige Erfahrung als Testmanager in komplexen SAP-Programmen oder großen Transformationsprojekten Nachweisbare Erfahrung mit SAP Cloud ALM als Testmanagement-Tool Erfahrung in SAP S/4HANA-Einführungen, idealerweise mit SAP S/4HANA Public Cloud Erfahrung im Umfeld von SAP SuccessFactors von Vorteil Sehr gutes Verständnis von Testmanagement, Testplanung, Testdurchführung, Defect Management und Reporting Erfahrung im Aufbau von Testorganisationen in großen, internationalen oder gesellschaftsübergreifenden Programmen Fähigkeit, bestehende Konzepte und Vorarbeiten schnell zu analysieren und in eine belastbare Teststrategie zu überführen Erfahrung in der Zusammenarbeit mit Delivery Teams, Key Usern, Fachbereichen und Programmmanagement Sicherer Umgang mit anspruchsvollen Stakeholdern und komplexen Entscheidungsstrukturen Ausgeprägte Kommunikationsstärke, Durchsetzungsfähigkeit und Moderationskompetenz Seniorität, um in einem herausfordernden Projektumfeld klar, verbindlich und lösungsorientiert aufzutreten Erfahrung mit Testautomatisierung bzw. der Bewertung geeigneter Automatisierungspotenziale wünschenswert Sehr gute Deutsch- und Englischkenntnisse Klingt passend? Dann freue ich mich auf ein Feedback - gerne auch an d.schwandner a sthree.com",
+      "first_seen": "2026-07-02T07:29:13.422855+00:00",
+      "id": "cd0bffdf0d4c0cb9",
+      "matched_keywords": [
+        "testmanager"
+      ],
+      "published": "2026-07-02T09:26:01+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior SAP Testmanager – SAP S/4HANA Public Cloud & SuccessFactors Einführung (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-sap-testmanager-sap-s-4hana-public-cloud-und-successfactors-einfuehrung-m-w-d"
+    },
+    {
+      "description": "Liebes Netzwerk, für unseren Kunden sind wir aktuell auf der Suche nach einem Platform Engineer (m/w/d). Eckdaten : Rolle : Microsoft System Engineer – Reporting & Automatisierung Zeitraum : asap bis Mai 2028 + Option auf Verlängerung Ort : hauptsächlich Remote / 1% Bonn Auslastung : Vollzeit Sprachen : Deutsch Leistungsbeschreibung: Ziel des Projekts ist die Neugestaltung und Standardisierung des Client-Reportings im Workplace-Umfeld des Kunden. Im Fokus stehen die Entwicklung eines modernen Rollout-Dashboards, die Automatisierung bestehender Reporting-Prozesse sowie die technologische und architektonische Weiterentwicklung der Reporting-Landschaft zur Steigerung von Transparenz, Qualität und Effizienz. Konzeption, Re-Design und vollständiger Neuaufbau eines Rollout-Dashboards inkl. IST-Analyse, Anforderungsaufnahme, Zielarchitektur, Datenanalyse/-migration sowie Umsetzung und Inbetriebnahme zur transparenten Steuerung von Software-Rollouts. Analyse bestehender Prozesse, Identifikation von Automatisierungspotenzialen sowie Entwicklung, Implementierung, Testing und Produktivsetzung von Automatisierungen mit Reporting-Bezug auf Plattformen wie SCOR, ConfigMgr und IIS. Überprüfung und Optimierung bestehender Reporting-Prozesse und -Standards, Ableitung strategischer Weiterentwicklungen sowie Neugestaltung der Reporting-Architektur inkl. Anpassung von Technischen Dokumenten. Qualifikations- und Erfahrungsanforderung (MUST-HAVES): ITIL Foundation v.4 – Zertifizierung Mind. 5 Jahre Erfahrung im Umgang mit Microsoft System Center, insb. SCOR und Config-Manager Mind. 5 Jahre Erfahrung mit Datenbanksystemen bspw. Microsoft SQL-Server Mind. 5 Jahre Erfahrung im Reportingumfeld, insb. Daten-visualisierung (Bsp. Microstrategy oder Microsoft Power BI) Mind. 3 Jahre Erfahrung als IT System-Engineer oder in vergleichbarer Tätigkeit Mind. 3 Jahre Erfahrung Erstellung von technischen Konzepten, Leistungsbeschreibungen, Entscheidungs-vorlagen Mind. 3 Jahre Erfahrung in der Erstellung und Durchfüh-rung von Tests z.B. für die Einführung von Skripten im Enterprise Umfeld Mind. 3 Jahre Erfahrung bei der Einführung des BSI Grundschutz Haben wir Ihr Interesse geweckt? Dann senden Sie uns Ihren CV im Wordformat sowie Ihre aktuelle Verfügbarkeit inklusive Stundensatz an: sina.neuwoehner AT deedcon.de Mit freundlichen Grüßen Sina Neuwöhner Recruiterin",
+      "first_seen": "2026-07-02T07:29:13.422855+00:00",
+      "id": "2d255afcd7ee260a",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-02T09:10:15+02:00",
+      "source": "freelancermap.de",
+      "title": "Microsoft System Engineer (m/w/d) – Reporting & Automatisierung *remote*",
+      "url": "https://www.freelancermap.de/projekt/microsoft-system-engineer-m-w-d-reporting-und-automatisierung-remote-3018260"
+    },
+    {
+      "description": "Liebes Netzwerk, aktuell suchen wir einen Business Analyst (m/w/d) mit Geodaten Erfahrung Start: asap - 31.12.2026 ++ Ort: Remote 102 PT, vor Ort FFM 6 PT Auslastung: 100%, Deutschsprachig Aufgaben: - Aufnahme, Analyse und Beschreibung von Anforderungen und deren IST /SOLL-Zuständen (Konzeption) - Erarbeitung von Business Cases - Moderation und Auswertung von Anforderungsworkshops unter Einsatz von Kreativmethoden - Erhebung, Konsolidierung, Analyse und Spezifikation funktionaler / nichtfunktionaler Anforderungen - Analyse von fachlichen Problemstellungen und Entwicklung von Handlungsoptionen inkl. strategischer Einschätzung und Empfehlung - Anwendung vielfältiger Methoden der Anforderungsanalyse (z.B. User Stories, Prozessanalyse, Modellierungstechniken, Evaluierungsmethoden, ggf. KI) - Schaffung von Transparenz über und Klärung von gegenläufigen Anforderungen und Herbeiführen eines interdisziplinären Lösungsansatzes mit allen Stakeholdern - Durchführung von Reviews sowie Verifikation und Validierung der Anforderungsqualität (Nachvollziehbarkeit, Vollständigkeit, Konsistenz) - Nachverfolgbarkeit, Änderungskontrolle, Versionierung und fachliche Abstimmung der Anforderungen über den gesamten Lebenszyklus - Fachliche Pflege und Integration von Anforderungen/Ergebnissen in Wissensmanagement- oder Roadmap/Backlog-Systemen - Fachliche Beratung zur Erreichung der Konformität der Anforderungen mit IT-Zielbild, IT-Strategie, regulatorischen Vorgaben und Projektstatus - Synchronisation und Abstimmung bei komplexeren Projektstrukturen sowie Feedback-Schleifen zur kontinuierlichen Anforderungs-Verbesserung - Fachliche Beratung des Product Owners bei Analysen und Marktbewertungen zu Anforderungen - Identifikation von Optimierungspotentialen in Geschäftsprozessen und empfehlen von Lösungsvorschlägen - Entwicklung von Mocks/ Prototypen zur Integration/ Visualisierung von Multisensordaten Muss-Anforderungen: - 3 Jahre Erfahrung in der Anforderungsanalyse & Requirements Engineering - 3 Jahre Erfahrung in der Dokumentation & Nutzerhandbuch - Erfahrung in fachlicher/ Stakeholder-zentrierter Dokumentation komplexer Sachverhalte - 3 Jahre praktische Domänen- und Technologiekenntnisse (Multisensor-, Geo-, Big Data, AWS), Prototyping Massendaten - Erstellung von Features, User Stories und Akzeptanzkriterien (2 Projektreferenzen) - Erfahrung in der Testunterstützung (fachliche Tests/UAT) (2 Projektreferenzen Soll-Anforderungen: - 3 Jahre Erfahrung in der Datenmodellierung / Datenverständnis Geodaten - 3 Jahre Erfahrung in Moderation & Stakeholder Management in komplexen Projektumfeldern (> 10 Stakeholder) - Erfahrung im Bahn/BigData/Multisensordaten-Umfeld (1 Projektreferenz in einem der Felder) - Zertifizierungen & Methodenkompetenz (IREB CPRE, Scrum (PSM/CSM), AWS) Wir würden uns freuen Ihnen ein tolles Projekt vorzustellen. Ich freue mich daher sehr auf die Zusendung Ihres Profils unter der Angabe Ihrer Verfügbarkeit und Ihren Konditionen (remote u. ggf. vor Ort).",
+      "first_seen": "2026-07-02T07:29:13.422855+00:00",
+      "id": "08ef2952da1a3ad3",
+      "matched_keywords": [
+        "requirements engineer",
+        "business analyst",
+        "product owner",
+        "ireb",
+        "cpre",
+        "scrum",
+        "netz",
+        "ems"
+      ],
+      "published": "2026-07-02T09:02:38+02:00",
+      "source": "freelancermap.de",
+      "title": "Remote/FFM - Business Analyst (m/w/d) mit Geodaten Erfahrung",
+      "url": "https://www.freelancermap.de/projekt/remote-ffm-business-analyst-m-w-d-mit-geodaten-erfahrung"
+    },
+    {
+      "description": "Für ein Kundenprojekt im Automotiveumfeld suchen wir zu August 2026 einen MS Fabric Experten (m/w/d). REF_6457 Start: August 2026 Auslastung: Vollzeit Einsatzort: Remote, mit gelegentlichen vor-Ort-Einsätzen im GR Wolfsburg Dauer: 6 Monate mit der Option auf Verlängerung Vertragsart: klassisches Freelancing / Dienstleistungsvertrag Ihre Aufgaben: - Demonstration der technischen Möglichkeiten von Microsoft Fabric gegenüber technischen Fachkräften wie Lösungsarchitekten, Ingenieuren, Product Ownern und Produktmanagern - Präsentation der verschiedenen Ebenen von Fabric anhand konkreter Anwendungsfälle - Erstellung und Pflege von technischen Dokumentationen (insbesondere GroupWiki) für Produkt- und Servicebeschreibungen sowie Quick-Guides - Technische Beratung und Unterstützung von Anwendern sowie IT-Partnern im Umgang mit Microsoft Fabric - Unterstützung bei der Entwicklung von Datenstrategien und Best Practices im Fabric-Umfeld Ihr Profil: - Fundierte Erfahrung mit Microsoft Fabric sowie angrenzenden Microsoft-Technologien - Sehr gute Kenntnisse in Power BI, Azure und Datenanalyse - Gute Kenntnisse in Microsoft Purview und Daten-Governance-Konzepten - Erfahrung in der Kommunikation mit Prozesspartnern und IT-Stakeholdern in einer beratenden Rolle - Projekterfahrung in agilen Teams, idealerweise nach SAFe - Sehr gute Deutschkenntnisse runden Ihr Profil ab Bewerben Sie sich jetzt per E-Mail oder über folgenden Link: https://freelancing.windhoff-group.de/projektportal/ Wir freuen uns auf die Zusendung Ihres CVs, Ihrer Verfügbarkeit und Ihrer Stundensatzvorstellung. Für Rückfragen stehen wir jederzeit gerne zur Verfügung. Mit freundlichen Grüßen Janina Reykowski | Windhoff Group Senior IT-Recruiter Tel.: ***** | Mobil: ***** | Microsoft Teams",
+      "first_seen": "2026-07-02T07:29:13.422855+00:00",
+      "id": "622bb12e383ca3ee",
+      "matched_keywords": [
+        "product owner",
+        "agil"
+      ],
+      "published": "2026-07-02T08:57:26+02:00",
+      "source": "freelancermap.de",
+      "title": "Microsoft Fabric Expert (m/w/d) // Remote/GR Wolfsburg // August ***** Monate +",
+      "url": "https://www.freelancermap.de/projekt/microsoft-fabric-expert-m-w-d-remote-gr-wolfsburg-august-monate"
+    },
+    {
+      "description": "Für meinen Kunden suche ich ab sofort einen Lead Mechanical Engineer (m/w/d) : Ihre Aufgaben: Verantwortung für die mechanische Systemarchitektur und für zentrale systemübergreifende Designentscheidungen Entwicklung und Weiterentwicklung von Standards, Richtlinien, Konstruktionsprinzipien sowie CAD- und Zeichnungskonventionen Erarbeitung komplexer mechanischer Konzepte unter Berücksichtigung von Skalierbarkeit, technischer Risiken und regulatorischer Anforderungen Technische Führung, Mentoring und Weiterentwicklung von Mechanical Engineers im Team Enge Zusammenarbeit mit angrenzenden Fachbereichen zur Übersetzung technischer Anforderungen in belastbare mechanische Architekturen Mitwirkung bei Reviews, Risikoanalysen, Installation und Inbetriebnahme sowie Sicherstellung einer nachvollziehbaren Design-Traceability Ihr Profil: Mehrjährige Erfahrung in der Entwicklung, Auslegung und Integration komplexer mechanischer Systeme Sehr gute Kenntnisse im Bereich DFM/DFA, Toleranzmanagement, Werkstoffe und Fertigungsprozesse Fundierte Erfahrung in der Definition von Engineering-Standards, Methoden und Best Practices Ausgeprägtes Systemverständnis sowie Erfahrung im Management technischer Schnittstellen, Trade-offs und Risiken Sehr gute Praxis mit CAD-Tools sowie mechanischen Analyseverfahren, z. B. Toleranzanalysen und FEM Erfahrung in anspruchsvollen Umgebungen, z. B. Vakuum, Strahlung oder thermischen Lasten Nachweisbare Erfahrung in der fachlichen Führung, Entwicklung und Weiterentwicklung von Engineering-Teams Starke Kommunikationsfähigkeit sowie hohe Glaubwürdigkeit in der interdisziplinären Zusammenarbeit Sehr gute Englischkenntnisse in Wort und Schrift Rahmenparameter: Start: schnellstmöglich Auslastung: 100 % Standort: Rhein-Main-Gebiet & überwiegend vor Ort Vertragsart: Freelance Sie sind offen für neue Herausforderungen in einem agilen und engagierten Team? Dann senden Sie mir schnellstmöglich Ihren CV als Word-Dokument. Disclaimer: Wir operieren als Personalberatungsunternehmen. Keine der genannten Fachausdrücke sollen diskriminierend in Hinblick auf Alter oder Erfahrung sein. Wir bestätigen, dass wir alle Bewerbungen von Kandidaten jeden Alters und Erfahrungen gerne entgegennehmen.",
+      "first_seen": "2026-07-02T07:29:13.422855+00:00",
+      "id": "fc92dc5fd8c97f9c",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-07-02T08:53:53+02:00",
+      "source": "freelancermap.de",
+      "title": "Lead Mechanical Engineer (m/w/d) für Rhein-Main-Gebiet & vor Ort",
+      "url": "https://www.freelancermap.de/projekt/lead-mechanical-engineer-m-w-d-fuer-rhein-main-gebiet-und-vor-ort"
+    },
+    {
+      "description": "-",
+      "first_seen": "2026-07-02T07:29:13.422855+00:00",
+      "id": "b31f4eb0717330c3",
+      "matched_keywords": [
+        "pmo"
+      ],
+      "published": "2026-07-02T08:43:10+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior PMO Consultant (m/w/d) – IT-Projekte",
+      "url": "https://www.freelancermap.de/projekt/senior-pmo-consultant-m-w-d-it-projekte-3018251"
+    },
+    {
+      "description": "-",
+      "first_seen": "2026-07-02T07:29:13.422855+00:00",
+      "id": "2ac9d9458afc81a8",
+      "matched_keywords": [
+        "projektmanager",
+        "pmo"
+      ],
+      "published": "2026-07-02T08:43:05+02:00",
+      "source": "freelancermap.de",
+      "title": "IT Projektmanager (m/w/d) mit PMO-Schwerpunkt",
+      "url": "https://www.freelancermap.de/projekt/it-projektmanager-m-w-d-mit-pmo-schwerpunkt-3018250"
+    },
+    {
+      "description": "Freiberufliche (Ober)Poliere – Einzelpersonen oder Teams willkommen Überblick Wir suchen engagierte und erfahrene freiberufliche (Ober)Poliere, die mit Leidenschaft und Fachkompetenz die Errichtung und Wartung von Windenergieanlagen vorantreiben. Wichtig zu beachten ist ein Bundesweitereinsatz, mit dem Fokus auf Nord- und Ost-Deutschland, zudem wechselnde Baustellen. Der Start kann ab sofort zu jederzeit erfolgen, je nach Verfügbarkeit. Das Projekt wird initial für 6 Monate laufen, allerdings wird ein langfristiges Engagement angestrebt. Die Projektsprache ist Deutsch, Sprachkenntnisse in weiteren Sprachen sind von Vorteil. Ihre Aufgaben Fachliche Leitung und eigenverantwortliche Koordination der Baustellenaktivitäten Überwachung und Steuerung von Bauabläufen zur Qualitätssicherung und Termintreue Anweisung und Führung von Vorarbeitern und Fachkräften vor Ort Sicherstellung der Einhaltung von Arbeitsschutz- und Sicherheitsstandards Kommunikation mit Projektleitung, Subunternehmern und weiteren Projektbeteiligten Dokumentation des Baufortschritts sowie Erstellung projektbezogener Berichte Unterstützung der Einsatzplanung und Ressourcenorganisation im Rahmen Ihrer Verantwortung Ihr Profil Fundierte Berufserfahrung als Polier oder Oberpolier, idealerweise im Bereich Windenergie, Turmbau oder vergleichbaren Großprojekten Sicherer Umgang mit Baumaschinen, Materialien und Technik Erfahrung in der Führung und Motivation von Teams Kenntnisse im Arbeitsschutz und Sicherheitsvorgaben Offenheit für neue Technologien und moderne Arbeitsmethoden Hohe Eigenverantwortung, Flexibilität und selbstständige Arbeitsweise als Freiberufler/-in oder Team Das erwartet Sie im Tagesgeschäft Zusammenarbeit mit dem Bauleuter für tägliche Baustellenbesprechungen und Abstimmung der Arbeitsabläufe Überwachung von Montage- und Bauarbeiten an Windenergieanlagen Ansprechperson für Ihr Team, Unterstützung bei der Lösung von Herausforderungen Kontrolle und Umsetzung von Sicherheitsmaßnahmen sowie Initiierung von Verbesserungen Sorgfältige Dokumentation der Baustellenaktivitäten und Kommunikation mit der Projektsteuerung Koordination mit Lieferanten und Dienstleistern Flexible Arbeitseinteilung passend zu wechselnden Projektanforderungen Wir freuen uns ausdrücklich über Bewerbungen von Menschen aller Geschlechter, Altersgruppen, Nationalitäten und mit verschiedensten Hintergründen. Vielfalt bereichert unsere Projekte – werden Sie Teil dieser zukunftsorientierten Zusammenarbeit!",
+      "first_seen": "2026-07-02T07:29:13.422855+00:00",
+      "id": "2ba2a9f616e9e09e",
+      "matched_keywords": [
+        "energie",
+        "tso"
+      ],
+      "published": "2026-07-02T08:25:08+02:00",
+      "source": "freelancermap.de",
+      "title": "Freiberufliche (Ober)Poliere – Einzelpersonen oder Teams willkommen",
+      "url": "https://www.freelancermap.de/projekt/freiberufliche-ober-poliere-einzelpersonen-oder-teams-willkommen"
+    },
+    {
+      "description": "Für ein anspruchsvolles IT-Projekt suchen wir einen erfahrenen Senior PMO Consultant (m/w/d) , der die Projektleitung bei der Steuerung und Organisation komplexer Projekte unterstützt. Sie übernehmen Verantwortung für zentrale PMO-Aufgaben, koordinieren Projektaktivitäten, stellen eine hochwertige Projektdokumentation sicher und tragen aktiv zur erfolgreichen Umsetzung des Projekts bei. Sie verstärken ein erfahrenes Projektmanagement-Team innerhalb eines anspruchsvollen IT-Projektumfelds. Der Schwerpunkt liegt auf der Unterstützung eines Projekts zur Optimierung interner Prozesse im Bereich Vertragscontrolling. Neben klassischen PMO-Aufgaben übernehmen Sie eigenverantwortlich Projektpakete und sorgen für transparente Projektkommunikation, strukturierte Dokumentation sowie die Einhaltung definierter Projektstandards und -methoden. Deine Tätigkeiten: Ansprechpartner für organisatorische und administrative Aufgaben innerhalb des Projekts Unterstützung der Projektleitung bei der Einhaltung von Termin-, Kosten- und Qualitätszielen Pflege und Nachverfolgung offener Punkte sowie Qualitätssicherung der Projektdokumentation Prüfung von Jira-Tickets hinsichtlich der Vollständigkeit und Dokumentation Erstellung, Pflege, Abstimmung und Aktualisierung von Projektdokumenten (z. B. Risiken, Changes und Statusberichte) Verwaltung und Pflege der Projektablage in SharePoint, MS Project und weiteren Projektmanagement-Tools Erstellung und Aufbereitung von Projektpräsentationen und Statusberichten Vorbereitung, Organisation sowie Nachbereitung von Projektmeetings, Steuerkreisen und Gremien Erstellung und Abstimmung von Besprechungsprotokollen Eigenverantwortliche Umsetzung von Projektaufgaben und Arbeitspaketen Koordination der erforderlichen Ressourcen innerhalb der Projektarbeit Das gesuchte Profil: Deutschkenntnisse auf C1-Niveau sowie Englischkenntnisse auf B1-Niveau Zertifizierung im Projektmanagement (z. B. IPMA Level D oder vergleichbar) Abgeschlossenes Studium der Betriebswirtschaft, (Wirtschafts-)Informatik oder eines vergleichbaren Studiengangs. Alternativ eine abgeschlossene kaufmännische oder IT-Berufsausbildung mit mindestens 6 Jahren Berufserfahrung Mindestens 5 Jahre Berufserfahrung in IT-Projekten mit klassischen, hybriden oder agilen Projektmanagementmethoden Fundierte Erfahrung in den Bereichen Projektplanung, Berichtswesen, Risiko- und Change-Management sowie Steuerung von Deliverables und Projektabhängigkeiten Mehrjährige Erfahrung in der Vorbereitung, Organisation, Durchführung und Protokollierung von Projektmeetings, Lenkungsausschüssen und Kundenterminen Sicherer Umgang mit Jira, Confluence, SharePoint und MS Project Reisebereitschaft von bis zu 60 %",
+      "first_seen": "2026-07-02T07:29:13.422855+00:00",
+      "id": "38aa6d73d400c720",
+      "matched_keywords": [
+        "pmo",
+        "agil"
+      ],
+      "published": "2026-07-02T07:47:47+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior PMO Consultant (m/w/d) – IT-Projekte",
+      "url": "https://www.freelancermap.de/projekt/senior-pmo-consultant-m-w-d-it-projekte"
+    },
+    {
+      "description": "Tätigkeitsbeschreibung: Verantwortung für die Planung, Steuerung und erfolgreiche Umsetzung komplexer IT-Infrastrukturprojekte Sicherstellung der Einhaltung von Termin-, Kosten- und Qualitätszielen über den gesamten Projektlebenszyklus Erstellung und kontinuierliche Pflege von Projektplänen sowie transparentes Projekt-Reporting Steuerung und Koordination von Arbeitspaketen, Aufwandsschätzungen und Leistungsbeschreibungen Analyse projektbezogener Daten sowie Erstellung fundierter Entscheidungsvorlagen Zentraler Ansprechpartner für interne und externe Stakeholder sowie Steuerung der Zusammenarbeit mit Kunden, Fachbereichen, Dienstleistern und Partnern Planung und Moderation von Workshops, Projektmeetings und Abstimmungsrunden Identifikation und Steuerung von Projektrisiken, Abhängigkeiten sowie Änderungen im Projektverlauf Verantwortung für Projektcontrolling, Budgetüberwachung und Ressourcenmanagement Durchführung von Lessons Learned sowie kontinuierliche Optimierung von Prozessen und Projektmethoden Das gesuchte Profil: Abgeschlossenes betriebswirtschaftliches oder IT-orientiertes Studium oder eine vergleichbare Qualifikation. Alternativ eine kaufmännische oder IT-Berufsausbildung mit mindestens 6 Jahren einschlägiger Berufserfahrung Mindestens 6 Jahre Erfahrung in der Leitung von IT-Projekten mit einem Projektvolumen von über 5 Mio. € Mindestens 6 Jahre Berufserfahrung in IT-Projekten mit den Schwerpunkten Infrastruktur, Kommunikationstechnik oder Migration von IT-Systemen Mindestens 4 Jahre Erfahrung als Projektmitarbeiter in IT-Projekten mit Fokus auf Rechenzentrums- bzw. Rechenzentrumsinfrastruktur Mindestens 6 Jahre praktische Erfahrung als Projektleiter unter Anwendung klassischer, hybrider und/oder agiler Projektmanagementmethoden Zertifizierung im Projektmanagement, z. B. IPMA Level D oder eine vergleichbare Qualifikation ITIL Foundation-Zertifizierung oder nachweisbare praktische Erfahrung im IT-Service-Management Sicherer Umgang mit Jira oder vergleichbaren Projektmanagement-Tools sowie sehr gute Kenntnisse in Microsoft Office und MS Project Sehr gute Deutschkenntnisse (C1) sowie gute Englischkenntnisse (B1) Reisebereitschaft (bis zu 60 % ) Bereitschaft zur Durchführung einer Sicherheitsüberprüfung (SÜ2)",
+      "first_seen": "2026-07-02T07:29:13.422855+00:00",
+      "id": "9af0e52fa4f6a276",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-07-02T07:39:40+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektleiter (m/w/d) IT-Infrastruktur",
+      "url": "https://www.freelancermap.de/projekt/projektleiter-m-w-d-it-infrastruktur-3018244"
+    },
+    {
+      "description": "Folgende Aufgaben und Verantwortlichkeiten sind durch die Projektsteuerung zu übernehmen: • Unterstützt die Projektverantwortlichen des Auftraggebers bei der Überwachung von Leistung, Budget und Terminplänen durch geeignete Steuerungs- und Reportinginstrumente. • Koordiniert projektbezogene Beiträge der beteiligten Fachbereiche und unterstützt die Abstimmung zwischen den Projektbeteiligten. • Setzt den Projektauftrag unter Berücksichtigung der Programmziele und strategischen Vorgaben um. • Verantwortet den Projektplan und die Governance-Vorgaben, einschließlich vollständiger und korrekter Projektdokumentation sowie Übergabe an den Betrieb. • Unterstützt das projektbezogene Lieferantenmanagement durch fachliche Bewertung, Koordination und Vorbereitung von Entscheidungsgrundlagen. • Etabliert ein Berichtswesen und Reporting für das Projekt, einschließlich Entscheidungsstruktur/-kultur, Informationsstruktur, Chancen und Risiken. • Schafft ein Umfeld, in dem Projektergebnisse innerhalb der geforderten Zeit, Qualität und Kosten geliefert werden. • Unterstützt den Auftraggeber bei der Umsetzung projektbezogener Vertragsanforderungen im Rahmen der vorgegebenen Beschaffungsstrategie. • Führt im Auftrag des Auftraggebers fachlich-technische Verhandlungen zu Änderungen und Nachträgen mit Lieferanten und Vertragspartnern. • Managt aktiv die Lieferanten auf Ebene des Projektleiters. • Setzt die Kooperationsstrategie des Program Directors mit anderen ÜNB im jeweiligen Projekt um. • Stellt die Einhaltung von Gesetzen, Vorschriften, HSE-Vorschriften und -Kultur im Projekt sicher. • Unterstützt den Auftraggeber bei der Wahrnehmung bauherrenbezogener Pflichten durch fachliche Zuarbeit und Dokumentation. • Führt HSE-Vorfalluntersuchungen durch und dokumentiert diese rechtssicher. • Stellt die Einhaltung der HSE-Richtlinien und das Zero Harm-Prinzip im eigenen Aufgabenbereich/Projekt sicher. • Identifiziert Risiken, verfolgt diese und teilt sie dem Risikomanager zur Dokumentation im Risikoregister mit. • Übernimmt das Problem- und Erwartungsmanagement sowie die erste Eskalationsebene für Projektleiter. • Schafft ein Umfeld, in dem Projektergebnisse innerhalb der geforderten Zeit, Qualität und Kosten abgeliefert werden. • Stellt die Einhaltung der Kabelverträge bzgl. elektrotechnischer Themen sicher. • Stimmt das elektrotechnische Design der benötigten Kabel (DC und LWL) eng mit dem Fachbereich Engineering ab. • Überwacht die korrekte und qualitätsgesicherte Umsetzung des Designs der LWL zum Kabelmonitoring durch die Kabelhersteller. • Erstellt technische Vorgaben für kabelbetreffende, elektrotechnische Themen (Erdung, Anbindungsschnittstellen, Instandhaltung etc.). • Koordiniert fachliche Kunden-Vorgaben zum Cable Design in Zusammenarbeit mit dem Fachbereich Engineering. Für die Übernahme der o.g. Tätigkeiten sind folgende Kenntnisse erforderlich: • Erfolgreich abgeschlossenes Studium im Bereich Elektrotechnik, Energietechnik, Bauingenieurwesen oder eine vergleichbare Qualifikation • Mehrjährige Erfahrung (mind. 5 Jahre) in der Leitung und/oder Projektmanagement von Infrastruktur- oder bevorzugt Kabelprojekten • Grundsätzliches technisches Verständnis der Kabeltechnik • Kenntnisse relevanter Normen und Vorschriften (z. B. VDE, DIN) • Einschlägige Erfahrung im Umgang mit GU-Verträgen sowie fachliche Kompetenz in der Vorbereitung und Durchführung von Vertrags- und Nachtragsverhandlungen • Erfahrung in der Nutzung branchenüblicher IT-Software, insb. CDE-Enterprise und Jira • Zertifizierung als Projektmanager (PMP; IPMA) • Eine hohe Reisebereitschaft wird vorausgesetzt, insbesondere für regelmäßige Einsätze auf Kunden Baustellen (überwiegend Deutschland) • Fortgeschrittene Kenntnisse im Umgang mit Microsoft Office, insb. Word, Excel, PowerPoint, SharePoint, etc. sowie die Fähigkeit sich in neue Softwarelösungen einzuarbeiten • Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift • Ausgeprägte Kontakt- und Teamfähigkeit sowie eine selbstständige, strukturierte und analytische Arbeitsweise",
+      "first_seen": "2026-07-02T07:29:13.422855+00:00",
+      "id": "1440c45be0c7932d",
+      "matched_keywords": [
+        "projektmanager",
+        "energie"
+      ],
+      "published": "2026-07-02T07:12:22+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektsteuerung und Koordination Cable",
+      "url": "https://www.freelancermap.de/projekt/projektsteuerung-und-koordination-cable-3018243"
+    },
+    {
       "description": "1. Elektroingenieur (m/w/d) – Planung MV/LV, PV & BESS Ziel: Planung und Umsetzung von PV-, BESS- und Energieinfrastrukturprojekten. Aufgaben: • Planung von Mittel- und Niederspannungsanlagen • Netzanschlusskonzepte für PV/BESS • Dimensionierung von Transformatoren, Schaltanlagen, Kabeln, Schutztechnik • Lastfluss- und Netzanalysen • Ausschreibungen, Bau- und Inbetriebnahmebegleitung Anforderungen: • Studium Elektrotechnik / Energietechnik • 3–5+ Jahre Erfahrung • Kenntnisse in PV, BESS, Umspannwerken, Mittelspannung • Normen: VDE, IEC, TAB • Tools: AutoCAD, EPLAN, PowerFactory, ETAP, PVSyst Persönlich: • Analytisch, strukturiert, eigenverantwortlich • Kommunikationsstark, projektorientiert",
       "first_seen": "2026-07-02T03:21:51.946687+00:00",
       "id": "4edd6b16548a5a22",
@@ -5551,20 +5695,7 @@
       "source": "freelancermap.de",
       "title": "Freiberufliche Unterstützung – Beratung Rechenzentrumsplanung und Whitespace-Design",
       "url": "https://www.freelancermap.de/projekt/freiberufliche-unterstuetzung-beratung-rechenzentrumsplanung-und-whitespace-design"
-    },
-    {
-      "description": "STELLENANZEIGE Vertriebspartner (m/w/d) für Webdesign & SaaS gesucht DACH-weit · Remote · Netlook & MedFlow24 Hinter Netlook und MedFlow24 stehen zwei etablierte Marken mit eingespieltem Team, echten Referenzen und einem klaren Setup: Du bringst den Kunden, wir machen den Rest. Konzeption, Design, Entwicklung, Onboarding und Support kommen komplett aus unserem Haus. Verbindlich, pünktlich und auf einem Niveau, das überzeugt. Das Ergebnis: zufriedene Kunden, die bleiben, weiterempfehlen und für Folgeprojekte zurückkommen. Für dich heißt das planbare Abschlüsse und Provisionen, die zuverlässig fließen. Ich bin Mathis Kußmaul , Geschäftsführer von Netlook (Webdesign-Agentur, Remscheid) und MedFlow24 (Online-Rezeption für Arztpraxen & Kliniken). Für unser weiteres Wachstum im DACH-Raum suche ich zuverlässige Vertriebspartner , die uns planbar gute Aufträge bringen. Was du verkaufst (Netlook und/oder MedFlow24!) Netlook: moderne, conversion-starke Websites & WordPress-Projekte für KMU (Handwerker, Praxen, Industrie, Berater, etc.) MedFlow24: digitale Online-Rezeption, KI-Chat, Terminbuchungssystem und vieles mehr für Praxen, Kliniken, MVZ - SaaS mit monatlich wiederkehrenden Einnahmen für dich! Vergütung Faire Einmalprovision auf Webprojekte Wiederkehrende Provision auf MedFlow24-Abos - solange der Kunde bei uns ist Keine Deckelung, keine Fixkosten, schnelle Auszahlung Wen ich suche Erfahrung im B2B-Vertrieb, idealerweise im Digital-, SaaS- oder Agenturumfeld Sicher im Umgang mit Entscheidern (GF, Inhaber, Ärzt:innen) Eigenständig, unternehmerisch, verlässlich Erfahrung im Gesundheitswesen ist ein Plus, kein Muss Keinen einfachen Vertriebler, sondern einen Partner für Langfristige Zusammenarbeit mit sehr guter Vergütung! Was du bekommst Zwei fertige, geprüfte Produkte mit echten Referenzen Eingespielte Umsetzung - du verkaufst, wir liefern DACH-weiter Markt, Remote-Zusammenarbeit Langfristige Perspektive bis hin zu exklusiver Partnerschaft Kontakt: Mathis Kußmaul · Netlook & MedFlow24 · ***** · ***** · netlook.org · medflow24.de Kurze Nachricht mit Hintergrund, Netzwerk und Wunschmodell genügt - ich melde mich persönlich zurück.",
-      "first_seen": "2026-06-18T03:42:26.067905+00:00",
-      "id": "c7e83520689a3215",
-      "matched_keywords": [
-        "netz",
-        "ems"
-      ],
-      "published": "2026-06-18T01:54:10+02:00",
-      "source": "freelancermap.de",
-      "title": "Vertriebspartner (m/w/d) für Webdesign & SaaS gesucht",
-      "url": "https://www.freelancermap.de/projekt/vertriebspartner-m-w-d-fuer-webdesign-und-saas-gesucht"
     }
   ],
-  "updated_at": "2026-07-02T03:21:52.045461+00:00"
+  "updated_at": "2026-07-02T07:29:13.531389+00:00"
 }
