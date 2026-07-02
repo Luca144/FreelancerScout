@@ -1,6 +1,19 @@
 {
   "projects": [
     {
+      "description": "1. Elektroingenieur (m/w/d) – Planung MV/LV, PV & BESS Ziel: Planung und Umsetzung von PV-, BESS- und Energieinfrastrukturprojekten. Aufgaben: • Planung von Mittel- und Niederspannungsanlagen • Netzanschlusskonzepte für PV/BESS • Dimensionierung von Transformatoren, Schaltanlagen, Kabeln, Schutztechnik • Lastfluss- und Netzanalysen • Ausschreibungen, Bau- und Inbetriebnahmebegleitung Anforderungen: • Studium Elektrotechnik / Energietechnik • 3–5+ Jahre Erfahrung • Kenntnisse in PV, BESS, Umspannwerken, Mittelspannung • Normen: VDE, IEC, TAB • Tools: AutoCAD, EPLAN, PowerFactory, ETAP, PVSyst Persönlich: • Analytisch, strukturiert, eigenverantwortlich • Kommunikationsstark, projektorientiert",
+      "first_seen": "2026-07-02T03:21:51.946687+00:00",
+      "id": "4edd6b16548a5a22",
+      "matched_keywords": [
+        "energie",
+        "netz"
+      ],
+      "published": "2026-07-02T01:49:48+02:00",
+      "source": "freelancermap.de",
+      "title": "Elektroingenieur (m/w/d) – Planung MV/LV, PV & BESS",
+      "url": "https://www.freelancermap.de/projekt/elektroingenieur-m-w-d-planung-mv-lv-pv-und-bess"
+    },
+    {
       "description": "Für einen unserer Großkunden suchen wir derzeit eine Unterstützung , die die nachfolgenden Anforderungen erfüllt: Deine Aufgaben: Betrieb und Administration von Genua Genugate- und Genuscreen-Systemen im produktiven Umfeld Übernahme operativer und beratender Tätigkeiten zur Entlastung interner Betriebsteams Mitarbeit im laufenden Betrieb innerhalb bestehender PAP-Strukturen Unterstützung bei speziellen Einsatzszenarien, beispielsweise im Bereich DNS Doctoring Mitwirkung bei der Transformation bestehender physischer Systeme auf virtuelle Plattformen Aufbau und Betrieb dynamischer N-Cluster mit Lastverteilung und vorgelagertem Load Balancing Automatisierung und kontinuierliche Optimierung bestehender Betriebsprozesse Unterstützung bei der Einführung und Weiterentwicklung von IPv6 sowie Dual-Stack-Umgebungen inklusive Übergangsbewertung Beratung von Projekten hinsichtlich Architektur, Kommunikationspfaden und ALG-Funktionalitäten Unterstützung bei der fachlichen Bewertung technischer Anforderungen im Netzwerk- und Security-Umfeld Dein Profil: Mehrjährige Erfahrung im Betrieb von Genua Genugate und Genuscreen Fundierte Kenntnisse im operativen Betrieb von Sicherheitsgateways und Netzwerksicherheitslösungen Erfahrung bei der Transformation physischer Systeme in virtuelle Infrastrukturen Praxiserfahrung im Aufbau und Betrieb dynamischer N-Cluster Kenntnisse im Bereich Load Balancing und Hochverfügbarkeitslösungen Erfahrung in der Automatisierung und Optimierung von Betriebsprozessen Gute Kenntnisse im Bereich IPv4, IPv6 und Dual-Stack-Szenarien Erfahrung mit Netzwerk- und Security-Infrastrukturen Rahmenparameter: Einsatzort: Remote (95%) und nach Absprache in Berlin oder Bonn (5%) Laufzeit: Ab sofort - 31.12.2026 Auslastung: Vollauslastung Dein GECO-Ansprechpartner freut sich auf Deine Kontaktaufnahme und über die Zusendung Deiner aussagekräftigen Projekthistorie sowie Deiner Honorarvorstellung/Gehaltsvorstellung/Preisvorstellung.",
       "first_seen": "2026-07-01T23:12:49.529114+00:00",
       "id": "5a3aace0bf8a0eee",
@@ -5551,43 +5564,7 @@
       "source": "freelancermap.de",
       "title": "Vertriebspartner (m/w/d) für Webdesign & SaaS gesucht",
       "url": "https://www.freelancermap.de/projekt/vertriebspartner-m-w-d-fuer-webdesign-und-saas-gesucht"
-    },
-    {
-      "description": "Projektziel: Gesucht wird ein erfahrener Freelancer im Bereich Network Security und Netzwerkadministration für ein Projekt in Hamburg. Zeitrahmen/Projektlaufzeit: - Beginn: ab sofort / nach Vereinbarung - Laufzeit: 6 Monate mit Option auf Verlängerung Arbeitsmodell: - 2–3 Tage pro Woche vor Ort in Hamburg Hauptaufgaben: - Administration und Betrieb von Firewalls (Fortinet FortiGate & Checkpoint) - Verwaltung und Konfiguration von Switches (Aruba & Cisco) - Analyse und Behebung von Netzwerkproblemen - Dokumentation der Netzwerkinfrastruktur Voraussetzungen: - Nachgewiesene Erfahrung in der Administration von Fortinet- und Checkpoint-Firewalls - Kenntnisse in der Verwaltung von Aruba- und Cisco-Switches - Selbstständige und strukturierte Arbeitsweise - Verfügbarkeit für Vor-Ort-Einsätze in Hamburg (2–3 Tage pro Woche) Erwartetes Ergebnis: - Stabiler Betrieb und Administration der Firewall- und Switch-Infrastruktur sowie vollständige Dokumentation der Netzwerkinfrastruktur",
-      "first_seen": "2026-06-17T23:22:03.085876+00:00",
-      "id": "3a910f62bebcc8c4",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-06-18T01:15:12+02:00",
-      "source": "freelancermap.de",
-      "title": "Network Security & Netzwerkadministration Freelancer in Hamburg gesucht",
-      "url": "https://www.freelancermap.de/projekt/network-security-und-netzwerkadministration-freelancer-in-hamburg-gesucht"
-    },
-    {
-      "description": "Projektbeschreibung: Im Projekt wird eine rund 540 km lange Gleichstromtrasse umgesetzt. Ein Teilabschnitt von ca. 270 km ist in drei Genehmigungsabschnitte unterteilt. Die Verlegung erfolgt überwiegend als Erdkabel in Schutzrohren auf privaten Grundstücken.Vor der Kabelverlegung sind umfangreiche Tiefbau- und bauvorbereitende Maßnahmen erforderlich, unter anderem Grabenaushub, Schutzrohrinstallation, Straßenbau, Logistikflächen, Querungen, Baugrunduntersuchungen, Archäologie und Kampfmittelprüfung. Aufgrund vieler betroffener Stakeholder besteht ein hoher Koordinierungsaufwand. Daher wird für einen definierten Trassenabschnitt eine projektbezogene Fachbauleitung vor Ort benötigt. Aufgaben: • Kontrolle der Hochspannungs-Kabel - und LWL-Garnituren hinsichtlich des Aufbaus, Beschriftung und Belegung. • Überprüfung der Mess- und Spleißarbeiten durch die ausführenden Firmen (z. B. NKT, Kellner). • Kontrolle der korrekten Beschriftung aller Komponenten. • Umsetzung und Überwachung des FIMT-Messkonzepts auf der Baustelle (Einweisung bei Bedarf). • Begutachtung der LWL-Installationen auf Stationen (z. B. FIMT-Metallhaubenmuffen, FACT-Schränke, Übergabemuffen). • Betreuung der Ausführung der Kabelschutrzrohre. • Überwachung und Bewertung des Einzugsvorgangs der der Hochspannungs-Kabel • Überwachung des Einblasvorgangs parallel zum Hochspannungskabel verlegten LWL-Begleitkabel mit FIMT-Überwachung. • Überwachung der Kabelzugarbeiten der Querverbindungen in Muffengruben und an Stationen. • Teilnahme an projektbezogenen Terminen und Tafelplanungen mit Fokus auf die HochspannungsKabel- und LWL-Verlegung. • Gewerkeübergreifenden Abstimmung im Bauablauf. • Teilnahme an Baubesprechungen mit Relevanz für Kabel- und LWL-Themen. • Bearbeitung und Koordination ungeplanter Themen im Bereich Kabel und LWL, die sich im Bauverlauf ergeben. Projektziel: • Überwachung der Ausführung nach Vorgaben, Qualitätsstandards und Zeitplan • Kontrolle von Verlegung, Spleißung, Beschriftung, Kabelzug und Einblasvorgängen • Begleitung von Abstimmungen und kritischen Bauabschnitten • Dokumentation projektspezifischer Anforderungen, z. B. FIMT-Messkonzept • Weitergabe des gewonnenen Know-hows zur langfristigen Verankerung in der Firma Anforderungen: • Zertifizierungen im Bereich Bauüberwachung, Projektmanagement. • Kenntnisse in relevanten Normen und Richtlinien (z. B. VDE, DIN, ISO). • Erfahrung mit digitalen Bauüberwachungstools, Think Project, Dokumentationssystemen oder GIS-Anwendungen • Spezifische Kenntnisse im Bereich Hochspannungs-Gleichstrom-Übertragung (HGÜ), idealerweise aus vergleichbaren Projekten. • Englisch: mindestens B1-Niveau Notwendige Kompetenzen: • Abgeschlossenes Studium im Bereich Elektrotechnik, Nachrichtentechnik, Bauingenieurwesen oder vergleichbare technische Ausbildung. • Fundierte Kenntnisse in der Verlegung von Hochspannungs-Kabel- und LWL-Kabel. • Mehrjährige praktische Erfahrung (mind. 3–5 Jahre) in der Bauüberwachung oder Fachbauleitung von Infrastrukturprojekten mit Hochspannungskabel- und LWL-Kabel. • Erfahrung in der Qualitätssicherung und Dokumentation von Bauleistungen & der Zusammenarbeit mit Bauunternehmen, Behörden und Ingenieurbüros. • Gute Fachkenntnisse im Bereich Hochspannungskabel & über FIMT-Systeme (Fiber in Metal Tube) und deren Messkonzepte. • Vertrautheit mit Kabelgarnituren, Spleißtechnik, Einblastechnologie und LWL-Komponenten, • OTDR-Messungen, Auswertung von OTDR Messungen R • Umfassende Kenntnisse der Vergabe- und Vertragsordnung für Bauleistungen (VOB). • Grundverständnis für naturschutzrechtliche Vorgaben (BNatSchG, FFH-Richtlinie, UVPG, Umweltrecht). • Erfahrung mit der Umsetzung von Ausgleichs- und Ersatzmaßnahmen im Rahmen von Infrastrukturprojekten. • Fähigkeit zur Abstimmung mit verschiedenen Gewerken und zur Teilnahme an Baubesprechungen. • Deutsch: mindestens B2-Niveau • Bereitschaft zu Reisetätigkeit und Baustelleneinsätzen im Abschnitt Start/Ende: 01.08.2026 - 31.07.2028 – 24 Monate Volumen: 360 Tage Arbeitsort: 90% onsite (Baustelle und Baubüro Magdeburg), 5% remote, Der/die Berater*in muss ein eigenes Fahrzeug zur Baustellenerreichung mitbringen. Nächste Schritte: Wenn Sie glauben, dass diese Anforderungen zu Ihren Fähigkeiten passen, bewerben Sie sich über die Antwortfunktion des Portals & den Link: https://www.joyit.de/bewerbung?projectId=F*****P9B1 Sie müssen sich nicht mehrmals für dieselbe Position bewerben. Wir bieten Ihnen die vorteilhaftesten Bedingungen, die standardisiert sind. Bei der Angabe von Stundensätzen beachten Sie bitte, dass der Kunde preissensibel sein kann und die Projektdauer berücksichtigt werden sollte. Darüber hinaus besteht oft eine gute Chance auf Verlängerung. Bei Fragen kontaktieren Sie uns gerne unter Angabe der Projekt-ID per E-Mail an ***** . Mit freundlichen Grüßen, Ihr joyIT-Team.",
-      "first_seen": "2026-06-17T23:22:03.085876+00:00",
-      "id": "2061ac52d2b4091b",
-      "matched_keywords": [
-        "tso"
-      ],
-      "published": "2026-06-18T01:14:17+02:00",
-      "source": "freelancermap.de",
-      "title": "F*****P9B1: Fachbauleitung LWL für SOL (Magdeburg, 90% onsite, 24 Monate, ASAP)",
-      "url": "https://www.freelancermap.de/projekt/fp9b1-fachbauleitung-lwl-fuer-sol-magdeburg-90-prozent-onsite-24-monate-asap"
-    },
-    {
-      "description": "Für einen unserer Großkunden suchen wir derzeit eine Unterstützung , die die nachfolgenden Anforderungen erfüllt: Ihre Aufgaben: Bearbeitung von Service Desk und User Support Anfragen Administration von Windows- und Linux-Systemen Verwaltung und Betreuung von Microsoft 365 Durchführung von Update Monitoring und Patchmanagement Erstellung und Verwaltung virtueller Server Unterstützung im Client Management Automatisierung einfacher Aufgaben mittels PowerShell Unterstützung bei Cloud-Themen im AWS-Umfeld Mitarbeit im Betrieb und der Optimierung der IT-Infrastruktur Unterstützung bei Netzwerk- und Infrastrukturthemen Ihr Profil: Erfahrung im Service Desk bzw. User Support Gute Kenntnisse in Windows- und Linux-Umgebungen Erfahrung in der Serveradministration Kenntnisse in Microsoft 365 Administration Grundkenntnisse in PowerShell Erfahrung im Update- und Patchmanagement Kenntnisse in der Erstellung und Verwaltung von virtuellen Maschinen Grundkenntnisse im AWS-Umfeld Gute Netzwerkgrundlagen Idealerweise Erfahrung mit OPSI oder vergleichbaren Client-Management-Lösungen Rahmenparameter: Einsatzort: Hamburg und Remote Laufzeit: mind. 4 Monate Auslastung: Vollzeit Ihr GECO-Ansprechpartner freut sich auf Ihre Kontaktaufnahme und über die Zusendung Ihrer aussagekräftigen Projekthistorie sowie Ihrer Honorarvorstellung/Gehaltsvorstellung/Preisvorstellung.",
-      "first_seen": "2026-06-17T23:22:03.085876+00:00",
-      "id": "7220d8ee49854c3b",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-06-18T00:01:04+02:00",
-      "source": "freelancermap.de",
-      "title": "IT Support / Systemadministrator (Windows, Linux & M365) (m/w/d) in Hamburg & Remote / ZNMI238082",
-      "url": "https://www.freelancermap.de/projekt/it-support-systemadministrator-windows-linux-und-m365-m-w-d-in-hamburg-und-remote-znmi238082"
     }
   ],
-  "updated_at": "2026-07-01T23:12:49.628391+00:00"
+  "updated_at": "2026-07-02T03:21:52.045461+00:00"
 }
