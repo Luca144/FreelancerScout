@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Wir suchen ab sofort für unseren Kunden einen Interim Projektmanager Datenschutz (w/m/d) in Teilzeit für ca. 9 Monate mit Option auf Verlängerung am Standort Großraum Hamburg & Remote Work. Projektlaufzeit: 15.07.2026 bis 31.03.2027 Auslastung ca. 20-25 h/Woche Projektsprache: Englisch mindestens B2 (Japanisch nice to have !) Einsatzmodell: 100% Remote Der Freelancer erbringt Beratungs- und Projektleistungen zur Konzeption, Planung und Unterstützung eines globalen Rollouts einer Unternehmensrichtlinie im Bereich Datenschutz (GDPR) sowie zur Sicherstellung einer konsistenten Umsetzung über Regionen hinweg. Projekt- und Programmmanagement: - Steuerung von Teilprojekten und Arbeitspaketen - Regelmäßiges Reporting an Projektleitung und Stakeholder - Tracking von Fortschritt, Risiken und Meilensteinen Konzeption & Strategieentwicklung: - Entwicklung eines zielgerichteten Rollout-Konzepts - Definition eines einheitlichen Vorgehensmodells (Governance, Prozesse, Tools) - Konzeption von Schulungs- und Awarenessmaßnahmen Analyse & Harmonisierung: - Sammlung und Konsolidierung von regionalem Feedback Durchführung von Gap-Analysen Identifikation von Optimierungsmaßnahmen Implementierungsunterstützung: - Planung und Steuerung der Umsetzung - Unterstützung bei Monitoring und Tracking - Zusammenarbeit mit internen Fachbereichen PJ Turing – AI Governance Requirements: - AI System Inventory: Setup der Inventarstruktur, Definition erforderlicher Felder, Erhebungsprozess sowie Modell zur laufenden Pflege. Migration des AI-Inventars von Trustible nach OneTrust. - AI Risk Assessment: Entwicklung von Methodik, Klassifizierungslogik, Templates/Fragebögen sowie Unterstützung bei ersten Bewertungen priorisierter AI-Anwendungsfälle. - Governance Model: Definition von Rollen und Verantwortlichkeiten, Review- und Freigabeprozessen sowie Eskalationswegen über Legal, Compliance, Data Protection, Information Security, Regulatory Aﬀairs, Quality Assurance, IT und HR. - Audit Readiness: Definition von Dokumentationsstandards, Nachweisanforderungen, KPIs und Reportinglogik. - Rollout Support: Durchführung von Trainings, Stakeholder-Kommunikation sowie Unterstützung der regionalen Implementierung. Deliverables: - Projektplan inklusive Meilensteinen - Reportingstruktur (Statusberichte, KPI-Tracking) - Gap-Analyse-Dokumentation - Rollout- und Implementierungskonzept - Dokumentation der Maßnahmen und Ergebnisse Qualifikation: Erfahrung in folgenden Bereichen: - GDPR / Datenschutzprogramme - Internationale Rollouts - Projekt- und Programmmanagement - Erfahrung im Konzernumfeld, idealerweise im MedTech-Umfeld oder in anderen regulierten Branchen - Fähigkeit zur Zusammenarbeit in englischer Projektsprache - Erfahrung mit folgenden Tools: OneTrust, Trustible, Jira, Confluence (nice to have)",
+      "first_seen": "2026-07-05T16:06:02.937334+00:00",
+      "id": "14fe48fd498c50b5",
+      "matched_keywords": [
+        "projektmanager"
+      ],
+      "published": "2026-07-05T17:50:07+02:00",
+      "source": "freelancermap.de",
+      "title": "Interim Projektmanager Datenschutz (w/m/d)",
+      "url": "https://www.freelancermap.de/projekt/interim-projektmanager-datenschutz-w-m-d"
+    },
+    {
       "description": "Für eine moderne SaaS Plattform (digital-railways.com/cards) für digitale Visitenkarten suche ich selbstständige Vertriebspartner, Freelancer und Business Developer. Die Lösung unterstützt Unternehmen bei der professionellen Außendarstellung und dem digitalen Austausch von Kontaktdaten. Funktionen: - Digitale Profile mit individuellen Inhalten - Teilen per QR Code oder Link - Apple Wallet und Google Wallet Integration - Lead Erfassung und Kontaktmanagement - Teamverwaltung für Unternehmen - Individuelles Branding und eigene Domain - Nutzungsanalysen in Echtzeit Die Zielgruppen sind Selbstständige, Agenturen, Berater, Vertriebsteams sowie kleine und mittelständische Unternehmen. Geboten wird eine attraktive Vergütung von 50 Prozent Lifetime Provision auf vermittelte Kunden. Die Zusammenarbeit erfolgt remote und auf freiberuflicher Basis. Ich freue mich auf den Austausch mit Vertriebsexperten, Freelancern und Personen mit Zugang zu relevanten B2B Netzwerken. Relevante Suchbegriffe: B2B-Vertrieb, SaaS-Vertrieb, Software-Vertrieb, IT-Vertrieb, Business Development, Vertriebspartner, Handelsvertreter, Sales Freelancer, Leadgenerierung, Neukundenakquise, Kaltakquise, Partnervertrieb, Remote Sales, digitale Visitenkarten, Digital Business Cards, QR-Code-Lösungen, CRM, Kontaktmanagement, Networking, KMU, Mittelstand, Agenturen, Berater und Vertriebsteams.",
       "first_seen": "2026-07-04T19:08:13.253589+00:00",
       "id": "5751b33428c62e9d",
@@ -6070,5 +6082,5 @@
       "url": "https://www.freelancermap.de/projekt/scrum-master-m-w-d-oeffentlicher-sektor"
     }
   ],
-  "updated_at": "2026-07-05T14:40:53.910511+00:00"
+  "updated_at": "2026-07-05T16:06:03.046907+00:00"
 }
