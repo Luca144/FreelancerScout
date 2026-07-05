@@ -6068,19 +6068,7 @@
       "source": "freelancermap.de",
       "title": "Scrum Master (m/w/d), Öffentlicher Sektor",
       "url": "https://www.freelancermap.de/projekt/scrum-master-m-w-d-oeffentlicher-sektor"
-    },
-    {
-      "description": "Projektziel: Entwicklung eines Gläubigerinformationssystems (GIS) als Online-Portal mit rollenbasiertem Zugang für Schuldner, Gläubiger und Gerichte, das mit einer bestehenden FileMaker-Datenbank verbunden ist. Zusätzlich wird Unterstützung bei der Implementierung der elektronischen Rechnung (ZUGFeRD) sowie der Integration von PDF-Formularen benötigt. Hauptaufgaben: - Entwicklung eines Online-Portals, über das aus einer FileMaker-Datenbank heraus Dateien für registrierte Benutzer hinterlegt werden können - Implementierung eines rollenbasierten Zugangssystems für drei Benutzergruppen: Schuldner, Gläubiger und Gerichte, wobei jede Gruppe ausschließlich die für sie bestimmten Dateien einsehen kann - Einrichtung individueller Online-Zugänge für jede Benutzergruppe - Entwicklung einer Funktion zur Forderungsanmeldung im Insolvenzverfahren über den Gläubigerzugang - Anbindung der Forderungsanmeldedaten an die FileMaker-Datenbank (Datenübernahme) - Implementierung der elektronischen Rechnung (ZUGFeRD) in bestehende Datenbanken - Integration von PDF-Formularen unter Nutzung des MBS-Plugins und gegebenenfalls DynaPDF Voraussetzungen: - Erfahrung in der Entwicklung von Online-Portalen mit Benutzerverwaltung und rollenbasiertem Zugriff - Kenntnisse in der FileMaker-Datenbankentwicklung und -integration - Kenntnisse zur Implementierung von ZUGFeRD (elektronische Rechnung) - Erfahrung mit dem MBS-Plugin und gegebenenfalls DynaPDF Erwartetes Ergebnis: - Funktionsfähiges Online-Portal (GIS) mit rollenbasiertem Zugang für Schuldner, Gläubiger und Gerichte - Funktionsfähige Schnittstelle zwischen dem Online-Portal und der FileMaker-Datenbank für den Datenaustausch - Implementierte Forderungsanmeldefunktion für Gläubiger mit Datenübernahme in FileMaker - Implementierte ZUGFeRD-Funktionalität in bestehenden Datenbanken - Integrierte PDF-Formulare mittels MBS-Plugin und gegebenenfalls DynaPDF",
-      "first_seen": "2026-06-21T11:44:32.371462+00:00",
-      "id": "af352f1216fae6b2",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-06-21T13:42:22+02:00",
-      "source": "freelancermap.de",
-      "title": "Programmierer für Gläubigerinformationssystem & FileMaker-Integration gesucht",
-      "url": "https://www.freelancermap.de/projekt/programmierer-fuer-glaeubigerinformationssystem-und-filemaker-integration-gesucht"
     }
   ],
-  "updated_at": "2026-07-05T10:10:22.405135+00:00"
+  "updated_at": "2026-07-05T12:14:19.113189+00:00"
 }
