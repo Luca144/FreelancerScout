@@ -1,6 +1,144 @@
 {
   "projects": [
     {
+      "description": "Für unseren Kunden suchen wir einen IT-Support Spezialisten als Backfill (m/w/d) in Dresden. Rahmenparameter: Start: Mitte September Laufzeit: langfristig Auslastung: nach Absprache und Bedarf Einsatzort: Dresden Budget: 35,00 € Aufgaben: Deskside Support & Hardware Management Support vor Ort für PCs, Laptops, Peripheriegeräte und Software Erfassung, Installation und Ersteinrichtung von Geräten (IMAC-Tätigkeiten) Hardware-Reparaturen (Schwerpunkt: Lenovo-Geräte) Bestandsverwaltung und Anlagenverwaltung Übergabe konfigurierter Systeme an Nutzer Fehlerbehandlung & Support Fehlerbehebung und Troubleshooting (Hardware und Software) Support bei Störungen und technischen Problemen Bearbeitung von Support-Tickets in verschiedenen Tools VIP-Support für kritische Anfragen Dokumentation und Berichterstellung Drucker-Support und Netzwerkdrucker-Verwaltung Mobile Geräte & iOS: Support und Verwaltung Netzwerk, Server & AV-Systeme: „Hands & Feet\"-Support einschließlich Videokonferenzsystemen Patch-Management und Software-Updates Rechenzentrums-Support und Server-Verwaltung Staging neuer Systeme Skills: Gute Kenntnisse in Windows 10 und Microsoft 365 Erfahrung mit SCCM (System Center Configuration Manager) Erfahrung mit Active Directory Kenntnisse in Fernwartungstools (z. B. GoTo Rescue) Profunde Erfahrung mit Lenovo- und Apple-Geräten Grundverständnis für Netzwerk- und Server-Infrastruktur Gute Deutsch- und Englischkenntnisse",
+      "first_seen": "2026-07-06T12:02:55.891300+00:00",
+      "id": "dfd9e8867c78c785",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-06T14:00:57+02:00",
+      "source": "freelancermap.de",
+      "title": "Backfill IT-Support Spezialist (m/w/d) in Dresden",
+      "url": "https://www.freelancermap.de/projekt/backfill-it-support-spezialist-m-w-d-in-dresden"
+    },
+    {
+      "description": "Start: nächstmöglich Ende: nach Absprache Auslastung: Vollzeit (5 Tage/Woche) Einsatzort: überwiegend remote, zwei Präsenztage pro Monat in Nürnberg Umfeld: Öffentlicher Sektor (Bundesbehörde) Projektbeschreibung Für die mobile Anwendung eines Kernverfahrens einer Bundesbehörde wird ein erfahrener iOS-Tester gesucht. Gearbeitet wird in einem agilen Scrum-Team an der Qualitätssicherung einer nativen iOS-App. Der Fokus liegt auf der Planung und Durchführung manueller und automatisierter Tests direkt an der App, von der Testfallerstellung über Gerätetests bis zur automatisierten Regression. Aufgaben * Planung, Erstellung und Pflege von Testfällen und Testszenarien für eine native iOS-App * Aufbau und Wartung automatisierter UI-Tests mit XCUITest und Swift * Manuelles und exploratives Testen auf echten Geräten (iPhone und iPad) * Durchführung von Normal- und Regressionstests, teils automatisiert * Mobile Testautomatisierung mit Cross-Platform-Tools (z. B. Appium, BrowserStack) * Analyse, Dokumentation und Nachverfolgung von Fehlern inklusive Retests * Unterstützung des Scrum-Teams bei Arbeitsplanung und Qualitätssicherung * Abstimmung und Review der fachlichen Anforderungen aus Testsicht * Wissenstransfer an interne Mitarbeiter und weitere externe Dienstleister Must-Have Skills * Mehrjährige Erfahrung im Testen nativer iOS-Apps * Testautomatisierung mit XCUITest und Swift * Manuelles und exploratives App-Testing inklusive Gerätetests auf iPhone und iPad * Erfahrung mit Cross-Platform-Testtools (z. B. Appium, BrowserStack) * Strukturiertes, methodisches Testvorgehen (ISTQB-zertifiziert oder gleichwertige Praxis) * Agile Softwareentwicklung, insbesondere Scrum und KANBAN * Analytische Fähigkeiten, Qualitätsanspruch und ausgeprägte Teamfähigkeit Wünschenswerte Kenntnisse * Erfahrung im öffentlichen Sektor * Testmanagement-Erfahrung * Weitere Zertifizierungen im Test- und Qualitätsumfeld (z. B. ISTQB Advanced, SAFe, Scrum) Bewerbungsprozess Bitte senden Sie Ihre vollständigen Bewerbungsunterlagen inklusive Lebenslauf (PDF), relevanter Projekterfahrung sowie Ihrem Stundensatz. Datenschutzhinweis Wenn Sie sich auf diese Position bewerben, verarbeiten wir die von Ihnen übermittelten personenbezogenen Daten (z. B. Name, Kontaktdaten, Qualifikationen, Lebenslauf, Verfügbarkeit, Vergütungssatz) zur Bearbeitung Ihrer Bewerbung und zur Vertragsanbahnung gemäß Art. 6 Abs. 1 lit. b DSGVO. Weitere Informationen zur Verarbeitung Ihrer Daten finden Sie in unserer Datenschutzerklärung unter: www.codex-solutions.de/DSE",
+      "first_seen": "2026-07-06T12:02:55.891300+00:00",
+      "id": "59ba9b07c1a653a0",
+      "matched_keywords": [
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-07-06T14:00:02+02:00",
+      "source": "freelancermap.de",
+      "title": "iOS App-Tester (m/w/d) mit Schwerpunkt Testautomatisierung",
+      "url": "https://www.freelancermap.de/projekt/ios-app-tester-m-w-d-mit-schwerpunkt-testautomatisierung"
+    },
+    {
+      "description": "Rahmenbedingungen Start: Ab sofort Laufzeit: Bis 31.12.2026 mit Option auf Verlängerung Einsatzart: Freelance oder Festanstellung Arbeitsmodell: Hybrid (ca. 40 % vor Ort in Köln / 60 % Remote) Vergütung: Bitte teile uns in deiner Bewerbung deine Gehaltsvorstellung (bei Festanstellung) bzw. deinen Tagessatz (bei Freelance) sowie deine frühestmögliche Verfügbarkeit mit. Deine Aufgaben Du unterstützt ein agiles Scrum-Team als Spezialist für Softwarequalität und Testautomatisierung. Du entwickelst bestehende Testautomatisierungen kontinuierlich weiter und trägst zur Verbesserung der Testprozesse bei. Fachliche Anforderungen hinterfragst du kritisch und behältst dabei stets den Gesamtzusammenhang im Blick. Testergebnisse und Qualitätsstatus präsentierst du verständlich und adressatengerecht in regelmäßigen Reviews. Du arbeitest eng mit dem Entwicklungsteam zusammen und bringst dich aktiv in den kontinuierlichen Verbesserungsprozess ein. Dein Profil Must-have: Erfahrung in der Testautomatisierung von Webanwendungen mit Selenium, Playwright oder vergleichbaren Tools Sehr gute Kenntnisse in objektorientierter Programmierung mit Java Sicherer Umgang mit REST- und SOAP-APIs sowie Microservices ISTQB Foundation Level oder vergleichbare Kenntnisse im Softwaretesting Erfahrung in agilen Scrum-Teams Verhandlungssichere Deutschkenntnisse in Wort und Schrift Eigenverantwortliche, transparente Arbeitsweise sowie Freude an fachlichem Austausch und konstruktiven Diskussionen Hohe Lernbereitschaft und eine ausgeprägte Continuous-Improvement-Mentalität Nice-to-have: Kenntnisse im Festnetz- oder Telekommunikationsumfeld (z. B. S/PRI, WITA, DOCSIS oder FTTX) Das erwartet dich Ein erfahrenes agiles Team mit einer offenen Feedback- und Fehlerkultur Gemeinsame Entscheidungen und regelmäßige Retrospektiven Hybrides Arbeiten mit Homeoffice und modernem Büro in Köln Moderne Soft- und Hardware sowie strukturierte Einarbeitung Coaching, Mentoring und eine langfristig geplante Zusammenarbeit Ein Team mit langjähriger Scrum-Erfahrung und erfolgreicher Umsetzung anspruchsvoller Softwareprojekte Haben wir dein Interesse geweckt? Dann freuen wir uns auf deine Bewerbung! Bitte sende uns deinen aktuellen Lebenslauf , deine Gehalts- bzw. Tagessatzvorstellung sowie deine frühestmögliche Verfügbarkeit per E-Mail an ***** . Wir freuen uns darauf, dich kennenzulernen!",
+      "first_seen": "2026-07-06T12:02:55.891300+00:00",
+      "id": "fcc5d3f6713b8b82",
+      "matched_keywords": [
+        "agil",
+        "scrum",
+        "netz"
+      ],
+      "published": "2026-07-06T13:50:25+02:00",
+      "source": "freelancermap.de",
+      "title": "Agiles Teammitglied Qualitätssicherung / Testautomatisierung (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/agiles-teammitglied-qualitaetssicherung-testautomatisierung-m-w-d"
+    },
+    {
+      "description": "Für unseren Kunden suchen wir zum 01.08.2026 nach einem:einer (Senior) SAP HCM Berater / Entwickler (m/w/d) per Projektanstellung (ANÜ). Projektbeschreibung: Analyse, Konzeption und Umsetzung neuer Anforderungen im SAP HCM Zeitwirtschaftsumfeld Betreuung und Weiterentwicklung des SAP HCM PT-Systems Customizing im Modul SAP HCM PT Abstimmung technischer Lösungen mit Fachbereichen und internen Stakeholdern Erstellung technischer Konzepte und Implementierung der Anforderungen Unterstützung bei Tests sowie Begleitung von Go-Lives Analyse und Behebung von Fehlern im Produktivbetrieb Unterstützung bei Strukturveränderungen (SVA) und Massenversetzungen Mitarbeit beim Einspielen von Patches und Wartungsmaßnahmen Mitwirkung an der strategischen Weiterentwicklung der HR-Systemlandschaft Anforderungen: Mehrjährige Erfahrung als SAP HCM Berater oder Entwickler Fundierte Kenntnisse im Modul SAP HCM PT (Zeitwirtschaft) Umfangreiche Erfahrung im SAP HCM PT Customizing Sehr gute Kenntnisse der Zeitwirtschaftsprozesse Erfahrung mit Arbeitszeitregelungen und deren Umsetzung im SAP-System Kenntnisse in der Umsetzung von Betriebsvereinbarungen im SAP HCM Umfeld Gute analytische und konzeptionelle Fähigkeiten Nice to have: Grundkenntnisse in ABAP Erfahrung mit agilen Arbeitsmethoden Rahmendaten: Einsatzort: remote (99%) Laufzeit: Bis Jahresende (+) Auslastung: 4 Tage/Woche Sprachkenntnisse: Deutsch und Englisch (must have) Vertragsart: Arbeitnehmerüberlassung Bei Interesse freuen wir uns auf die Zusendung Ihres Skillprofils mit Angabe Ihres Wunschgehalts (Brutto-Jahresgehalt) und Ihrer Verfügbarkeit (frühestmögliches Startdatum).",
+      "first_seen": "2026-07-06T12:02:55.891300+00:00",
+      "id": "cd075fbfcdcbe3f8",
+      "matched_keywords": [
+        "agil",
+        "ems"
+      ],
+      "published": "2026-07-06T13:49:14+02:00",
+      "source": "freelancermap.de",
+      "title": "(Senior) SAP HCM Berater / Entwickler (m/w/d) ANÜ",
+      "url": "https://www.freelancermap.de/projekt/senior-sap-hcm-berater-entwickler-m-w-d-anue"
+    },
+    {
+      "description": "Ceph Developer (C++ / Python) As a Ceph Developer, you will work on the core components of the Ceph storage platform, with a focus on performance optimization, feature development, and long-term maintainability. You will contribute to both upstream Ceph and internal forks, designing and implementing enhancements across modules like RGW, RADOS, RBD, and CephFS. This role combines deep system-level development with the operational realities of running Ceph in large-scale, Kubernetes-driven cloud-native environments. Team Activities Design and implement new features in Ceph (RGW, RADOS, RBD, CephFS) Optimize storage system performance, scalability, and reliability Troubleshoot distributed storage issues and debug low-level system behavior Participate in upstream Ceph development and community discussions Integrate Ceph with Kubernetes via Rook and CSI drivers Monitor and improve system observability using telemetry and metrics Plan and execute development tasks using Agile methodologies Contribute to technical documentation, design reviews, and internal knowledge sharing Required Skills Strong proficiency in C++ and Python (5+ years) Hands-on experience with Ceph (any of RGW, RADOS, RBD, CephFS) Solid understanding of Linux internals (I/O, memory management, threading) Familiarity with Kubernetes, Rook, and Ceph CSI drivers Experience with Git, GitHub, and CI/CD pipelines Exposure to large-scale infrastructure or cloud-native environments Proficiency with observability tools (Prometheus, Grafana, etc.) Optional Skills Contributions to open-source projects (especially Ceph) Experience with cloud platforms: AWS, Azure, or OpenStack Familiarity with performance profiling tools and storage benchmarks Knowledge of S3 and Swift protocols and object storage semantics",
+      "first_seen": "2026-07-06T12:02:55.891300+00:00",
+      "id": "4b35f05afbaee8d6",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-07-06T13:42:01+02:00",
+      "source": "freelancermap.de",
+      "title": "CEPH Developer",
+      "url": "https://www.freelancermap.de/projekt/ceph-developer-3019595"
+    },
+    {
+      "description": "Freelancer Projektleiter Genehmigung / Umwelt- und Immissionsschutz (m/w/d) Start: kurzfristig | Laufzeit: langfristig geplant 90% remote Aufgaben Projektleitung komplexer Genehmigungsverfahren nach BImSchG Koordination von Gutachtern und Sachverständigen (Lärm, Luftreinhaltung, Brandschutz, AwSV, Explosionsschutz) Steuerung der Erstellung und Einreichung von Genehmigungsunterlagen Ansprechpartner für Genehmigungs- und Fachbehörden Begleitung von Scoping-, Antrags- und Erörterungsterminen Steuerung von Auflagen, Fristen und behördlicher Kommunikation Anforderungen Mehrjährige Erfahrung im Umwelt- und Immissionsschutz Tiefgehende Kenntnisse im BImSchG-Umfeld sowie UVP, AwSV, Brand- und Explosionsschutz Erfahrung mit Energie-, Industrie- oder Anlagenbauprojekten Sicheres Auftreten gegenüber Behörden und Stakeholdern Starkes Projektmanagement und hohe Eigenständigkeit Rahmenbedingungen Standort: Neuss / Remote 90 % Remote, 10 % Onsite SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-07-06T12:02:55.891300+00:00",
+      "id": "0ab9bc5845917658",
+      "matched_keywords": [
+        "energie"
+      ],
+      "published": "2026-07-06T13:41:36+02:00",
+      "source": "freelancermap.de",
+      "title": "Genehmigungsmanager (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/genehmigungsmanager-m-w-d-3019594"
+    },
+    {
+      "description": "Für ein Großprojekt im Versicherungsumfeld suchen wir einen erfahrenen Business Analyst PKV (m/w/d) Projekt Nr. 4594 . Rahmendaten Projektstart: 01.09.2026 Laufzeit: 6 Monate mit Option auf Verlängerung Auslastung: 100 % Einsatzort: Ruhrgebiet Remote-Anteil: Hoher Remote-Anteil (alle 2-3 Wochen vor Ort nach Rücksprache) Onboarding: Einarbeitung vor Ort Sprache: Deutsch Aufgaben Analyse und Dokumentation fachlicher Prozesse im Bereich Personenversicherung / PKV Aufnahme und Analyse fachlicher Anforderungen aus den Fachbereichen Erstellung und Ausarbeitung von Anforderungskonzepten und Fachkonzepten Analyse und Gegenüberstellung von Prozessen im Alt- und Neusystem Durchführung von Gap-Analysen Unterstützung bei der fachlichen Migration bzw. Transformation vom Bestandssystem in das Zielsystem Übersetzung fachlicher Anforderungen in umsetzbare Spezifikationen für die IT Enge Zusammenarbeit mit Fachbereichen, Entwicklung und Projektleitung Durchführung und Moderation von Fachworkshops Begleitung fachlicher Tests sowie Unterstützung bei der Abnahme Aktive Mitarbeit im Tagesgeschäft des Projekts und eigenständige Übernahme von Arbeitspaketen Anforderungen Mehrjährige Erfahrung als Business Analyst im Versicherungsumfeld Fundiertes Know-how im Bereich Personenversicherung Idealerweise Erfahrung im Bereich Private Krankenversicherung Erfahrung mit Bestandssystemen sowie Transformations- oder Migrationsprojekten zwischen Alt- und Neusystemen Sehr gutes Verständnis fachlicher Versicherungsprozesse Mehrjährige Erfahrung in der Erstellung von Anforderungs- und Fachkonzepten Erfahrung im Requirements Engineering Sicherer Umgang mit Jira, Confluence oder vergleichbaren Tools Erfahrung in der Prozessmodellierung, z. B. BPMN Erfahrung in der Begleitung fachlicher Tests Haben Sie freie Kapazitäten und können unseren Kunden unterstützen? Ich freue mich auf Ihre Rückmeldung mit der Projektnummer und folgenden Informationen an *****: Ihre aktuelle Projektverfügbarkeit (frühester Start) Ihre maximale Auslastung/Woche insgesamt Ihr Stundensatz Ihr aktuelles Profil (idealerweise im PDF-Format) Ihre Einschätzung zu den geforderten Anforderungen Wir bearbeiten alle Rückmeldungen und geben stets unser Bestes, uns bei allen Kandidaten (m/w/d) zurückzumelden. Leider ist dies nicht immer möglich. Wir bitten hierfür um Ihr Verständnis. Sollten Sie innerhalb von fünf Werktagen keine Rückmeldung von uns erhalten, gehen Sie bitte davon aus, dass sich unser Kunde für einen anderen Kandidaten entschieden hat. Beste Grüße",
+      "first_seen": "2026-07-06T12:02:55.891300+00:00",
+      "id": "77a652145bf2e51d",
+      "matched_keywords": [
+        "requirements engineer",
+        "business analyst"
+      ],
+      "published": "2026-07-06T13:36:17+02:00",
+      "source": "freelancermap.de",
+      "title": "Business Analyst PKV (m/w/d) Projekt Nr. 4594",
+      "url": "https://www.freelancermap.de/projekt/business-analyst-pkv-m-w-d-projekt-nr-4594"
+    },
+    {
+      "description": "Für unseren Kunden aus der Branche \"Luftfahrt / Aviation\" suchen wir einen \" Senior Manager Software Certification & Quality Management (m/w/d)\" auf Contracting-Basis. Start: ab sofort Ende: 31.12.2026 (OaV) Kapazität: Vollzeit Volumen: 120 PT Einsatzort: Remote / gelegentlich Raum Frankfurt Aufgaben Analyse, Definition und Weiterentwicklung von Prozessen, Methoden und Organisationsstrukturen zur Vorbereitung, Durchführung und kontinuierlichen Verbesserung von Zertifizierungs- und Zulassungsprozessen für Software. Sicherstellung der Einhaltung regulatorischer, normativer und interner Qualitätsanforderungen im gesamten Softwareentwicklungs- und Freigabeprozess. Entwicklung, Harmonisierung und Standardisierung von Entwicklungs-, Qualitäts- und Governance-Prozessen über verschiedene Organisationseinheiten hinweg. Verantwortung für die Erstellung, Pflege und Weiterentwicklung von Prozessbeschreibungen, Qualitätsrichtlinien, Handbüchern sowie Nachweisdokumentationen im Rahmen von Zertifizierungs-, Audit- und Konformitätsverfahren. Beratung und Unterstützung der Fachbereiche bei der Definition, Einführung und kontinuierlichen Optimierung standardisierter Softwareentwicklungs- und Qualitätssicherungsprozesse. Einsatz und Weiterentwicklung geeigneter ALM- und Requirements-Management-Werkzeuge (z. B. Jama Connect) zur Dokumentation, Nachverfolgbarkeit und Nachweisführung von Anforderungen, Tests und Freigaben. Planung, Steuerung und Nachverfolgung von Meilensteinen, Deliverables und Projektfortschritten in enger Zusammenarbeit mit Entwicklung, Qualitätsmanagement und weiteren Stakeholdern. Regelmäßiges Reporting an Projektleitung und Management über Fortschritt, Risiken sowie den Status von Zertifizierungs- und Qualitätsmaßnahmen. Anforderungen Mehrjährige Berufserfahrung in der Leitung komplexer Projekte oder im Qualitätsmanagement mit Schwerpunkt auf Softwareentwicklung, Prozessmanagement oder regulatorischen Anforderungen. Fundierte Kenntnisse etablierter Softwareentwicklungs- und Qualitätsstandards, beispielsweise V-Modell, ISO 9001, ISO/IEC 12207 oder vergleichbarer Frameworks. Sehr gute Kenntnisse des Software Development Life Cycle (SDLC), Application Lifecycle Management (ALM) sowie moderner Methoden des Requirements Engineering und der Nachweisführung. Erfahrung bei der Vorbereitung, Begleitung oder Durchführung von Zertifizierungs-, Audit-, Compliance- oder Zulassungsverfahren in regulierten Entwicklungsumgebungen. Erfahrung in der Analyse, Modellierung und Optimierung organisationsübergreifender Prozesse. Sicherer Umgang mit Jama Connect oder vergleichbaren ALM-/Requirements-Management-Systemen sowie den gängigen Microsoft-Office-Anwendungen. Ausgeprägte analytische Fähigkeiten sowie eine strukturierte, selbstständige und lösungsorientierte Arbeitsweise. Sehr gute Kommunikationsfähigkeit sowie Erfahrung in der Zusammenarbeit mit interdisziplinären Teams und unterschiedlichen Stakeholdern. Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift. Wünschenswerte Qualifikationen Erfahrung in regulierten Branchen (z. B. Medizintechnik, Bahn, Automotive, Luft- und Raumfahrt, Verteidigung oder kritische Infrastrukturen). Kenntnisse im Bereich funktionale Sicherheit, Qualitätsmanagement oder Compliance. Erfahrung mit Prozessaudits, Konformitätsbewertungen und kontinuierlicher Prozessverbesserung. Soft Skills Analytisch, verantwortungsbewusst und kommunikationsstark. Strukturierte und proaktive Arbeitsweise. Lösungsorientierter Teamplayer mit hoher technischer Kompetenz und ausgeprägtem Qualitätsbewusstsein. Hands-on-Mentalität sowie Freude an der Gestaltung und Optimierung komplexer Entwicklungs- und Zertifizierungsprozesse.",
+      "first_seen": "2026-07-06T12:02:55.891300+00:00",
+      "id": "9967b4421df0d0c4",
+      "matched_keywords": [
+        "requirements engineer"
+      ],
+      "published": "2026-07-06T13:27:59+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Manager Software Certification & Quality Management (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-manager-software-certification-und-quality-management-m-w-d"
+    },
+    {
+      "description": "Projekt-ID: b***** Standort: Hamburg / remote Remote-Prozentsatz: 80% Aufgabenbeschreibung Beraten der Kunden zur Informationssicherheit nach BSI IT-Grundschutz der öffentlichen Verwaltung Beraten zu Themen wie Organisations-, Prozess- und Veränderungsmanagement der IT-Sicherheit Erstellen von Sicherheitskonzepten, IT-Sicherheitsreifegrade, Risikoanalysen und Grundschutzchecks Sparringspartner zu Fachabteilungen und Stakeholder zu BSI Grundschutz (200-x), BCM und NIS2 Beraten im Bereich des Risikomanagements des Kunden, insbesondere zu Risiko-Einschätzungen Fähigkeiten Abgeschlossene Fachinformatiker-Ausbildung, Studium der Informatik oder gleichwertiger Abschluss Mehrjährige Berufserfahrung in der Beratung zur Informationssicherheit nach BSI IT-Grundschutz Fundierte Kenntnisse im BSI IT-Grundschutz (200-1, 200-2, 200-3 und 200-4) und ISMS-Tools Projekterfahrung in der IT- und Netzwerkinfrastruktur mit Grundschutztools (HiScout, Verinice, ...) Kommunikationsstark in Deutscher Sprache und idealerweise eine BSI-Grundschutz-Zertifizierung Vertragsform: Unbefristete Festanstellung bei VOQUZ Einsatzort: Hamburg Home-Office: ja, 80 % Sicherheitsüberprüfung: Bereitschaft zur Hamburg SÜ VOQUZ bietet Dir: Betriebliche Altersvorsorge - für eine bessere Rente (mit einem 100%igen Zuschuss) Betriebliche Krankenzusatzversicherung - für eine optimale Gesundheitsversorgung Betriebliches Jobrad - für den sportlichen & nachhaltigen Weg zur Arbeit & Freizeit EGYM Wellpass – für den täglichen Ausgleich mit Fitnessstudio, Schwimmbäder & Co. Empfehlungsprogramme - für neue Mitarbeiter:innen und Kunden (mit Provision) Home-Office - überall in Deutschland mit einer hochwertigen IT-Ausstattung Weiterbildung & Coaching - für eine individuelle Einarbeitung und Weiterentwicklung Teamevents - für gemeinsame Aktivitäten, egal ob sportlich oder kulinarisch Corporate Benefits - für neue wirtschaftliche und interessante Angebote",
+      "first_seen": "2026-07-06T12:02:55.891300+00:00",
+      "id": "d20f7188988a55ad",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-06T13:23:03+02:00",
+      "source": "freelancermap.de",
+      "title": "Informationssicherheitsberater Infrastruktur (m/w/d) | 80 % Remote & 20 % Hamburg | ANÜ-Projekt",
+      "url": "https://www.freelancermap.de/projekt/informationssicherheitsberater-infrastruktur-m-w-d-80-prozent-remote-und-20-prozent-hamburg-anue-projekt"
+    },
+    {
+      "description": "Die Keil Business Solutions GmbH ist ein innovativer Google Reseller und IT-Dienstleister. Für ein Kundenprojekt suchen wir eine-/n Senior Netzwerk Administrator mit Cisco Erfahrung (m/w/d) – Rostock Aufgaben: Überwachung und Pflege der eingesetzten Serversysteme Sicherstellung des reibungslosen IT-Betriebs inkl. Stabilisierung und Optimierung Qualitätsgesicherte Überführung von Lösungen in die Produktion Abstimmung mit Architektur- und Produktverantwortlichen Unterstützung im Problem Management und 3rd-Level-Support Skills: Erfahrung in der Administration großer Rechenzentren Sehr gute Kenntnisse im Bereich Netzwerk mit Fokus auf Cisco-Technologien Fundierte Erfahrung mit Firewall- und Security-Lösungen, insbesondere Cisco sowie Genua (GenuGate, Genuscreen) Nice to have: Gute Kenntnisse in Monitoring- und Logging-Lösungen, insbesondere Splunk und Xonitor; Erfahrung mit Cisco Meeting Server Start: ASAP Ende: Dezember 2026 + Option Auslastung : 100% Ort : 100% vor Ort in Rostock Projektsprache : Deutsch Bei Interesse senden Sie uns gerne Ihr Profil (bestenfalls im Word-Format). Ihr Kontakt bei Keil BS Adrian Dobo Senior Recruitment Consultant Keil Business Solutions GmbH Landsberger Straße 154 | 80339 München Tel: ***** Fax: ***** E-Mail: ***** www.keil-bs.de",
+      "first_seen": "2026-07-06T12:02:55.891300+00:00",
+      "id": "f7d99f7eddcc3f1c",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-06T13:20:42+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Netzwerk Administrator mit Cisco Erfahrung (m/w/d) – Rostock",
+      "url": "https://www.freelancermap.de/projekt/senior-netzwerk-administrator-mit-cisco-erfahrung-m-w-d-rostock"
+    },
+    {
+      "description": "Projektbeschreibung: Für ein langfristiges Projekt bei einem Unternehmen aus dem Energiesektor suchen wir einen erfahrenen Power BI Entwickler (m/w/d) zur Unterstützung eines bestehenden BI-Teams. Im Fokus stehen die Weiterentwicklung bestehender Reporting-Lösungen sowie die Anbindung und Konsolidierung von Daten aus unterschiedlichen Quellsystemen. Gesucht wird ein Hands-on-Spezialist mit Schwerpunkt auf Datenmodellierung und Reporting – weniger auf Dashboard-Design. Aufgaben: Konsolidierung und Weiterentwicklung bestehender Power BI-Datenmodelle und Reports Anpassung bestehender Reporting-Lösungen an neue fachliche Anforderungen Unterstützung bei der Einführung eines neuen CRM-Systems aus Reporting-Sicht Begleitung des Parallelbetriebs zweier Quellsysteme inklusive Verarbeitung von Exporten und API-Daten Aufbau neuer Power BI-Reports auf Basis von ERP-Exportdaten Enge Zusammenarbeit mit den Fachbereichen und dem bestehenden BI-Team Analyse, Aufbereitung und Integration von Daten aus verschiedenen Quellsystemen Anforderungen: Mehrjährige praktische Erfahrung in der Entwicklung mit Microsoft Power BI Sehr gute Kenntnisse in Datenmodellierung sowie der Erstellung und Optimierung von Reports Sicherer Umgang mit komplexen Datenstrukturen und unterschiedlichen Datenquellen Erfahrung im Umgang mit Datenbanken und SQL von Vorteil Kenntnisse im SAP-Umfeld sind wünschenswert Selbstständige, strukturierte und kommunikative Arbeitsweise Teamfähigkeit und hohe Hands-on-Mentalität Bei Interesse freuen wir uns auf Ihr aktuelles Profil inklusive Angabe Ihres Stundensatzes sowie Ihrer Verfügbarkeit.",
+      "first_seen": "2026-07-06T12:02:55.891300+00:00",
+      "id": "c0376848650493d1",
+      "matched_keywords": [
+        "energie",
+        "ems"
+      ],
+      "published": "2026-07-06T11:32:08+02:00",
+      "source": "freelancermap.de",
+      "title": "Power BI Entwickler (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/power-bi-entwickler-m-w-d-3019475"
+    },
+    {
       "description": "Branche: Energiewirtschaft Start: 13.07.2026 Ende: 31.12.2027 Auslastung: 46% Offsite: 1296h Onsite: 144h Reisezeit: 0h Einsatzort: Frankfurt und remote (Onshore aus Deutschland) Max. Stundensatz remote: 72€/h Weitere Hinweise: Bei den Konditionen ist eine Differenz 18€/h von Onsite zum Offsite Stundensatz nötig. (Onsite +18€/h). Die geplante Aufteilung der Stunden ist wie genannt, kann aber abweichen. 1) Projektbeschreibung: - Das Projekt lautet \"One Billing @ Süwag/ One Billing Local\" - Es ist das lokale Projekt der Regionalgesellschaft (REG) Süwag im Rahmen des E.ON Konzernprojekts OneBilling - Ziel ist die Neueinführung einer Abrechnungsplattform vonseiten E.ON, in die sich sämtliche REGs technologisch, prozessual , datenseitig und organisatorisch integrieren - Kernaufgabe der REG Süwag ist a) die Integration vorhandener Umsysteme (US) in diese Plattform, sowie b) der Neuaufbau Süwag-spezifischer Bedarfe/ Anforderungen auf der Süwag SAP BTP. - Hierzu wird u.a. folgendes Profil gesucht: 2) Detaillierte Aufgabenbeschreibung für: Junior BTP Softwareentwickler (20h/Woche) - Realisiert die definierten Anforderungen unter Nutzung der SAP Business Technology Platform (BTP) Werkzeuge. - Implementiert Anwendungen und Services mittels moderner Frameworks (z. B. SAP Cloud Application Programming Model - CAP oder SAP Cloud SDK). - Entwickelt Cloud-native Erweiterungen und stellt die technische Lauffähigkeit in der BTP-Umgebung sicher. - Führt Unit-Tests durch und dokumentiert den Code sowie die technischen Artefakte gemäß den Süwag-Entwicklungsrichtlinien. Skills: - Erfahrung mit SAP Business Technology Platform (BTP) Werkzeugen - Erfahrung in der Implementierung von Anwendungen und Services (z. B. SAP Cloud Application Programming Model - CAP oder SAP Cloud SDK - Testingerfahrung Auf Ihre Nachricht freue ich mich. Bitte fügen Sie Ihrer Bewerbung Ihren Lebenslauf sowie Ihre Stundensatzvorstellungen hinzu, da Bewerbungen ohne diese Angaben nicht berücksichtigt werden können. Viele Grüße Dominik Ehlers",
       "first_seen": "2026-07-06T07:18:22.580802+00:00",
       "id": "118a44cad2dc121d",
@@ -6215,5 +6353,5 @@
       "url": "https://www.freelancermap.de/projekt/senior-meta-facebook-developer-m-w-d-reservierungsplattform-api-integration"
     }
   ],
-  "updated_at": "2026-07-06T07:18:22.691045+00:00"
+  "updated_at": "2026-07-06T12:02:56.011342+00:00"
 }
