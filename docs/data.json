@@ -1,6 +1,118 @@
 {
   "projects": [
     {
+      "description": "Leistungsbeschreibung * Auslegung und Entwicklung von Hochspannungswandlern für hohe Leistungen * Schaltungsdesign für leistungselektronische Anwendungen inklusive PCB-Design * Simulation elektronischer Schaltungen mit PLECS, MATLAB/Simulink oder LTspice * Entwicklung und Umsetzung von Sicherheits-, Isolations- und Schutzkonzepten in HV-Systemen Anforderungen * Erfahrung mit Inverter-Topologien und Leistungshalbleitern wie IGBT, SiC, MOSFET * Know-how in EMV-gerechtem Design sowie Thermik und Isolationstechnik * Praktisches Wissen in den Bereichen E-Mobility, Antriebstechnik oder Energietechnik * Kenntnisse im Gate-Driver-Design sowie Magnetics (Trafo, Drosseln) und Leistungsübertragung Kontaktperson: Professional Recruiting Frau Eva Schade FERCHAU Contract GmbH Niederlassung München CONTRACT Claudius-Keller-Straße 3a 81669 München",
+      "first_seen": "2026-07-13T13:21:34.268136+00:00",
+      "id": "fc80c13c42b495cf",
+      "matched_keywords": [
+        "energie"
+      ],
+      "published": "2026-07-13T15:17:18+02:00",
+      "source": "freelancermap.de",
+      "title": "Entwicklung von Leistungselektroniksystemen",
+      "url": "https://www.freelancermap.de/projekt/entwicklung-von-leistungselektroniksystemen"
+    },
+    {
+      "description": "Für einen unserer Kunden suchen wir ab sofort einen Linux Spezialist (m/w/d) in Festanstellung. Anbei die Stellenbeschreibung: Betrieb, Administration und Wartung von Linux-Servern in: 2nd- und 3rd-Level-Support für Linux-Systeme Aufbau und Standardisierung des Linux-Betriebs im Managed-Service-Team: Betriebs- und Supportprozesse Templates & Konfigurationsstandards Dokumentation Monitoring-, Patch- und Backup-Konzepten Automatisierung wiederkehrender Aufgaben Mitarbeit bei Kundenprojekten (Migrationen, Neueinführungen) Know-how-Transfer an interne Teams Zusammenarbeit mit Service Management, Netzwerk & Security Anforderungen: Teilnahme an Rufbereitschaft 5–7 Jahre Berufserfahrung im Linux-Betrieb Sehr gute Kenntnisse in RHEL, Debian und Ubuntu Server Hardening, Patchmanagement, Monitoring & Logging Erfahrung im Betrieb produktiver Systeme Grundkenntnisse Netzwerk (TCP/IP, DNS, SSH, Firewall) Sehr gute Deutsch- und gute Englischkenntnisse Datenbanken (MySQL/MariaDB, PostgreSQL) Linux-Zertifizierungen (RHCSA / RHCE / LPIC)",
+      "first_seen": "2026-07-13T13:21:34.268136+00:00",
+      "id": "73e4e78b398b6d33",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-13T15:09:56+02:00",
+      "source": "freelancermap.de",
+      "title": "Linux Spezialist (m/w/d) in Festanstellung gesucht! Budget: *****€",
+      "url": "https://www.freelancermap.de/projekt/linux-spezialist-m-w-d-in-festanstellung-gesucht-budget-euro"
+    },
+    {
+      "description": "Start: August 2026 Dauer: 5 Monate Ort: Hannover / 50% Remote Projekt-ID: 14635 Bewerbungsfrist: 17.07.2026 Liebes Netzwerk, für unseren Kunden in Hannover suchen wir einen Scrum Master (m/w/d). ? Link: https://www.constaff.com/projektbeschreibung/?positionID=14635 Aufgaben: Moderation und Organisation aller Scrum-Events Unterstützung bei Sprint-Planung und Sprint-Zielerreichung Förderung von Selbstorganisation und kontinuierlicher Verbesserung Identifikation und Beseitigung von Impediments Sicherstellung von Transparenz zu Backlog, Fortschritt und Teamkennzahlen Unterstützung des Product Owners bei Backlog-Pflege und agilen Methoden Sicherstellung der Einhaltung von Scrum-Prozessen und Qualitätsstandards Zusammenarbeit mit Stakeholdern und Förderung teamübergreifender Optimierungen Anforderungen: Mehrjährige Erfahrung als Scrum Master in agilen Softwareprojekten Sehr gute Kenntnisse in Scrum sowie agilen Methoden und Frameworks Erfahrung in der Moderation von Workshops und Scrum-Events Sicherer Umgang mit Jira und agilen Reporting-Tools Erfahrung in Coaching, Konfliktlösung und Teamentwicklung Verständnis von Backlog-Management, User Stories und agilen Schätzverfahren Kommunikationsstärke sowie strukturierte und eigenverantwortliche Arbeitsweise Haben Sie Zeit und Interesse an einem spannenden Projekt? Dann freuen wir uns auf Ihre Kontaktaufnahme! Kontakt: Annika Kärcher Expert Candidate Relations _________________________________ Constaff GmbH - 100%OpenBook. Ehrlich. Kompetent. Transparent.",
+      "first_seen": "2026-07-13T13:21:34.268136+00:00",
+      "id": "b4cf6b5bb2c9b424",
+      "matched_keywords": [
+        "scrum master",
+        "product owner",
+        "agil",
+        "scrum",
+        "netz"
+      ],
+      "published": "2026-07-13T15:08:16+02:00",
+      "source": "freelancermap.de",
+      "title": "Scrum Master (m/w/d) | Hannover | 50% Remote | ANK14635",
+      "url": "https://www.freelancermap.de/projekt/scrum-master-m-w-d-hannover-50-prozent-remote-ank14635"
+    },
+    {
+      "description": "IT Consultant (One Identity Manager, AWS, IAM) (m/w/d) 100% remote ID03094 Für ein Projekt im Beratung und Entwicklung suchen wir einen IT Consultant (m/w/d) mit Erfahrung in One Identity Manager, AWS und IAM. Projektinformationen Ort: Frankfurt Main / 100% Remote Start: 24.07.2026 Bewerbungsfrist: *****:00 Uhr Laufzeit: 24.07.2026 – 31.12.2026 Branche: Beratung und Entwicklung Aufgaben Erstellung von Konzepten zum Design und der Weiterentwicklung von Identity- und Access-Management-Lösungen mit One Identity Manager auf AWS, Optimierung der Cloud-Architektur, Entwicklung von Standards für eine stabile Plattform, Durchführung von Fehleranalysen und Troubleshooting im IAM- und AWS-Umfeld. Muss-Anforderungen Erfahrung in Beratung zu IAM-Prozessen mit One Identity Manager (ab 5 Jahre) Fundierte Erfahrung in der AWS-Architektur und dem Aufbau der Infrastruktur des One Identity Managers (ab 3 Jahre) Rollenmanagement im One Identity Manager (ab 1 Jahr) Soll-Anforderungen Erfahrung bei der Umsetzung von DevOps, CI/CD-Pipelines innerhalb einer komplexen AWS-Infrastruktur für One Identity Manager (ab 1 Jahr) Fehleranalysen und technisches Troubleshooting im One Identity Manager (OIM)-, AWS- und CI/CD-Umfeld (ab 1 Jahr) Konzeptionierung von Cloudsicherheits-Lösungen mit Bezug auf OIM (ab 1 Jahr) Erfahrung im agilen Arbeitskontext (mindestens 2 Referenzen) Technologien & Methoden One Identity Manager, AWS, IAM, DevOps, CI/CD, Cloudsicherheit Das Team von mund consulting freut sich auf Ihre Bewerbung mit CV & Stundensatz und unterstützt gerne im weiteren Prozess. Herzliche Grüße Das Recruiting Team *****",
+      "first_seen": "2026-07-13T13:21:34.268136+00:00",
+      "id": "143d96d233912ff0",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-07-13T15:08:06+02:00",
+      "source": "freelancermap.de",
+      "title": "IT Consultant (One Identity Manager, AWS, IAM) (m/w/d) 100% remote ID03094",
+      "url": "https://www.freelancermap.de/projekt/it-consultant-one-identity-manager-aws-iam-m-w-d-100-prozent-remote-id03094"
+    },
+    {
+      "description": "Für ein langfristiges Projekt im Enterprise-Umfeld suchen wir einen erfahrenen Technical Coach / Mobile Architect mit Schwerpunkt auf KI-gestützter Softwareentwicklung. Aufgaben Technical Coaching mobiler Entwicklungsteams Einführung und Etablierung von AI-Assisted Development (z. B. GitHub Copilot, ChatGPT, Cursor) Definition von Coding Standards und Best Practices Durchführung von Architektur- und Code-Reviews Coaching von Senior Developern Unterstützung bei Architekturentscheidungen Anforderungen mindestens 10 Jahre Erfahrung Android & iOS Kotlin Swift Mobile Architektur Clean Architecture MVVM DDD REST CI/CD Scrum SAFe Nice to have ePA Gesundheitswesen Krankenkasse gematik KMP",
+      "first_seen": "2026-07-13T13:21:34.268136+00:00",
+      "id": "7bf5155cea41f92c",
+      "matched_keywords": [
+        "scrum"
+      ],
+      "published": "2026-07-13T15:06:09+02:00",
+      "source": "freelancermap.de",
+      "title": "Lead Mobile Architect / Lead Android & iOS Developer (AI-Assisted Development)",
+      "url": "https://www.freelancermap.de/projekt/lead-mobile-architect-lead-android-und-ios-developer-ai-assisted-development"
+    },
+    {
+      "description": "Standort : Stuttgart Rahmenbedingung : Arbeitnehmerüberlassung Dauer : 12 Monate Unser Mandant ist ein international tätiges Technologieunternehmen, das innovative Software- und Systemlösungen für anspruchsvolle technische Anwendungen entwickelt. Zur Verstärkung des Entwicklungsteams suchen wir einen erfahrenen Software Entwickler (m/w/d) für das Tool Update VS17, der moderne Entwicklungsumgebungen und Build-Prozesse aktiv mitgestaltet. Ihre Aufgaben Planung und Durchführung eines Projekts zur Migration der Build-Toolchain auf eine neue Entwicklungsumgebung VS17 Analyse und Anpassung bestehender Build-Skripte sowie Build-Konfigurationen mit CMake, MSBuild und Ninja Anpassung und Pflege von CI/CD-Pipelines sowie Konfiguration der Windows-Build-Umgebungen Analyse und Behebung von Compiler-, Linker- und Kompatibilitätsproblemen im Zuge der Toolchain-Migration Neukompilierung und Validierung von Drittanbieter-Bibliotheken sowie Sicherstellung der Kompatibilität Aktualisierung von SDK- und Runtime-Abhängigkeiten sowie Verwaltung der eingesetzten Toolset-Versionen Erstellung von Rollout-, Rollback- und Staging-Konzepten zur sicheren Einführung der neuen Entwicklungsumgebung Integration und Durchführung automatisierter Tests sowie Validierung der erzeugten Release-Artefakte Ihre Qualifikationen Mehrjährige praktische Erfahrung im Umgang mit Visual Studio und MSVC-Toolchains Sehr gute Kenntnisse in CMake, MSBuild sowie Build-Generatoren; Erfahrungen mit Ninja sind von Vorteil Erfahrung mit CI/CD-Systemen wie Jenkins oder GitLab CI sowie der Konfiguration von Windows-Build-Umgebungen Fundierte Kenntnisse in C++, insbesondere bei der Analyse von Compiler- und Linkerfehlern sowie Kompatibilitätsthemen Erfahrung mit der Migration von Compiler- und Build-Toolchains Gute Kenntnisse in PowerShell, Batch oder Python zur Automatisierung von Installations-, Provisionierungs- und Testprozessen Erfahrung mit automatisierten Tests und idealerweise mit Testframeworks wie Boost.Test Das erwartet Sie: Mitarbeit in einem technisch anspruchsvollen Softwareprojekt Moderne Entwicklungswerkzeuge und Build-Technologien Zusammenarbeit mit erfahrenen Softwareentwicklern und DevOps-Spezialisten Eigenverantwortliches Arbeiten in einem agilen Projektumfeld Spannende Aufgaben im Bereich Build-Automatisierung und Softwarequalität Hybrides Arbeiten: 60% Schicken Sie mir gern Ihren CV an *****! Ich freue mich auf Ihre Bewerbung!",
+      "first_seen": "2026-07-13T13:21:34.268136+00:00",
+      "id": "7783d35ecf2744f4",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-07-13T15:04:39+02:00",
+      "source": "freelancermap.de",
+      "title": "Software Entwickler (m/w/d) Tool Update VS17 - Arbeitnehmerüberlassung - Stuttgart",
+      "url": "https://www.freelancermap.de/projekt/software-entwickler-m-w-d-tool-update-vs17-arbeitnehmerueberlassung-stuttgart"
+    },
+    {
+      "description": "Für einen unserer Kunden suchen wir in Frankfurt System Ingenieure mit Sophos-Kenntnissen in Festanstellung. Anbei die Stellenausschreibung: Du verantwortest die Betreuung und Sicherstellung des Betriebes von Netzwerk Infrastrukturen. Du übernimmst den 2nd- Level Support von Netzwerk Infrastrukturen: Firewalls, Switche und WLAN Du verantwortest die Fehleranalyse und Behebung von Störungen. Du unterstützt bei der Planung und Durchführung von Changes an Netzwerk Infrastrukturen. Du wirkst an der Planung und an der Inbetriebnahme von Netzwerk Komponenten mit. Du bringst deine Expertise in der Durchführung von Netzwerk Projekten ein. Du sicherst die Pflege der Kundendokumentationen. Du glänzt mit mehrjähriger Berufserfahrung im Bereich Netzwerk. Du bringst mindestens 3 Jahre Berufserfahrung im IT Support mit. Du hast gute Kenntnisse in: Firewall: Sophos Switche: Sophos, Cisco, Cisco Meraki WLAN: Sophos Netzwerk (TCP/IP) Übernahme von Rufbereitschaft Solltest du mit Erfahrungen rund um die Themen Firewalls: pfsense und ubiquiti, Switche: D-Link oder LanCom und Schwachstellen Management mit Enginsight verfügen, wäre dies ein gerne gesehenes Extra. Deutsch: Verhandlungssicher Englisch: Erweiterte Kenntnisse Bei Interesse melden Sie sich gerne bei: Dominik Lehmhecker Recruiting Manager Email: ***** Tel: *****",
+      "first_seen": "2026-07-13T13:21:34.268136+00:00",
+      "id": "a3f1f79f439deaf8",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-13T15:04:16+02:00",
+      "source": "freelancermap.de",
+      "title": "System Engineer (m/w/d) mit Sophos-Kenntnissen in Festanstellung gesucht! Budget: *****€",
+      "url": "https://www.freelancermap.de/projekt/system-engineer-m-w-d-mit-sophos-kenntnissen-in-festanstellung-gesucht-budget-euro"
+    },
+    {
+      "description": "Start: ASAP / schnellstmöglich Laufzeit: 6 Monate (Option auf Verlängerung) Auslastung: 100 % Einsatzort: Großraum Stuttgart Arbeitsmodell: 4 Tage/Woche vor Ort, 1 Tag Remote möglich Sprache: Deutsch Projekt Für unseren Kunden suchen wir kurzfristig einen erfahrenen Interim IT-Leiter (m/w/d) zur Überbrückung einer Vakanz. In dieser Schlüsselrolle übernehmen Sie die Verantwortung für die gesamte IT-Organisation und sorgen für einen stabilen IT-Betrieb sowie die Fortführung strategischer und operativer IT-Themen während der Übergangsphase. Sie führen ein IT-Team von rund 100 Mitarbeitenden und berichten direkt an die Geschäftsführung bzw. Verwaltungsleitung. Ihre Aufgaben Fachliche und disziplinarische Führung eines IT-Bereichs mit ca. 100 Mitarbeitenden Sicherstellung eines stabilen IT-Betriebs sowie der Verfügbarkeit geschäftskritischer klinischer Systeme Steuerung und Weiterentwicklung des Krankenhausinformationssystems Orbis (Dedalus) Verantwortung für laufende IT-Projekte einschließlich Priorisierung und Ressourcensteuerung Ansprechpartner für Geschäftsführung, Chefärzte, Pflegedirektion und Fachbereiche in allen IT-relevanten Fragestellungen Steuerung externer Dienstleister, Softwarepartner und Provider Sicherstellung der Einhaltung regulatorischer Anforderungen (u. a. KRITIS, IT-Sicherheitsgesetz und Datenschutz) Reporting an die Geschäftsführung hinsichtlich Status, Risiken und Handlungsempfehlungen Vorbereitung einer strukturierten Übergabe an die zukünftige IT-Leitung Must-haves Mehrjährige Erfahrung als IT-Leiter, Head of IT oder in einer vergleichbaren Führungsfunktion Nachweisbare Führungserfahrung mit größeren IT-Teams Zwingende Praxiserfahrung mit dem Krankenhausinformationssystem Orbis (Dedalus) Erfahrung im Betrieb komplexer IT-Landschaften, idealerweise im Krankenhaus- oder Gesundheitswesen Sehr gute Kenntnisse in Krankenhaus-IT-Prozessen sowie im Umgang mit Datenschutz und Patientendaten Erfahrung im Bereich IT-Sicherheit, KRITIS und regulatorischer Compliance Erfahrung in Projektmanagement, Change Management und Dienstleistersteuerung Bereitschaft für eine Vor-Ort-Tätigkeit an vier Tagen pro Woche Verfügbarkeit zum kurzfristigen Projektstart Nice-to-haves Erfahrung in Interim- oder Transformationsmandaten Kenntnisse im Umgang mit Medizintechnik-Schnittstellen Erfahrung im direkten Austausch mit Geschäftsführung und klinischen Fachbereichen Erfahrung in der Steuerung komplexer Veränderungsprozesse Hohe Entscheidungsstärke sowie eine pragmatische und lösungsorientierte Arbeitsweise Ausgeprägte Kommunikations- und Führungsstärke",
+      "first_seen": "2026-07-13T13:21:34.268136+00:00",
+      "id": "d1864883e303065f",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-07-13T15:01:59+02:00",
+      "source": "freelancermap.de",
+      "title": "Interim IT-Leiter (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/interim-it-leiter-m-w-d-3022654"
+    },
+    {
+      "description": "Für ein großes Migrationsprojekt zur Umstellung eines Netzwerks von IPv4 auf IPv6 suchen wir einen erfahrenen IPv6-Tester für folgende Aufgaben: Überwachung der Netzwerkkommunikation von Anwendungen. Ziel der Tests ist es, ob die Verbindungen nach der Umstellung auf Dual Stack über das IPv6-Protokoll kommunizieren können. Durchführung von Netzwerkanalysen unter dem Einsatz von Tools wie tcpdump, Wireshark, netstat oder ss Dokumentation der Testergebnisse im vorgesehenen Test-Tool (Schulungen werden angeboten, Schulungsmaterial ist vorhanden) Unterstützung bei der Fehlerbehebung im Falle von möglichen Fehlern / Defects Erfahrung / Fähigkeiten Berufserfahrung als System Engineer sowie Netzwerk-, Betriebs- und Applikations-System Administration in großen Umgebungen Erfahrungen mit mindestens zwei Betriebssystemen aus folgender Liste: Windows, Linux, IBM Power (AIX), Oracle Solaris, IBM z/OS (Mainframe). Aufbau, Konfiguration und Administration von großen, komplexen Netzwerk- und Server-Umgebungen (BGP, Segment Routing, DHCPv6, SR MPLS, Checkpoint, ASA, Firewall Cluster, ACI) sowie Middleware wünschenswert Erfahrung in Paketanalyse mit Wireshark, netstat, ss oder tcpdump Erfahrung im Scripting (Python, Bash, Powershell) Erstellung von technischen Dokumentationen Troubleshooting von Verbindungsproblemen oder Applikationsproblemen Erfahrung in der Ausführung und Dokumentation von Testfällen und Benutzererfahrung mit Test Management Software (JIRA, Confluence, Sharepoint) Selbstständige, strukturierte und lösungsorientierte Arbeitsweise Gute Kommunikationsfähigkeiten in Deutsch (Wort und Schrift) (mind. Level C2) Idealerweise Erfahrungen im Behördenumfeld Ausbildung und Zertifizierungen Ausbildung zum Fachinformatiker für Systemintegration (FISI), Studium der Informatik, Nachrichtentechnik oder ein gleichwertiger Abschluss Zwingend erforderlich: (Bereitschaft zur) Sicherheitsüberprüfung SÜ2 G",
+      "first_seen": "2026-07-13T13:21:34.268136+00:00",
+      "id": "1f9991bbc198d1b8",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-01T13:12:33+02:00",
+      "source": "freelancermap.de",
+      "title": "IPv6-Tester für eine Bundesbehörde",
+      "url": "https://www.freelancermap.de/projekt/ipv6-tester-fuer-eine-bundesbehoerde"
+    },
+    {
       "description": "Projektdetails Start: August / September 2026 Laufzeit: Bis Ende 2027 Auslastung: Idealerweise Vollzeit Einsatzort: Überwiegend Remote, vereinzelt vor Ort Anforderungen Fachliche Schwerpunkte Marktrolle Lieferant (LF) Endkundenabrechnung für Strom, Gas und Monopolsparten (SLP, RLM und iMS) Spotmarkt- und PPA-Abrechnung Dynamische Tarife und Netzentgeltabrechnung UPIL Tarifierung Hochrechnung und bilanzielle Abgrenzung Rechnungseingangsprüfung MSB-Abrechnung Marktrolle Verteilnetzbetreiber (VNB) Netznutzungsabrechnung Abrechnung Strom, Gas und Monopolsparten (SLP, RLM und iMS) Tarifierung Versand von INVOIC sowie Verarbeitung von REMADV Lieferscheinprozesse Abrechnung im Umfeld Redispatch 2.0 EEG-Reporting und Testierung SAP Convergent Invoicing Marktrolle Messstellenbetreiber (MSB) MOS Billing (iMS und mME) gegenüber Lieferanten und Endkunden Übermittlung von Preiskatalogen und Preisblättern Abrechnung von Messentgelten, Zusatzleistungen, Universalbestellprozess und ESA Technische Anforderungen Tiefgehende Erfahrung im Customizing der Abrechnungs- und Tarifierungsprozesse in SAP S/4HANA Utilities Erfahrung in SAP IS-U ? SAP S/4HANA Utilities Shell Conversion Projekten Unterstützung von Migrationen abrechnungsrelevanter Stamm- und Bewegungsdaten Erstellung fachlicher Konzepte zur Überführung kundenspezifischer Prozesse von SAP IS-U nach SAP S/4HANA Utilities Durchführung und Moderation von Workshops mit den Fachbereichen Abrechnung und Tarifierung Gesuchtes Profil Mehrjährige Erfahrung als Senior SAP IS-U Consultant mit Schwerpunkt Abrechnung und Tarifierung Tiefes fachliches und technisches Verständnis der SAP IS-U- und SAP S/4HANA Utilities-Prozesse Ausgeprägte Customizing-Kenntnisse Erfahrung in komplexen Utilities-Transformationsprojekten Selbstständige und strukturierte Arbeitsweise sowie sicheres Auftreten gegenüber Fachbereichen und Projektteams Es müssen nicht alle Anforderungen abgedeckt werden !!! Bitte lassen Sie mir Ihr Profil im Word Format zukommen. Viele Grüße, Julian Hardenbicker",
       "first_seen": "2026-07-13T10:23:23.930662+00:00",
       "id": "3bb277e457e5107f",
@@ -6788,155 +6900,7 @@
       "source": "freelancermap.de",
       "title": "Freelancer für Übersetzung von Texten in Leichte Sprache gesucht",
       "url": "https://www.freelancermap.de/projekt/freelancer-fuer-uebersetzung-von-texten-in-leichte-sprache-gesucht"
-    },
-    {
-      "description": "Stellenbeschreibung Für ein internationales S/4HANA-Transformationsprojekt bei einem führenden Unternehmen der Fashion- und Retail-Branche suchen wir einen erfahrenen SAP Logistics / 3PL Consultant.Der Schwerpunkt liegt auf der Unterstützung des APAC-/SEAPAC-Rollouts, der Optimierung von Logistik- und 3PL-Prozessen sowie der Betreuung von IDoc- und Integrationsszenarien in einem internationalen Projektumfeld.•Start: Juli / August 2026•Projektsprache: Deutsch und Englisch•Einsatzmodell: Remote mit Vor-Ort-Terminen in Raum Stuttgart (ca. alle zwei Wochen von Dienstag bis Donnerstag)•Laufzeit: 15 Monate Unbedingt erforderlich •Mehrjährige Erfahrung als SAP Logistics- oder 3PL-Consultant•Sehr gute Kenntnisse in SAP SD, LE, MM oder angrenzenden Logistikmodulen•Erfahrung mit SAP S/4HANA-Projekten und internationalen Rollouts•Gute Kenntnisse im Bereich IDoc- und EDI-Integration•Erfahrung mit internationalen Projektteams•Sehr gute Deutsch- und Englischkenntnisse•Reisebereitschaft für regelmäßige Vor-Ort-Termine Project Positives •Langfristiges Projekt (15 Monate)•Hoher Remote-Anteil•Internationale Zusammenarbeit mit globalen Teams Ihr(e) Ansprechpartner(in): Simona Föcze E-Mail: ***** Festnetz: *****",
-      "first_seen": "2026-06-29T10:53:29.317109+00:00",
-      "id": "32481c645780f32d",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-06-29T12:46:09+02:00",
-      "source": "freelancermap.de",
-      "title": "SAP Logistics / 3PL Consultant_Internationales S/4HANA Rollout_Fashion Industry_15 Monate Vertrag_ Remote/Raum Stuttgart",
-      "url": "https://www.freelancermap.de/projekt/sap-logistics-3pl-consultant-internationales-s-4hana-rollout-fashion-industry-15-monate-vertrag-remote-raum"
-    },
-    {
-      "description": "Stellenbeschreibung We are currently seeking an experienced SAP Logistics / 3PL Consultant to join a large-scale international SAP S/4HANA transformation programme for our client in the fashion and retail industry.The ideal candidate will play a key role in supporting the APAC / Southeast APAC rollout, optimizing logistics and third-party logistics (3PL) processes, and managing IDoc and integration scenarios within a global project environment.Project Details- Start Date: July / August 2026- Location: Primarily remote, with on-site visits to the Stuttgart area approximately every two weeks (Tuesday - Thursday)- Project Language: German and English Unbedingt erforderlich - Several years of experience as an SAP Logistics or SAP 3PL Consultant.- Strong knowledge of SAP SD, LE, MM, or related logistics modules.- Proven experience delivering SAP S/4HANA implementations and international rollout projects.- Good understanding of IDoc and EDI integration.- Experience working with international and cross-functional project teams.- Fluent German and English.- Willingness to travel to Stuttgart for 3 days every 2 weeks. Project Positives - Long term contract +15 Months.- Remote work.- International Working Environment. Ihr(e) Ansprechpartner(in): Omayma Hagag E-Mail: ***** Festnetz: *****",
-      "first_seen": "2026-06-29T10:53:29.317109+00:00",
-      "id": "47d5e46a806ad690",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-06-29T12:46:05+02:00",
-      "source": "freelancermap.de",
-      "title": "SAP Logistics / 3PL Consultant _ International S/4HANA Rollout _ Fashion & Retail Industry_ Remote and On-site (Stuttgart)",
-      "url": "https://www.freelancermap.de/projekt/sap-logistics-3pl-consultant-international-s-4hana-rollout-fashion-und-retail-industry-remote-and"
-    },
-    {
-      "description": "Our client is looking for an experienced CheckMK Monitoring Consultant to support the design, implementation, and automation of a standalone monitoring solution for distributed infrastructure environments. This role focuses on developing a scalable CheckMK platform, automating deployment processes, integrating monitoring capabilities, and delivering comprehensive documentation and knowledge transfer. Project Details: Duration: 6-month initial contract (extension possible) Start Date: ASAP Workload: Full-time Location: Germany / 97% Remote Responsibilities: Design and implement an autonomous CheckMK monitoring environment Develop automated deployment, installation, and configuration procedures Build integrations using REST APIs, Python, and JSON-based interfaces Configure SNMP monitoring for network infrastructure and connected systems Develop custom monitoring plugins and monitoring extensions Implement role-based access control, backup/restore, and release management processes Integrate new device types and monitoring capabilities into the platform Produce technical documentation and deliver knowledge transfer to operational teams Requirements: Strong hands-on experience with CheckMK administration and implementation Experience with Python scripting and REST API integration Knowledge of SNMP v3, JSON processing, SQL, and Linux administration Experience developing automated deployment and monitoring solutions Familiarity with Active Directory, LDAP, and Red Hat Enterprise Linux Experience monitoring servers, databases, SAN, network devices, and infrastructure appliances Knowledge of GitLab, VMware, and automation technologies ITIL Foundation certification (or equivalent practical experience) Fluent German (C1) and good English (B1)",
-      "first_seen": "2026-06-29T10:53:29.317109+00:00",
-      "id": "9f0dbf06ba4e44a8",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-06-29T12:42:00+02:00",
-      "source": "freelancermap.de",
-      "title": "CheckMK Monitoring Consultant (m/f/d) | Germany / Remote | 6-month Contract",
-      "url": "https://www.freelancermap.de/projekt/checkmk-monitoring-consultant-m-f-d-germany-remote-6-month-contract"
-    },
-    {
-      "description": "Beschreibung Für ein langfristiges Projekt suchen wir einen erfahrenen Senior Cloud Experten / Technischen Projektleiter (m/w/d), der fundierte technische Expertise mit Erfahrung in der Leitung komplexer Cloud-Projekte verbindet. Der Fokus liegt auf der Konzeption, Weiterentwicklung und technischen Steuerung einer souveränen Cloud-Plattform auf Basis moderner Cloud-Native-Technologien. Der Einsatz erfolgt überwiegend remote mit vereinzelten Vor-Ort-Terminen. Aufgaben Technische Gesamtverantwortung für ein Projekt im Umfeld souveräner Cloud-Plattformen Konzeption und Weiterentwicklung einer modernen Cloud- und Plattformarchitektur mit Schwerpunkt STACKIT und Open-Source-Technologien Evaluierung, Auswahl und Integration geeigneter Cloud-Native-Lösungen Planung, Strukturierung und Steuerung technischer Arbeitspakete Enge Zusammenarbeit mit Architektur-, Entwicklungs-, Infrastruktur- und Betriebsteams Aufbau und Optimierung Kubernetes-basierter Plattformen Einführung und Weiterentwicklung von Infrastructure-as-Code- sowie GitOps-Ansätzen Entwicklung von Lösungen in den Bereichen Netzwerk, Identity & Access Management, Security, Secrets Management sowie Monitoring und Observability Fachliche Führung und Unterstützung eines Cloud-Enablement-Mitarbeiters Definition technischer Schulungsinhalte sowie Begleitung von Wissenstransfer und Enablement-Maßnahmen Durchführung von Wissenstransfer und technischen Schulungen Technische Beratung von Stakeholdern sowie verständliche Vermittlung komplexer Zusammenhänge Steuerung des Projekts in einem agilen bzw. hybriden Projektumfeld Anforderungen Mehrjährige Praxiserfahrung in der Konzeption und Umsetzung anspruchsvoller Cloud- und Plattformarchitekturen Sehr gute Kenntnisse im Kubernetes-, Cloud-Native- und Open-Source-Umfeld Erfahrung mit STACKIT oder einer vergleichbaren souveränen Cloud-Plattform Nachweisbare Erfahrung in der technischen Leitung oder Steuerung komplexer Cloud-Projekte Fundierte Kenntnisse in: Kubernetes Infrastructure as Code GitOps Identity & Access Management (IAM) IT-Security Secrets Management Monitoring und Observability Erfahrung in der fachlichen Anleitung von Mitarbeitenden oder technischen Enablement-Teams Fähigkeit, technische Inhalte zielgruppengerecht aufzubereiten und verständlich zu vermitteln Erfahrung mit agilen und/oder hybriden Projektmethoden Ausgeprägte Kommunikations-, Moderations- und Stakeholder-Management-Kompetenzen Rahmenbedingungen Projektstart: nach Absprache Laufzeit: langfristig Auslastung: 100 % Einsatzort: überwiegend remote Gelegentliche Vor-Ort-Einsätze nach Abstimmung Wenn Sie aktuell verfügbar sind und Ihre Erfahrung in einem technologisch anspruchsvollen Cloud-Projekt einbringen möchten, freuen wir uns auf Ihre Rückmeldung. Bitte senden Sie uns Ihr aktuelles Profil inklusive Stundensatz, SÜ-Bereitschaft und Verfügbarkeit zu.",
-      "first_seen": "2026-06-29T10:53:29.317109+00:00",
-      "id": "d1672a6762e5d9fd",
-      "matched_keywords": [
-        "agil",
-        "netz"
-      ],
-      "published": "2026-06-29T12:39:48+02:00",
-      "source": "freelancermap.de",
-      "title": "Senior Projektleiter im Bereich Cloud-Architektur / Senior Cloud Experte (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/senior-projektleiter-im-bereich-cloud-architektur-senior-cloud-experte-m-w-d"
-    },
-    {
-      "description": "Stellenbeschreibung: First- und Second-Level-Support für macOS-Geräte (MacBook, iMac, Mac mini etc.) Analyse und Behebung von Hard- und Softwareproblemen bei Apple-Systemen Einrichtung und Verwaltung von Macs sowie Apple-Diensten (iCloud, Apple-ID, etc.) Installation und Wartung von Standardsoftware und Sicherheitsupdates Unterstützung bei der Integration von Apple-Geräten in bestehende IT-Infrastrukturen (inkl. Windows-Umgebungen) Verwaltung und Betreuung von Geräten über MDM-Lösungen (z. B. Jamf) Schulung und Unterstützung von Mitarbeitenden im Umgang mit macOS Dokumentation von Prozessen, Lösungen und Supportfällen Programmierung und Coding, Apple Genius, Apple Certified Engineer, ggf. UNIX notwendig Ihr Profil: Erfolgreich abgeschlossene Ausbildung im IT-Bereich, z.B. zum/zur Fachinformatiker/-in Systemintegration, IT-Systemkaufmann oder eine vergleichbare Ausbildung. Fundierte Kenntnisse im Umgang mit Apple-Hardware und -Software Gute Kenntnisse von macOS und den gängigen Apple-Diensten Erfahrung mit Netzwerken, IT-Sicherheit und idealerweise mit MDM-Lösungen Grundkenntnisse in Windows und Microsoft 365 von Vorteil Analytisches Denkvermögen, strukturierte Arbeitsweise und hohe Serviceorientierung Freundliches Auftreten, Teamfähigkeit und Geduld im Umgang mit Anwendern Gute Deutsch- und Englischkenntnisse in Wort und Schrift Uhde Personal- und Dienstleistungen Gerhard Uhde Herr Mark Zeh Mediapark 8 50670 Köln Telefon: ***** Fax: ***** E-Mail: *****",
-      "first_seen": "2026-06-29T10:53:29.317109+00:00",
-      "id": "28e141e154e5565c",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-06-29T12:32:52+02:00",
-      "source": "freelancermap.de",
-      "title": "Mac Supporter (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/mac-supporter-m-w-d-3016672"
-    },
-    {
-      "description": "Für unseren Kunden aus der Verkehr und Logistik-Branche suchen wir eine TK-Projektassistenz (TZ, 2 PT pro Woche) (all gender) Ref. Nr.: 17638 - DA Vertragsverhältnis: Subunternehmer / Freiberuflich . Einsatzdauer: ab 01.08.2026 bis 31.12.2026, mit Option auf Verlängerung bis 06/2028 Einsatzort: PLZ 6 – Frankfurt / Remote Rahmendaten: 50% Remote, 50% Onsite, in den Folgejahren vorwiegend Remote Geschätzter Leistungsumfang: ca. 50 Personentage ca. 2 Tage pro Woche; zu Beginn (bis zu 15 Tage) Vollzeit Onsite (Einarbeitung) Aufgabe: - Terminkoordination - Erstellung und Nachbereitung von Gesprächsprotokollen - Erstellung von Präsentationen - Erstellung und Nachhalten von Berichten - Erfassung der Projektausgaben (Kostenverfolgung) - Eigenständiger Aufbau und Pflege eines umfangreichen Informationsnetzwerkes innerhalb und außerhalb des Programmes im Konzern - Erstellung und Fortführung von Handbüchern nach inhaltlichen Vorgaben des AG - Erarbeitung von Lösungen und ggf. Konzepterstellung für neu erforderliche Aufgaben und Abläufe - Unterstützung in der Risikobearbeitung nach vorliegendem Konzept - Unterstützung im Stakeholdermanagement nach vorliegendem Konzept - Unterstützung bei der Qualitätssicherung (Checklisten) nach vorliegendem Konzept - Dokumentenablage im konzerneigenen DMS nach vorliegendem Konzept Anforderungen: abgeschlossenes Studium im Bereich Wirtschaftsingenieurwesen oder vergleichbar Kenntnisse und Erfahrungen: - in oben genannter Aufgabe - im Bereich Risikomanagement incl. is.BASE - im Dokumentenmanagementsystem DOXIS - in Projektmanagementabläufen der DB - Projektmanagementzertifizierung wünschenswert - in der Erstellung von umfangreichen Umsetzungskonzepten - im Umgang mit Microsoft Office / MS Teams / SharePoint etc. Anwendungen insb. MS Excel (Arbeiten mit S-Verweisen etc.) - Technische Kompetenz im TK-Umfeld - Flexibilität für Onsite Einsätze Wenn Sie an dieser Position Interesse haben, dann benötigen wir für eine schnelle Bearbeitung folgende Informationen von Ihnen: • Ihre nächste Verfügbarkeit • Ihre aktuellen ausführlichen Unterlagen Senden Sie Frau Daria Aga bitte Ihre Unterlagen per Mail inkl. der Angaben an ***** Falls Sie sich von der oben genannten Position nicht angesprochen fühlen, freuen wir uns auch über Ihre Initiativbewerbung an ***** Für Fragen rund um diese oder weitere Positionen steht Ihnen Frau Daria Aga und unser kompetentes Recruiting-Team unter ***** gerne zur Verfügung. Die SD&T AG garantiert Ihnen absolute Vertraulichkeit. Die Weiterleitung Ihrer Unterlagen an unsere Kunden und Auftraggeber erfolgt erst nach einem gemeinsamen Gespräch und nur mit Ihrer Zustimmung. Weitere interessante Projekte und Positionen finden Sie auf unserer Website: http://www.sd-t.com/jobs",
-      "first_seen": "2026-06-29T10:53:29.317109+00:00",
-      "id": "03be9c47309b81d7",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-06-29T12:31:38+02:00",
-      "source": "freelancermap.de",
-      "title": "TK-Projektassistenz (TZ, 2 PT pro Woche) (all gender) Ref. Nr.: 17638 - DA",
-      "url": "https://www.freelancermap.de/projekt/tk-projektassistenz-tz-2-pt-pro-woche-all-gender-ref-nr-17638-da"
-    },
-    {
-      "description": "Für ein Projekt im Umfeld Sangros ERP wird kurzfristig ein erfahrener Entwickler gesucht. Der Einsatz startet ASAP , ist in Vollzeit vorgesehen und kann überwiegend remote erfolgen; bei Bedarf ist eine Vor-Ort-Präsenz möglich. Aufgaben / Leistungsbeschreibung Entwicklung, Anpassung und Weiterentwicklung im Sangros ERP-Umfeld Programmierung mit MUMPS auf Basis von InterSystems Caché Version 2018 Analyse bestehender Programmstrukturen und Umsetzung fachlicher Anforderungen Fehleranalyse, Debugging und Optimierung bestehender Anwendungen Abstimmung mit Fachbereichen bzw. internen IT-Ansprechpartnern zu Anforderungen und Umsetzung Anforderungsprofil Sehr gute praktische Erfahrung in der Entwicklung mit MUMPS Fundierte Kenntnisse in InterSystems Caché , idealerweise Version 2018 Erfahrung mit ERP-Systemen, idealerweise im Sangros ERP Selbstständige, strukturierte Arbeitsweise und schnelle Einarbeitung in bestehende Systemlandschaften Rahmenbedingungen: Start: ASAP Auslastung: Vollzeit Laufzeit: 6 Monate + Standort: Remote (Bei Bedarf vor Ort möglich) Bei Interesse freue ich mich über Ihre Bewerbungsunterlagen und eine Nachricht mit Ihren Kontaktdaten zur weiteren Verwendung an: ***** Für die Zusammenarbeit bedanke ich mich schon im Voraus, die besten Grüße aus Bonn. Lukas Jordan Wir operieren als Personalberatungsunternehmen. Keine der genannten Fachausdrücke sollen diskriminierend in Hinblick auf Alter oder Erfahrung sein. Wir bestätigen, dass wir alle Bewerbungen von Kandidaten jeden Alters und Erfahrungen gerne entgegennehmen.",
-      "first_seen": "2026-06-29T10:53:29.317109+00:00",
-      "id": "399876a9552bf0f4",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-06-29T12:30:43+02:00",
-      "source": "freelancermap.de",
-      "title": "Sangros ERP Entwickler mwd 6+ Monate",
-      "url": "https://www.freelancermap.de/projekt/sangros-erp-entwickler-mwd-6-monate"
-    },
-    {
-      "description": "Wir, die bridgingIT-Gruppe, sind eine herstellerunabhängige, produktneutrale Technologie- und Unternehmensberatung, die Kunden aus den verschiedensten Branchen bei wegweisenden Veränderungsvorhaben unterstützt. Immer dann, wenn wir aufgrund von fehlender Kapazität, dennoch unseren Kunden zufrieden stellen möchten, treten wir über unser Partnermanagement an Externe Professionals. Wir würden uns freuen, Sie schon bald in unserem Partnernetzwerk begrüßen zu dürfen. Anforderungen Sicherstellen vom IT-technischen Betrieb der Anwendung (inkl. Fehleranalyse, Lieferung von Hotfixes und Anwenderbetreuung) Eigenständige Durchführung des gesamten Patchmanagements Erstellen der Konzepte auf Grundlage der fachlichen Abstimmung mit den Anforderern aus den verschiedenen Fachbereichen Definieren der notwendigen Anpassungen an der Systemarchitektur und der Dokumentation (Datenflussdiagramme, Systemschaubilder) in der Systemdokumentation und den online Systemen der DB Cargo Überführen der fachlichen Anforderungen und der erweiterten Systemarchitektur in techni-sche Konzepte Anpassen und Dokumentation der technischen Komponenten auf Basis der genutzten Tech-nologien unter Einhaltung der vorgegebenen Standards Entwicklung von Prototypen und implementieren von ETL-Prozessen Erstellen der Testkonzepte, durchführen und dokumentieren der Testfälle Erstellen, durchführen und dokumentieren von Performance Test Muss-Kriterien Erstellen von Data Vault Datenmodellen Sehr gut fundierte Kenntnisse in SQL und Data Warehouse Konzepte und Technologien, mit Schwerpunkt auf Oracle SQL und Microsoft SQL Server Sehr gute Kenntnisse in den Bereichen Programmierung mit JavaScript und CSS Sehr gute fundierte Kenntnisse und umfangreiche Projekterfahrung mit Oracle Application Express (Versionen 18.2, 22.2 und 24.1) in den Bereichen Entwicklung, Installation und Konfiguration, Administration und Instandhaltung Gute Kenntnisse in Git/GitLab Gute Kenntnisse und Projekterfahrung mit dem Oracle Data Integrator (Version 12) in den Bereichen Entwicklung, Installation und Konfiguration, Administration und Insta Melden Sie sich bei Interesse oder Rückfragen jederzeit gerne bei Ihrem Ansprechpartner: Cihan Falay",
-      "first_seen": "2026-06-29T10:53:29.317109+00:00",
-      "id": "bb9f7fc37f795a53",
-      "matched_keywords": [
-        "netz",
-        "ems"
-      ],
-      "published": "2026-06-29T12:25:10+02:00",
-      "source": "freelancermap.de",
-      "title": "Senior Oracle Data Warehouse & Oracle APEX Developer (Data Vault, SQL, ETL, Oracle APEX, JavaScript)",
-      "url": "https://www.freelancermap.de/projekt/senior-oracle-data-warehouse-und-oracle-apex-developer-data-vault-sql-etl-oracle-apex-javascript"
-    },
-    {
-      "description": "Aufgaben: Für einen renommierten Kunden suchen wir ab dem 15.02.2026 einen Applicationmanager für Outputmanagementsysteme. Diese spannenden Aufgaben erwarten Dich: + 2nd & 3rd level Support für das Outputmanagementsystem Serie M/ von kwsoft + Entwicklung von Lösungen für Incidents, Problems und Changes gemäß ITIL + Weiterentwicklung des bestehenden Systems inkl. Schnittstellen zu anderen Systemen + Testing der entwickelten Lösungen + Erstellung einer technsichen Dokumentation Projekt-Nr.: 106721 Projekttitel: Applicationmanager Outputmanagementsystem (m/w/d) Stellentyp: freiberuflich Einsatzort: D2 Starttermin: ***** Dauer: 6 Monate ++ Anforderungen: Must-Haves: + sehr gute Kenntnisse im Bereich Application Management (Client-Server Architektur im Unix, Windows Umfeld, DB2 als Datenbank + sehr gute Kenntnisse mit Outputmanagementsystemen (idealerweise Serie M/ von kwsoft + Erfahrung im 2nd und 3rd level Support + Erfahrung mit Ansible (für Automatisierung) + Versionsverwaltungssysteme git Zusätzliche Informationen: Auslastung: 75-100% Remote Konnten wir Ihr Interesse wecken? Dann freuen wir uns auf die Zusendung Ihres aussagekräftigen Expertenprofils unter Angabe Ihrer Stundensatzvorstellung. SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
-      "first_seen": "2026-06-29T10:53:29.317109+00:00",
-      "id": "2f4c9395cf062a96",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-06-29T12:23:10+02:00",
-      "source": "freelancermap.de",
-      "title": "Applicationmanager Outputmanagementsystem (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/applicationmanager-outputmanagementsystem-m-w-d"
-    },
-    {
-      "description": "Wir, die bridgingIT-Gruppe, sind eine herstellerunabhängige, produktneutrale Technologie- und Unternehmensberatung, die Kunden aus den verschiedensten Branchen bei wegweisenden Veränderungsvorhaben unterstützt. Immer dann, wenn wir aufgrund von fehlender Kapazität, dennoch unseren Kunden zufrieden stellen möchten, treten wir über unser Partnermanagement an Externe Professionals. Wir würden uns freuen, Sie schon bald in unserem Partnernetzwerk begrüßen zu dürfen. Anforderungen Analyse der bestehenden BI- und Reporting-Landschaft auf Basis von MicroStrategy und EXASOL Aufnahme und Bewertung bestehender Reports, Kennzahlen und Datenmodelle Auswahl eines repräsentativen Business Use Cases für einen Proof of Concept (POC) Konzeption einer Power BI-Zielarchitektur als Referenzmodell Entwicklung eines Power BI-optimierten Datenmodells im Star-Schema Erstellung eines Data Marts in EXASOL mittels denormalisierter Views Modellierung von Fakt- und Dimensionstabellen inklusive Definition der Granularität Aufbau eines semantischen Modells in Power BI Desktop Entwicklung von DAX-Kennzahlen und Abbildung bestehender Business-Logiken Erstellung interaktiver Dashboards und Reports in Power BI Validierung der Ergebnisse durch Vergleich von MicroStrategy- und Power BI-Reports Analyse fachlicher und technischer Abweichungen zwischen beiden Plattformen Dokumentation der Zielarchitektur, Datenmodelle und implementierten SQL-Logiken Erarbeitung eines Migrationskonzepts zur schrittweisen Ablösung von MicroStrategy Bewertung der technischen und fachlichen Machbarkeit einer vollständigen Migration zu Power BI Muss-Kriterien Mehrjährige Projekterfahrung mit Microsoft Power BI (Power BI Desktop) Fundierte Kenntnisse in Datenmodellierung nach dem Star-Schema Sehr gute Kenntnisse in DAX zur Entwicklung komplexer Kennzahlen Erfahrung in der Konzeption und Umsetzung semantischer Datenmodelle in Power BI Sehr gute SQL-Kenntnisse sowie Erfahrung in der Entwicklung komplexer Datenbank-Views Erfahrung mit relationalen Datenbanken und komplexen Datenmodellen (idealerweise EXASOL) Erfahrung bei der Migration oder Modernisierung von BI- und Reporting-Lösungen Kenntnisse im Vergleich und der Validierung von Kennzahlen und Reportinglogiken Erfahrung in der Analyse bestehender BI-Landschaften und der Erstellung von Zielarchitekturen Erfahrung in der Erstellung technischer Dokumentationen und Migrationskonzepte Selbstständige Arbeitsweise sowie Erfahrung in Proof-of-Concept- und Evaluierungsprojekten Sehr gute Deutschkenntnisse in Wort und Schrift Wünschenswerte Kriterien (Optional) Erfahrung mit MicroStrategy Erfahrung bei der Ablösung von Legacy-BI-Systemen Kenntnisse im Microsoft-365-Umfeld Erfahrung im Aufbau von Data Marts Erfahrung mit Performance-Optimierung in Power BI und DAX Kenntnisse im Bereich Data Warehouse und BI-Architekturen Erfahrung in der Zusammenarbeit mit Fachbereichen und Stakeholdern Erfahrung mit Reporting-Governance und Best Practices im BI-Umfeld Melden Sie sich bei Interesse oder Rückfragen jederzeit gerne bei Ihrem Ansprechpartner: Cihan Falay",
-      "first_seen": "2026-06-29T10:53:29.317109+00:00",
-      "id": "5872155a8296e4c5",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-06-29T12:18:14+02:00",
-      "source": "freelancermap.de",
-      "title": "Senior Power BI Consultant – Proof of Concept zur Ablösung von MicroStrategy (NUR ANGESTELLTE!)",
-      "url": "https://www.freelancermap.de/projekt/senior-power-bi-consultant-proof-of-concept-zur-abloesung-von-microstrategy-nur-angestellte"
-    },
-    {
-      "description": "Gesucht wird eine erfahrene Projektleitung Delivery für die Einführung eines SAP S/4HANA ERP-Systems im Rahmen einer Greenfield-Transformation. Ziel des Projekts ist die Ablösung eines bestehenden SAP ERP-Systems sowie die Einführung standardisierter SAP-Best-Practice-Prozesse in einer komplexen Organisation im Gesundheits- bzw. Hochschulumfeld. Die Rolle verantwortet die operative Steuerung des Gesamtprojekts und koordiniert die Zusammenarbeit zwischen Fachbereichen, IT und mehreren externen Implementierungspartnern. Rahmenbedingungen Start: kurzfristig Laufzeit: mindestens 6 Monate Auslastung: Vollzeit Einsatz: Hybrid, mind. 3 Tage pro Woche vor Ort (Region Brandenburg) Aufgaben Operative Projektsteuerung eines SAP S/4HANA-Transformationsprojekts Aufbau und Weiterentwicklung der Projektgovernance Erstellung und Pflege eines integrierten Projektplans Steuerung von Release-, Change- und Cutover-Prozessen Planung und Koordination von Testmanagement und Testzyklen Risiko-, Issue- und Eskalationsmanagement Steuerung der Zusammenarbeit mit Fachbereichen, IT und externen Dienstleistern Schnittstellenmanagement zu angebundenen Non-SAP-Systemen Vorbereitung und Durchführung von Go-/No-Go-Entscheidungen Sicherstellung von Dokumentation, Compliance und Qualitätsstandards Regelmäßiges Reporting an Projekt- und Managementgremien Unterstützung der Hypercare-Phase nach Produktivsetzung Anforderungen (Must-have) Fachliche Erfahrung Mindestens 8 Jahre Erfahrung in IT-Transformationsprojekten Mehrjährige Erfahrung in der Leitung komplexer SAP S/4HANA-Projekte Nachweisbare Erfahrung in Greenfield-Transformationen Erfahrung in großen Organisationen mit komplexen Stakeholder-Strukturen Idealerweise Erfahrung im Gesundheits- oder Hochschulumfeld Erfahrung im Aufbau von Projektgovernance (RACI, Lenkungskreise, Eskalationsprozesse) Projektmanagement & Methoden Sehr gute Kenntnisse in: Projektplanung Risiko- und Issue-Management Stakeholder-Management Change Management Rollout- und Cutover-Management Testmanagement Dienstleistersteuerung Erfahrung mit Integration von SAP und Drittsystemen Kenntnisse gängiger Projektmanagementmethoden (z. B. PRINCE2, IPMA, Scrum/PSM) Sicherer Umgang mit Projektmanagement-Tools (z. B. SAP Cloud ALM oder vergleichbare Lösungen) Wünschenswert (Nice-to-have) Erfahrung im regulierten Umfeld (Gesundheitswesen, öffentliche Einrichtungen, Hochschulen) Kenntnisse in Datenschutz und Informationssicherheit Verständnis administrativer Prozesse (Finanzen, Einkauf, Controlling, Drittmittelmanagement) Tools SAP Cloud ALM oder vergleichbare Projektmanagement-Tools Tools für Testmanagement, Release- und Change-Steuerung Reporting- und Dokumentationstools Wenn dieses Projekt für Sie interessant klingt, dann freuen wir uns auf Ihre Bewerbungsunterlagen (CV, Qualifikationsprofil als WORD) inklusive Ihres Stundensatzes. Hinweis: Gewünscht sind 1-2 Referenzen im relevanten Projektumfeld, um Ihre fachliche Expertise eventuell überprüfen zu können. Bitte achten Sie darauf, dass alle genannten Technologien, Prozesse und Arbeitsweisen im Profil aufgeführt sind, da es sonst zu Verzögerungen im Auswahlprozess kommen kann.",
-      "first_seen": "2026-06-29T10:53:29.317109+00:00",
-      "id": "482c6656f3ab2349",
-      "matched_keywords": [
-        "scrum",
-        "ems"
-      ],
-      "published": "2026-06-29T12:13:18+02:00",
-      "source": "freelancermap.de",
-      "title": "Projektleitung S/4HANA Implementierung",
-      "url": "https://www.freelancermap.de/projekt/projektleitung-s-4hana-implementierung"
-    },
-    {
-      "description": "Start: 15.07.2026 Laufzeit: 12 Monate mit Option auf Verlängerung Auslastung: mindestens 2 Tage die Woche Einsatzort: Remote Branche: Energieversorgung / Utilities Aufgaben Analyse, Optimierung und Weiterentwicklung von SAP IS-U Abrechnungsprozessen Betreuung der Verbrauchs-, Endkunden- und Netznutzungsabrechnung Analyse und Behebung von Fehlern in Abrechnungsprozessen Unterstützung im Customizing abrechnungsrelevanter Prozesse Durchführung von Tests sowie Unterstützung im Fehler- und Incident-Management Abstimmung mit Fachbereichen und technische Übersetzung fachlicher Anforderungen Dokumentation von Prozessen, Lösungen und Anforderungen Must-have Skills Mehrjährige Erfahrung im SAP IS-U Umfeld Sehr gute Kenntnisse im Bereich SAP IS-U Billing / Abrechnung Erfahrung in der Verbrauchsabrechnung, Endkundenabrechnung oder Netznutzungsabrechnung Verständnis für abrechnungsrelevante Stammdaten und Prozesszusammenhänge Erfahrung in der Analyse und Lösung von Prozess- und Abrechnungsfehlern Bei Interesse wenden Sie sich bitte direkt an mich mit Ihrem CV im Word-Format. Vielen Dank und viele Grüße, Julian Hardenbicker Principal Recruitment Consultant Mobil: ***** Mail: *****",
-      "first_seen": "2026-06-29T10:53:29.317109+00:00",
-      "id": "04edd1c646495f61",
-      "matched_keywords": [
-        "energie",
-        "netz"
-      ],
-      "published": "2026-06-29T12:08:30+02:00",
-      "source": "freelancermap.de",
-      "title": "SAP IS-U Berater (m/w/d) – Abrechnung / Billing",
-      "url": "https://www.freelancermap.de/projekt/sap-is-u-berater-m-w-d-abrechnung-billing"
     }
   ],
-  "updated_at": "2026-07-13T10:23:24.028452+00:00"
+  "updated_at": "2026-07-13T13:21:34.386444+00:00"
 }
