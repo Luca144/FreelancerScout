@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Start: Asap / nach Vereinbarung Laufzeit: Langfristig geplant Auslastung: Vollzeit (Remote) Für unseren namhaften Kunden aus der Telekommunikationsbranche suchen wir ab sofort einen versierten, freiberuflichen Unix-Systemexperten (m/w/d) zur teamintegrierten Unterstützung. Ziel des Projektes ist die zuverlässige Absicherung des laufenden Betriebs (2nd Level Support) sowie die kontinuierliche Performance-Optimierung von geschäftskritischen IBM AIX-Betriebssystemumgebungen. hre Aufgaben Betrieb & Administration: Mitwirkung bei der Planung, Installation, Administration, dem Betrieb und der Überwachung von IBM AIX-Betriebssystemen. Fehlermanagement: Durchführung von strukturierten Fehler-, Problem- und Ursachenanalysen (Root Cause Analysis) bei Systemstörungen. Ticketbearbeitung: Bearbeitung von Tickets im Zuge von Service Requests sowie Incident- und Problem-Management im 2nd Level Support. Qualitätssicherung: Umsetzung und Monitoring von Maßnahmen zur Sicherstellung von Service Level Agreements (SLAs) und der Kundenzufriedenheit. Unsere Anforderungen Must-have (Ausschlusskriterien): Fokus AIX: Fundiertes, tiefes Verständnis und praxiserprobte Erfahrung mit dem Betriebssystem IBM AIX (reine Linux-Administratoren können für diese Position leider nicht berücksichtigt werden). Berufserfahrung: Mindestens 5 Jahre fundierte Berufserfahrung in der IT-Infrastruktur-Administration. Sprachkenntnisse: Gute Deutsch- und sehr gute Englischkenntnisse. Nice-to-have (Kein Kriterium für eine Ablehnung!): Kenntnisse in der Virtualisierung auf Basis von PowerVM und HACMP -Cluster-Umgebungen (eine fundierte Einarbeitung vor Ort/im Team ist möglich). Erste praktische Erfahrungen mit der Automatisierung über Ansible . Soft Skills: Eine strukturierte und analytische Arbeitsweise. Ausgeprägte Teamfähigkeit und ein professionelles, kundenorientiertes Auftreten.",
+      "first_seen": "2026-07-14T22:54:58.192806+00:00",
+      "id": "59b15c27bf3d0bd7",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-07-15T00:45:57+02:00",
+      "source": "freelancermap.de",
+      "title": "Systemadministrator IBM AIX / Unix-Infrastruktur (m/w/d) – 100% Remote",
+      "url": "https://www.freelancermap.de/projekt/systemadministrator-ibm-aix-unix-infrastruktur-m-w-d-100-prozent-remote"
+    },
+    {
       "description": "Electron Entwickler (m/w/d) Referenz: 885468/1-de Beginn: asap Dauer: 30 MT Meine Aufgaben: Technologische Modernisierung einer bestehenden Electron-Anwendung Durchführung von Versionsupdates und Migrationen im Electron-Umfeld Umsetzung bereits identifizierter Major-Upgrades Weiterentwicklung und Anpassung bestehender Funktionalitäten Testbegleitung und Qualitätssicherung Beratung bei Releases und Deployments Entwicklung und Anpassung von Angular-Komponenten und REST-Anbindungen Meine Qualifikation: Fundierte Erfahrung mit Electron (zwingend erforderlich) Erfahrung mit Versionsupdates und Migrationen von Electron-Anwendungen Kenntnisse in: Angular, JavaScript, TypeScript, HTML und CSS Erfahrung mit REST-Services Idealerweise Java 17 (JEE) Idealerweise Spring Boot Erfahrung im Konzernumfeld Meine Vorteile: Spannendes Projekt Remote-Möglichkeit Abwechslungsreiche Tätigkeit in einem renommierten Unternehmen Über uns: Der Bereich IT ist unsere Kernkompetenz, auf deren Grundlage sich Hays entwickelt hat. Wir sind das größte privatwirtschaftlich organisierte IT-Personaldienstleistungsunternehmen in Deutschland und haben für jede Karrierestufe das passende Angebot – egal ob Sie an Vakanzen in agilen KMUs oder starken DAX-Konzernen interessiert sind. Wir beherrschen die komplette IT-Klaviatur von Support bis zur Softwarearchitektur oder Digitalisierung – dank unseres umfangreichen Portfolios ist für jeden etwas dabei. So konnten wir in den vergangenen Jahrzehnten im Rahmen einer Life-Long-Partnerschaft unzählige Fach- und Führungskräfte aus der IT dabei unterstützen, die Weichen für eine erfolgreiche Karriere zu stellen. Unser Beratungsteam ist spezialisiert und somit in der Lage, auf Ihre Wünsche und Vorstellungen einzugehen und Sie auf Bewerbungsgespräche und Vertragsverhandlungen bestens vorzubereiten. Probieren Sie es aus und erfahren Sie, was der Markt Ihnen zu bieten hat – völlig kostenfrei, diskret und unverbindlich! Wir freuen uns auf Sie. Mein Kontakt bei Hays: Mein Ansprechpartner: Lukas Müller Referenznummer: ***** Kontakt aufnehmen: Email: *****",
       "first_seen": "2026-07-14T20:08:26.606073+00:00",
       "id": "57fd5aaebdf68c76",
@@ -6643,5 +6655,5 @@
       "url": "https://www.freelancermap.de/projekt/associate-marketing-pharma-biotech-teilzeit-60-prozent"
     }
   ],
-  "updated_at": "2026-07-14T21:54:53.951390+00:00"
+  "updated_at": "2026-07-14T22:54:58.302307+00:00"
 }
