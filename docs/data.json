@@ -1,6 +1,118 @@
 {
   "projects": [
     {
+      "description": "Wir suchen für ein Projekt in der Telekommunikationsbranche einen versierten Experten für die strategische Ausrichtung der Datenlandschaft. Diese Position ist langfristig (quartalsweise Beauftragung) ausgelegt. Rahmendaten: Start: ASAP Einsatzort: 98% im Homeoffice ; eine gelegentliche Anwesenheit am Standort Düsseldorf (z.B. für das Onboarding, Events) wird erwartet. Auslastung: Vollzeit oder Teilzeit Tagessatz max 800 EUR ACHTUNG: Es können ausschließlich Kandidaten in einem sozialversicherungspflichtigen Angestelltenverhältnis berücksichtigt werden (keine Berücksichtigung von Freelancern möglich). Ihre Aufgaben Übergreifende fachliche, technische und strategische Gesamtverantwortung für die Konzeptionierung und den Aufbau einer standardisierten, skalierbaren Datenarchitektur Steuerung des gesamten Vorhabens im Sinne einer ganzheitlichen Owner-Verantwortung, inklusive Solution Design und technischer Projektsteuerung Entwicklung eines standardisierten Datenmodells für den OR-Systemkontext auf Basis des TM Forum SID-Frameworks Konzeptionierung und Harmonisierung des Datenmappings zwischen komplexen OSS- und OR-Systemen mit Fokus auf ORI, MOST und IRP Definition von Data-Mastership- sowie Object-Konzepten und Priorisierung von geschäftsrelevanten Datenanforderungen nach dem 20/80-Prinzip Unsere Anforderungen Erfolgreich abgeschlossenes Studium der Informatik, Wirtschaftsinformatik, Datenwissenschaften oder eine vergleichbare akademische Qualifikation Mindestens 10 Jahre fundierte Berufserfahrung in der Datenarchitektur und Datenmodellierung innerhalb der Telekommunikationsbranche Mindestens 10 Jahre Praxiserfahrung im Bereich von OSS-Systemen (Operations Support Systems) und deren Systemintegration Nachweisbare Expertise mit dem TM Forum SID-Framework oder vergleichbaren Enterprise-Datenmodellierungs- und Standardisierungs-Frameworks Fundiertes Know-how in Data Governance, Solution Design sowie der Leitung von komplexen Datenprojekten Verhandlungssichere Englischkenntnisse in Wort und Schrift für das internationale Projektumfeld Gute Deutschkenntnisse in Wort und Schrift",
+      "first_seen": "2026-07-16T16:23:49.678389+00:00",
+      "id": "f83864ceccf6c269",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-07-16T18:18:24+02:00",
+      "source": "freelancermap.de",
+      "title": "Data Architect (m/w/d), Remote",
+      "url": "https://www.freelancermap.de/projekt/data-architect-m-w-d-remote-3024536"
+    },
+    {
+      "description": "Berlin (Remote) | Freelance | 3 months, extension to 6 months possible | ASAP start About the client Our client is a well-established healthcare-sector group based in Berlin, operating across Germany and Austria, serving a large network of business customers through a combination of on-site and digital services. We're hiring on their behalf for their in-house healthcare ERP platform. The role The current Product Owner is at capacity and needs a hands-on freelancer to take real delivery work from them. Not a strategy or roadmap-ownership role, but structured, in-the-weeds product delivery: prioritisation, stakeholder alignment, and driving development forward day to day. You'll be working on features covering areas like billing and shift scheduling within a practice-management/ERP-style healthcare platform. What you'll be doing Translating complex business requirements into clear, actionable tickets and user stories Prioritising the backlog and keeping delivery moving Working closely with internal departments, users, and stakeholders to align on product decisions Supporting the wider team hands-on, day to day, not high-level oversight What we're looking for 2+ years of experience in Product Management / Product Ownership Experience in a healthcare-adjacent or comparable regulated/operational domain (e.g. practice management, veterinary, dental, or similar) is valuable, deep domain-specific certification or specialist system expertise is not required Comfortable translating fuzzy requirements into concrete tickets and user stories Fluent German is essential, this role involves close day-to-day coordination with German-speaking internal teams and stakeholders Available full-time, ASAP Logistics Remote, Berlin-based team/hours preferred Contract: 3 months initially, with option to extend to 6 months Interviews: available this Thursday 23rd, or Friday 24",
+      "first_seen": "2026-07-16T16:23:49.678389+00:00",
+      "id": "093bb1e26660d8f7",
+      "matched_keywords": [
+        "product owner"
+      ],
+      "published": "2026-07-16T18:15:06+02:00",
+      "source": "freelancermap.de",
+      "title": "Freelance Product Manager / Product Owner (m/f/d) — Healthcare ERP",
+      "url": "https://www.freelancermap.de/projekt/freelance-product-manager-product-owner-m-f-d-healthcare-erp"
+    },
+    {
+      "description": "Start: 01.12.2026 Ende: 30.11.2027 (mit 3x einjährlicher Verlängerungsoption bis längestens 30.11.2030) Einsatzort: 80% Remote in Deutschland; 20% Vor Ort Stuttgart, ggf. Freiburg oder Karlsruhe mind. 1 × pro Woche + Einzeltermine (Workshops, Jour-Fixe, Teambesprechungen); erste 2 Wochen vollständig vor Ort (Einarbeitung) Leistungsbeschreibung Das Projekt ERV (Elektronischer Rechtsverkehr) agiert im KONSENS-Umfeld koordinativ und bundeslandübergreifend. Es stellt keine eigene Fachanwendung bereit, sondern koordiniert zwischen verschiedenen, fremdgestellten Anwendungskomponenten und Schnittstellen. Die Verfahrenssoftware umfasst mehr als 100 virtuelle Server auf Client-Server-Architektur sowie einen Großrechneranteil. Neben der Abstimmung innerhalb des KONSENS-Verbunds sind die Anforderungen der Justiz zu berücksichtigen. Die gesuchte Person unterstützt als erfahrene/r Projektleiter/in bei der Umsetzung und Abwicklung von Teilprojekten im Teilgebiet ERV-Defect-Management. Aufgaben Leitung von großen IT-Projekten Verantwortung für Termin und Qualität Arbeit an hybriden Projekten mit Scrum-Elementen Unterstützung bei der Formulierung von Sprint-Zielen und deren Erreichung Unterstützung bei der Etablierung erforderlicher Rollen/Verantwortlichkeiten innerhalb des Projektteams Unterstützung bei der Projektplanung und -durchführung Projektdokumentation in Tools wie z. B. Atlassian Confluence / Jira Erstellung von Pflichtenheften Anforderungsmanagement Erstellung von Use-Cases und Testfällen Entwicklungsbegleitende Testkoordination und -durchführung Risikoanalyse und -steuerung Abstimmung der Schnittstellen zu anderen Projekten oder Bereichen (u. a. IT-Sicherheit, Datenschutz) Erstellung und Fortschreibung von Konzepten Qualitätssicherung der Ergebnisse des Verfahrens und der Projekte (inkl. Berichte und Präsentationen) Regelmäßiger Know-How-Transfer in Jour-Fixe-Terminen mit internen Projektleitern und Teilprojektleitern Fortlaufende, ausführliche Dokumentation gemäß KONSENS-Vorgaben Anforderungen: Abgeschlossenes Studium (BWL/Rechnungswesen/Controlling/Projektmanagement, Wirtschaftsinformatik o. ä.) oder vergleichbare Berufserfahrung Verhandlungssichere Deutschkenntnisse in Wort und Schrift Mehrjährige Berufserfahrung mit agiler Projektarbeit nach Scrum oder Zertifizierung im Projektmanagement oberhalb des Basisniveaus Mehrjährige Kenntnisse in klassischen, hybriden und agilen PM-Methoden (PRINCE2 oder Ähnliches) Nachweisbare methodische Qualifikation im PM, z. B. Zertifizierung in SIPE 4.0 oder vergleichbare Qualifikation (Kombination klassischer und agiler PM-Ansätze) Erfahrung in Konfliktlösung und Wirtschaftsmediation Erfahrung in Erstellung und Abstimmung von Konzepten für komplexe IT-Vorhaben (Fachkonzepte, IT-Konzepte, Schnittstellenplanung, Roadmaps) Erfahrung in der Erstellung von Pflichtenheften Erfahrung im Anforderungsmanagement Erfahrung in der Erstellung von Use-Cases und Testfällen Erfahrung in Test- und Qualitätsmanagement komplexer IT-Verfahren (Teststrategien, Integrationstests, Fehleranalyse) Erfahrung im Multiprojektmanagement Erfahrung mit Atlassian Confluence Erfahrung in der Zusammenarbeit mit zentralen IT-Organisationen / Rechenzentren der öffentlichen Verwaltung Berufserfahrung im KONSENS-Verbund Mehrjährige Erfahrung in IT-Projekten der öffentlichen Verwaltung (ERV, eAkte, länderübergreifende IT-Verfahren, Verwaltungsdigitalisierung) Erfahrung mit Strukturdatensatz gemäß Vorgaben der Justiz Berufserfahrung im Bereich Elektronischer Rechtsverkehr (ERV) Zusätzlich müssen die einzusetzenden Mitarbeiter über die notwendigen Zertifizierungen je Spezialgebiet verfügen, z. B.: SIPE 4.0 (Zertifizierung in der Kombination klassischer und agiler PM-Ansätze) – Ausschlusskriterium Scrum-Zertifizierung oberhalb des Basisniveaus (z. B. PSM II, CSP-SM) PRINCE2 (Practitioner oder höher) Zertifikate in Konfliktlösung / Wirtschaftsmediation Zertifikate im Anforderungsmanagement oder Multiprojektmanagement Wir freuen uns auf Ihre Bewerbung mit Angabe Ihrer Verfügbarkeit sowie Ihres Stundensatzes für Remote- und Onsite-Einsätze. Wir weisen darauf hin, dass der Versand von Bewerbungsunterlagen mit einer unverschlüsselten E-Mail unsicher sein kann und alternativ die Bewerbungsunterlagen per Post und / oder durch die Nutzung der Onlinebewerbungsmöglichkeit übermittelt werden können.",
+      "first_seen": "2026-07-16T16:23:49.678389+00:00",
+      "id": "57b2146d3529ac75",
+      "matched_keywords": [
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-07-16T18:11:25+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektleitung KONSENS PL (m/w/d) Teilgebiet ERV-Defect-Management",
+      "url": "https://www.freelancermap.de/projekt/projektleitung-konsens-pl-m-w-d-teilgebiet-erv-defect-management"
+    },
+    {
+      "description": "Start: 01.12.2026 Ende: 30.11.2027 (mit 3x einjährlicher Verlängerungsoption bis längestens 30.11.2030) Einsatzort: 80% Remote in Deutschland; 20% Vor Ort Stuttgart, ggf. Freiburg oder Karlsruhe mind. 1 × pro Woche + Einzeltermine (Workshops, Jour-Fixe, Teambesprechungen); erste 2 Wochen vollständig vor Ort (Einarbeitung) Leistungsbeschreibung Das Projekt ERV (Elektronischer Rechtsverkehr) agiert im KONSENS-Verbund koordinativ und bundeslandübergreifend. Es stellt keine eigene Fachanwendung bereit, sondern koordiniert zwischen verschiedenen Anwendungskomponenten und Schnittstellen – u. a. unter Berücksichtigung der Anforderungen der Justiz. Die gesuchte Projektleitung unterstützt die Umsetzung und Abwicklung von Teilprojekten im KONSENS-Umfeld am Standort Stuttgart. Aufgaben Leitung von großen IT-Projekten Verantwortung für Termin und Qualität Arbeit an hybriden Projekten mit Scrum-Elementen: Unterstützung bei der Formulierung von Sprint-Zielen und deren Erreichung Unterstützung bei der Etablierung erforderlicher Rollen/Verantwortlichkeiten im Projektteam Unterstützung bei der Projektplanung und -durchführung Projektdokumentation in Tools wie Atlassian Confluence / Jira Erstellung von Pflichtenheften Anforderungsmanagement Erstellung von Use-Cases und Testfällen Entwicklungsbegleitende Testkoordination und -durchführung Risikoanalyse und -steuerung Abstimmung der Schnittstellen zu anderen Projekten oder Bereichen (u. a. IT-Sicherheit, Datenschutz) Erstellung und Fortschreibung von Konzepten Qualitätssicherung der Ergebnisse des Verfahrens und der Projekte Regelmäßige Berichterstattung und Präsentationen Dokumentation und Know-How-Transfer gemäß KONSENS-Vorgaben (Atlassian Jira/Confluence, inkl. Zeitaufwänden) Teilnahme an Jour-Fixe-Terminen mit internen Projektleitern und Teilprojektleitern Qualifikations-Anforderungen: Abgeschlossenes Studium der BWL (Schwerpunkt Rechnungswesen, Controlling oder PM), Wirtschaftsinformatik, Wirtschaftswissenschaften oder vergleichbare Qualifikation Verhandlungssichere Deutschkenntnisse in Wort und Schrift Mehrjährige Berufserfahrung mit agiler Projektarbeit nach Scrum oder Zertifizierung im Projektmanagement oberhalb des Basisniveaus Mehrjährige Kenntnisse in klassischen, hybriden und agilen PM-Methoden (PRINCE2 oder ähnliches) Nachweisbare methodische Qualifikation im PM, z. B. Zertifizierung in SIPE 4.0 oder vergleichbare Qualifikation (Kombination klassischer und agiler PM-Ansätze) Zusätzlich müssen die einzusetzenden Mitarbeiter über die notwendigen Zertifizierungen je Spezialgebiet verfügen, z. B.: SIPE 4.0 (Zertifizierung in der Kombination klassischer und agiler PM-Ansätze) – Ausschlusskriterium Scrum-Zertifizierung oberhalb des Basisniveaus (z. B. PSM II, CSP-SM) PRINCE2 (Practitioner oder höher) Zertifikate in Konfliktlösung / Wirtschaftsmediation Zertifikate im Anforderungsmanagement oder Multiprojektmanagement Wir freuen uns auf Ihre Bewerbung mit Angabe Ihrer Verfügbarkeit sowie Ihres Stundensatzes für Remote- und Onsite-Einsätze. Wir weisen darauf hin, dass der Versand von Bewerbungsunterlagen mit einer unverschlüsselten E-Mail unsicher sein kann und alternativ die Bewerbungsunterlagen per Post und / oder durch die Nutzung der Onlinebewerbungsmöglichkeit übermittelt werden können.",
+      "first_seen": "2026-07-16T16:23:49.678389+00:00",
+      "id": "218e6be12b72f28c",
+      "matched_keywords": [
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-07-16T18:08:13+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektleitung KONSENS PL (m/w/d) Teilgebiet eSPOG",
+      "url": "https://www.freelancermap.de/projekt/projektleitung-konsens-pl-m-w-d-teilgebiet-espog"
+    },
+    {
+      "description": "Für ein Transformationsprogramm im Wertpapierumfeld suchen wir einen erfahrenen Senior Product Owner (m/w/d) mit fundierter Expertise im Depotservice. Im Mittelpunkt steht die Modernisierung zentraler Wertpapierprozesse im Rahmen einer cloudbasierten Systemlandschaft. Gesucht wird eine Persönlichkeit, die fachliche Verantwortung übernimmt, agile Entwicklungsteams steuert und die Schnittstelle zwischen Fachbereich, Architektur und IT bildet. Ihre Aufgaben Fachliche Verantwortung für ein strategisches Produkt im Wertpapiergeschäft Entwicklung und kontinuierliche Weiterentwicklung des fachlichen Zielbildes Aufnahme, Analyse, Priorisierung und Strukturierung fachlicher Anforderungen Erstellung und Pflege von Product Backlogs, Features, Epics und User Stories Steuerung mehrerer Stakeholder aus Fachbereich, Architektur und Entwicklung Analyse und Optimierung von End-to-End-Prozessen Sicherstellung einer einheitlichen fachlichen Ausrichtung aller beteiligten Teams Begleitung der agilen Umsetzung innerhalb mehrerer Scrum-Teams Coaching und Wissenstransfer an interne Product Owner Ihr Profil Mehrjährige Erfahrung als Product Owner im Bankenumfeld Fundierte Kenntnisse im Depotservice Sehr gute Kenntnisse in mindestens einem der folgenden Bereiche: Kapitalmaßnahmen (Corporate Actions) Depotüberträge Erfahrung in der Analyse und Optimierung komplexer Wertpapierprozesse Sehr gutes Verständnis moderner Wertpapier-Systemlandschaften Erfahrung mit Scrum sowie agilen Methoden Sehr gute Kenntnisse in Jira Bankausbildung, Bankfachwirt oder vergleichbare Qualifikation Idealerweise Scrum Product Owner Zertifizierung",
+      "first_seen": "2026-07-16T16:23:49.678389+00:00",
+      "id": "b5b725549fa48ae3",
+      "matched_keywords": [
+        "product owner",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-07-16T18:06:37+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Product Owner Wertpapierprozesse (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-product-owner-wertpapierprozesse-m-w-d"
+    },
+    {
+      "description": "Für meinen Kunden suche ich aktuell einen IT-Systemadministrator - Infrastruktur / Sicherheit (m/w/d) für den Standort München. Tätigkeitsprofil: * Verantwortung für die Administration, Betreuung und Weiterentwicklung der gesamten IT-Infrastruktur * Sicherstellung eines stabilen und sicheren Betriebs von Netzwerk-, Server- und Systemlandschaften * Konzeption und Umsetzung von IT-Sicherheitsmaßnahmen sowie kontinuierliche Optimierung bestehender Sicherheitsstandards * Entwicklung und Pflege von Backup-, Notfall- und Wiederherstellungskonzepten * Analyse und Optimierung von IT-Prozessen durch Automatisierung und moderne Technologien * Unterstützung bei Digitalisierungsprojekten und der Weiterentwicklung unternehmensweiter Business-Anwendungen Anforderungen: * Abgeschlossene Ausbildung oder Studium im Bereich Informatik bzw. vergleichbare Qualifikation * Mehrjährige Berufserfahrung in der Administration komplexer IT-Infrastrukturen * Fundierte Kenntnisse in den Bereichen Server, Netzwerke, IT-Security und Systemadministration * Erfahrung in der Umsetzung und Begleitung von IT-Projekten * Strukturierte, eigenständige und lösungsorientierte Arbeitsweise * Kommunikationsstärke sowie ein hohes Maß an Eigenverantwortung Rahmenbedingungen: * Einsatzort: München * Arbeitszeit: Vollzeit * Vertragsart: ANÜ mit Übernahme Interesse? Dann senden Sie mir bitte Ihren aktuellen Lebenslauf und Ihre Gehaltsvorstellung zu. Adriano Mulej Recruitment Consultant a.mulej(a)computerfutures.de SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-07-16T16:23:49.678389+00:00",
+      "id": "f492ce34024a1e4f",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-16T17:52:54+02:00",
+      "source": "freelancermap.de",
+      "title": "Systemadministrator",
+      "url": "https://www.freelancermap.de/projekt/systemadministrator-3024525"
+    },
+    {
+      "description": "Für unseren Kunden suchen wir zum nächstmöglichen Zeitpunkt einen IT Support Techniker / Rollout (m/w/d) per Projektanstellung (ANÜ). Projektbeschreibung: Betreuung der Anwenderinnen und Anwender vor Ort im Rahmen von Neukunden- und Client-Rolloutprojekten Erster Ansprechpartner bei Fragen zu Hard- und Software sowie den eingesetzten IT-Systemen Unterstützung bei der Einführung neuer Hard- und Software Enge Zusammenarbeitmit Change Agents zur Optimierung der Rolloutprozesse Unterstützung bei Workshops sowie der internen Kommunikation Anforderungen: Abgeschlossene IT-Ausbildung oder alternativ mindestens 4 Jahre praktische Berufserfahrung im IT-Umfeld Erfahrung im IT-Support , Client-Rollout oder der Einführung von Hard- und Software Gute Kenntnisse in Microsoft Windows (Client) und Microsoft Office Grundkenntnisse im Bereich IT-Netzwerke Sehr gute Deutschkenntnisse in Wort und Schrift Führerschein Klasse B sowie Reisebereitschaft Bereitschaft zur Sicherheitsüberprüfung (SÜ1) Rahmendaten: Einsatzort: Hannover mit Einsätzen im gesamten Bundesland Niedersachsen Laufzeit: bis 30.06.2027 Auslastung: 39,8 Stunden/Woche Vertragsart: Arbeitnehmerüberlassung (ANÜ) Bei Interesse freuen wir uns auf die Zusendung Ihres Skillprofils mit Angabe Ihres Wunschgehalts (Brutto-Jahresgehalt) und Ihrer Verfügbarkeit (frühestmögliches Startdatum).",
+      "first_seen": "2026-07-16T16:23:49.678389+00:00",
+      "id": "16c9250bb05d839c",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-16T17:36:15+02:00",
+      "source": "freelancermap.de",
+      "title": "IT Support Techniker / Rollout (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/it-support-techniker-rollout-m-w-d"
+    },
+    {
+      "description": "Für unser Kundenprojekt suche ich aktuell eine/n Teilzeit Netzwerk Experte (w/m/d) Konzeption von Schulungsunterlagen (30490). Ist dies ein passendes Projekt für Sie? Ich freue mich auf Ihre Rückmeldung! Start: Oktober Dauer: 50PT Einsatzort: Remote Aufgaben: Das bestehende Schulungskonzept für die Netzwerkschulung soll von einer Präsenzschulung auf eine Remote-Schulung umgestellt werden. Dafür sollen die Inhalte und der Ablauf so angepasst werden, dass die Schulung auch online verständlich und praxisnah durchgeführt werden kann. Anforderungen: must-have: -Sehr gute Netzwerkkenntnisse -Gute Konzeptionelle Fähigkeiten und fießende Deutschkenntnisse -Viel Erfahrung mit Daten und Speicher, Active Directory und Linux nice-to-have: -Erfahrung in der Konzeption von Schulungsunterlagen Für Ihre Bewerbung und weitere Informationen nutzen Sie bitte diesen Link: https://experts.contractor.de/projektangebot-details/30490/?so=-1&ts=69b7489e65c04b04828472204cb07fb0&cr=RFQFLM&utm_source=newsletter&utm_medium=RFQFLM&utm_campaign=30490 Weitere interessante Projekte finden Sie in unserer LinkedIn Gruppe: https://www.linkedin.com/groups/*****/ Beste Grüße Martin Neusser Senior Recruitment Manager ***** | ***** Contractor Consulting GmbH Adams-Lehmann-Str. 56 80797 München https://www.contractor.de - we consult | we create | we recruit Datenschutzerklärung: https://www.contractor.de/datenschutz/ Geschäftsführer: Alexander Ulrich | Amtsgericht München, HRB 187777 | Sitz der Gesellschaft: München",
+      "first_seen": "2026-07-16T16:23:49.678389+00:00",
+      "id": "e45b1313d2e1738a",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-16T17:28:45+02:00",
+      "source": "freelancermap.de",
+      "title": "Teilzeit Netzwerk Experte (w/m/d) Konzeption von Schulungsunterlagen, Remote (ID: 30490)",
+      "url": "https://www.freelancermap.de/projekt/teilzeit-netzwerk-experte-w-m-d-konzeption-von-schulungsunterlagen-remote-id-30490"
+    },
+    {
+      "description": "Wichtiger Hinweis Bitte stellen Sie Erfahrungen in Change-Kommunikation, Stakeholder-Management, organisationsweiten Rollouts und SAP SuccessFactors nachvollziehbar dar. Projekthintergrund Einführung von SAP SuccessFactors bei einem Kunden aus dem Public Sector Ablösung bestehender Systeme durch eine einheitliche HR-Lösung Betroffene Prozesse: Zeiterfassung, Urlaub, Abwesenheiten, Weiterbildung und Personalentwicklung Fokus der Rolle liegt auf Change Management und Kommunikation ? Rolle – Change & Communication Consultant Unterstützung des bestehenden Change-Teams Entwicklung und Umsetzung von Change- und Kommunikationsstrategien Stakeholder-Analysen und Pflege der Stakeholder Map Kommunikationsplanung und Erstellung von Kernbotschaften Organisation von Informationsveranstaltungen und Austauschformaten Aufbau von Change-Agent- und Multiplikatoren-Netzwerken Koordination von Trainings- und Befähigungsmaßnahmen ? Erforderliche Fähigkeiten 2–3 Jahre Erfahrung im Change-Management oder in Change-Kommunikation Erfahrung mit SAP SuccessFactors oder vergleichbaren HR-IT-Lösungen Erfahrung bei IT-Einführungen und digitalen Transformationsprojekten Stakeholder-Management und zielgruppengerechte Kommunikation Strukturierte und eigenständige Arbeitsweise Sehr gute Deutschkenntnisse ? Wünschenswerte Fähigkeiten Public-Sector-Erfahrung Change-Projekte in großen Organisationen Kenntnisse von Change-Management-Frameworks Erfahrung mit Mitbestimmungs- und Gremienstrukturen ? Rahmenbedingungen Beginn: ASAP Laufzeit: bis 31.12.2026 + Verlängerungsoption Orte: überwiegend remote, gelegentliche Vor-Ort-Termine in Nürnberg Auslastung: Fulltime Projektsprache: Deutsch Honorar: 85 EUR/Std. Mischkalkulation Zahlungsziel: 30 Tage ? Ihre Bewerbung Wir freuen uns über Ihr aussagekräftiges Profil und den Erläuterungen zu Ihren Kenntnissen, in Change-Kommunikation, Stakeholder-Management, organisationsweiten Rollouts und SAP SuccessFactors inkl. Verfügbarkeit und Ihren Stundensatz an: ***@***.com Ihr Kontakt Thomas Henning Kunden- und Partnerbetreuung www.henning-experts.com Projektbesetzung Transformation Trainings",
+      "first_seen": "2026-07-16T16:23:49.678389+00:00",
+      "id": "23a71f9aa7f03252",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-16T17:27:32+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektangebot – Junior Change & Communication Consultant (m/w/d) SAP SF SW-Rollout",
+      "url": "https://www.freelancermap.de/projekt/projektangebot-junior-change-und-communication-consultant-m-w-d-sap-sf-sw-rollout"
+    },
+    {
       "description": "Rahmendaten: Start: ASAP Laufzeit: 12 Monate (mit Option auf Verlängerung) Auslastung: Vollzeit Arbeitsmodell: remote Aufgaben: Planung und Projektierung von 110kV-Freileitungsstrecken. Anbindung von Umspannwerken (Einspeisepunkte). Erstellung von technischen Planungsunterlagen unter Einhaltung der geltenden Normen und Richtlinien. Zusammenarbeit mit Behörden und Netzbetreibern zur Genehmigungsplanung. Anforderungen: Fundierte Erfahrung in der Planung von Hochspannungsfreileitungen (110kV). Sicherer Umgang mit FM-Profil sowie AutoCAD . Verständnis für die spezifischen Anforderungen im Freileitungsbau. Strukturierte und eigenständige Arbeitsweise.",
       "first_seen": "2026-07-16T14:58:56.079447+00:00",
       "id": "fb95457b994681a0",
@@ -7000,113 +7112,7 @@
       "source": "freelancermap.de",
       "title": "Netzwerkadmin // Rechenzentrumsbetrieb (m/w/d) 4 Tage vor Ort in FFM/Woche",
       "url": "https://www.freelancermap.de/projekt/netzwerkadmin-rechenzentrumsbetrieb-m-w-d-4-tage-vor-ort-in-ffm-woche"
-    },
-    {
-      "description": "Für unseren Kunden suchen wir aktuell eine/n Operations Engineer (m/w/d) Rahmeninformationen Referenz: 179201 Einsatzort: Berlin Starttermin: 01.08.2026 Arbeitszeit: Vollzeit (35h/Woche) Vertragsart: Arbeitnehmerüberlassung Ihre Qualifikationen - Erfolgreich abgeschlossenes Studium mit Schwerpunkt Informatik, eine abgeschlossene Ausbildung im IT-Bereich oder eine gleichwertige Qualifikation - mehrjährige Erfahrungen im IT-Betrieb oder Produktionssupport - fundierte Erfahrung mit Systemadministrationsaufgaben - fundierte Erfahrung mit Linux-Plattformen - ITIL-Grundkenntnisse - sehr gute Deutsch-Kenntnisse (C1) in Wort und Schrift - Englisch-Kenntnisse (B2) - Mindestens 3 Jahre relevante Erfahrung im Support (2nd-3rd Level) oder Operations Tätigkeiten im Anwendungsbetrieb mit Kubernetes - Know-how im Umgang mit mindestens 3 Technologien: Kubernetes, Openshift, Docker, Postgres, Grafana, Prometheus, Gitlab, Terraform - Erfahrung in der Arbeit mit Services eines Hyperscaler wie AWS, Microsoft Azure oder Google Cloud Plattform - relevante Erfahrung im Umgang mit Jira und Confluence - Kenntnisse in mindestens einer der Programmiersprachen: Python, Bash Scripting, Go, Ruby, Perl oder anderen vergleichbaren Ihre Aufgaben - Verantwortung für gemeldete Kundenprobleme und Verfolgung dieser bis zur Lösung, - Untersuchung, Diagnose und Ermittlung von Lösungen zur Behebung von Problemen in den Services - Einhaltung der vorgegebenen Prozesse für die Eskalation von ungelösten Problemen an die zuständigen internen Teams - Überwachung und Einhaltung der SLO-Alarme und Fehlerbudgets, - Management des Incident-Response-Flows, - Identifizierung und Implementierung von Automatisierungsmöglichkeiten, - Bearbeitung und Lösung offener Support-Tickets unter Einhaltung der SLAs, Koordination mit unterschiedlichen Stakeholdern zur Durchführung von blameless Post Mortems. Interessiert? Wir freuen uns auf Ihre aussagekräftigen Bewerbungsunterlagen in elektronischer Form. Ihr Ansprechpartner: Justus von Lenthe ***** *****",
-      "first_seen": "2026-07-02T15:14:39.627633+00:00",
-      "id": "d89d792c82783139",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-07-02T17:10:10+02:00",
-      "source": "freelancermap.de",
-      "title": "Operations Engineer  (m/w/d) - Arbeitnehmerüberlassung / ANÜ - Berlin",
-      "url": "https://www.freelancermap.de/projekt/operations-engineer-m-w-d-arbeitnehmerueberlassung-anue-berlin"
-    },
-    {
-      "description": "Leistungsbeschreibung Beratung Konzernprogramm im SAP-Umfeld bei der Programmmanagement-Strategie, d.h. in Prozessen, Organisation und Projektmanagement-Tools und deren Umsetzung Das Programm besteht aus 12 Teilprojekten mit Schwerpunkt auf der Umstellung der Meter2ash-Prozesse auf S4 Hana. Anforderungen Beratung des PMO-Leiters bei der Weiterentwicklung des PMOs und seiner Methoden Beratung bei der Ausgestaltung von Projektmanagement-Vorgaben (Templates, Ergebnistypen und Tools). Beratung bei der Organisation des Change-, Risiko- und Abhängigkeiten-Managements Selbstständige Mitarbeit beim Programm-Controlling Beratender Sparringspartner für Projekte Hilfestellung und Qualitätssicherung bei der Erstellung der wichtigsten Ergebnistypen in den Projekten (Projektauftrag, Plan, Change Request, Abschluss, Stakeholder-Kommunikation) Vorbereitung und Nachbereitung von Gremiensitzungen wie Lenkungskreisen bis zur Vorstandseben\" Areas of Expertise MS Project | +6 Jahre Areas of Expertise Project Management | 4 - 6 Jahre Technical Skills Project Management | +6 Jahre Technical Skills Project Planning | +6 Jahre Zusätzliche Kompetenzen: Muss: Mindestens 6+ Jahre Erfahrung in einer (IT-)Beratung Mindestens 6+ Jahre Tätigkeit in einem PMO eines oder mehrerer Programme in Konzernen Umfangreiche Kenntnisse eines oder mehrerer gängiger Programm- unnd Projektmanagement-Standards (GPM, Prince2, PMP, Scrum, SAFe) Erfahrung als Projektleiter oder Teilprojektleiter Erfahrung im Projektcontrolling (z.B. mit Earned Value Analyse) Erfahrungen im Abhängigkeiten- und Rolloutmanagement Sehr gute Kommunikationsfähigkeiten Sehr hohe Kundenorientierung Eigeninitiativ, intrinsisch motiviert, nimmt Aufgaben eigenständig auf, macht eigenständig Vorschläge Präzises, strukturiertes und effizientes Vorgehen Bereitschaft 2-3 Tage vor Ort in Frankfurt zu arbeiten Programm- oder Projektmanagement-Zertifizierung (GPM/IPMA, Prince2, PMP, Scrum, SAFe oder vergleichbar) Über den Auftraggeber Start: 03.08.2026 Ende: 31.12.2027 Auslastung: ca. 100% Onsite Stunden: 979 Offsite Stunden: 1468 Stunden Reisezeit für projektbedingte Reisen: 50 Vertragsart: Contracting | Nur sozialversicherungspflichtige Angestellte können berücksichtig werden | Bitte machen Sie es beim hochladen in unseren Portal kenntlich das Sie Anbieter statt Selbstständig sind! Standort: Remote sowie Vor Ort | Verfügbarkeit in Frankfurt 1-2 Tage pro Woche notwendig",
-      "first_seen": "2026-07-02T15:14:39.627633+00:00",
-      "id": "04c529c8247579ba",
-      "matched_keywords": [
-        "pmo",
-        "scrum"
-      ],
-      "published": "2026-07-02T17:07:10+02:00",
-      "source": "freelancermap.de",
-      "title": "Berater des PMO-Leiter (m/w/d) Fokus Change | Roll-Out | Programmebene",
-      "url": "https://www.freelancermap.de/projekt/berater-des-pmo-leiter-m-w-d-fokus-change-roll-out-programmebene"
-    },
-    {
-      "description": "Für ein Wasserstoff-Großprojekt suche ich aktuell einen Lead Engineer Konstruktion & Anlagenplanung (m/w/d) im PMC-Umfeld. Rahmenbedingungen Start: Ab 01.09. Laufzeit: 02/2027 mit Option auf Verlängerung, Projekt läuft bis 2028 Auslastung: Vollzeit Einsatzort: vor Ort + Remote Projektsprache: Deutsch Aufgaben: - Steuerung und Integration des Gesamtanlagenlayouts - Schnittstellenkoordination (Process, Piping, Civil, E/MSR) - Technische Führung externer Planer, EPCs und Lieferanten - Durchführung von Design- und 3D-Modellreviews - Bewertung von Layout-, Piping- und Trassierungsplanungen - Auflösung von Kollisions- und Schnittstellenkonflikten Profil: - Studium im Anlagenbau / Verfahrenstechnik / Maschinenbau / Bau - Erfahrung in Anlagenlayout & Schnittstellenmanagement - Projekterfahrung im EPC- oder PMC-Umfeld - Kenntnisse in 3D-Modellkoordination & Piping-Integration - Sehr gutes Englisch Wenn Sie Interesse haben, freue ich mich auf einen CV inkl. Stundensatz an Leiten Sie die Anfrage auch gern in Ihrem Netzwerk weiter! Viele Grüße aus HH SThree_Germany is acting as an Employment Business in relation to this vacancy.",
-      "first_seen": "2026-07-02T15:14:39.627633+00:00",
-      "id": "1c5a441aa0cf2fed",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-07-02T16:57:38+02:00",
-      "source": "freelancermap.de",
-      "title": "Lead Engineer Konstruktion & Anlagenplanung (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/lead-engineer-konstruktion-und-anlagenplanung-m-w-d"
-    },
-    {
-      "description": "Projektbeschreibung Für einen unserer Kunden – ein schnell wachsendes Climate-Tech-Unternehmen an der Schnittstelle von Batteriespeichern, PV-Direktvermarktung und algorithmischem Energiehandel – suchen wir Freelance-Unterstützung. Der Kunde vermarktet ein wachsendes PV-Portfolio über alle vier deutschen Regelzonen und baut parallel ein eigenes Batteriespeicher-Portfolio auf – erste Anlage in Betrieb, weitere gehen bis Jahresende ans Netz. Gesucht wird eine erfahrene Freelance-Expertin/ein erfahrener Freelance-Experte für Energy Operations mit klarem Fokus auf Regelenergie-Präqualifikation von Batteriespeichern und Co-Location . Du arbeitest eng mit dem Trading-Team des Kunden zusammen und bringst operative wie konzeptionelle Stärke in genau die Themen, die dessen Wachstum gerade fordert. Deine Aufgaben Präqualifikation Regelenergie (FCR/aFRR) für Batteriespeicher: Präqualifikations-Konzept, PQ-Portal, Koordination der Tests mit den Batterie-Optimizern des Kunden, Kommunikation mit Übertragungsnetzbetreibern Anmeldung und Onboarding neuer Batterie-Assets : Vorbereitung der Präqualifizierung, Koordination mit EPC- und Optimizer-Partnern Co-Location (PV/Wind + Batterie): konzeptionelle Ausarbeitung von Marktkommunikation und Fahrplanmanagement (behind-the-meter) sowie Repräsentation dieser Themen intern und gegenüber Kunden/Sales Optional (je nach Kapazität): Optimierung bestehender Direktvermarktungs-, Bilanzkreis- und Abrechnungsprozesse Must-have Nachweisliche, praktische Erfahrung in der Regelenergie-Präqualifikation von Batteriespeichern (FCR und aFRR) – PQ-Portal, Präqualifikationstests, ANB-/ÜNB-Kommunikation Fundierte Erfahrung in Direktvermarktung, Bilanzkreismanagement, Marktkommunikation (MaBiS/MaKo) und Fahrplanmanagement Verständnis von Co-Location-Konzepten (behind-the-meter, Netzverknüpfungspunkt) Deutsch verhandlungssicher Nice-to-have Erfahrung mit VPP-Systemen (z. B. emsys), EMS-/Optimizer-Koordination, EPC-Schnittstellen Abrechnung / Settlement-Plausibilisierung (Marktwert, Spot, Ausgleichsenergie) Automatisierungs-/Daten-Affinität (z. B. Python) Was dich erwartet Ein technisch starkes, schnell wachsendes Team beim Kunden (Softwareentwickler, KI-Experten, Energiehändler) mit eigenem Trading-System und EPEX-Zugang Hohe Eigenverantwortung und direkter Impact auf ein skalierendes BESS- und DV-Portfolio Remote möglich, Berlin bevorzugt – flexible Zusammenarbeit auf Freelance-Basis Abwicklung über Teclead Ventures als beauftragte Beratung",
-      "first_seen": "2026-07-02T15:14:39.627633+00:00",
-      "id": "b1ff171dc9b2358e",
-      "matched_keywords": [
-        "energie",
-        "netz",
-        "ems",
-        "übertragungsnetz",
-        "marktkommunikation"
-      ],
-      "published": "2026-07-02T16:42:28+02:00",
-      "source": "freelancermap.de",
-      "title": "Freelance Energy Operations Expert (m/w/d) – Batteriespeicher-Präqualifikation & Co-Location",
-      "url": "https://www.freelancermap.de/projekt/freelance-energy-operations-expert-m-w-d-batteriespeicher-praequalifikation-und-co-location"
-    },
-    {
-      "description": "Für unseren Kunden bin ich auf der Suche nach Unterstützung: Rahmendaten Standort: Remote (EU weit möglich), punktuell Frankfurt ca 1x Quartal Start: Ab September möglich Einsatzdauer:12 Monate + Option auf Verlängerung Auslastung: Vollzeit Freelance Projekt: Openshift Plattform Aufbau Ihre Aufgaben Administration und Betrieb von Red Hat OpenShift Clustern (Enterprise / OnPrem / AirGapped) Automatisierung mit ArgoCD/GitOps sowie Ansible oder Terraform Monitoring & Logging im KubernetesUmfeld Mitarbeit in agilen ScrumTeams (Scaled Agile) Technische Beratung im Banking Umfeld Ihr Profil Mind. 5 Jahre OpenShift Erfahrung (Must Have) Sehr gute Kenntnisse in Kubernetes / OpenShift Administration Idealerweise Red Hat OpenShift Zertifizierung Sehr gutes Deutsch, Englisch mind. B2",
-      "first_seen": "2026-07-02T15:14:39.627633+00:00",
-      "id": "b485280273b72a83",
-      "matched_keywords": [
-        "agil",
-        "scrum"
-      ],
-      "published": "2026-07-02T16:29:17+02:00",
-      "source": "freelancermap.de",
-      "title": "Openshift Experte gesucht (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/openshift-experte-gesucht-m-w-d"
-    },
-    {
-      "description": "Aufgaben: Aufgaben: + Analyse der bestehenden Dokumente + energiewirtschaftliche Betrachtung + Bepreisung und Berechnung der Dampfentstehungskosten + Dokumentation der Bewertung der Kosten und Preise Projekt-Nr.: ***** Projekttitel: Berater Energiewirtschaft mit Fokus auf Dampferzeugung (m/w/d) Stellentyp: freiberuflich Einsatzort: keine Angabe Starttermin: 08.07.2026, spätestens 20.07.2026 Dauer: 40 Std + 12 Monate Anforderungen: + mind. 1 einschlägiges Projekt als energiewirtschaftlicher Berater für die Festlegung von Kosten + Zertifizierung in diesem Kontext + sehr gute Fachkenntnisse im Bereich Chemiepark, Dampferzeugnis, Dampfverteilernetz, etc. + sehr gute Deutschkenntnisse Nice to have: + Englischkenntnisse in Wort und Schrift Zusätzliche Informationen: Auslastung: 50-100 SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
-      "first_seen": "2026-07-02T15:14:39.627633+00:00",
-      "id": "9c5918eb1e20879e",
-      "matched_keywords": [
-        "energie",
-        "netz"
-      ],
-      "published": "2026-07-02T16:26:09+02:00",
-      "source": "freelancermap.de",
-      "title": "Berater Energiewirtschaft mit Fokus auf Dampferzeugung (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/berater-energiewirtschaft-mit-fokus-auf-dampferzeugung-m-w-d"
-    },
-    {
-      "description": "Hinweis: Für diese Position können ausschließlich sozialversicherungspflichtig Beschäftigte Kandidatinnen und Kandidaten berücksichtigt werden. Bewerbungen und Anfragen von Freiberuflern können daher leider nicht bearbeitet werden. Branche: Energiewirtschaft Start: 03.08.2026 Ende: 31.12.2027 Auslastung: 84% Offsite: 1468h (Vor-Ort - Verfügbarkeit in Frankfurt 1-2 Tage pro Woche notwendig) Onsite: 979h Reisezeit: 50h Einsatzort: Frankfurt und remote (Onshore aus Deutschland) Max. Stundensatz remote: 95€/h Weitere Hinweise: Bei den Konditionen ist eine Differenz 18€/h von Onsite zum Offsite Stundensatz nötig. (Onsite +18€/h). Die geplante Aufteilung der Stunden ist wie genannt, kann aber abweichen. Aufgaben Das Programm besteht aus 12 Teilprojekten mit Schwerpunkt auf der Umstellung der Meter 2 Cash-Prozesse auf S4 Hana. Beratung des PMO-Leiters bei der Weiterentwicklung des PMOs und seiner Methoden Beratung bei der Ausgestaltung von Projektmanagement-Vorgaben (Templates, Ergebnistypen und Tools). Beratung bei der Organisation des Change-, Risiko- und Abhängigkeiten-Managements Selbstständige Mitarbeit beim Programm-Controlling Beratender Sparringspartner für Projekte Hilfestellung und Qualitätssicherung bei der Erstellung der wichtigsten Ergebnistypen in den Projekten (Projektauftrag, Plan, Change Request, Abschluss, Stakeholder-Kommunikation) Vorbereitung und Nachbereitung von Gremiensitzungen wie Lenkungskreisen bis zur Vorstandseben Skills: Muss: Mindestens 6+ Jahre Erfahrung in einer (IT-)Beratung Mindestens 6+ Jahre Tätigkeit in einem PMO eines oder mehrerer Programme in Konzernen Umfangreiche Kenntnisse eines oder mehrerer gängiger Programm- unnd Projektmanagement-Standards (GPM, Prince2, PMP, Scrum, SAFe) Erfahrung als Projektleiter oder Teilprojektleiter Erfahrung im Projektcontrolling (z.B. mit Earned Value Analyse) Erfahrungen im Abhängigkeiten- und Rolloutmanagement Sehr gute Kommunikationsfähigkeiten Sehr hohe Kundenorientierung Eigeninitiativ, intrinsisch motiviert, nimmt Aufgaben eigenständig auf, macht eigenständig Vorschläge Präzises, strukturiertes und effizientes Vorgehen Bereitschaft 2-3 Tage vor Ort in Frankfurt zu arbeiten Programm- oder Projektmanagement-Zertifizierung (GPM/IPMA, Prince2, PMP, Scrum, SAFe oder vergleichbar) Wünschenswert: Erfahrung in IT-Projekten in der Energiewirtschaft Auf Ihre Nachricht freue ich mich. Bitte fügen Sie Ihrer Bewerbung Ihren Lebenslauf sowie Ihre Stundensatzvorstellungen hinzu, da Bewerbungen ohne diese Angaben nicht berücksichtigt werden können. Viele Grüße Dominik Ehlers",
-      "first_seen": "2026-07-02T15:14:39.627633+00:00",
-      "id": "f56b252dfc17ca66",
-      "matched_keywords": [
-        "pmo",
-        "scrum",
-        "energie"
-      ],
-      "published": "2026-07-02T16:25:11+02:00",
-      "source": "freelancermap.de",
-      "title": "ITP-892: Senior Programmmanagement Consultant (PMO) – S/4HANA (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/itp-892-senior-programmmanagement-consultant-pmo-s-4hana-m-w-d"
-    },
-    {
-      "description": "Für unseren Kunden suchen wir zum nächstmöglichen Zeitpunkt nach einem Projektkoordinator Umspannwerk (m/w/d). Rahmendaten Start: Ab sofort Auslastung: Vollzeit Einsatzdauer: 12 Monate mit Verlängerungsoption Einsatzort: Hamburg Aufgaben Begleitung und technische Koordination des Baus eines 380-kV-Umspannwerks Steuerung und Abstimmung technischer Schnittstellen zwischen Fachbereichen, Gewerken und Dienstleistern Koordination technischer Anforderungen und Randbedingungen mit internen sowie externen Projektbeteiligten Nachverfolgung von Terminen, Meilensteinen, Maßnahmen und offenen Punkten Erarbeitung von Entscheidungsgrundlagen, Statusberichten und Handlungsempfehlungen Erstellung, Prüfung und Konsolidierung technischer Anforderungen und Spezifikationen Bewertung technischer Änderungen, Nachträge und Abweichungen Erstellung und Pflege der technischen Projektdokumentation (Protokolle, Berichte, Maßnahmen- und Prüflisten) Anforderungen Abgeschlossene Ausbildung oder Weiterbildung als Elektrotechniker oder vergleichbare Qualifikation Mehrjährige Berufserfahrung in der Hoch- und Höchstspannungstechnik (110 kV bis 380 kV) Erfahrung in Projekten im Bereich Umspannwerke, Schaltanlagen, Netzanschlüsse oder Energieinfrastruktur Kenntnisse in technischer Projektkoordination, Schnittstellen- und Anforderungsmanagement Erfahrung in Ausschreibungen, technischer Bewertung, Qualitätssicherung und Dokumentation Bitte senden Sie bei Interesse Ihren aktuellen Stundensatz und CV!",
-      "first_seen": "2026-07-02T15:14:39.627633+00:00",
-      "id": "2437b781f14676f5",
-      "matched_keywords": [
-        "energie",
-        "netz"
-      ],
-      "published": "2026-07-02T16:35:06+02:00",
-      "source": "freelancermap.de",
-      "title": "Projektkoordinator Umspannwerk (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/projektkoordinator-umspannwerk-m-w-d"
     }
   ],
-  "updated_at": "2026-07-16T14:58:56.217422+00:00"
+  "updated_at": "2026-07-16T16:23:49.810036+00:00"
 }
