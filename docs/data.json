@@ -1,6 +1,159 @@
 {
   "projects": [
     {
+      "description": "Wir, die bridgingIT-Gruppe, sind eine herstellerunabhängige, produktneutrale Technologie- und Unternehmensberatung, die Kunden aus den verschiedensten Branchen bei wegweisenden Veränderungsvorhaben unterstützt. Immer dann, wenn wir aufgrund von fehlender Kapazität, dennoch unseren Kunden zufrieden stellen möchten, treten wir über unser Partnermanagement an Externe Professionals. Wir würden uns freuen, Sie schon bald in unserem Partnernetzwerk begrüßen zu dürfen. Anforderungen Fungiert als Pega CDH Systems Engineer auf Auftraggeberseite in einem komplexen Umfeld mit technischen und fachlichen Abhängigkeiten zu verschiedenen Bereichen Agiert als technischer Counterpart für den IT- Dienstleister im Rahmen der Implementierung der neuen Pega-basierten Communications-Lösung Tauscht sich regelmäßig mit den relevanten technischen Experten aus, um Optimierungspotenzial in der technischen Weiterentwicklung der Anwendung zu identifizieren und stellt sicher, dass die Anwendung technisch entsprechend konsequent aufgesetzt und weiterentwickelt wird Analyse, Review und Beratung bei Setup und Weiterentwicklung der Communications-Systemlandschaft inklusive Qualitätssicherung, Erarbeitung von Optimierungsvorschlägen und Begleitung bei deren Umsetzung Analyse von Anforderungen und Ableiten von User Stories Erstellung technischer Enabler-Epics Umsetzung von Codeanpassungen in PEGA CDH Umsetzung von Konfigurationsanpassungen in PEGA CDH Fachliche und technische Unterstützung bei der Kanalintegration Arbeit mit dem PEGA-internen Email-Editor auch bzgl. dynamischer Content-Integration Einrichtung von Lieferpipelines Beratung der Systemadministration bezüglich Installation und Konfiguration sowie Deployment & CI/CD Muss-Kriterien Angewandtes Wissen im Lesen und Verstehen von OpenAPI-Spezifikationen in mindestens 2 Projekten Angewandtes Wissen in der Erstellung und Pflege von Datenmodellen Nachweislich angewandte Kenntnisse in Enterprise-Anwendungsarchitekturen und zugehörigen Middleware-, Entwicklungs- und Datenbanktechnologien Nachweislich praktische Erfahrung in der Durchführung von Aufgaben innerhalb des gesamten Softwareentwicklungslebenszyklus Praktische Erfahrung mit Pega Praktische Erfahrungen sind gemäß Angebot in mindestens 2 Projekten über eine Dauer von insgesamt mindestens 3 Jahren nachvollziehbar Pega CDH-Zertifizierung Melden Sie sich bei Interesse oder Rückfragen jederzeit gerne bei Ihrem Ansprechpartner: Cihan Falay",
+      "first_seen": "2026-07-17T12:07:29.663419+00:00",
+      "id": "210efb19a4f93419",
+      "matched_keywords": [
+        "netz",
+        "ems"
+      ],
+      "published": "2026-07-17T14:04:26+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior PEGA CDH Systems Engineer mit Architektur-, Integrations- und Entwicklungs-Know-how",
+      "url": "https://www.freelancermap.de/projekt/senior-pega-cdh-systems-engineer-mit-architektur-integrations-und-entwicklungs-know-how"
+    },
+    {
+      "description": "Projektbeschreibung Für ein E-Commerce-Projekt wird Unterstützung bei der Migration einer bestehenden Magento-1-Shopplattform auf Shopware gesucht. Ziel ist die professionelle Begleitung der agilen Delivery sowie die strukturierte Aufnahme und Aufbereitung fachlicher Anforderungen. Gesucht werden ein Scrum Master sowie ein Proxy Product Owner. Rahmendaten Start: ASAP Laufzeit: bis 31.12.2026 mit Option auf Verlängerung Auslastung: 2 Tage pro Woche Einsatz: Remote Projektsprache: Deutsch Aufgaben Operative Unterstützung des bestehenden Product Owners Aufnahme, Analyse und Strukturierung fachlicher Anforderungen Erstellung und Pflege von User Stories, Epics und Akzeptanzkriterien Fachliche Spezifikation und Aufbereitung von Anforderungen für die Entwicklungsteams Vorbereitung und Durchführung von Backlog Refinements Abstimmung mit Fachbereichen, Stakeholdern und Entwicklungsteams Unterstützung bei Priorisierung und Pflege des Product Backlogs Sicherstellung einer ausreichenden Anforderungsqualität für die Sprintplanung Must-haves Erfahrung als Proxy Product Owner, Product Owner oder Business Analyst Erfahrung in der Erstellung von User Stories, Akzeptanzkriterien und fachlichen Spezifikationen Erfahrung im Anforderungsmanagement innerhalb agiler Projekte Sicherer Umgang mit Scrum und agilen Methoden Deutsch verhandlungssicher Nice-to-haves Erfahrung im E-Commerce-Umfeld Erfahrung mit Magento und/oder Shopware Erfahrung in Migrationsprojekten Erfahrung an der Schnittstelle zwischen Business und Entwicklung PSPO-, CSPO- oder vergleichbare Zertifizierung Bitte senden Sie bei Interesse Ihr aktuelles CV inklusive Angabe Ihres Stundensatzes zu. Rückmeldungen können bis heute, 17.07., 19:00 Uhr berücksichtigt werden.",
+      "first_seen": "2026-07-17T12:07:29.663419+00:00",
+      "id": "e672987f28ab7caa",
+      "matched_keywords": [
+        "business analyst",
+        "scrum master",
+        "product owner",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-07-17T13:57:09+02:00",
+      "source": "freelancermap.de",
+      "title": "Proxy Product Owner (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/proxy-product-owner-m-w-d-3024826"
+    },
+    {
+      "description": "Projektbeschreibung Für ein E-Commerce-Projekt wird Unterstützung bei der Migration einer bestehenden Magento-1-Shopplattform auf Shopware gesucht. Ziel ist die professionelle Begleitung der agilen Delivery sowie die strukturierte Aufnahme und Aufbereitung fachlicher Anforderungen. Rahmendaten Start: ASAP Laufzeit: bis 31.12.2026 mit Option auf Verlängerung Auslastung: ca. 12 Stunden pro Monat Einsatz: Remote Projektsprache: Deutsch Aufgaben Moderation und Durchführung aller Scrum-Zeremonien Planung und Begleitung von Sprint Plannings, Reviews und Retrospektiven Sicherstellung einer effizienten Sprintdurchführung und transparenten Delivery Identifikation und Beseitigung von Impediments Förderung der Zusammenarbeit zwischen Fachbereich, Product Owner und Entwicklungsteam Etablierung und Weiterentwicklung agiler Prozesse und Best Practices Unterstützung bei Kapazitätsplanung und Sprintvorbereitung Kontinuierliche Optimierung von Team- und Projektprozessen Must-haves Mehrjährige Erfahrung als Scrum Master Fundierte Kenntnisse in Scrum und agilen Methoden Erfahrung in Softwareentwicklungsprojekten Erfahrung in der Steuerung und Begleitung interdisziplinärer Teams mit mehreren Stakeholdern Nachweisbare Erfahrung bei der erfolgreichen Umsetzung komplexer Projekte, idealerweise im E-Commerce- oder Migrationsumfeld Deutsch verhandlungssicher Nice-to-haves Erfahrung im E-Commerce-Umfeld Erfahrung mit Magento und/oder Shopware Erfahrung bei Shop-Migrationen, idealerweise von Magento auf Shopware Scrum-Zertifizierung (PSM, CSM o. Ä.) Bitte senden Sie bei Interesse Ihr aktuelles CV inklusive Angabe Ihres Stundensatzes zu. Rückmeldungen können bis heute, 17.07., 18:00 Uhr berücksichtigt werden.",
+      "first_seen": "2026-07-17T12:07:29.663419+00:00",
+      "id": "2704b701a5214f11",
+      "matched_keywords": [
+        "scrum master",
+        "product owner",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-07-17T13:55:21+02:00",
+      "source": "freelancermap.de",
+      "title": "Scrum Master (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/scrum-master-m-w-d-3024825"
+    },
+    {
+      "description": "Projektbeschreibung: Unterstützung im Projekt als Data Engineer (m/w/d) – Data Vault 2.0 / SAP HANA / Python Aufgabenbeschreibung: Unterstützung bei der Ablösung eines bestehenden Data Warehouses und Aufbau einer modernen SQL-DWH-Lösung auf SAP HANA Entwicklung und Optimierung von Datenpipelines, ETL-Prozessen sowie Data Vault 2.0-Modellen Automatisierung und Monitoring von Datenprozessen und CI/CD-Pipelines Enge Zusammenarbeit mit Entwicklung, Infrastruktur und Fachbereichen sowie Wissenstransfer innerhalb des Projektteams Anforderungen: Deutsch in Wort und Schrift (Mindestens Level C1) Englisch in Wort und Schrift Kommunikativ, kreativ und eine Teamplayer-Mentalität sind vorausgesetzt Data Vault 2.0 Datavault Analytics Engineering ETL Python SAP HANA (High-Performance Analytic Appliance) Mehrjährige praktische Erfahrung als Data Engineer mit nativen SQL-DWH-Architekturen auf SAP HANA (zwingend) Data Vault 2.0, ETL und Python. Erfahrung mit Datenintegration, Datenpipelines sowie CI/CD und Automatisierung Sicherer Umgang mit komplexen Enterprise-Datenlandschaften Erfahrung in agilen Projekten und regulierten Umfeldern. Auslastung: Remote/Vor-Ort-Anteile erfolgen immer in Absprache mit dem Endkunden. Die Bereitschaft vor Ort im Projekt zu arbeiten ist vorausgesetzt. Bitte beachten Sie, dass die genannten MUSS-Kriterien auch alle als Stichwort im CV stehen müssen. Sofern diese Kriterien nicht erfüllt sind, können wir sie im weiteren Prozess vorerst nicht berücksichtigen und kommen gegebenenfalls nochmals auf Sie zu. Start:sofort Ende / Dauer: 6 Monate + Option Einsatzort: remote /Nierdersachsen (1x pro Quartal) Max. Rate liegt bei 95,- € remote.",
+      "first_seen": "2026-07-17T12:07:29.663419+00:00",
+      "id": "11fd9dfc74b3e865",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-07-17T13:50:20+02:00",
+      "source": "freelancermap.de",
+      "title": "ID 1263 - Data Engineer (m/w/d) – Data Vault 2.0 / SAP HANA / Python",
+      "url": "https://www.freelancermap.de/projekt/data-engineer-m-w-d-data-vault-2-0-sap-hana-python-3024823"
+    },
+    {
+      "description": "Für unseren internationalen Kunden suchen wir einen erfahrenen Senior Systems & Network Administrator (m/w/d) zur Betreuung und Weiterentwicklung der IT-Infrastruktur in Deutschland. In dieser verantwortungsvollen Position übernehmen Sie den L2/L3-Support, stellen den reibungslosen Betrieb der IT-Systeme sicher und arbeiten eng mit internationalen IT-Teams zusammen. Deine Tätigkeiten: Durchführung des Remote- und Onsite-L2/L3-Supports für Anwender und IT-Services Installation, Konfiguration und Administration von Windows- und macOS-Systemen Betreuung und Administration von Microsoft 365 sowie weiterer Business-Anwendungen Administration von Active Directory bzw. Entra ID sowie Benutzer- und Geräteverwaltung Analyse und Behebung von Hard-, Software-, Netzwerk- und Microsoft-365-Störungen Unterstützung der Netzwerk- und Security-Infrastruktur nach globalen IT-Standards Bearbeitung und Dokumentation von Incidents, Service Requests und Changes im ITSM-System (z. B. ServiceNow) Durchführung von Softwareverteilungen, Patch-Management und Systemwartungen Pflege der IT-Dokumentation sowie Verwaltung des Hardware- und Asset-Inventars Beratung und Unterstützung der Anwender hinsichtlich IT-Sicherheit und Best Practices Zusammenarbeit mit internationalen IT-Teams bei der Umsetzung globaler IT-Projekte und Standards Das gesuchte Profil: Mehrjährige Berufserfahrung als Systemadministrator, Netzwerkadministrator oder IT Operations Administrator im L2/L3-Umfeld Sehr gute Kenntnisse in der Administration von Windows- und macOS-Systemen Erfahrung mit Microsoft 365 sowie Active Directory bzw. Entra ID Gute Kenntnisse in den Bereichen LAN, WLAN, TCP/IP, VPN sowie grundlegenden Firewall-Konzepten Erfahrung im Umgang mit ITSM-Prozessen und Ticketsystemen, idealerweise ServiceNow Kenntnisse im Bereich IT-Sicherheit, Patch-Management und Datenschutz Strukturierte und selbstständige Arbeitsweise sowie ausgeprägte Problemlösungskompetenz Sehr gute Kommunikations- und Teamfähigkeit Gute Deutsch- und Englischkenntnisse Das erwartet dich: Spannende Tätigkeit in einem internationalen Arbeitsumfeld Moderne IT-Infrastruktur und abwechslungsreiche Aufgaben Kollegiales und hilfsbereites Team Individuelle Weiterbildungs- und Entwicklungsmöglichkeiten Attraktive Vergütung sowie zusätzliche Benefits Langfristige Perspektive in einem wachsenden Unternehmen",
+      "first_seen": "2026-07-17T12:07:29.663419+00:00",
+      "id": "0039d3dfe87f9fd7",
+      "matched_keywords": [
+        "netz",
+        "ems"
+      ],
+      "published": "2026-07-17T13:48:44+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Systems & Network Administrator (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-systems-und-network-administrator-m-w-d"
+    },
+    {
+      "description": "Für unseren internationalen Kunden suchen wir einen engagierten Field Engineer (m/w/d) , der den IT-Support am Standort Hamburg übernimmt. Sie sorgen für einen reibungslosen IT-Betrieb, unterstützen Anwender bei technischen Fragestellungen und arbeiten eng mit einem internationalen IT-Team zusammen. Deine Tätigkeiten: Betreuung der Anwender im 2nd Level Support vor Ort und remote Analyse und Behebung von Hard-, Software- und Netzwerkstörungen Installation, Konfiguration und Wartung von Windows- und macOS-Arbeitsplätzen Einrichtung und Betreuung von Microsoft 365 sowie weiterer Unternehmensanwendungen Verwaltung von Benutzerkonten, Berechtigungen und Zugriffsrechten in Active Directory Bearbeitung und Dokumentation von Incidents und Service Requests im ITSM-System (z. B. ServiceNow) Installation, Austausch und Wartung von PCs, Laptops, Monitoren, Druckern und weiterer IT-Hardware Betreuung von Konferenzraumtechnik und Peripheriegeräten Durchführung von Softwareinstallationen, Updates und Patchmanagement Dokumentation von Supportfällen und Lösungen unter Einhaltung definierter Service-Level-Agreements (SLAs) Verwaltung und Pflege des IT-Asset-Managements Unterstützung bei der Umsetzung von IT-Sicherheitsrichtlinien Einweisung und Unterstützung der Anwender im Umgang mit Hard- und Software Zusammenarbeit mit dem internationalen IT-Team zur Umsetzung globaler IT-Standards Das gesuchte Profil: Erfolgreich abgeschlossene Ausbildung im IT-Bereich (z. B. Fachinformatiker Systemintegration) oder eine vergleichbare Qualifikation Berufserfahrung im IT-Support, Desktop Support, Onsite Support oder Helpdesk Sehr gute Kenntnisse in Windows 10/11 und idealerweise macOS Erfahrung mit Microsoft 365 (Outlook, Teams, Office-Anwendungen) Kenntnisse in der Administration von Active Directory Erfahrung im Umgang mit ITSM- oder Ticketsystemen (idealerweise ServiceNow) Grundkenntnisse im Bereich Netzwerke (TCP/IP, VPN, WLAN) Erfahrung mit Hardwareinstallation und Fehlerdiagnose Kenntnisse im Bereich IT-Sicherheit sowie Patch- und Update-Management Gute Deutsch- und Englischkenntnisse in Wort und Schrift Das erwartet dich: Spannende Tätigkeit in einem internationalen Arbeitsumfeld Moderne IT-Infrastruktur und abwechslungsreiche Aufgaben Kollegiales und hilfsbereites Team Individuelle Weiterbildungs- und Entwicklungsmöglichkeiten Attraktive Vergütung sowie zusätzliche Benefits Langfristige Perspektive in einem wachsenden Unternehmen",
+      "first_seen": "2026-07-17T12:07:29.663419+00:00",
+      "id": "3ab1a8b3c7fc08b0",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-17T13:45:34+02:00",
+      "source": "freelancermap.de",
+      "title": "Field Engineer (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/field-engineer-m-w-d-3024819"
+    },
+    {
+      "description": "Dein Projekteinsatz als IT Infrastrukturtechniker (m/w/d) Schwerpunkt Rechenzentrum bei unserem Kunden aus der Versicherungsbranche ist gefragt: Deine Aufgaben: Sicherstellung eines reibungslosen Betriebs der technischen Infrastruktur innerhalb mehrerer Rechenzentrumsstandorte Annahme, Kontrolle und Verwaltung eingehender Lieferungen sowie Pflege der Lagerbestände Durchführung von Inventarisierungen und Dokumentation eingesetzter IT-Komponenten Installation, Austausch und Demontage von Server-, Storage- und Netzwerkhardware Durchführung von Verkabelungsarbeiten im Bereich Kupfer-, Glasfaser- und Strominfrastruktur Pflege und Aktualisierung technischer Dokumentationen in relevanten Management- und Asset-Systemen Bearbeitung und Umsetzung eingehender Serviceaufträge rund um den Rechenzentrumsbetrieb Koordination und Begleitung externer Dienstleister bei Arbeiten vor Ort Unterstützung bei der Analyse und Behebung technischer Störungen im Infrastrukturumfeld Durchführung von Fehleranalysen auf Netzwerk- und Hardwareebene Mitarbeit bei Wartungsmaßnahmen sowie geplanten Infrastrukturänderungen Unterstützung bei Standortumzügen, Erweiterungen und Modernisierungsprojekten im Rechenzentrum Enge Zusammenarbeit mit internen IT-Fachbereichen zur Sicherstellung eines stabilen Betriebs Das gesuchte Profil: Sehr gute Deutschkenntnisse auf mindestens B2-Niveau Erfahrung im Betrieb oder der Betreuung von Rechenzentrums- oder IT-Infrastrukturen Kenntnisse im Umgang mit Server-, Netzwerk- und Storage-Systemen Praxiswissen im Bereich strukturierter IT-Verkabelung inklusive Kupfer- und Glasfasertechnik Verständnis gängiger Netzwerkprotokolle und IT-Grundlagen Erfahrung mit IT-Service-Management- oder Ticketsystemen von Vorteil Kenntnisse im Umgang mit DCIM-, Asset- oder Infrastrukturmanagement-Lösungen wünschenswert Sicherer Umgang mit Microsoft Office, Teams und gängigen Dokumentationstools Grundkenntnisse nach ITIL sind von Vorteil Erste Erfahrung mit PowerShell oder vergleichbaren Automatisierungstechnologien wünschenswert Strukturierte, eigenständige und lösungsorientierte Arbeitsweise Teamorientiertes Auftreten sowie ausgeprägte Kommunikationsfähigkeit Handwerkliches Geschick und technisches Verständnis Führerschein der Klasse B Eigenes Fahrzeug sowie Bereitschaft zu regelmäßigen Fahrten zwischen mehreren Einsatzstandorten im regionalen Umfeld gegen entsprechende Kostenerstattung Benefits: Unsere Verträge sind tarifgebunden (BAP) Du erhältst volle Lohnfortzahlung bei Urlaub u. Krankheitsfall Du hast einen festen Ansprechpartner, der dich betreut Die Möglichkeit an täglichen Herausforderungen zu wachsen und Lösungen aktiv und kreativ mitzugestalten Eine Unternehmenskultur, die sich durch Innovation, Flexibilität und Menschlichkeit auszeichnet Flache Hierarchien und ein sehr gutes Arbeitsklima",
+      "first_seen": "2026-07-17T12:07:29.663419+00:00",
+      "id": "83feaf0681a04583",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-17T13:45:13+02:00",
+      "source": "freelancermap.de",
+      "title": "IT Infrastrukturtechniker (m/w/d) Schwerpunkt Rechenzentrum",
+      "url": "https://www.freelancermap.de/projekt/it-infrastrukturtechniker-m-w-d-schwerpunkt-rechenzentrum"
+    },
+    {
+      "description": "Test Automation Engineer (m/w/d) with Android experience Start: July 2026 Duration: 2 MM++ Location: remote Description: We are seeking a new talent to join the Software Engineering team. As a Test Automation Engineer, he will be responsible for using quality processes, automation tools, and methodologies to transform testing products and solutions. He will run the end-to-end quality engineering function with a focus on automation of Android Device based testing to improve control, accuracy, and integrity. He is expected to be a subject matter expert, collaborate and manage the team to perform effectively, take responsibility for team decisions, engage with multiple teams, and contribute to key decisions. Providing solutions to problems for your immediate team and across multiple teams is a vital part of this role. Requirements: Expert proficiency in Android Testing is required. Advanced proficiency in Automated Testing is recommended. Advanced proficiency in Technical Test Execution and intermediate proficiency in System Defect Management are suggested. Develop and implement automated testing strategies to enhance product quality and efficiency. Collaborate closely with cross-functional teams to identify testing requirements and deliver robust solutions. Analyze test results and provide actionable insights to improve software performance and reliability. Support and guide team members by sharing expertise and best practices in automation and quality engineering. Continuously evaluate and adopt new tools and technologies to advance testing capabilities and processes. Required Skills: Android Testing Automated Testing Technical Test execution System Defect Management Language skills: English German",
+      "first_seen": "2026-07-17T12:07:29.663419+00:00",
+      "id": "749b30c84139d2fc",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-07-17T13:44:34+02:00",
+      "source": "freelancermap.de",
+      "title": "Test Automation Engineer (m/w/d) with Android experience",
+      "url": "https://www.freelancermap.de/projekt/test-automation-engineer-m-w-d-with-android-experience"
+    },
+    {
+      "description": "Für unseren Kunden suchen wir einen SAP Basis-Berater (m/w/d). Rahmendaten: Laufzeit: asap bis 31.12.2026 Umfang: ca. 100 PT Einsatzort: Onboarding vor Ort in Stuttgart, sonst remote Aufgaben: Konfiguration des Solution Manager und des ChaRM-Prozesses. Konfiguration des SLD (System Landscape Directory) im neuen Solution Manager. Konfiguration von SAP Business Technology Plattform (BTP), einschließlich SAP Analytics Cloud (SAC). Betreuung der SAP-Systeme und den Betrieb in enger Zusammenarbeit mit unserem externen Hosting-Dienstleister Betreuung, Administration und Weiterentwicklung der SAP-Basislandschaft (ERP, BW, Solution Manager, S/4HANA) Planung, Durchführung und Überwachung von Systemkopien, Upgrades, Patches und Support Packages Monitoring und Performance-Analysen der SAP-Systeme sowie Störungsbehebung (Second-Level-Support) Mitarbeit bei SAP-Projekten wie Migrationen, Systemerweiterungen oder Release-Wechseln Erstellung und Pflege von Systemdokumentationen sowie Betriebshandbüchern Anforderungen: Mehrjährige Erfahrung in der SAP-Basisadministration (ABAP- und JAVA-Stacks) Kenntnisse in SAP HANA, Oracle oder MS SQL wünschenswert Erfahrung in der Zusammenarbeit mit externen Hosting- oder Cloud-Dienstleistern Grundverständnis von Netzwerken, Betriebssystemen (Linux/Windows) und Backup-/Recovery-Konzepten Analytische Denkweise, strukturierte Arbeitsweise und hohe Kommunikationsfähigkeit Gute Deutsch- und Englischkenntnisse in Wort und Schrift",
+      "first_seen": "2026-07-17T12:07:29.663419+00:00",
+      "id": "961ca816802cdcb4",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-17T13:40:01+02:00",
+      "source": "freelancermap.de",
+      "title": "remote - SAP Basis-Berater (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/remote-sap-basis-berater-m-w-d"
+    },
+    {
+      "description": "Für unseren Kunden aus der Branche \"Transport / Logistics\" suchen wir einen \"Senior Data & Analytics Consultant (Azure Databricks) - m/w/d\" auf Contracting-Basis. Start: asap Ende: 31.12.2026 Kapazität: Vollzeit Einsatzort: Remote (97 PT) / Frankfurt (11 PT) Das Projekt umfasst die Modernisierung und Ablösung einer bestehenden CRM-IT-Landschaft bis 2026 durch eine zukunftsfähige IT-Lösung. Dabei werden mehrere CRM-Domänen, darunter Kundenservice, Kundenbindungsprogramme, Marketing sowie Analytics und Integrationsschicht, technisch neu aufgestellt. Im Analytics-Teilprojekt liegt der Fokus auf dem Aufbau und der Modernisierung einer Analytics-Landschaft als Grundlage für ein datengetriebenes CRM und eine 360°-Kundensicht. Zu den Aufgaben gehören die Anforderungsdefinition, Implementierung, Integration der Analytics-Landschaft, die Einführung der Lösung, die Schulung der Anwender sowie die Übergabe in den Betrieb. Darüber hinaus werden Prozesse gemeinsam mit angebundenen Systemen gestaltet. Aufgaben: Sammlung und Qualifizierung von technischen und geschäftlichen Anforderungen des Auftraggebers Bewertung der aktuellen technologischen Infrastruktur und Unterbreitung von Empfehlungen für Verbesserungen Entwicklung und Umsetzung von IT-Richtlinien und -Verfahren Beratung des Delivery Teams Analytics in einem komplexen Umfeld mit organisatorischen, technischen und fachlichen Abhängigkeiten Bewertung und Empfehlung von neuen Technologielösungen (Hardware und Software) Einhaltung von Industriestandards und Vorschriften Identifikation und Mitigation potenzieller technologiebezogener Risiken Kooperation mit Stakeholdern innerhalb der Organisation des Auftraggebers, um sicherzustellen, dass Aktivitäten mit den Geschäftszielen des Auftraggebers in Einklang stehen Muss-Anforderungen: Mindestens 1 Jahr praktische Anwendungserfahrung mit der Analytics-Plattform Databricks auf Azure Mindestens 3 Jahre Erfahrung in der bereichs-/projektübergreifenden Erhebung, Abstimmung, Priorisierung und Dokumentation fachlicher Analytics-Use Cases Mindestens 3 Jahre praktische Erfahrung in der Konzeption, Umsetzung und Steuerung von Analytics-Projekten im Bereich ETL, Business Intelligence (BI) und/oder Machine Learning Mindestens 5 Jahre Erfahrung als IT-Consultant in agilen oder hybriden IT-Implementierungsprojekten Soll-Anforderungen: Databricks Data Engineer-Zertifizierung (über die Databricks Academy oder vergleichbar) ist nachgewiesen Databricks Akkreditierung oder Zertifizierung (über die Databricks Academy oder vergleichbar) ist nachgewiesen 1 Referenz mit Erfahrung in der Prozessoptimierung und dem Prozessdesign von Analytics-Prozessen Mindestens 1 Jahr nachweisbare Erfahrung in der Anwendung von Methoden und Technologien der Datenanalyse , beispielsweise Advanced Analytics oder Machine Learning",
+      "first_seen": "2026-07-17T12:07:29.663419+00:00",
+      "id": "c5a28418180045ce",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-07-17T13:37:00+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Data & Analytics Consultant (Azure Databricks) - m/w/d",
+      "url": "https://www.freelancermap.de/projekt/senior-data-und-analytics-consultant-azure-databricks-m-w-d"
+    },
+    {
+      "description": "Start: August 2026 Dauer: 5 Monate++ Ort: Karlsruhe / 40% Remote Projekt-ID: 14650 Bewerbungsfrist: 23.07.2026 Liebes Netzwerk, für unseren Kunden im Karlsruhe suchen wir einen Technical Stream Lead Kubernetes (m/w/d). ? Link: https://www.constaff.com/projektbeschreibung/?positionID=14650 Aufgaben: Steuerung und Koordination eines Kubernetes-Migrationsstreams Analyse der bestehenden Plattform und Entwicklung der Migrationsstrategie Planung, Überwachung und Umsetzung der Migration Abstimmung mit Projekt-, Architektur-, Plattform- und DevOps-Teams Steuerung von Risiken, Abhängigkeiten sowie Cutover-Aktivitäten Optimierung der Kubernetes-Cluster und Plattformarchitektur Unterstützung bei Linux-, Security-, Monitoring- und Backup-Themen Reporting des Projektfortschritts anhand von KPIs und Dashboards Anforderungen: Erfahrung als Stream Lead oder Technical Lead in IT-Migrationsprojekten Erfahrung mit Rechenzentrums-, Plattform- oder Applikationsmigrationen Sehr gute Kenntnisse in Kubernetes und Linux Gute Kenntnisse in Virtualisierung, Netzwerken und IT-Security Hands-on-Mentalität und strukturierte Arbeitsweise Kommunikationsstärke sowie Teamfähigkeit Verhandlungssichere Deutsch- und Englischkenntnisse Aufgrund von Kundenvorgaben wird eine projektbezogene Anstellung vorausgesetzt. Haben Sie Zeit und Interesse an einem spannenden Projekt? Dann freuen wir uns auf Ihre Kontaktaufnahme! Kontakt: Michelle Maggio Expert Candidate Relations _________________________________ Constaff GmbH - 100%OpenBook. Ehrlich. Kompetent. Transparent.",
+      "first_seen": "2026-07-17T12:07:29.663419+00:00",
+      "id": "1ef7c14b6adfc941",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-17T13:35:56+02:00",
+      "source": "freelancermap.de",
+      "title": "Technical Stream Lead Kubernetes (m/w/d) | Karlsruhe | 40% Remote | MMA14650",
+      "url": "https://www.freelancermap.de/projekt/technical-stream-lead-kubernetes-m-w-d-karlsruhe-40-prozent-remote-mma14650"
+    },
+    {
+      "description": "Für unseren Kunden aus dem Bereich Schienennetzbau suchen wir zum nächstmöglichen Zeitpunkt Unterstützung im Bereich Technische Projektunterstützung / Freiberufliche Bauleitung & Bauüberwachung Gleisbau / Tiefbau (m/w/d) für Angermünde – Stettin (Pommern) Rahmenbedingungen: Start: ASAP Laufzeit: 12+ Monate Standort: Angermünde – Stettin Kernaufgaben (Leistungsumfang) Technische Bauüberwachung & Bauleitung: Selbstständige Überwachung der vertragskonformen Ausführung der Gewerke Gleis- und Tiefbau (gemäß VOB, Plänen, DB-Richtlinien und gesetzlichen Vorgaben). Qualitätssicherung & Dokumentation: Eigenständige Durchführung von Qualitätskontrollen auf der Baustelle, Dokumentation des Baufortschritts sowie Erstellung und Fortschreibung des Bautagebuchs. Schnittstellenkoordination: Fachliche Abstimmung mit den beteiligten Gewerken, Subunternehmern, Planern und den Vertretern der Bauüberwachung der Deutschen Bahn zur Gewährleistung eines störungsfreien Bauablaufs. Termin- und Soll-Ist-Abgleich: Selbstständige Überwachung der Meilensteine und Bauzeitenpläne sowie proaktive Erarbeitung von bautechnischen Lösungsvorschlägen bei Abweichungen. Massennachweise & Aufmaß: Eigenverantwortliche Prüfung und Erstellung von Aufmaßen und Massenermittlungen als Grundlage für die Abrechnung. Mängel- und Nachtragsmanagement: Baubegleitendes Feststellen von Abweichungen/Mängeln, Dokumentation sowie fachliche Zuarbeit bei der Erstellung von Nachtragsangeboten. Unsere Anforderungen Ausbildung & Qualifikation: Erfolgreich abgeschlossenes Studium des Bauingenieurwesens (Schwerpunkt Infrastruktur/Infrastrukturbau/Tiefbau) oder eine vergleichbare Qualifikation (z. B. Bautechniker, erfahrener Gleisbau-Praktiker). Berufserfahrung: Nachweisbare, mehrjährige Projekterfahrung in der Bauleitung von Infrastrukturprojekten im Tiefbau – idealerweise im Bereich Gleisbau. Fachkenntnisse: * Sichere Kenntnisse der VOB (Teil B und C) . Fundiertes Wissen im Arbeitsschutz auf Bahnanlagen . Arbeitsweise: Eine sehr selbstständige, strukturierte und ergebnisorientierte Arbeitsweise.",
+      "first_seen": "2026-07-17T12:07:29.663419+00:00",
+      "id": "2b63b86baabd7c9a",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-17T13:30:25+02:00",
+      "source": "freelancermap.de",
+      "title": "Bauleiter (m/w/d) Technische Projektunterstützung / Freiberufliche Bauleitung & Bauüberwachung Gleis",
+      "url": "https://www.freelancermap.de/projekt/bauleiter-m-w-d-technische-projektunterstuetzung-freiberufliche-bauleitung-und-bauueberwachung-gleis"
+    },
+    {
       "description": "Für unseren Kunden sind wir momentan auf der Suche nach einem Teilprojektleiter SAP S/4HANA / IT Service Manager (m/w/d) mit Erfahrung im Gesundheitswesen. Start: ab sofort Dauer: 31.12.2026 mit Option auf Verlängerung Arbeitsort: Cottbus Auslastung: 4 Tage die Woche, davon 2 Tage vor Ort in Cottbus und 2 Tage Remote Ziel: Ziel des Projektes ist die Übernahme der Teilprojektleitung innerhalb einer SAP S/4HANA-Transformation. Im Fokus stehen die Steuerung und das Vorantreiben von zwei Teilprojekten sowie die Begleitung der Transformationsphasen aus Sicht des IT Service Managements. Aufgaben: Übernahme der Teilprojektleitung im SAP S/4HANA-Transformationsprojekt Steuerung und Koordination von zwei Teilprojekten Begleitung der SAP S/4HANA-Transformationsphasen Abstimmung mit den relevanten Projektbeteiligten und Stakeholdern Unterstützung des Kunden bei der Umsetzung der Projektziele Sicherstellung eines strukturierten Projektfortschritts im IT-Service-Management-Umfeld Dokumentation und Nachverfolgung der Teilprojektaktivitäten Kenntnisse: Mehrjährige Erfahrung als Teilprojektleiter in SAP S/4HANA-Projekten Fundierte Erfahrung in der Begleitung von SAP S/4HANA-Transformationsphasen Erfahrung als IT Service Manager Erfahrung in der Steuerung und Koordination komplexer Teilprojekte Strukturierte, selbstständige und lösungsorientierte Arbeitsweise Kommunikationsstärke sowie Erfahrung im Stakeholdermanagement Wir freuen uns sehr auf Ihren CV, gerne auch mit Angabe Ihres Stundensatzes und möglichen Startdatums. Bei offenen Rückfragen stehen wir Ihnen selbstverständlich gerne zur Verfügung.",
       "first_seen": "2026-07-17T10:45:00.846295+00:00",
       "id": "caee4f62767ffd9f",
@@ -7016,5 +7169,5 @@
       "url": "https://www.freelancermap.de/projekt/teilprojektleiter-hard-und-softwareentwicklung-avionik-umfeld-m-w-d"
     }
   ],
-  "updated_at": "2026-07-17T10:45:00.975670+00:00"
+  "updated_at": "2026-07-17T12:07:29.796275+00:00"
 }
