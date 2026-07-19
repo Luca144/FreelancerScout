@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Projektziel: Umstellung eines bestehenden Cisco Netzwerkes von Catalyst 6500 auf Nexus-Geräte mit Fabric Extendern. Hauptaufgaben: - Migration des Cisco Netzwerkes von Catalyst 6500 auf Nexus-Geräte - Integration von Fabric Extendern in die neue Netzwerkinfrastruktur Voraussetzungen: - Erfahrung mit Cisco Nexus-Geräten und Fabric Extendern - Kenntnisse in der Cisco Catalyst 6500 Infrastruktur - Erfahrung mit der Lizenzierung von Gebrauchtgeräten wünschenswert Erwartetes Ergebnis: Erfolgreich abgeschlossene Migration des Netzwerkes von Catalyst 6500 auf Nexus-Geräte mit vollständig integrierten Fabric Extendern.",
+      "first_seen": "2026-07-19T15:55:27.058430+00:00",
+      "id": "e3005e7322d47805",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-19T17:01:16+02:00",
+      "source": "freelancermap.de",
+      "title": "Netzwerk-Experte für Cisco Migration: 1x Catalyst 6500 auf 1x Nexus mit Fabric Extendern",
+      "url": "https://www.freelancermap.de/projekt/netzwerk-experte-fuer-cisco-migration-1x-catalyst-6500-auf-1x-nexus-mit-fabric-extendern"
+    },
+    {
       "description": "Aufgaben • Aufbau und Pflege einer strukturierten Dokumentenablage • Erstellung und Pflege von Templates für typische IT?Dokumente • Qualitätsprüfung eingereichter Dokumente (formal und teilweise inhaltlich) • Durchführung von Dokumenten-Assessments und Ablehnung nicht konformer Dokumente • Zusammenarbeit mit Projektleitung und Implementierungsbeteiligten • Übernahme klassischer PMO?Aufgaben wie Protokollführung, Terminübersichten und Abstimmungsprozesse Erforderliche Skills • Erfahrung im Aufbau und der Pflege von Dokumentationsarchitekturen • Sicheres Auftreten bei der Durchsetzung von Qualitätsstandards • Erfahrung in gängigen PMO?Tätigkeiten • Deutsch verhandlungssicher, Englisch sehr gut Rahmenbedingungen • Start: Oktober 2026 • Auslastung: 50 % • Arbeitsmodell: 40% vor Ort, 60 % remote",
       "first_seen": "2026-07-19T13:15:07.730128+00:00",
       "id": "dfc37ef09889509c",
@@ -6964,5 +6976,5 @@
       "url": "https://www.freelancermap.de/projekt/interim-projektmanager-datenschutz-w-m-d"
     }
   ],
-  "updated_at": "2026-07-19T14:53:08.144752+00:00"
+  "updated_at": "2026-07-19T15:55:27.199649+00:00"
 }
