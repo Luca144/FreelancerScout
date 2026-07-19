@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "As AI Solutions Lead, you drive execution within the company-wide AI program. You embed in teams across the business, identify where AI can create the most value, and ship working solutions - fast. This is a hands-on strategic role. You combine technical depth with the ability to navigate stakeholders, align with business priorities, and scale what works across the organization. What You'll Do ? Rapid AI Deployment Identify high-leverage opportunities for AI across products and operations Design and implement prototypes within days - not months Cross-Functional Impact Embed temporarily in different teams (product, customer support, trading, etc.) Translate business problems into AI-driven solutions Build & Ship Develop and deploy models, agents, and automations (LLMs, ML models, pipelines) Integrate AI into production systems with engineering teams Tooling & Enablement Create reusable AI tools, frameworks, and internal platforms Enable non-technical teams to leverage AI effectively Experimentation Run fast experiments, validate impact, and scale what works Balance speed with measurable business value What we're looking for? You are a hands-on AI builder who enjoys turning business problems into working solutions. You are comfortable writing code, working closely with both engineers and business stakeholders, and taking ideas all the way into practice. Required Skills Strong hands-on experience building and deploying AI solutions in production Confident in Python or TypeScript, and comfortable working with APIs, data pipelines, and system integrations Have worked with LLM-based applications, such as automations, agents, or retrieval-based solutions Know how to move quickly from idea to prototype, and from prototype to real usage Have experience helping non-technical teams adopt AI in their workflows Are pragmatic, structured, and focused on business impact Communicate clearly and work well across functions",
+      "first_seen": "2026-07-19T21:50:13.792001+00:00",
+      "id": "bc1f3f67fbc314e7",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-07-19T23:04:24+02:00",
+      "source": "freelancermap.de",
+      "title": "AI Solutions Lead",
+      "url": "https://www.freelancermap.de/projekt/ai-solutions-lead-3025135-6a5d3bd82ee700.96376440"
+    },
+    {
       "description": "Die Keil Business Solutions GmbH ist ein innovativer IT-Dienstleister. Für ein Kundenprojekt suchen wir aktuell eine/-n Junior SAP Logistik Consultant (w/m/d) - EWM - Salzgitter - ASAP - 3 Monate Aufgabe: -SAP Logistik Consulting - EWM - Starthilfe bei der S/4 Inbetriebnahme - Aufnahme, Dokumentation und Priorisierung von Anwenderanfragen während der Startphase - Anwender bei der Bedienung des Systems unterstützen - Abstimmung mit Key-Usern, Fachbereichen und Projektteam zur Klärung von Prozess- und Systemfragen - First-Level-Support und Fehleranalyse - Nachverfolgung offener Tickets sowie Unterstützung bei Workarounds und Übergabe an den Second-Level-Support Anforderung: -SAP S/4 HANA EWM Consulting -Erfahrung Support - SAP EWM Projektsprache: Deutsch & Englisch Start: 20.07 2026 Dauer: 2-3 Monate Auslastung: 5 Tage pro Woche Standort: Salzgitter zu 90% Bei Interesse freuen wir uns über Ihr aussagekräftiges Profil (idealerweise im Word-Format). Ihr Kontakt bei KeilBS: Junos Talari Business Development Manager Keil Business Solutions GmbH Landsberger Straße 154 | 80339 München E-Mail: *****",
       "first_seen": "2026-07-19T17:57:08.207784+00:00",
       "id": "87251b50f15122a5",
@@ -6964,5 +6976,5 @@
       "url": "https://www.freelancermap.de/projekt/microsoft-dynamics-365-business-central-consultant-m-w-d-3019355"
     }
   ],
-  "updated_at": "2026-07-19T20:42:59.734095+00:00"
+  "updated_at": "2026-07-19T21:50:13.898769+00:00"
 }
