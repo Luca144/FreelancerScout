@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Die Keil Business Solutions GmbH ist ein innovativer IT-Dienstleister. Für ein Kundenprojekt suchen wir aktuell eine/-n Junior SAP Logistik Consultant (w/m/d) - EWM - Salzgitter - ASAP - 3 Monate Aufgabe: -SAP Logistik Consulting - EWM - Starthilfe bei der S/4 Inbetriebnahme - Aufnahme, Dokumentation und Priorisierung von Anwenderanfragen während der Startphase - Anwender bei der Bedienung des Systems unterstützen - Abstimmung mit Key-Usern, Fachbereichen und Projektteam zur Klärung von Prozess- und Systemfragen - First-Level-Support und Fehleranalyse - Nachverfolgung offener Tickets sowie Unterstützung bei Workarounds und Übergabe an den Second-Level-Support Anforderung: -SAP S/4 HANA EWM Consulting -Erfahrung Support - SAP EWM Projektsprache: Deutsch & Englisch Start: 20.07 2026 Dauer: 2-3 Monate Auslastung: 5 Tage pro Woche Standort: Salzgitter zu 90% Bei Interesse freuen wir uns über Ihr aussagekräftiges Profil (idealerweise im Word-Format). Ihr Kontakt bei KeilBS: Junos Talari Business Development Manager Keil Business Solutions GmbH Landsberger Straße 154 | 80339 München E-Mail: *****",
+      "first_seen": "2026-07-19T17:57:08.207784+00:00",
+      "id": "87251b50f15122a5",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-07-19T19:36:11+02:00",
+      "source": "freelancermap.de",
+      "title": "Junior  SAP Logistik Consultant (w/m/d) - EWM -  Salzgitter - ASAP - 3 Monate",
+      "url": "https://www.freelancermap.de/projekt/junior-sap-logistik-consultant-w-m-d-ewm-salzgitter-asap-3-monate-3025134"
+    },
+    {
       "description": "Projektziel: Umstellung eines bestehenden Cisco Netzwerkes von Catalyst 6500 auf Nexus-Geräte mit Fabric Extendern. Hauptaufgaben: - Migration des Cisco Netzwerkes von Catalyst 6500 auf Nexus-Geräte - Integration von Fabric Extendern in die neue Netzwerkinfrastruktur Voraussetzungen: - Erfahrung mit Cisco Nexus-Geräten und Fabric Extendern - Kenntnisse in der Cisco Catalyst 6500 Infrastruktur - Erfahrung mit der Lizenzierung von Gebrauchtgeräten wünschenswert Erwartetes Ergebnis: Erfolgreich abgeschlossene Migration des Netzwerkes von Catalyst 6500 auf Nexus-Geräte mit vollständig integrierten Fabric Extendern.",
       "first_seen": "2026-07-19T15:55:27.058430+00:00",
       "id": "e3005e7322d47805",
@@ -6964,5 +6976,5 @@
       "url": "https://www.freelancermap.de/projekt/projektingenieur-techniker-feuerloeschanlangen"
     }
   ],
-  "updated_at": "2026-07-19T16:56:08.720917+00:00"
+  "updated_at": "2026-07-19T17:57:08.344382+00:00"
 }
