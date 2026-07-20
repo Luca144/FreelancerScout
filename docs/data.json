@@ -1,6 +1,54 @@
 {
   "projects": [
     {
+      "description": "Für unseren Kunden besetzen wir auf Basis der Arbeitnehmerüberlassung einen Stream Lead Kubernetes Container Platform (m/w/d) Start: ***** Dauer: 1,5 Jahre Auslastung: Vollzeit, 40 Stunden pro Woche Einsatzort: Karlsruhe; zunächst vor Ort, später bis zu zwei Tage pro Woche remote möglich Vertragsart: Arbeitnehmerüberlassung Aufgaben: Steuerung eines Kubernetes-Migrationsstreams inklusive Zielerreichung, Umsetzungsplanung, Monitoring und Risikomanagement Analyse der bestehenden Plattform sowie Entwicklung eines Zielbilds und einer geeigneten Migrationsstrategie Migration bestehender Kubernetes-Workloads und Optimierung von Clusterarchitektur, Deployments und Plattformbetrieb Koordination interner Teams und externer Dienstleister sowie Herbeiführung technischer Architektur-, Design- und Technologieentscheidungen Planung und Sicherstellung eines stabilen Cutovers unter Berücksichtigung von Security, Monitoring, Backup und Multi-Standort-Fähigkeit Qualifikationen: Nachweisbare Erfahrung als technischer Lead oder Stream Lead in komplexen Enterprise-IT-Migrationsprojekten Erfolgreiche Rechenzentrumsmigrationen auf Plattform- und Applikationsebene – über reine Hardware-Migrationen hinaus Sehr gute praktische Kenntnisse in Kubernetes und Linux sowie eine ausgeprägte Hands-on-Mentalität Breites technisches Verständnis in den Bereichen Virtualisierung, Netzwerk und Security Strukturierte, zielorientierte Arbeitsweise sowie verhandlungssichere Deutsch- und Englischkenntnisse Was der Kunde zwischen den Zeilen sucht: Gesucht wird ein technisch tiefgehender „Player-Coach“, der den Stream souverän steuert, Architekturentscheidungen verantwortet und in kritischen Phasen selbst hands-on unterstützt. Wir freuen uns auf deine Bewerbung!",
+      "first_seen": "2026-07-20T06:15:40.963756+00:00",
+      "id": "55c0798f11943556",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-20T08:08:38+02:00",
+      "source": "freelancermap.de",
+      "title": "Stream Lead Kubernetes Container Platform (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/stream-lead-kubernetes-container-platform-m-w-d"
+    },
+    {
+      "description": "Für unseren Kunden sind wir auf der Suche nach einem freiberuflichen Network Operations Experten (m/w/d) Projekt Nr. 4687 Start: August Dauer: 6 Monate Auslastung: Vollzeit Einsatzort: NRW (50 % vor Ort) Aufgaben: - Betrieb, Konfiguration und Weiterentwicklung der bestehenden Netzwerkumgebung - Inbetriebnahme und Konfiguration von Netzwerkkomponenten - Betreuung und Administration von Extreme-Networks-Komponenten - Konfiguration und Verwaltung von VLANs - Betrieb und Erweiterung der Switching-Infrastruktur - Ausbau und Optimierung der bestehenden WLAN-Infrastruktur - Installation, Konfiguration und Betreuung von Access Points - Analyse und Behebung von Netzwerkstörungen - Troubleshooting im laufenden Netzwerkbetrieb - Unterstützung der Netzwerkleitung im operativen Tagesgeschäft - Eigenständige Übernahme von Netzwerk- und Infrastrukturthemen Anforderungen: - Mehrjährige Erfahrung im operativen Netzwerkbetrieb - Fundierte Kenntnisse in Extreme Networks - Sehr gute Kenntnisse im Bereich WLAN und Access Points - Erfahrung in der Konfiguration und Administration von VLANs - Gute Kenntnisse im Bereich Switching - Erfahrung bei der Inbetriebnahme von Netzwerkkomponenten - Ausgeprägte Fähigkeiten im Netzwerk-Troubleshooting - Erfahrung im Ausbau und in der Weiterentwicklung von Netzwerk- und WLAN-Infrastrukturen - Ausgeprägte Hands-on-Mentalität und hohe Eigenmotivation - Pragmatische, lösungsorientierte und eigenständige Arbeitsweise - Sehr gute Deutschkenntnisse Haben Sie freie Kapazitäten und können unseren Kunden unterstützen? Ich freue mich auf Ihre Rückmeldung mit der Projektnummer und folgenden Informationen an [*****](mailto:*****): - Ihre aktuelle Projektverfügbarkeit (frühester Start) - Ihre maximale Auslastung/Woche insgesamt - Ihr Stundensatz - Ihr aktuelles Profil (idealerweise im PDF-Format) - Ihre Einschätzung zu den geforderten Anforderungen Wir bearbeiten alle Rückmeldungen und geben stets unser Bestes, uns bei allen Kandidaten (m/w/d) zurückzumelden. Leider ist dies nicht immer möglich. Wir bitten hierfür um Ihr Verständnis. Sollten Sie innerhalb von fünf Werktagen keine Rückmeldung von uns erhalten, gehen Sie bitte davon aus, dass sich unser Kunde für einen anderen Kandidaten entschieden hat.",
+      "first_seen": "2026-07-20T06:15:40.963756+00:00",
+      "id": "730ee8e205366b0a",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-20T08:07:23+02:00",
+      "source": "freelancermap.de",
+      "title": "Network Operations Experten (m/w/d) Projekt Nr. 4687",
+      "url": "https://www.freelancermap.de/projekt/network-operations-experten-m-w-d-projekt-nr-4687"
+    },
+    {
+      "description": "Für unseren Kunden sind wir auf der Suche nach einem freiberuflichen Firewall Experten (m/w/d) Projekt Nr. 4686 Start: August / September 2026 Dauer: 6 Monate Auslastung: Vollzeit Einsatzort: 95 % remote / Einsätze in NRW Aufgaben: - Administration und Betreuung der bestehenden Firewall-Infrastruktur - Betrieb und Analyse einer komplexen Enterprise-Netzwerkumgebung - Betreuung von Palo-Alto- und Fortinet-Firewalls - Analyse und Bearbeitung komplexer Netzwerk- und Applikationsthemen - Troubleshooting bei Störungen und Performanceproblemen - Analyse von VLAN-, Switching- und Routing-Strukturen - Erstellung und Aktualisierung von Netzplänen - Aufbau einer transparenten und nachvollziehbaren Netzwerkdokumentation - Unterstützung bei komplexen Netzwerkanforderungen - Abstimmung mit den internen technischen Ansprechpartnern Anforderungen: - Mehrjährige Erfahrung in der Administration komplexer Firewall- und Netzwerkumgebungen - Sehr gute Kenntnisse in Palo Alto - Sehr gute Kenntnisse in Fortinet - Erfahrung im Betrieb großer Enterprise-Netzwerke - Fundierte Kenntnisse in Netzwerkdesign und Netzwerkarchitektur - Sehr gute Kenntnisse in VLANs, Switching und Routing - Erfahrung mit Netzwerkumgebungen mit mehreren hundert VLANs - Ausgeprägte Fähigkeiten im Troubleshooting komplexer Netzwerkprobleme - Erfahrung in der Erstellung von Netzplänen und technischen Netzwerkdokumentationen - Strukturierte, eigenständige und lösungsorientierte Arbeitsweise - Ausgeprägte Teamfähigkeit und eine partnerschaftliche Kommunikation - Sehr gute Deutschkenntnisse Haben Sie freie Kapazitäten und können unseren Kunden unterstützen? Ich freue mich auf Ihre Rückmeldung mit der Projektnummer und folgenden Informationen an [*****](mailto:*****): - Ihre aktuelle Projektverfügbarkeit (frühester Start) - Ihre maximale Auslastung/Woche insgesamt - Ihr Stundensatz - Ihr aktuelles Profil (idealerweise im PDF-Format) - Ihre Einschätzung zu den geforderten Anforderungen ``` Wir bearbeiten alle Rückmeldungen und geben stets unser Bestes, uns bei allen Kandidaten (m/w/d) zurückzumelden. Leider ist dies nicht immer möglich. Wir bitten hierfür um Ihr Verständnis. Sollten Sie innerhalb von fünf Werktagen keine Rückmeldung von uns erhalten, gehen Sie bitte davon aus, dass sich unser Kunde für einen anderen Kandidaten entschieden hat.",
+      "first_seen": "2026-07-20T06:15:40.963756+00:00",
+      "id": "6fa87612b7c451af",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-07-20T08:05:21+02:00",
+      "source": "freelancermap.de",
+      "title": "Firewall Experten (m/w/d) Projekt Nr. 4686",
+      "url": "https://www.freelancermap.de/projekt/firewall-experten-m-w-d-projekt-nr-4686"
+    },
+    {
+      "description": "Für ein Projekt im Sparkassenumfeld suchen wir ab sofort einen erfahrenen Testverantwortlichen (m/w/d) . Aufgaben Pflege der Requirements im Quality Center Erstellung des Testplans Vorbereitung und Begleitung von Entwickler- und Anwendertests Vorbereitung und Koordination der Integrationstests Durchführung der weiteren Testaktivitäten bis zur Produktabnahme Anforderungen ISTQB Advanced Level (zwingend) Erfahrung bei der Finanzinformatik (FI) (zwingend aufgrund regulatorischer Anforderungen) Mehrjährige Erfahrung im Testmanagement Erfahrung mit Quality Center Rahmenbedingungen Start: ab sofort Umfang: 10-12 Monate (Verlängerung durchaus möglich) Einsatz Remote Regelmeetings finden online statt; für Workshops ist eine gelegentliche Anwesenheit erforderlich. Sollte das Projekt für Sie von Interesse sein, freue ich mich über Ihre Rückmeldung an ***** unter Beifügung Ihres aktuellen Lebenslaufs sowie einer Angabe zu Ihrem Stundensatz. Freundliche Grüße Noel Apata",
+      "first_seen": "2026-07-20T06:15:40.963756+00:00",
+      "id": "397dc81721c3aeee",
+      "matched_keywords": [
+        "testmanager"
+      ],
+      "published": "2026-07-20T05:20:09+02:00",
+      "source": "freelancermap.de",
+      "title": "Testmanager - OSplus -  ISTQB zertfiziert",
+      "url": "https://www.freelancermap.de/projekt/testmanager-osplus-istqb-zertfiziert"
+    },
+    {
       "description": "As AI Solutions Lead, you drive execution within the company-wide AI program. You embed in teams across the business, identify where AI can create the most value, and ship working solutions - fast. This is a hands-on strategic role. You combine technical depth with the ability to navigate stakeholders, align with business priorities, and scale what works across the organization. What You'll Do ? Rapid AI Deployment Identify high-leverage opportunities for AI across products and operations Design and implement prototypes within days - not months Cross-Functional Impact Embed temporarily in different teams (product, customer support, trading, etc.) Translate business problems into AI-driven solutions Build & Ship Develop and deploy models, agents, and automations (LLMs, ML models, pipelines) Integrate AI into production systems with engineering teams Tooling & Enablement Create reusable AI tools, frameworks, and internal platforms Enable non-technical teams to leverage AI effectively Experimentation Run fast experiments, validate impact, and scale what works Balance speed with measurable business value What we're looking for? You are a hands-on AI builder who enjoys turning business problems into working solutions. You are comfortable writing code, working closely with both engineers and business stakeholders, and taking ideas all the way into practice. Required Skills Strong hands-on experience building and deploying AI solutions in production Confident in Python or TypeScript, and comfortable working with APIs, data pipelines, and system integrations Have worked with LLM-based applications, such as automations, agents, or retrieval-based solutions Know how to move quickly from idea to prototype, and from prototype to real usage Have experience helping non-technical teams adopt AI in their workflows Are pragmatic, structured, and focused on business impact Communicate clearly and work well across functions",
       "first_seen": "2026-07-19T21:50:13.792001+00:00",
       "id": "bc1f3f67fbc314e7",
@@ -6962,19 +7010,7 @@
       "source": "freelancermap.de",
       "title": "B2B IT Sales – AI Privacy (Provisions-basiert)",
       "url": "https://www.freelancermap.de/projekt/b2b-it-sales-ai-privacy-provisions-basiert-3019357"
-    },
-    {
-      "description": "Für ein laufendes Migrationsprojekt suchen wir einen erfahrenen Berater mit Fokus auf Microsoft Dynamics 365 Business Central . Ihre Aufgaben • Mitwirkung bei der Migration auf Microsoft Dynamics 365 Business Central • Aufnahme, Analyse und Definition fachlicher Anforderungen mit Fachbereichen und Management • Durchführung und Koordination funktionaler Tests • Fehleranalyse, Prozessoptimierung und Unterstützung bei Problemsituationen • Erstellung und Pflege fachlicher sowie technischer Dokumentationen • Anwendersupport und Durchführung von User-Schulungen Rahmenbedingungen Laufzeit: 12 Monate Auslastung: ca. 50 % Einsatzmodell: ca. 80 % remote / 20 % vor Ort in Passau nach Absprache Interesse? Dann freue ich mich über ein aktuelles Profil inklusive Verfügbarkeit und Stundensatz an *****",
-      "first_seen": "2026-07-06T02:58:20.538076+00:00",
-      "id": "a202e3cb54f76f7a",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-07-06T02:35:25+02:00",
-      "source": "freelancermap.de",
-      "title": "Microsoft Dynamics 365 Business Central Consultant (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/microsoft-dynamics-365-business-central-consultant-m-w-d-3019355"
     }
   ],
-  "updated_at": "2026-07-20T02:44:39.950849+00:00"
+  "updated_at": "2026-07-20T06:15:41.093236+00:00"
 }
