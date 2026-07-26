@@ -1,5 +1,15 @@
 [
   {
+    "description": "Liebe Freelancer, für ein laufendes Projekt (B2B-E-Commerce) brauchen wir dringendst im Sinne einer Nachbesetzung einen PHP-Entwickler, der Erfahrungen mit Laravel hat. Start: Asap Dauer: 6 Monate + Auslastung: Je nach Ihrer Verfügbarkeit, bis zu 100% Ort: 3 Tage onsite in Offenburg, 2 Tage remote Bitte melden Sie sich mit Profil und Stundensatz und ich melde mich bei Ihnen telefonisch. Henryk Thiede *****",
+    "first_seen": "2026-07-26T16:56:37.662651+00:00",
+    "id": "a76aa6ab423d14d9",
+    "matched_keywords": [],
+    "published": "2026-07-26T17:17:45+02:00",
+    "source": "freelancermap.de",
+    "title": "6 Monate+ PHP-Entwickler in 77656 Offenburg gesucht!",
+    "url": "https://www.freelancermap.de/projekt/6-monate-php-entwickler-in-77656-offenburg-gesucht"
+  },
+  {
     "description": "Tätigkeiten: Umsetzung von fachlichen und technischen Anforderungen Implementierung von Services, Funktionen und Schnittstellen im agilen Team (Pair-Programming, Code-Reviews, Wissensaustausch sind wünschenswert) Unterstützung bei der Anforderungsspezifikation und der Aufwandsschätzung Abstimmung mit Ansprechpartnern (m/w/d) von Schnittstellen, Middleware-Diensten, Infrastrukturbetrieb im Falle von Wartungsmaßnahmen, Änderungsbedarf, Fehlern etc. Analyse und Behebung von Fehlern und Ausfällen der (produktiven) Anwendungen Dokumentation von Prozessen, Konfigurationen und Entwicklungsaufgaben Anforderungen: Einschlägige Erfahrung mit Microservice-Architekturen (Spring Boot, Event-based Communication, REST-Services) Praktische Kenntnisse mit Scrum und agilen Methoden (Epics, Stories, Daily Meeting, Refinement, Retrospektive, Review) Umgang mit JIRA und Confluence Integration einer Datenbank (Oracle oder anderer Datenbank) in eine Softwarelösung mindestens ein Grundverständnis über die Abläufe von Continuous Integration und Continuous Deployment (CI/CD) (Bitbucket, Jenkins, Ansible (optional)) Defensives Programmieren Configuration as Code Erfahrung in: Java LTS, Spring-Cloud (Stream, Function oder OpenFeign) Erfahrung in Spring-Boot 3.x, Spring-Framework (Spring Security 6.x, 7.x, OAUTH 2., Spring Data/JPA oder Spring HATEOS) Erfahrung in OpenAPI/Swagger, SQL, Apache Kafka 2.x, Maven ? 3.6 (3.8, Unit-/Komponenten-/Integrations-Tests mit JUnit5, Mockito, AssertJ, optional: Spock, Cucumber, REST, WSDL, JAXB, XML, XSD, JSON, optional: XSLT",
     "first_seen": "2026-07-26T15:02:44.509058+00:00",
     "id": "c819789bca9e2b56",
@@ -13398,15 +13408,5 @@
     "source": "freelancermap.de",
     "title": "A50260618P2A1: Ingenieur Vermessungstechnik/Geodäsie (TZ 24h, 60% remote, Rostock/Greifswald, ASAP)",
     "url": "https://www.freelancermap.de/projekt/a50260618p2a1-ingenieur-vermessungstechnik-geodaesie-tz-24h-60-prozent-remote-rostock-greifswald-asap"
-  },
-  {
-    "description": "Ich suche für meinen Kunden einen Senior Oracle Experte (m/w/). Bei dem Projekt geht es um Unterstützung im Bereich Dokumentenservices sowie die Integration in das bestehende Enterprise Umfeld. Aufgaben Mehrjährige Erfahrung im Oracle Umfeld als Entwickler und Architekt Tiefe Kenntnisse von Script Entwicklung auf Basis von C# Fähigkeit zur komplexen Fehleranalyse im Windows Umfeld Ggf. Unterstützung der Profile 2 + 3 bei der Erstellung von Dokumenten / Formularen (Springer) in Zusammenarbeit mit dem Fachbereich Must Have verhandlungssichere Deutsch-Kenntnisse Darüber hinaus ist für die Einarbeitung eine mindestens dreimonatige Vor-Ort-Unterstützung erforderlich (Nürnberg). Start: asap Ende: Ende des Jahres (100%Verlängerung)",
-    "first_seen": "2026-07-12T15:57:24.985837+00:00",
-    "id": "4cb4338a66dd1ae8",
-    "matched_keywords": [],
-    "published": "2026-07-12T17:15:09+02:00",
-    "source": "freelancermap.de",
-    "title": "Senior Oracle Expert (m/w/d) Kunde hat sich umentschieden und lässt jetzt doch ein Dienstvertrag zu!",
-    "url": "https://www.freelancermap.de/projekt/senior-oracle-expert-m-w-d-kunde-hat-sich-umentschieden-und-laesst-jetzt-doch-ein-dienstvertrag-zu"
   }
 ]
