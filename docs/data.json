@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Für ein innovatives Entwicklungsprojekt bei einem renommierten Kunden suchen wir ab sofort einen erfahrenen Mechanical Designer (m/w/d) mit Schwerpunkt UAV-/Drone-Systeme oder Aerospace. Ihre Aufgaben: •Entwicklung und Konstruktion von UAV-/Drone-Systemen auf Gesamtfahrzeug-Ebene •Design von Airframes, Strukturen und mechanischen Baugruppen •Integration von Elektronik, Sensorik und Payloads •Optimierung hinsichtlich Gewicht, Stabilität und Flugverhalten •Enge Zusammenarbeit mit Systems-, Electrical- und Software-Engineering •Unterstützung bei Prototyping, Tests und Validierung Ihr Profil: •Mehrjährige Erfahrung im UAV-/Drone-, Aerospace- oder Defense-Umfeld •Sehr gute Kenntnisse im Mechanical Design sowie Airframe Design •Fundiertes Verständnis von Flugmechanik, Aerodynamik und Antriebssystemen •Sehr gute CAD-Kenntnisse (SolidWorks, Siemens NX oder CATIA) •Erfahrung mit Teamcenter/PDM sowie der Integration mechatronischer Systeme Interesse? Dann freuen wir uns auf Ihre Kontaktaufnahme mit Ihrem aktuellen Profil sowie Informationen zu Ihrer Verfügbarkeit und Ihrem Stundensatz.",
+      "first_seen": "2026-07-29T21:58:40.175447+00:00",
+      "id": "2e8a1eac26f71c3f",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-07-29T22:25:36+02:00",
+      "source": "freelancermap.de",
+      "title": "Mechanical Designer (m/w/d) – UAV",
+      "url": "https://www.freelancermap.de/projekt/mechanical-designer-m-w-d-uav"
+    },
+    {
       "description": "Für ein langfristiges Softwareentwicklungsprojekt suchen wir einen erfahrenen IT-Projektmanager (m/w/d). Im Mittelpunkt steht die Steuerung und Koordination der Weiterentwicklung, Wartung und Modernisierung geschäftskritischer Unternehmensanwendungen auf Basis von VisualWorks und Smalltalk. Sie bilden die zentrale Schnittstelle zwischen dem Kunden in Deutschland und einem Offshore-Entwicklungsteam mit etwa fünf Smalltalk-Entwicklern in Indien. Der Schwerpunkt der Position liegt auf Projektsteuerung, Kommunikation und erfolgreicher Umsetzung eine aktive Mitarbeit in der Softwareentwicklung ist nicht vorgesehen. Ihre Aufgaben: Steuerung von Softwareentwicklungsprojekten im VisualWorks- und Smalltalk-Umfeld Zentrale Ansprechperson für den Kunden, das Entwicklungsteam und weitere Projektbeteiligte Koordination eines verteilten Offshore-Entwicklungsteams mit rund fünf Entwicklern in Indien Aufnahme, Strukturierung und Priorisierung fachlicher und technischer Anforderungen Erstellung und Pflege von Projektplänen, Meilensteinen und Lieferterminen Steuerung von Ressourcen, Abhängigkeiten und mehreren parallelen Arbeitspaketen Organisation und Moderation von Projektmeetings, Sprint-Planungen, Statusrunden und Steuerungskreisen Überwachung des Projektfortschritts sowie frühzeitige Identifikation von Risiken und Engpässen Koordination von Tests, Releases und Produktivsetzungen Sicherstellung einer termingerechten und qualitativ hochwertigen Projektdurchführung Förderung einer effizienten Zusammenarbeit zwischen deutschen Ansprechpartnern und dem internationalen Entwicklungsteam Regelmäßiges Reporting gegenüber Kunden und internen Stakeholdern Ihr Profil: Drei bis sieben Jahre Erfahrung in der Leitung von Softwareentwicklungs- oder IT-Projekten Nachweisbare Erfahrung in der Steuerung verteilter oder internationaler Entwicklungsteams Gute Kenntnisse des Software Development Lifecycle Erfahrung mit agilen Vorgehensmodellen wie Scrum oder Kanban Ausgeprägte Erfahrung im Stakeholder- und Kundenmanagement Fähigkeit, technische Teams sicher zu steuern, ohne selbst operativ zu entwickeln Sehr gute organisatorische und kommunikative Fähigkeiten Lösungsorientierte, strukturierte und eigenverantwortliche Arbeitsweise Sehr gute Englischkenntnisse in Wort und Schrift Deutschkenntnisse sind von Vorteil Wünschenswerte Kenntnisse: Erfahrung mit VisualWorks und/oder Smalltalk Grundverständnis objektorientierter Softwareentwicklung Erfahrung mit der Weiterentwicklung oder Modernisierung von Legacy-Anwendungen Kenntnisse in Jira, Azure DevOps oder vergleichbaren Projektmanagement-Tools Erfahrung in der Zusammenarbeit mit Teams in Europa und Indien Interkulturelle Kompetenz und Erfahrung in internationalen Projektstrukturen Rahmenparameter: Einsatzort: Frankfurt am Main, überwiegend vor Ort, projektphasenabhängig teilweise hybrid Laufzeit: 2,5 Jahre Auslastung: Vollauslastung Ihr GECO-Ansprechpartner freut sich auf Ihre Kontaktaufnahme und über die Zusendung Ihrer aussagekräftigen Projekthistorie sowie Ihrer Honorarvorstellung/Gehaltsvorstellung/Preisvorstellung.",
       "first_seen": "2026-07-29T20:10:48.281761+00:00",
       "id": "0be4299b276634e0",
@@ -6502,5 +6514,5 @@
       "url": "https://www.freelancermap.de/projekt/project-manager-logistics-wind-turbines-m-w-d"
     }
   ],
-  "updated_at": "2026-07-29T20:10:48.407246+00:00"
+  "updated_at": "2026-07-29T21:58:40.300896+00:00"
 }
