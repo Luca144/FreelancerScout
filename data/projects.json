@@ -1,5 +1,35 @@
 [
   {
+    "description": "Reference: VA_000087 We are looking for an experienced Senior Platform Engineer to support platform engineering activities within a private-cloud environment. Responsibilities Design, implement and continuously improve cloud-native platform components Develop and maintain CI/CD pipelines using GitLab Automate infrastructure provisioning through Infrastructure as Code Operate and enhance Kubernetes-based environments Integrate security requirements into DevOps and deployment processes Collaborate within agile Scrum and Kanban teams Required Experience GitLab and CI/CD Kubernetes and cloud-native technologies DevOps and DevSecOps Infrastructure as Code and Terraform Linux and Bash scripting Familiarity with CNCF technologies Senior-level professional experience Project Details Location: Germany Work model: 100% remote Duration: 15 August 2026 – 15 August 2027 Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application Apply directly using the following link: https://os.pea-global.com/bewerben?vac=VA_000087",
+    "first_seen": "2026-08-01T11:14:34.176323+00:00",
+    "id": "89b767ace76d0139",
+    "matched_keywords": [],
+    "published": "2026-08-01T13:11:05+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior Platform Engineer – Private Cloud & DevSecOps",
+    "url": "https://www.freelancermap.de/projekt/senior-platform-engineer-private-cloud-und-devsecops"
+  },
+  {
+    "description": "Liebe FreelancerMap-Community, wir suchen für Projekt bei einem in Süddeutschland ansässigen Versicherer einen erfahrenen Testmanager (m/w/d). Wenn Sie zu den Anforderungen und den Projektrahmen passen, dann freuen wir uns über Ihr Profil (gerne als offene, wenig grafisch gestaltete Datei) mit einer Angabe zum gewünschten Honorar. Anforderungen: • Mindestens fünf Jahre Berufserfahrung im Testmanagement komplexer IT-Systeme, vorzugsweise in der Lebensversicherung, • Nachweisbare Erfahrung in Teststrategieentwicklung und Testkonzeption, • Planung und Steuerung von Testphasen, • Definition von Abnahmekriterien und Abnahmeempfehlungen, • Idealerweise Erfahrung mit der Migration oder der Einführung von Kernsystemen im Bereich einer Lebensversicherung, • Kenntnisse regulatorischer Anforderungen (z.B. BaFin, Solvency II, interne Kontrollsysteme). • Fundierte Kenntnisse in Jira, xRay oder vergleichbaren Werkzeugen, • Erfahrung mit gängigen Teststandards (z. B. ISTQB-orientierte Vorgehensmodelle)",
+    "first_seen": "2026-08-01T11:14:34.176323+00:00",
+    "id": "1289f2148990b2b3",
+    "matched_keywords": [],
+    "published": "2026-08-01T11:57:43+02:00",
+    "source": "freelancermap.de",
+    "title": "Testmanager LV (m/w/d)",
+    "url": "https://www.freelancermap.de/projekt/testmanager-lv-m-w-d"
+  },
+  {
+    "description": "für eines unserer Projekte suchen wir Unterstützung im Rahmen der Elektrokonstruktion von Mischanlagen, welche sich im Retrofit befinden. Die Elektrokonstruktion wird mit dem Tool ELCAD durchgeführt. Nach einer Einarbeitung von 1-2 Monaten ist das Projekt zu 100% Remote abzuwickeln. Der Start kann so schnell wie möglich erfolgen - spätestens am 10.August. Ich freue mich auf Ihre Rückmeldung in Form eines Profils unter Angabe des Stundensatzes vor Ort und Remote an folgende Email: *****",
+    "first_seen": "2026-08-01T11:14:34.176323+00:00",
+    "id": "a8bbfca40529a026",
+    "matched_keywords": [],
+    "published": "2026-08-01T11:12:41+02:00",
+    "source": "freelancermap.de",
+    "title": "ELCAD Projekt",
+    "url": "https://www.freelancermap.de/projekt/elcad-projekt"
+  },
+  {
     "description": "For an innovative automotive semiconductor project in the braking systems domain, we are looking for an experienced Senior Digital Verification Engineer who can take ownership of the verification of safety-critical ASIC IPs and contribute immediately to a tape-out-critical project. This role is aimed at highly experienced verification engineers who are able to independently develop and execute verification strategies with minimal supervision. Location: South Germany (Hybrid / On-site depending on project requirements)Start: September 2026Duration: 3 months (with potential follow-up opportunities)What We Are Looking ForWe are not simply looking for a UVM developer. We are looking for engineers who can independently: Analyze complex specifications Develop a complete verification strategy Design robust verification architectures Identify verification risks early Drive projects through successful verification sign-off Your Responsibilities Own the verification of complex ASIC IP blocks from specification review to verification sign-off Analyze requirements and derive comprehensive verification plans Develop and extend SystemVerilog/UVM verification environments Create reusable verification components, scoreboards and reference models Develop constrained-random and directed test cases Write SystemVerilog Assertions (SVA) Verify functional behavior, diagnostics and fault scenarios Drive functional and code coverage closure Debug verification issues together with RTL, analog and system architects Support verification reviews and final sign-off activities Required Skills 8+ years of ASIC or SoC Digital Verification experience Excellent knowledge of SystemVerilog and UVM Strong experience with coverage-driven verification methodologies Experience creating verification plans directly from specifications Development of scoreboards, reference models and reusable verification components Strong debugging skills (e.g. Verdi, DVE, SimVision or similar) Experience with SystemVerilog Assertions (SVA) Excellent English communication skills Please send us your updated CV (in English) highlighting your experience with: SystemVerilog UVM ASIC / SoC Verification Mixed-Signal Verification (if applicable) Automotive semiconductor projects Verification planning and sign-off",
     "first_seen": "2026-08-01T09:03:56.475910+00:00",
     "id": "830224fb0744a776",
@@ -12148,25 +12178,5 @@
     "source": "freelancermap.de",
     "title": "B2B-Vertriebspartner / Closer (m/w/d) auf Provisionsbasis, bis 5.000 Euro pro Abschluss",
     "url": "https://www.freelancermap.de/projekt/b2b-vertriebspartner-closer-m-w-d-auf-provisionsbasis-bis-5-000-euro-pro-abschluss"
-  },
-  {
-    "description": "Start: ab 20.07.2026 Laufzeit: bis 31.12.2026 (inkl. Option auf Verlängerung) Auslastung: 100 % Einsatzort: Full Remote Standort: Deutschland Projektbeschreibung Für ein Projekt im öffentlichen Sektor wird ein erfahrener Frontend-Entwickler gesucht. Im Fokus stehen die Entwicklung moderner, komponentenbasierter Webanwendungen mit interaktiven und datenintensiven Benutzeroberflächen. Dabei werden bestehende Frontend-Lösungen kontinuierlich weiterentwickelt, neue Funktionen implementiert und performante Schnittstellen zu Backend-Systemen geschaffen. Aufgaben • Entwicklung moderner Webanwendungen mit React und Next.js • Umsetzung performanter und responsiver Benutzeroberflächen mit TypeScript und Tailwind CSS • Anbindung und Integration von REST APIs • Entwicklung wiederverwendbarer UI-Komponenten • Optimierung von Performance, Wartbarkeit und Codequalität • Enge Zusammenarbeit mit Backend-Entwicklung und UX/UI-Design • Qualitätssicherung sowie Testing der entwickelten Komponenten • Versionsverwaltung mit Git Anforderungen • Mehrjährige Erfahrung in der Frontend-Entwicklung • Fundierte Kenntnisse in React und Next.js • Sehr gute Kenntnisse in TypeScript • Erfahrung mit Tailwind CSS • Erfahrung in der Anbindung von REST APIs • Erfahrung in der Entwicklung moderner Single-Page-Applications und komponentenbasierter Architekturen • Sicherer Umgang mit Git Nice to have • Erfahrung im öffentlichen Sektor • Erfahrung mit modernen Testing-Frameworks • Nachweisbare Projektreferenzen (Verifiable Credentials) Rahmenbedingungen • Projekt im öffentlichen Sektor • Full Remote innerhalb Deutschlands • 100 % Auslastung erforderlich • Projektlaufzeit bis Ende Dezember 2026 mit Option auf Verlängerung Bewerbung Bei Interesse senden Sie bitte Ihren aktuellen CV sowie folgende Informationen: • Stundensatz bzw. Tagessatz • Verfügbarkeit (100 % Auslastung erforderlich) • Unternehmensform (z. B. GmbH, UG, Einzelunternehmen oder Freiberufler) • Aktueller Standort Bitte bewerben Sie sich ausschließlich, wenn Sie als direkter Freelancer tätig sind. Bewerbungen über Agenturen, Vermittler oder andere Dienstleister werden für dieses Projekt nicht berücksichtigt. Bewerbungsschluss: Montag, 00:00 Uhr",
-    "first_seen": "2026-07-18T11:00:54.123617+00:00",
-    "id": "18f6ff934c12f539",
-    "matched_keywords": [],
-    "published": "2026-07-18T12:38:15+02:00",
-    "source": "freelancermap.de",
-    "title": "Frontend-Entwickler:in",
-    "url": "https://www.freelancermap.de/projekt/frontend-entwickler-in-3025112"
-  },
-  {
-    "description": "Projektbeschreibung Für unseren Kunden suchen wir kurzfristig einen erfahrenen IT-Support-Mitarbeiter (m/w/d) im Außendienst zur Überprüfung und Sicherstellung der technischen Funktionsfähigkeit von digitalen Werbeanzeigern (Monitoren) und WLAN-Routern an mehreren Standorten in Unterfranken und Oberfranken. Die Rolle ist zentral für die Sicherstellung eines reibungslosen Betriebs der digitalen Infrastruktur vor Ort und erfordert eine selbstständige, gut organisierte Arbeitsweise sowie Reisebereitschaft zwischen den verschiedenen Einsatzorten. Rahmenparameter Start: ASAP Laufzeit: Bis Ende Juli 2026 (alle Standorte müssen bis spätestens 26.07.2026 angefahren sein) Auslastung: Reiseroute wird eigenständig geplant; wichtig ist die vollständige Abdeckung aller Standorte innerhalb des Zeitfensters Einsatzort: Vor Ort in Hildburghausen, Bad Kissingen, Mellrichstadt, Werneck, Schweinfurt und Münchberg PRO STANDORT WIRD EINE PAUSCHALE VON 60,00 € All-In Aufgaben Kontrolle und Überprüfung von Werbeanzeigern (Monitoren) auf Funktionsfähigkeit Kontrolle und Überprüfung von WLAN-Routern vor Ort Eigenständige Planung und Koordination der Anfahrtsroute zu den genannten Standorten Dokumentation der durchgeführten Prüfungen und Feststellungen Erfahrungen & Kenntnisse Erfahrung im IT-Support, idealerweise im Außendienst Grundkenntnisse in Netzwerktechnik (WLAN, Router) Gültiger Führerschein für die Reisetätigkeit zwischen den Standorten Gute Kommunikationsfähigkeiten und sicherer Umgang im Kundenkontakt",
-    "first_seen": "2026-07-18T09:22:06.870824+00:00",
-    "id": "a2027803416e7aab",
-    "matched_keywords": [],
-    "published": "2026-07-18T11:21:15+02:00",
-    "source": "freelancermap.de",
-    "title": "IT Support im Außendienst (m/w/d) in Ober- und Unterfranken",
-    "url": "https://www.freelancermap.de/projekt/it-support-im-aussendienst-m-w-d-in-ober-und-unterfranken"
   }
 ]
