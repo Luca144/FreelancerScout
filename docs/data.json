@@ -1,6 +1,66 @@
 {
   "projects": [
     {
+      "description": "We are looking for a Senior IT Project Manager to lead a delivery stream within a complex ODC public-cloud initiative. Responsibilities Lead and coordinate a cloud-platform delivery stream Manage sprint planning and delivery schedules Coordinate resources and cross-stream dependencies Manage stakeholders across project and programme levels Lead risk, issue and escalation management Prepare status reports for programme management Coordinate gate reviews and approval processes Required Experience IT project management Agile delivery methods Stakeholder management Project-management tools Risk and escalation management Resource planning Senior-level project leadership experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000099",
+      "first_seen": "2026-08-01T13:14:23.410909+00:00",
+      "id": "02cedbf24f9a294d",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-08-01T14:39:18+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior IT Project Manager – Cloud Delivery",
+      "url": "https://www.freelancermap.de/projekt/senior-it-project-manager-cloud-delivery"
+    },
+    {
+      "description": "We are looking for a Senior Cloud Developer to develop and implement a secure Linux-based operating system for Fog Nodes. Responsibilities Develop Linux as the base operating system for Fog Nodes Implement immutable infrastructure concepts Integrate and configure secure-boot mechanisms Develop and maintain Talos Linux extensions Automate operating-system configuration and deployment Support testing, hardening and platform integration Required Experience Linux systems development Immutable infrastructure Secure Boot Go Talos Linux or Talos extensions Senior-level cloud or systems development experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security clearance: Not required Application https://os.pea-global.com/bewerben?vac=VA_000097",
+      "first_seen": "2026-08-01T13:14:23.410909+00:00",
+      "id": "9c2c1fe7f659dd60",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-08-01T14:35:47+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Cloud Developer – Linux Operating System for Fog Nodes",
+      "url": "https://www.freelancermap.de/projekt/senior-cloud-developer-linux-operating-system-for-fog-nodes"
+    },
+    {
+      "description": "We are looking for a Senior Product Owner to support the development of a complex Fog-Cloud platform alongside three additional Product Owners. Responsibilities Own and manage product backlogs and product visions Coordinate platform features, operational integration, hardware infrastructure and security requirements Prioritise requirements and define delivery roadmaps Facilitate gate reviews and approval processes Manage stakeholders across technical and business teams Develop user stories and conduct user story mapping Coordinate dependencies between multiple product streams Required Experience Product ownership Product management Requirements management Stakeholder management User story mapping Experience with complex cloud or infrastructure products Seni or-level professional experience Project Details Location: Germany Work model: 100% remote Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000094",
+      "first_seen": "2026-08-01T13:14:23.410909+00:00",
+      "id": "e2062087015f5249",
+      "matched_keywords": [
+        "product owner"
+      ],
+      "published": "2026-08-01T14:29:51+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Product Owner - Cloud Platform",
+      "url": "https://www.freelancermap.de/projekt/senior-product-owner-cloud-platform"
+    },
+    {
+      "description": "We are looking for a Senior System Engineer to support the physical integration, configuration and production preparation of infrastructure hardware. Responsibilities Perform rack-and-stack activities Manage hardware firmware and configuration Configure out-of-band management systems Conduct comprehensive hardware burn-in tests Prepare systems for secure production deployment Produce complete technical and operational documentation Required Experience Hardware integration Out-of-band management Firmware management Hardware testing and validation Technical documentation Senior-level system engineering experience Project Details Location: Germany Work model: Primarily remote; individual on-site activities may be required for physical hardware work Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000093",
+      "first_seen": "2026-08-01T13:14:23.410909+00:00",
+      "id": "ca82b193eccb3811",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-08-01T14:25:54+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior System Engineer – Hardware Integration & Production Readiness",
+      "url": "https://www.freelancermap.de/projekt/senior-system-engineer-hardware-integration-und-production-readiness"
+    },
+    {
+      "description": "We are looking for a Senior Hardware Architect to take responsibility for the hardware architecture and physical design of Fog Nodes. Responsibilities Develop the hardware architecture for Fog-Node systems Design physical and technical hardware layouts Evaluate hardware components and system configurations Develop thermal design concepts Create and maintain CAD-based designs Support hardware integration and production readiness Required Experience Hardware architecture and hardware design Thermal design CAD Physical infrastructure design Hardware component evaluation Senior-level professional experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000092",
+      "first_seen": "2026-08-01T13:14:23.410909+00:00",
+      "id": "e2992d958f8f1d69",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-08-01T14:22:56+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Hardware Architect – Fog-Node Design",
+      "url": "https://www.freelancermap.de/projekt/senior-hardware-architect-fog-node-design"
+    },
+    {
       "description": "Reference: VA_000087 We are looking for an experienced Senior Platform Engineer to support platform engineering activities within a private-cloud environment. Responsibilities Design, implement and continuously improve cloud-native platform components Develop and maintain CI/CD pipelines using GitLab Automate infrastructure provisioning through Infrastructure as Code Operate and enhance Kubernetes-based environments Integrate security requirements into DevOps and deployment processes Collaborate within agile Scrum and Kanban teams Required Experience GitLab and CI/CD Kubernetes and cloud-native technologies DevOps and DevSecOps Infrastructure as Code and Terraform Linux and Bash scripting Familiarity with CNCF technologies Senior-level professional experience Project Details Location: Germany Work model: 100% remote Duration: 15 August 2026 – 15 August 2027 Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application Apply directly using the following link: https://os.pea-global.com/bewerben?vac=VA_000087",
       "first_seen": "2026-08-01T11:14:34.176323+00:00",
       "id": "89b767ace76d0139",
@@ -6492,31 +6552,7 @@
       "source": "freelancermap.de",
       "title": "Varius IT - PMO Business Development Kernbankprojekt",
       "url": "https://www.freelancermap.de/projekt/varius-it-pmo-business-development-kernbankprojekt"
-    },
-    {
-      "description": "Projektziel: Gesucht wird ein IT-Administrator zur permanenten Unterstützung bei akuten IT-Administrationsproblemen. Hauptaufgaben: - Unterstützung bei akuten Problemen im Netzwerkbereich, Fortigate - Unterstützung bei akuten Problemen im Telefonbereich, ASCOM, Placetel und Webex - Unterstützung bei akuten Problemen in der Windows-Umgebung, Voraussetzungen: - Kenntnisse in der Netzwerkadministration - Kenntnisse in der Telefonadministration - Kenntnisse in der Administration von Windows-Umgebungen Erwartetes Ergebnis: Schnelle und zuverlässige Lösung akuter IT-Administrationsprobleme in den Bereichen Netzwerk, Telefon und Windows.",
-      "first_seen": "2026-07-18T13:08:31.031439+00:00",
-      "id": "8a8b42e05a53a6ba",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-07-18T14:15:22+02:00",
-      "source": "freelancermap.de",
-      "title": "Permanenter IT-Administrator für Netzwerk, Telefon und Windows-Umgebung gesucht",
-      "url": "https://www.freelancermap.de/projekt/permanenter-it-administrator-fuer-netzwerk-telefon-und-windows-umgebung-gesucht"
-    },
-    {
-      "description": "NRG Digital automatisiert die Lead- und Sourcing-Arbeit von Personalberatungen. Wir suchen einen Closer, der am Telefon abschließt. 20 Prozent pro Vertrag, das sind 400 bis 5.000 Euro je Abschluss, plus 50 Euro für jeden qualifizierten Termin. Kein Limit nach oben. Das machen Sie Vorqualifizierte Personalberatungen im DACH-Raum telefonisch ansprechen. Erstgespräche mit Entscheidern (Geschäftsführung, Partner, Inhaber) führen. Bis zum Abschluss begleiten. Das Closing machen wir gemeinsam, die Fachexpertise bringen wir mit. Das bekommen Sie Eine fertige Liste mit rund 160 Zielkunden, keine eigene Recherche. Einen echten Beweis fürs Telefon: Für eine Personalberatung haben wir die Lead-Arbeit von 10 bis 12 auf 2 bis 3 Stunden pro Woche gesenkt, bei rund 1.000 personalisierten Mails pro Woche, vollautomatisch. Gemeinsames Onboarding, wir bauen den Pitch zusammen auf. Kein Technik-Wissen nötig, das liefern wir. Das bringen Sie mit Erfahrung im B2B-Vertrieb oder in der Telefonakquise. Überzeugend am Telefon, eigenständig, verhandlungssicheres Deutsch. Von Vorteil, kein Muss: Netzwerk in HR oder Recruiting. Wann ein Termin qualifiziert ist (dafür fließen die 50 Euro): Entscheider einer Personalberatung, Recruiting- oder Staffing-Firma im DACH-Raum, echtes Interesse, und der Termin findet tatsächlich statt. Ein No-Show zählt nicht. Rahmen: 100 Prozent remote, freie Zeiteinteilung, freiberuflich, Start ab sofort.",
-      "first_seen": "2026-07-18T13:08:31.031439+00:00",
-      "id": "5086334268ffaeaa",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-07-18T13:55:37+02:00",
-      "source": "freelancermap.de",
-      "title": "B2B-Vertriebspartner / Closer (m/w/d) auf Provisionsbasis, bis 5.000 Euro pro Abschluss",
-      "url": "https://www.freelancermap.de/projekt/b2b-vertriebspartner-closer-m-w-d-auf-provisionsbasis-bis-5-000-euro-pro-abschluss"
     }
   ],
-  "updated_at": "2026-08-01T11:14:34.303504+00:00"
+  "updated_at": "2026-08-01T13:14:23.535156+00:00"
 }

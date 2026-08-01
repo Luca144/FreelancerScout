@@ -1,5 +1,225 @@
 [
   {
+    "description": "We are looking for a Senior System Engineer to develop and maintain the GitOps and deployment toolchain of a Kubernetes-based cloud platform. Responsibilities Develop and maintain GitOps workflows Build and optimise CI/CD pipelines Support Kubernetes platform deployment and operations Integrate Talos Linux into the platform toolchain Automate platform configuration and lifecycle processes Improve the reliability and security of the deployment toolchain Produce technical and operational documentation Required Experience GitOps CI/CD Kubernetes Talos Linux Cloud-native toolchains Automation and platform engineering Senior-level system engineering experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Interested? Please complete the following qualification form as soon as possible so we can review your profile for this project: https://os.pea-global.com/bewerben?vac=VA_000107",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "42083d4ef715a454",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:59:40+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior System Engineer – GitOps & Kubernetes Toolchain",
+    "url": "https://www.freelancermap.de/projekt/senior-system-engineer-gitops-und-kubernetes-toolchain"
+  },
+  {
+    "description": "We are looking for an Expert Chief Platform Architect to take overall responsibility for the architecture of a sovereign cloud-native platform. Responsibilities Own the overall platform architecture Develop and maintain architecture documentation Coordinate architecture decisions across multiple delivery streams Lead technology evaluations and architecture reviews Define technical principles, standards and governance Align platform architecture with security and operational requirements Provide technical leadership to architects and engineering teams Required Experience Cloud-native platform architecture Kubernetes platform design Enterprise architecture frameworks Architecture modelling Cross-stream technical leadership Technology evaluation and governance Expert-level architecture experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Interested? Please complete the following qualification form as soon as possible so we can review your profile for this project: https://os.pea-global.com/bewerben?vac=VA_000106",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "9fda6e4bcb4a7364",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:58:18+02:00",
+    "source": "freelancermap.de",
+    "title": "Chief Platform Architect – Cloud-Native Infrastructure",
+    "url": "https://www.freelancermap.de/projekt/chief-platform-architect-cloud-native-infrastructure"
+  },
+  {
+    "description": "We are looking for a Senior Cloud Developer to develop and harden Kubernetes control-plane components within a security-focused cloud platform. Responsibilities Develop and harden Kubernetes admission webhooks Implement and improve Kubernetes audit logging Establish control-plane monitoring Develop Kubernetes platform components in Go Work with etcd and Kubernetes API protocols Contribute to Talos Linux adaptations Automate platform operations through scripting Required Experience Kubernetes control-plane engineering Go Kubernetes API protocols Admission webhooks Audit logging Shell or system scripting Senior-level cloud development experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Interested? Please complete the following qualification form as soon as possible so we can review your profile for this project: https://os.pea-global.com/bewerben?vac=VA_000105",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "36d9f86184ba7282",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:56:49+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior Cloud Developer – Kubernetes Control Plane Engineering",
+    "url": "https://www.freelancermap.de/projekt/senior-cloud-developer-kubernetes-control-plane-engineering"
+  },
+  {
+    "description": "We are looking for a Senior Cloud Developer to build Gardener-based multi-cluster orchestration for bare-metal cloud infrastructure. Responsibilities Implement Gardener-based multi-cluster orchestration Develop Cluster API providers for bare-metal infrastructure Automate cluster lifecycle operations Develop cloud-platform services in Go Create and maintain Helm-based deployments Work within Git-based delivery workflows Maintain Kubernetes configurations in YAML Required Experience Cluster API Multi-cluster orchestration Gardener Go Helm Git YAML Senior-level cloud development experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Interested? Please complete the following qualification form as soon as possible so we can review your profile for this project: https://os.pea-global.com/bewerben?vac=VA_000104",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "6bd1b3b398df850c",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:54:52+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior Cloud Developer – Gardener Multi-Cluster Orchestration",
+    "url": "https://www.freelancermap.de/projekt/senior-cloud-developer-gardener-multi-cluster-orchestration"
+  },
+  {
+    "description": "We are looking for a Senior Cloud Developer to build an OCM-based software-delivery pipeline for secure software distribution in air-gapped environments. Responsibilities Develop an OCM-based software-delivery pipeline Implement offline software-distribution processes Integrate OCI registries Ensure end-to-end integrity of software components Implement software supply-chain security controls Develop automation using Go and shell scripting Maintain deployment configurations in YAML Required Experience Open Component Model or comparable component models OCI registries Offline and air-gapped software distribution Go Shell scripting YAML Software supply-chain security Senior-level cloud development experience Project Details Location: Germany Work model: 100% remote Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Interested? Please complete the following qualification form as soon as possible so we can review your profile for this project: https://os.pea-global.com/bewerben?vac=VA_000103",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "cf606b7eaa5067bd",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:53:06+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior Cloud Developer – Secure Offline Software Delivery",
+    "url": "https://www.freelancermap.de/projekt/senior-cloud-developer-secure-offline-software-delivery"
+  },
+  {
+    "description": "We are looking for a Senior Storage Engineer to build and operate a distributed storage platform. Responsibilities Configure block, object and file-storage services Implement encryption for data at rest Integrate persistent storage with Kubernetes Conduct capacity planning and performance tuning Administer flash-based storage infrastructure Develop backup and disaster-recovery strategies Document storage architecture and operational procedures Required Experience Software-defined storage Data-at-rest encryption Kubernetes persistent storage Block, object and file storage Flash-storage administration Backup and disaster recovery Senior-level storage engineering experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Interested? Please complete the following qualification form as soon as possible so we can review your profile for this project: https://os.pea-global.com/bewerben?vac=VA_000102",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "fdc91cfb09ba6588",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:50:31+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior System Engineer – Distributed Cloud Storage",
+    "url": "https://www.freelancermap.de/projekt/senior-system-engineer-distributed-cloud-storage"
+  },
+  {
+    "description": "We are looking for a Senior System Engineer to build a central observability stack for an ODC public-cloud platform. Responsibilities Implement metrics monitoring and dashboards Develop monitoring and alerting rules Configure centralised log aggregation and analysis Implement Loki-based log management Integrate OpenTelemetry for distributed tracing Configure Alertmanager routing Monitor Kubernetes clusters and cloud-platform services Required Experience Metrics monitoring Grafana Log management and Loki Kubernetes monitoring YAML OpenTelemetry Alertmanager Senior-level observability or system engineering experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Interested? Please complete the following qualification form as soon as possible so we can review your profile for this project: https://os.pea-global.com/bewerben?vac=VA_000101",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "83fbae9a432c8dca",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:48:44+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior System Engineer – Kubernetes Cloud Platform",
+    "url": "https://www.freelancermap.de/projekt/senior-system-engineer-kubernetes-cloud-platform"
+  },
+  {
+    "description": "We are looking for a Senior System Engineer to design and implement automated bare-metal provisioning for a cloud infrastructure platform. Responsibilities Build PXE and network-boot environments Implement out-of-band management through Redfish and IPMI Automate hardware inventory processes Integrate bare-metal provisioning with the cluster lifecycle Develop fully automated node-provisioning workflows Create technical and operational documentation Required Experience Network boot and PXE Server lifecycle management Baseboard Management Controllers Redfish and IPMI Remote server management Bare-metal automation Senior-level system engineering experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Interested? Please complete the following qualification form as soon as possible so we can review your profile for this project: https://os.pea-global.com/bewerben?vac=VA_000100",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "241b376532a77086",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:42:41+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior System Engineer – Bare-Metal Automation",
+    "url": "https://www.freelancermap.de/projekt/senior-system-engineer-bare-metal-automation"
+  },
+  {
+    "description": "We are looking for a Senior IT Project Manager to lead a delivery stream within a complex ODC public-cloud initiative. Responsibilities Lead and coordinate a cloud-platform delivery stream Manage sprint planning and delivery schedules Coordinate resources and cross-stream dependencies Manage stakeholders across project and programme levels Lead risk, issue and escalation management Prepare status reports for programme management Coordinate gate reviews and approval processes Required Experience IT project management Agile delivery methods Stakeholder management Project-management tools Risk and escalation management Resource planning Senior-level project leadership experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000099",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "02cedbf24f9a294d",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:39:18+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior IT Project Manager – Cloud Delivery",
+    "url": "https://www.freelancermap.de/projekt/senior-it-project-manager-cloud-delivery"
+  },
+  {
+    "description": "We are looking for an Expert Cloud Developer to design and implement Identity and Access Management and Privileged Access Management capabilities within an ODC cloud environment. Responsibilities Design and develop IAM and PAM infrastructure Enhance and secure existing identity-management capabilities Deploy IAM/PAM components through the Kubernetes Resource Model Integrate IAM/PAM services into DevSecOps processes Automate identity and access-management technologies Establish user-facing IAM and PAM capabilities Required Experience Git DevOps and DevSecOps Linux Kubernetes IAM and PAM concepts Kubernetes Resource Model Expert-level cloud development experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000098",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "d99d3c5b372a930c",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:37:17+02:00",
+    "source": "freelancermap.de",
+    "title": "Expert Cloud Developer – IAM & PAM Infrastructure",
+    "url": "https://www.freelancermap.de/projekt/expert-cloud-developer-iam-und-pam-infrastructure"
+  },
+  {
+    "description": "We are looking for a Senior Cloud Developer to develop and implement a secure Linux-based operating system for Fog Nodes. Responsibilities Develop Linux as the base operating system for Fog Nodes Implement immutable infrastructure concepts Integrate and configure secure-boot mechanisms Develop and maintain Talos Linux extensions Automate operating-system configuration and deployment Support testing, hardening and platform integration Required Experience Linux systems development Immutable infrastructure Secure Boot Go Talos Linux or Talos extensions Senior-level cloud or systems development experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security clearance: Not required Application https://os.pea-global.com/bewerben?vac=VA_000097",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "9c2c1fe7f659dd60",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:35:47+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior Cloud Developer – Linux Operating System for Fog Nodes",
+    "url": "https://www.freelancermap.de/projekt/senior-cloud-developer-linux-operating-system-for-fog-nodes"
+  },
+  {
+    "description": "We are looking for a Senior System Engineer to develop the Kubernetes initialisation and deployment process for Fog Nodes operating in isolated, air-gapped environments. Responsibilities Develop Kubernetes bootstrap processes Design deployment procedures for isolated environments Implement USB-based installation methods Automate installation and configuration through scripting Develop network-boot procedures Create complete installation and operating documentation Required Experience Kubernetes bootstrap and initialisation Shell scripting YAML Network boot Air-gapped or offline environments Senior-level system engineering experience Project Details Location: Germany Work model: 100% remote Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000096",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "979e779ba40516ea",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:33:59+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior System Engineer – Air-Gapped Kubernetes Deployment",
+    "url": "https://www.freelancermap.de/projekt/senior-system-engineer-air-gapped-kubernetes-deployment"
+  },
+  {
+    "description": "We are looking for a Senior Network Engineer to design and implement the network architecture of a Fog-Cloud infrastructure. Responsibilities Design network topologies and segmentation concepts Configure high-speed network switches Implement out-of-band management networks Develop firewall and network security concepts Establish network monitoring Document the complete network architecture and configuration Required Experience Network architecture and planning Data-centre networking Out-of-band and remote-management networks Firewalls Network monitoring Network segmentation Senior-level network engineering experience Project Details Location: Germany Work model: 100% remote Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000095",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "ae91df2b82365f0c",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:32:43+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior Network Engineer – Fog-Cloud Infrastructure",
+    "url": "https://www.freelancermap.de/projekt/senior-network-engineer-fog-cloud-infrastructure"
+  },
+  {
+    "description": "Sie erschließen neue Vertriebskanäle - nicht nur neue Plattformen. Unser Unternehmen entwickelt hochwertige pflanzliche Bio-Lebensmittel. Für den Ausbau unseres Plattformgeschäftes suchen wir einen unternehmerisch denkenden Marketplace Growth Partner, der neue Online-Marktplätze erschließt und nachhaltig Umsatz entwickelt. Ihre Verantwortung Sie übernehmen den Aufbau und die Weiterentwicklung unseres Plattformvertriebs außerhalb von Amazon. Hierzu gehören insbesondere: Auswahl geeigneter Marktplätze Einrichtung neuer Verkäuferkonten professionelle Produktlistings Optimierung der Sichtbarkeit Verkaufsförderung Umsatzentwicklung kontinuierliche Optimierung der Plattformen Entscheidend ist nicht die Anzahl der Maßnahmen, sondern deren wirtschaftlicher Erfolg. Das bringen Sie mit Erfahrung mit Online-Marktplätzen unternehmerisches Denken Eigeninitiative strukturierte Arbeitsweise Freude am Aufbau neuer Vertriebskanäle Freude daran, Umsatz aufzubauen Unser Angebot Wir bieten Ihnen: eine etablierte Bio-Marke hochwertige Produkte große unternehmerische Gestaltungsfreiheit kurze Entscheidungswege außergewöhnlich attraktive Erfolgsbeteiligung langfristige Partnerschaft Unser Vergütungsmodell setzt bewusst auf eine überdurchschnittliche Erfolgsbeteiligung. Interesse? Wenn Sie nicht nur Projekte bearbeiten, sondern gemeinsam mit uns einen erfolgreichen digitalen Vertrieb aufbauen möchten, freuen wir uns auf Ihre Kontaktaufnahme. Sooperfood Natural GmbH",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "f72c5da8f109751f",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:31:28+02:00",
+    "source": "freelancermap.de",
+    "title": "Marketplace Growth Partner (m/w/d)",
+    "url": "https://www.freelancermap.de/projekt/marketplace-growth-partner-m-w-d"
+  },
+  {
+    "description": "We are looking for a Senior Product Owner to support the development of a complex Fog-Cloud platform alongside three additional Product Owners. Responsibilities Own and manage product backlogs and product visions Coordinate platform features, operational integration, hardware infrastructure and security requirements Prioritise requirements and define delivery roadmaps Facilitate gate reviews and approval processes Manage stakeholders across technical and business teams Develop user stories and conduct user story mapping Coordinate dependencies between multiple product streams Required Experience Product ownership Product management Requirements management Stakeholder management User story mapping Experience with complex cloud or infrastructure products Seni or-level professional experience Project Details Location: Germany Work model: 100% remote Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000094",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "e2062087015f5249",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:29:51+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior Product Owner - Cloud Platform",
+    "url": "https://www.freelancermap.de/projekt/senior-product-owner-cloud-platform"
+  },
+  {
+    "description": "We are looking for a Senior System Engineer to support the physical integration, configuration and production preparation of infrastructure hardware. Responsibilities Perform rack-and-stack activities Manage hardware firmware and configuration Configure out-of-band management systems Conduct comprehensive hardware burn-in tests Prepare systems for secure production deployment Produce complete technical and operational documentation Required Experience Hardware integration Out-of-band management Firmware management Hardware testing and validation Technical documentation Senior-level system engineering experience Project Details Location: Germany Work model: Primarily remote; individual on-site activities may be required for physical hardware work Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000093",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "ca82b193eccb3811",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:25:54+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior System Engineer – Hardware Integration & Production Readiness",
+    "url": "https://www.freelancermap.de/projekt/senior-system-engineer-hardware-integration-und-production-readiness"
+  },
+  {
+    "description": "We are looking for a Senior Hardware Architect to take responsibility for the hardware architecture and physical design of Fog Nodes. Responsibilities Develop the hardware architecture for Fog-Node systems Design physical and technical hardware layouts Evaluate hardware components and system configurations Develop thermal design concepts Create and maintain CAD-based designs Support hardware integration and production readiness Required Experience Hardware architecture and hardware design Thermal design CAD Physical infrastructure design Hardware component evaluation Senior-level professional experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000092",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "e2992d958f8f1d69",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:22:56+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior Hardware Architect – Fog-Node Design",
+    "url": "https://www.freelancermap.de/projekt/senior-hardware-architect-fog-node-design"
+  },
+  {
+    "description": "We are looking for an Expert IT Architect to act as a technical sparring partner to the Lead Architect within a security-critical sovereign cloud initiative. Responsibilities Support the Lead Architect in strategic architecture decisions Develop a product vision for a sovereign cloud platform Assess cloud-native infrastructure and orchestration approaches Define strategic architecture principles Support multi-cluster and Kubernetes platform decisions Coordinate architecture topics with technical and business stakeholders Required Experience Kubernetes Container orchestration Cloud-native IaaS platforms Multi-cluster management Strategic platform architecture Expert-level architecture experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000091",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "4f6834597ddebbd5",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:21:31+02:00",
+    "source": "freelancermap.de",
+    "title": "Expert IT Architect – Sovereign Cloud Platform Strategy",
+    "url": "https://www.freelancermap.de/projekt/expert-it-architect-sovereign-cloud-platform-strategy"
+  },
+  {
+    "description": "We are looking for an Expert IT Architect to evaluate cloud technology components and conduct architecture reviews within a complex public-cloud initiative. Responsibilities Evaluate and select cloud infrastructure components Conduct technical and architectural reviews Assess technologies against functional, security and operational requirements Develop recommendations for cloud infrastructure solutions Support architectural decision-making across delivery streams Document technology evaluations and architecture decisions Required Experience Cloud computing Infrastructure-as-a-Service models Git-based development and documentation workflows Technology evaluation Architecture reviews Expert-level cloud architecture experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000090",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "1c64cdaa62704449",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:19:55+02:00",
+    "source": "freelancermap.de",
+    "title": "Expert IT Architect – Cloud Technology Evaluation",
+    "url": "https://www.freelancermap.de/projekt/expert-it-architect-cloud-technology-evaluation"
+  },
+  {
+    "description": "We are looking for an Expert IT Architect to develop technical blueprints, architectural standards and reusable implementation patterns for a cloud-native platform. Responsibilities Develop platform architecture blueprints and technical standards Define reusable architectural patterns Support GitOps and CI/CD-based platform delivery Evaluate and integrate service-mesh technologies Contribute to infrastructure and platform automation Coordinate architecture decisions across technical teams Required Experience CI/CD and Git Service mesh architectures Crossplane DevOps Flux Expert-level architecture experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000089",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "f5314b2c2515d961",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:17:48+02:00",
+    "source": "freelancermap.de",
+    "title": "Expert IT Architect – Platform Blueprints & Standards",
+    "url": "https://www.freelancermap.de/projekt/expert-it-architect-platform-blueprints-und-standards"
+  },
+  {
+    "description": "We are looking for a Senior System Engineer to support the secure and efficient transfer of data and applications between different technical environments. Responsibilities Implement secure data and application transfers between environments Automate the deployment of application images Establish monitoring for deployed applications Develop and improve cloud and microservice-based solutions Support Kubernetes and DevOps environments Contribute to the continuous technical development of the platform Required Experience DevOps engineering Kubernetes Git Cloud architecture Microservices Senior-level system engineering experience Project Details Location: Germany Work model: 100% remote Team size: Approximately 10 Duration: 15 August 2026 – 15 August 2027 Languages: German and English Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application https://os.pea-global.com/bewerben?vac=VA_000088",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "f958e6a2d77a4857",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:14:04+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior System Engineer – Secure Application Transfer & Deployment",
+    "url": "https://www.freelancermap.de/projekt/senior-system-engineer-secure-application-transfer-und-deployment"
+  },
+  {
+    "description": "S/4HANA Greenfield | Private Cloud | 90% Remote Für ein führendes Unternehmen aus dem Maschinen- und Anlagenbau suchen wir einen erfahrenen SAP DMS Experten (m/w/d), der die zukünftige Dokumentenmanagement-Landschaft im Rahmen einer S/4HANA Greenfield-Einführung aktiv mitgestaltet. Das Projekt Im Rahmen einer SAP S/4HANA 2025 Private Cloud Einführung soll ein zukunftsfähiges Dokumentenmanagement-Konzept entwickelt und prototypisch umgesetzt werden. Sie beraten fachlich und technisch bei der Gestaltung der Dokumentenprozesse und arbeiten eng mit dem Projektteam und den Fachbereichen zusammen. Projekt-Highlights ? S/4HANA 2025 Greenfield-Einführung ? Hoher fachlicher Gestaltungsspielraum ? Strategische Konzeption statt reines Customizing ? Langfristige Perspektive bis mindestens September 2026 ? Überwiegend Remote ? Internationales Projektumfeld Ihre Aufgaben Entwicklung eines SAP-DMS-Konzepts inklusive Dokumenten- und Prozessmodell Definition von Ablage-, Archivierungs- und Aufbewahrungsstrategien Integration von Dokumentenprozessen in SAP PS und WBS-Strukturen SAP-DMS-Customizing Durchführung von Fit-to-Standard-Workshops Aufbau und Begleitung eines Prototypen im S/4HANA-Projekt Beratung zu Dokumentenversionierung, PDF/A-Konvertierung sowie Stempelungs- und Freigabeprozessen Ihr Profil Must-have Mehrjährige Erfahrung mit SAP DMS Erfahrung in SAP-S/4HANA-Projekten Praxiswissen im Aufbau und der Optimierung von Dokumentenmanagement-Prozessen Erfahrung in Konzeption und Implementierung Deutsch und Englisch fließend Nice-to-have SAP PS SAP Content Server ArchiveLink KPro SAP Private Cloud Maschinen- und Anlagenbau Rahmendaten Start: ASAP Laufzeit: bis 30.09.2026 mit Verlängerungsoption Auslastung: 80-100 % zu Projektbeginn, anschließend 40-60 % Einsatzort: überwiegend Remote, vereinzelt Beckum oder Dortmund Projektsprache: Deutsch und Englisch Honorar: nach Qualifikation und Erfahrung Interesse? Wir freuen uns auf Ihr aktuelles Profil mit Angaben zu: Verfügbarkeit Remote-Stundensatz Projektreferenzen im SAP-DMS-Umfeld ***** Thomas Henning HENNING eXperts Die passenden Expert:innen für Projekte & Transformation www.henning-experts.com",
+    "first_seen": "2026-08-01T13:14:23.410909+00:00",
+    "id": "e78efb68ab348da0",
+    "matched_keywords": [],
+    "published": "2026-08-01T14:11:14+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior SAP DMS Consultant / Architekt (m/w/d)",
+    "url": "https://www.freelancermap.de/projekt/senior-sap-dms-consultant-architekt-m-w-d"
+  },
+  {
     "description": "Reference: VA_000087 We are looking for an experienced Senior Platform Engineer to support platform engineering activities within a private-cloud environment. Responsibilities Design, implement and continuously improve cloud-native platform components Develop and maintain CI/CD pipelines using GitLab Automate infrastructure provisioning through Infrastructure as Code Operate and enhance Kubernetes-based environments Integrate security requirements into DevOps and deployment processes Collaborate within agile Scrum and Kanban teams Required Experience GitLab and CI/CD Kubernetes and cloud-native technologies DevOps and DevSecOps Infrastructure as Code and Terraform Linux and Bash scripting Familiarity with CNCF technologies Senior-level professional experience Project Details Location: Germany Work model: 100% remote Duration: 15 August 2026 – 15 August 2027 Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application Apply directly using the following link: https://os.pea-global.com/bewerben?vac=VA_000087",
     "first_seen": "2026-08-01T11:14:34.176323+00:00",
     "id": "89b767ace76d0139",
@@ -12158,25 +12378,5 @@
     "source": "freelancermap.de",
     "title": "Varius IT - PMO Business Development Kernbankprojekt",
     "url": "https://www.freelancermap.de/projekt/varius-it-pmo-business-development-kernbankprojekt"
-  },
-  {
-    "description": "Projektziel: Gesucht wird ein IT-Administrator zur permanenten Unterstützung bei akuten IT-Administrationsproblemen. Hauptaufgaben: - Unterstützung bei akuten Problemen im Netzwerkbereich, Fortigate - Unterstützung bei akuten Problemen im Telefonbereich, ASCOM, Placetel und Webex - Unterstützung bei akuten Problemen in der Windows-Umgebung, Voraussetzungen: - Kenntnisse in der Netzwerkadministration - Kenntnisse in der Telefonadministration - Kenntnisse in der Administration von Windows-Umgebungen Erwartetes Ergebnis: Schnelle und zuverlässige Lösung akuter IT-Administrationsprobleme in den Bereichen Netzwerk, Telefon und Windows.",
-    "first_seen": "2026-07-18T13:08:31.031439+00:00",
-    "id": "8a8b42e05a53a6ba",
-    "matched_keywords": [],
-    "published": "2026-07-18T14:15:22+02:00",
-    "source": "freelancermap.de",
-    "title": "Permanenter IT-Administrator für Netzwerk, Telefon und Windows-Umgebung gesucht",
-    "url": "https://www.freelancermap.de/projekt/permanenter-it-administrator-fuer-netzwerk-telefon-und-windows-umgebung-gesucht"
-  },
-  {
-    "description": "NRG Digital automatisiert die Lead- und Sourcing-Arbeit von Personalberatungen. Wir suchen einen Closer, der am Telefon abschließt. 20 Prozent pro Vertrag, das sind 400 bis 5.000 Euro je Abschluss, plus 50 Euro für jeden qualifizierten Termin. Kein Limit nach oben. Das machen Sie Vorqualifizierte Personalberatungen im DACH-Raum telefonisch ansprechen. Erstgespräche mit Entscheidern (Geschäftsführung, Partner, Inhaber) führen. Bis zum Abschluss begleiten. Das Closing machen wir gemeinsam, die Fachexpertise bringen wir mit. Das bekommen Sie Eine fertige Liste mit rund 160 Zielkunden, keine eigene Recherche. Einen echten Beweis fürs Telefon: Für eine Personalberatung haben wir die Lead-Arbeit von 10 bis 12 auf 2 bis 3 Stunden pro Woche gesenkt, bei rund 1.000 personalisierten Mails pro Woche, vollautomatisch. Gemeinsames Onboarding, wir bauen den Pitch zusammen auf. Kein Technik-Wissen nötig, das liefern wir. Das bringen Sie mit Erfahrung im B2B-Vertrieb oder in der Telefonakquise. Überzeugend am Telefon, eigenständig, verhandlungssicheres Deutsch. Von Vorteil, kein Muss: Netzwerk in HR oder Recruiting. Wann ein Termin qualifiziert ist (dafür fließen die 50 Euro): Entscheider einer Personalberatung, Recruiting- oder Staffing-Firma im DACH-Raum, echtes Interesse, und der Termin findet tatsächlich statt. Ein No-Show zählt nicht. Rahmen: 100 Prozent remote, freie Zeiteinteilung, freiberuflich, Start ab sofort.",
-    "first_seen": "2026-07-18T13:08:31.031439+00:00",
-    "id": "5086334268ffaeaa",
-    "matched_keywords": [],
-    "published": "2026-07-18T13:55:37+02:00",
-    "source": "freelancermap.de",
-    "title": "B2B-Vertriebspartner / Closer (m/w/d) auf Provisionsbasis, bis 5.000 Euro pro Abschluss",
-    "url": "https://www.freelancermap.de/projekt/b2b-vertriebspartner-closer-m-w-d-auf-provisionsbasis-bis-5-000-euro-pro-abschluss"
   }
 ]
