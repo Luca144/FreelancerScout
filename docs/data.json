@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Aufgaben: Aufgaben: + Berücksichtigung der durch den TÜV bereitgestellten Analyse- und Bewertungsergebnisse sowie Durchführung erforderlicher fachlicher Abstimmungen zur Validierung der Projektergebnisse und Maßnahmenempfehlungen + Erstellung und Dokumentation weiterer strukturierter Product Risk Assessments einschließlich Threat Modelling gemäß den relevanten Normen und regulatorischen Anforderungen + Erarbeitung dokumentierter Risikobewertungen einschließlich Identifikation und fachlicher Bewertung relevanter Cybersecurity-Risiken + Ableitung und Dokumentation geeigneter Mitigationsmaßnahmen zur Schließung identifizierter Compliance- und Sicherheitslücken + Erstellung eines konsolidierten Maßnahmenplans einschließlich Priorisierung der identifizierten Maßnahmen sowie Dokumentation des Bearbeitungsstands der definierten Arbeitspakete für Reporting- und Nachweiszwecke + Anwendung, projektspezifische Weiterentwicklung und Dokumentation einer CRA-konformen Bewertungsmethodik auf Basis der im CRA-Governance-Projekt sowie durch die initiale TÜV-Begleitung definierten Bewertungsstandards + Aufbereitung und Präsentation der Analyseergebnisse, Risikobewertungen und Maßnahmenempfehlungen für Governance-, Management- und Steering-Gremien + Erstellung einer Projektdokumentation zur Nachweisführung der durchgeführten Bewertungen und Ergebnisse Normen/Standards: prEN *****; prEN ******; prEN 50742; IEC 62443-3-2; prEN IEC 62443-3-3*; prEN IEC 62443-4-2 Projekt-Nr.: 107392 Projekttitel: Projektmanager CRA (m/w/d) Stellentyp: freiberuflich Einsatzort: Remote Starttermin: 24.08.2026 Dauer: 1 Jahr + Anforderungen: Zusätzliche Informationen: Konnten wir Ihr Interesse wecken? Dann freuen wir uns auf die Zusendung Ihres aussagekräftigen Expertenprofils unter Angabe Ihrer Stundensatzvorstellung. SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
+      "first_seen": "2026-08-07T19:50:58.282126+00:00",
+      "id": "a374a28209bc8277",
+      "matched_keywords": [
+        "projektmanager"
+      ],
+      "published": "2026-08-07T20:53:39+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektmanager CRA (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/projektmanager-cra-m-w-d"
+    },
+    {
       "description": "Aufgabenbeschreibung: Verantwortung für den Second-Level-Support im Bereich Mobile Device Management (MDM) Pflege, Betrieb und Weiterentwicklung des bestehenden MDM-Systems Planung, Umsetzung und Dokumentation von Changes im MDM-Umfeld Sicherstellung einer strukturierten und nachvollziehbaren Systemdokumentation Unterstützung beim Device Enrollment und Rollout neuer Endgeräte Pflege und Aktualisierung von Geräteanbindungen und -konfigurationen Enge Zusammenarbeit mit Kunden und internen Teams zur Identifikation von Optimierungspotenzialen Anforderungen: - Kenntnisse in der Administration und Betreuung mobiler Endgeräte - Fundierte Erfahrung im Bereich Mobile Device Management, idealerweise mit Schwerpunkt BlackBerry & Apple Indigo oder alternativ Microsoft Intune - Erfahrung im Second-Level-Support sowie in Change und Incident Prozessen Persönliche Anforderungen:Strukturierte, selbstständige Arbeitsweise und hohe Serviceorientierung Kommunikationsstärke und Teamfähigkeit Freude daran, Systeme zu optimieren und technische Entwicklungen aktiv mitzugestalten Projektdaten: Projekt:19246 Beginn: 12.10.2026 Dauer: 31.12.2028 Haben wir Ihr Interesse geweckt? Wir freuen uns über Ihren Kontakt!",
       "first_seen": "2026-08-07T18:52:12.372612+00:00",
       "id": "240d3743b0db3431",
@@ -6162,31 +6174,7 @@
       "source": "freelancermap.de",
       "title": "Testentwickler (m/w/d)",
       "url": "https://www.freelancermap.de/projekt/testentwickler-m-w-d-3028007"
-    },
-    {
-      "description": "Projektbeschreibung Das Projekt dient der Sicherstellung der Compliance-Konformität (DORA und BAIT) beim Kunden im Themengebiet Netzwerksegmentierung / Mikrosegmentierung. Im Fokus steht die Erledigung von Feststellungen im Umfeld von IT-Netzwerk- und Sicherungssystemen sowie ausgewählte, für die IT-Produktion erforderliche Serviceprozesse inkl. zugehöriger Werkzeuge. Ziel ist die vollständige und auditfeste Umsetzung der Mikrosegmentierung sowie ein stabiler operativer Betrieb der Guardicore-Umgebung, ohne Beeinträchtigung der Bankprozesse. Rahmenparameter Start: 15.08.2026 Laufzeit: 15.08.2026 – 31.12.2026 (ca. 4,5 Monate) Auslastung: Vollzeit (entspricht bei 85 PT ca. 4 PT/Woche im Zeitraum) Einsatzort: Remote, Hannover 50/50 Aufgaben Einführung einer Mikrosegmentierung anhand des Tools Guardicore (Akamai) Unterstützung bei der Umsetzung der Maßnahmen, u. a.: Definition der Grundgesamtheit Zonierung der Anwendungen und IT-Komponenten Regelwerkserstellung, Validierung und Feinschliff Aufbau/Definition von Betriebsprozessen Testing und Nachweiserbringung (auditrelevant) Umsetzung von Blockings und Feinschliff der Regeln für Applikationen (Makrosegmentierung) Aufbau und Umsetzung von Ringfencing innerhalb der Applikationen (Mikrosegmentierung) Unterstützung im täglichen Liniengeschäft / Betrieb der Guardicore-Umgebung Überwachung von Alerts und Reaktion darauf in Zusammenarbeit mit der IT-Security Etablierung neuer Regeln sowie Bedienung und laufende Pflege des Regelprozesses im Zusammenspiel mit den Bestandssystemen Erfahrungen & Kenntnisse Mindestens 3–5 Jahre Fachexpertise im Netzwerkbereich im Bankenumfeld Sehr gute Kenntnisse in der Implementierung von Netzwerksicherungsmaßnahmen Sehr gute Kenntnisse in der Netzwerkarchitektur in Banken Guardicore-Kenntnisse, idealerweise Guardicore Certified Administrator (GCSA) Aufbau über Schulungen (Admin-Modul und Engineering-Modul) ist grundsätzlich möglich",
-      "first_seen": "2026-07-24T19:21:21.488121+00:00",
-      "id": "267cd25ddd9630fd",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-07-24T21:18:33+02:00",
-      "source": "freelancermap.de",
-      "title": "50% Remote: Senior Network Security Consultant – Guardicore / Mikrosegmentierung (Bank) (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/50-prozent-remote-senior-network-security-consultant-guardicore-mikrosegmentierung-bank-m-w-d"
-    },
-    {
-      "description": "Für einen unserer Großkunden suchen wir derzeit eine Unterstützung , die die nachfolgenden Anforderungen erfüllt: Deine Aufgaben: Betrieb, Überwachung und Sicherstellung der stabilen, sicheren und hochverfügbaren Cisco-ACI-Umgebung Kontinuierliche Analyse der Systemzustände sowie proaktive Erkennung und Behebung von Störungen im laufenden Betrieb Bearbeitung von Incidents und Service Requests im 2nd- und 3rd-Level-Support Durchführung von Ursachenanalysen sowie fachliche Begleitung und Umsetzung von Changes gemäß den Freigabeprozessen des Auftraggebers Pflege und Anpassung von ACI-Policies, Tenants, Contracts und Netzwerksegmentierungen Unterstützung bei Software-Updates, Patches und weiteren Lifecycle-Maßnahmen unter Berücksichtigung der Sicherheits-, Compliance- und Betriebsanforderungen Erstellung, Pflege und Aktualisierung von Betriebs- und Systemdokumentationen, beispielsweise Betriebsleitfäden, Übergabe- und Änderungsdokumente Durchführung von Wissenstransfers an interne Stakeholder des Auftraggebers Betriebsnahe Beratung zur Optimierung der Stabilität, Sicherheit und Skalierbarkeit der ACI-Umgebung Einbringen von Best Practices und Unterstützung bei der Weiterentwicklung der Betriebsprozesse im Zusammenspiel mit angrenzenden Infrastruktur- und Sicherheitskomponenten Dein Profil: Mehrjährige, nachweisbare praktische Erfahrung im Betrieb und in der Administration von Cisco-ACI-Umgebungen Sehr gute Kenntnisse in den Bereichen ACI Policies, Tenants, Contracts und Netzwerksegmentierung Erfahrung im Incident-, Problem- und Change-Management im 2nd- und 3rd-Level-Support Fundierte Kenntnisse im Monitoring, Troubleshooting und in der Ursachenanalyse komplexer Netzwerkumgebungen Erfahrung mit Software-Updates, Patches und Lifecycle-Maßnahmen innerhalb von Cisco-ACI-Infrastrukturen Kenntnisse angrenzender Netzwerk-, Infrastruktur- und Sicherheitskomponenten Rahmenparameter: Einsatzort: Remote & 1 Tage / Woche in Berlin Laufzeit: ab September bis 31.07.2027 mit Option auf Verlängerung Auslastung: Vollauslastung Dein GECO-Ansprechpartner freut sich auf Deine Kontaktaufnahme und über die Zusendung Deiner aussagekräftigen Projekthistorie sowie Deiner Honorarvorstellung/Gehaltsvorstellung/Preisvorstellung.",
-      "first_seen": "2026-07-24T19:21:21.488121+00:00",
-      "id": "b590a73b64b767f3",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-07-24T20:25:04+02:00",
-      "source": "freelancermap.de",
-      "title": "Senior Cisco ACI Engineer (m/w/d) in Remote & Berlin / ZGDF238189",
-      "url": "https://www.freelancermap.de/projekt/senior-cisco-aci-engineer-m-w-d-in-remote-und-berlin-zgdf238189"
     }
   ],
-  "updated_at": "2026-08-07T18:52:12.501166+00:00"
+  "updated_at": "2026-08-07T19:50:58.403498+00:00"
 }
