@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Projektziel: Aufbau einer stabilen und wartbaren Verbindung zwischen dem ERP-/Warenwirtschaftssystem pixi und Microsoft Power BI über die von pixi bereitgestellte SOAP-API. Der Schwerpunkt liegt auf der technischen Datenanbindung und Datenaufbereitung, nicht auf der Gestaltung komplexer Dashboards. Aktueller Stand: - Funktionierender SOAP-Endpunkt ist vorhanden - API-Zugangsdaten und Basic Authentication sind eingerichtet - SOAP-Aufrufe über Web.Contents funktionieren - Erster erfolgreicher Aufruf von pixiReadItems wurde durchgeführt - Die Daten liegen in Power Query verschachtelt als SOAP/XML bzw. SqlResultStream vor und müssen korrekt in tabellarische Daten überführt werden - Power Query Online / Power BI sowie pixi API-Dokumentation sind vorhanden Hauptaufgaben: - Saubere Verarbeitung der SOAP/XML-Rückgabe bzw. des SqlResultStream in Power Query - Umwandlung der SOAP/XML-Responses in tabellarische Strukturen - Abruf relevanter pixi SOAP-Methoden über Power Query - Nutzbarmachung der von pixi bereitgestellten Standardreports für Power BI - Einbindung mehrerer Datenbereiche: Artikel, Aufträge, Umsätze und Bestände - Bereitstellung von Datumswerten und anderen Dimensionen für Power-BI-Filter - Einrichtung automatischer Aktualisierungen im Power BI Service - Aufbau der Lösung so, dass intern später weitere Reports und Auswertungen eigenständig erstellt werden können Voraussetzungen: - Praktische Erfahrung mit Microsoft Power BI - Fundierte Kenntnisse in Power Query / M - Erfahrung mit REST- und insbesondere SOAP-APIs - XML-Verarbeitung - Web.Contents - Basic Authentication / HTTP Header - Datenmodellierung in Power BI - Power BI Service und automatische Aktualisierung - Erfahrung mit pixi ERP / Descartes pixi ist von Vorteil, aber keine Voraussetzung Erwartetes Ergebnis: - Funktionierender Datenabruf aus pixi über SOAP-API mit sauberer tabellarischer Ausgabe in Power BI - Stabile und wartbare Datenanbindung als Grundlage für weitere pixi-Reports und Datenquellen Zeitrahmen/Projektstart: Kurzfristig, gerne sofort Arbeitsmodell: Remote Projektumfang: Zunächst überschaubares Einrichtungs- und Beratungsprojekt; bei erfolgreicher Zusammenarbeit sind weitere Power-BI-Themen möglich.",
+      "first_seen": "2026-08-09T03:39:20.113667+00:00",
+      "id": "e1c50e1565fd40f5",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-08-09T04:32:44+02:00",
+      "source": "freelancermap.de",
+      "title": "Power BI Experte gesucht – Anbindung einer SOAP-API von pixi ERP an Power BI",
+      "url": "https://www.freelancermap.de/projekt/power-bi-experte-gesucht-anbindung-einer-soap-api-von-pixi-erp-an-power-bi"
+    },
+    {
       "description": "Momentan suche ich für meinen Kunden aus Frankfurt am Main einen kurzfristig verfügbaren Testmanager mit Azure-Erfahrung für ein 100% Remote Projekt. Das Projekt: Start: 01.09.2026, gerne früher Länge: 4 Monate (Verlängerung möglich) Ort: 100% Remote (Endkunde sitzt in Frankfurt am Main) Sprache: Deutsch/Englisch Zu deinen Aufgaben zählen: • Strukturierung und Aufbau der Testinfrastruktur für eine Azure-Migration; • Zusammenarbeit mit Nearshore-Test-Teams; • Aufbau und Ableiten von Testfällen. Dein Background (!Selbsteinschätzung auf der Skala: 1-10!): • Testmanagement; • Azure; • Cloud-Migration; • BizTalk; • C#/.NET; • SQL. Du hast Interesse und bist zeitnah verfügbar? Dann melde dich gerne mit aktuellem CV, deiner projektbezogenen Selbsteinschätzung und deinem Stundensatz. Gerne können wir uns dann über die Projektdetails telefonisch austauschen.",
       "first_seen": "2026-08-08T16:30:00.003071+00:00",
       "id": "0f5eb551cc7e32db",
@@ -6077,5 +6089,5 @@
       "url": "https://www.freelancermap.de/projekt/java-typescript-developer-mit-geodaten-erfahrung-m-w-d-100-prozent-remote-start-17-08-2026"
     }
   ],
-  "updated_at": "2026-08-09T01:26:46.794508+00:00"
+  "updated_at": "2026-08-09T03:39:20.233774+00:00"
 }
