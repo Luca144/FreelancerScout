@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Liebes Netzwerk, für einen etablierten Entwickler spezialisierter Softwarelösungen unterstützen wir aktuell die Suche nach einem entwicklungsstarken Freelancer (m/w/d), der KI und Automatisierung direkt in die Support-Organisation bringt. Hier geht es nicht um klassischen Support, sondern um Echte Engineering-Power für das Team: Du analysierst wiederkehrende Muster, entwickelst intelligente Skripte sowie KI-Agenten und baust Tools, die die Effizienz des gesamten Support-Teams nachhaltig steigern. Projektdetails Position: Freelance AI Support Engineer & Automation Specialist (m/w/d) Start: asap Dauer: 6 Monate (Verlängerung möglich) Ort: Raum Pforzheim (hybrid, ca. 2 Tage pro Woche vor Ort) Workload: Vollzeit Projektsprache: Deutsch Aufgaben Analyse wiederkehrender Support-Fälle und Identifikation von konkretem Automatisierungspotenzial Entwurf und Entwicklung von Skripten sowie internen Tools (Python, PowerShell, SQL), um Support-Aufgaben spürbar zu beschleunigen Konzeption und Integration KI-gestützter Assistenten (z. B. für Log- und DB-Analysen, Ticket-Triage oder Wissensdatenbanken) Befähigung des Support-Teams durch das Erstellen von Playbooks sowie Schulungen zu Best Practices rund um KI und Automatisierung Anforderungen Solide Engineering-Erfahrung und die Fähigkeit, produktionsreifen, wartbaren Code zu schreiben Starke Praxis im Umgang mit KI-Coding-Tools (z. B. Cursor, Claude Code o. ä.) und ein ausgeprägtes AI-First-Mindset Verlässliche Kenntnisse in Python und SQL Sicherheit in Windows- und Linux-Serverumgebungen sowie auf der Kommandozeile Fließende Deutschkenntnisse in Wort und Schrift für die interne Kommunikation und Kundenkontakt Grundverständnis für Fernwartung / Remote-Desktop und Datenbank-Zugriffe Nice-to-Have Erfahrung in der Healthcare-IT oder Kenntnisse klinischer Software-Workflows Bewusstsein für Datenschutz und DSGVO im Kontext sensibler Daten Eine pragmatische, eigenverantwortliche und lösungsorientierte Arbeitsweise Klingt diese Schnittstelle aus Engineering, KI-Innovation und Prozessoptimierung spannend für Dich? Dann freue ich mich auf Deine Nachricht inklusive aktuellem Profil und Angabe Deiner Verfügbarkeit! Kleine Randnotiz: Wir bearbeiten alle Rückmeldungen und geben immer unser Bestes, uns bei allen Kandidaten (m/w/d) zurückzumelden. Leider ist dies nicht immer möglich, wir bitten um Ihr Verständnis. Wenn wir uns innerhalb von 5 Werktagen nicht bei Ihnen melden, gehen Sie bitte davon aus, dass der Kunde sich für einen anderen Kandidaten entschieden hat. Liebe Grüße Margarita",
+      "first_seen": "2026-08-09T09:36:13.302199+00:00",
+      "id": "7e0db04aa2743e0b",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-08-09T11:04:06+02:00",
+      "source": "freelancermap.de",
+      "title": "Nearshore - Freelance AI Support Engineer & Automation Specialist (m/w/d) – Python / KI-Tools",
+      "url": "https://www.freelancermap.de/projekt/nearshore-freelance-ai-support-engineer-und-automation-specialist-m-w-d-python-ki-tools"
+    },
+    {
       "description": "Ich brauche Unterstützung bei der Einrichtung eines lokalen KI-Systems. Ziel ist es, vor allem Module in Python für das Tryton-ERP programmieren zu können, das habe ich bis jetzt online überwiegend mit qwen, gelegentlich etwas unterstützt von Claude gemacht, und das funktioniert schon ganz schön. Was ich gerne hätte: Ein lokales System, das mit einem lokalen KI-Modell den Code direkt lokal auf die Platte schreibt, so dass er direkt getestet werden kann und das lästige und fehleranfällige Hin- und Herkopieren entfällt. Und natürlich sollen dem System die ganzen Hintergrundinfos zu Trytons Strukturen und Arbeitsweisen, die ich im Laufe der Zeit gesammelt habe, zur Verfügung stehen. Vorhanden ist: Ein Rechner mit AMD Ryzen 2600, 16 GB RAM, eine AMD 7600 XT-Grafikkarte mit 16GB VRAM. Ubuntu-Linux 26. Was bereits funktioniert: Ollama Lokal mit quen-coder-2.5-7b. Auch die Anbindung an AnythingLLM hat geklappt. Was nicht funktioniert: Der Zugriff von AnythingLLM auf mein freigegebenes Verzeichnis – und das Schreiben auf die Platte. Ich hatte auch einen sehr guten ersten Eindruck von Cursor – allerdings scheint da die Einbindung eines lokalen Modells inzwischen nicht mehr zu funktionieren. Bin mir an diesem Punkt aber nicht ganz sicher, die Aussagen sind ja widersprüchlich. Was Sie tun sollen: Systementscheid: Bei AnythingLLM bleiben - oder etwas anderes? - VS Studio scheint mir allerdings stark übertrieben für meine Bedürfnisse. Und dann: Mir in ein bis zwei Stunden das System vollständig lauffähig zu machen, und noch eine kurze Einführung zu geben. ***** *****",
       "first_seen": "2026-08-09T07:52:06.781761+00:00",
       "id": "b88b9af0e3545f13",
@@ -6099,19 +6111,7 @@
       "source": "freelancermap.de",
       "title": "SAP (Teil)Projektleiter, PMO, Rollout- & Integrationsmanager",
       "url": "https://www.freelancermap.de/projekt/sap-teil-projektleiter-pmo-rollout-und-integrationsmanager"
-    },
-    {
-      "description": "Momentan suche ich für meinen Kunden aus Frankfurt am Main einen kurzfristig verfügbaren Java/TypeScript Developer mit Geodaten-Erfahrung für ein 100% Remote Projekt. Das Projekt: Start: 17.08.2026, gerne früher Länge: 5 Monate (Verlängerung möglich) Ort: 100% Remote (Endkunde sitzt in Frankfurt am Main) Sprache: Deutsch !WICHTIG: Aus Compliance-Gründen können nur festangestellte Mitarbeiter von Systemhäusern berücksichtigt werden! Zu deinen Aufgaben zählen: • Weiterentwicklung einer Geodaten-Anwendung in einem Scrum-Team; • Implementierung neuer Features mit Java und TypeScript; • Testing und Dokumentation. Dein Background (!Selbsteinschätzung auf der Skala: 1 – 10!): • Java; • TypeScript; • Geodaten; • OpenStreetMap; • E2E-Tests. Du hast Interesse und bist zeitnah verfügbar? Dann melde dich gerne mit aktuellem CV, deiner projektbezogenen Selbsteinschätzung und deinem aktuellen Stundensatz. Gerne können wir uns dann über die Projektdetails telefonisch austauschen.",
-      "first_seen": "2026-07-26T09:10:28.047408+00:00",
-      "id": "e318d4e6488fb790",
-      "matched_keywords": [
-        "scrum"
-      ],
-      "published": "2026-07-26T09:34:40+02:00",
-      "source": "freelancermap.de",
-      "title": "Java/TypeScript Developer mit Geodaten-Erfahrung (m/w/d) - 100% Remote - Start: 17.08.2026!",
-      "url": "https://www.freelancermap.de/projekt/java-typescript-developer-mit-geodaten-erfahrung-m-w-d-100-prozent-remote-start-17-08-2026"
     }
   ],
-  "updated_at": "2026-08-09T08:38:41.517222+00:00"
+  "updated_at": "2026-08-09T09:36:13.421731+00:00"
 }
