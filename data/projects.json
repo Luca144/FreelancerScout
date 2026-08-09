@@ -1,5 +1,25 @@
 [
   {
+    "description": "Project Goal: Design a carrier board for the RP2354A microcontroller chip. Main Tasks: - Design a carrier board based on the RP2354A chip - Integrate a USB-C port for power supply and data transfer, fulfilling the same role as the Micro USB port on a Raspberry Pi Pico - Add 8 RJ45 ports, wired non-standardly: each port has two pins connected to GPIO (pin 2 and pin 4) and one pin connected to GND (pin 8) - Include a boot button and a reset button on the board - Add a debug connector using a JST header, similar to the official reference design - No additional components or circuitry beyond the above specifications Prerequisites: Experience in PCB design, familiarity with RP2350/RP2354 chip designs is beneficial. Reference materials provided include official manufacturer documentation and an example RP2354A board design with USB-C. Expected Result: A complete carrier board design for the RP2354A featuring a USB-C port, 8 custom-wired RJ45 ports, boot and reset buttons, and a JST debug connector, with nothing else on the board.",
+    "first_seen": "2026-08-09T15:28:02.823952+00:00",
+    "id": "8ed57aface95b2f0",
+    "matched_keywords": [],
+    "published": "2026-08-09T16:43:46+02:00",
+    "source": "freelancermap.de",
+    "title": "PCB Designer for RP2354A Carrier Board with USB-C and RJ45",
+    "url": "https://www.freelancermap.de/projekt/pcb-designer-for-rp2354a-carrier-board-with-usb-c-and-rj45"
+  },
+  {
+    "description": "Parameter: Start: Ab sofort Laufzeit: 24 Monate Einsatzort: 74366 Kirchheim am Neckar (Baden-Württemberg) Auslastung: 5 Tage/Woche vor Ort ID: VAC-161924 Koordination und Überwachung der Teams auf der Baustelle Steuerung und Kontrolle von Kabelzug-, Anschluss- und Inbetriebnahmeaktivitäten Koordination der Stahlbau- und Montagearbeiten Überwachung der Installation von Hochspannungsgeräten, Schaltanlagen und Verbindungen Führung, Abstimmung und Betreuung der Mitarbeitenden sowie der beteiligten Unternehmen vor Ort Verantwortung für Arbeitssicherheit, Gesundheits- und Umweltschutz einschließlich DGUV-Konformität Fortschrittskontrolle, Terminverfolgung sowie Erstellung regelmäßiger Status- und Projektberichte",
+    "first_seen": "2026-08-09T15:28:02.823952+00:00",
+    "id": "c459facf27d16ebb",
+    "matched_keywords": [],
+    "published": "2026-08-09T16:38:01+02:00",
+    "source": "freelancermap.de",
+    "title": "Bauleitung Umspannwerk (m/w/d)",
+    "url": "https://www.freelancermap.de/projekt/bauleitung-umspannwerk-m-w-d"
+  },
+  {
     "description": "Beschreibung Für ein Projekt im Telekommunikationsumfeld suchen wir kurzfristig einen erfahrenen QA Engineer / Software Tester (m/w/d) mit Schwerpunkt auf Mobile-App-Testing. Im Rahmen des Projekts sollen entwickelte Features und User Stories einer Android-/iOS-App qualitativ abgesichert und die bestehende Testautomatisierung weiterentwickelt werden. Aufgaben / Leistungsgegenstand: Analyse und Review fertig entwickelter User Stories hinsichtlich Qualität und Testbarkeit Erstellung, Durchführung und Dokumentation manueller Tests auf mobilen Testgeräten Durchführung von Regressionstests Identifikation, Analyse und Dokumentation von Fehlern und Auffälligkeiten Unterstützung bei der Weiterentwicklung und Optimierung der Testautomatisierung Automatisierung von Mobile-App-Tests, insbesondere im Android-Umfeld Durchführung und Analyse von API-/Schnittstellentests Dokumentation der Testergebnisse sowie Abstimmung technischer Findings mit den beteiligten Entwicklungsteams Zusammenarbeit mit Backend-Entwicklung und angrenzenden technischen Schnittstellen Erforderliche Kenntnisse: Mehrjährige Erfahrung im manuellen Softwaretesting und in der Testautomatisierung Sehr gute Erfahrung im Testen von Android- und iOS-Applikationen Erfahrung mit Kotlin Erfahrung mit Espresso oder vergleichbaren Mobile-Testautomatisierungsframeworks Erfahrung mit Git und Jira Erfahrung mit Flipper, Proxyman und/oder Paw/RapidAPI Gute Kenntnisse in Java Erfahrung mit REST-Schnittstellen / REST APIs Erfahrung mit Selenium Erfahrung mit Appium Strukturierte Vorgehensweise bei Fehleranalyse, Testdesign und Dokumentation Nice-to-have: Erfahrung im Telekommunikationsumfeld Erfahrung mit CI/CD und automatisierten Regressionstests Erfahrung mit dem Einsatz von AI-/KI-Werkzeugen im Softwaretest bzw. in der Qualitätssicherung",
     "first_seen": "2026-08-09T14:31:25.948981+00:00",
     "id": "f71608e8ff1bb21c",
@@ -12338,25 +12358,5 @@
     "source": "freelancermap.de",
     "title": "6 Monate+ PHP-Entwickler in 77656 Offenburg gesucht!",
     "url": "https://www.freelancermap.de/projekt/6-monate-php-entwickler-in-77656-offenburg-gesucht"
-  },
-  {
-    "description": "Tätigkeiten: Umsetzung von fachlichen und technischen Anforderungen Implementierung von Services, Funktionen und Schnittstellen im agilen Team (Pair-Programming, Code-Reviews, Wissensaustausch sind wünschenswert) Unterstützung bei der Anforderungsspezifikation und der Aufwandsschätzung Abstimmung mit Ansprechpartnern (m/w/d) von Schnittstellen, Middleware-Diensten, Infrastrukturbetrieb im Falle von Wartungsmaßnahmen, Änderungsbedarf, Fehlern etc. Analyse und Behebung von Fehlern und Ausfällen der (produktiven) Anwendungen Dokumentation von Prozessen, Konfigurationen und Entwicklungsaufgaben Anforderungen: Einschlägige Erfahrung mit Microservice-Architekturen (Spring Boot, Event-based Communication, REST-Services) Praktische Kenntnisse mit Scrum und agilen Methoden (Epics, Stories, Daily Meeting, Refinement, Retrospektive, Review) Umgang mit JIRA und Confluence Integration einer Datenbank (Oracle oder anderer Datenbank) in eine Softwarelösung mindestens ein Grundverständnis über die Abläufe von Continuous Integration und Continuous Deployment (CI/CD) (Bitbucket, Jenkins, Ansible (optional)) Defensives Programmieren Configuration as Code Erfahrung in: Java LTS, Spring-Cloud (Stream, Function oder OpenFeign) Erfahrung in Spring-Boot 3.x, Spring-Framework (Spring Security 6.x, 7.x, OAUTH 2., Spring Data/JPA oder Spring HATEOS) Erfahrung in OpenAPI/Swagger, SQL, Apache Kafka 2.x, Maven ? 3.6 (3.8, Unit-/Komponenten-/Integrations-Tests mit JUnit5, Mockito, AssertJ, optional: Spock, Cucumber, REST, WSDL, JAXB, XML, XSD, JSON, optional: XSLT",
-    "first_seen": "2026-07-26T15:02:44.509058+00:00",
-    "id": "c819789bca9e2b56",
-    "matched_keywords": [],
-    "published": "2026-07-26T16:18:47+02:00",
-    "source": "freelancermap.de",
-    "title": "Backend Entwickler (m/w/d) Java",
-    "url": "https://www.freelancermap.de/projekt/backend-entwickler-m-w-d-java-3028048"
-  },
-  {
-    "description": "Tätigkeiten: Unterstützung bei Frontendentwicklungen Ggf. Unterszützung bei der Anbindung von Drittsystemen (digitale Veraktung bpsw.) Tägliche Teamarbeit (u.a. pair programming, code reviews, team talks) Unterstützung bei Requirement Engineering Schätzung und Umsetzung von User Stories im agilen Team Kontinuierlicher Wissensaufbau und -austausch im agilen Team Entwicklung von Microservices auf Basis von Java, Spring Boot, Spring Cloud, Kubernetes-Cluster Anforderungen: Nachgewiesene mehrjährige Erfahrung mit Java und Spring Boot Nachgewiesene mehrjährige Erfahrung mit TypeScript und Angular (Im Projekt wird Angular Framework eingesetzt) Fundierte Kenntnisse mit Microservices, Cloud, REST Mehrjährige Erfahrung mit Docker und Kubernetes Erfahrung mit Oracle Erfahrung mit Jira und Confluence Solide Kenntnisse in Scrum und agile Arbeit",
-    "first_seen": "2026-07-26T15:02:44.509058+00:00",
-    "id": "2ac3bcaca7b3364b",
-    "matched_keywords": [],
-    "published": "2026-07-26T16:05:06+02:00",
-    "source": "freelancermap.de",
-    "title": "Senior Fullstack Entwickler (m/w/d)",
-    "url": "https://www.freelancermap.de/projekt/senior-fullstack-entwickler-m-w-d-3028047"
   }
 ]
