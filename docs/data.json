@@ -1,6 +1,138 @@
 {
   "projects": [
     {
+      "description": "Tätigkeiten Als Scrum Master / Agile Coach begleitest Du das Prometheus Team bei der Weiterentwicklung unserer Salesforce Service -Plattform. Gemeinsam entwickeln wir Lösungen, die unseren Agent*innen die bestmöglichen Werkzeuge an die Hand geben, um unseren Kund*innen jeden Tag einen ausgezeichneten Service zu bieten. Das Prometheus Team verantwortet die Weiterentwicklung der Salesforce Service Cloud und gestaltet die digitale Arbeitsumgebung unserer Customer Service Teams maßgeblich mit. Du unterstützt und coachst das Team sowie die Product Ownerin bei der Umsetzung unserer Produktvision. Dabei förderst Du Selbstorganisation, Wissensaustausch und eine vertrauensvolle Zusammenarbeit, damit das Team nachhaltig erfolgreich und leistungsfähig arbeiten kann. Scrum und Agilität sind für Dich mehr als Methoden und Frameworks. Du lebst agile Werte aktiv vor, förderst eine Kultur der kontinuierlichen Verbesserung und unterstützt das Team dabei, Herausforderungen frühzeitig zu erkennen und zu lösen. Du schaffst Transparenz über Ziele, Fortschritte und Abhängigkeiten und unterstützt die Zusammenarbeit mit anderen Produkt - und Entwicklungsteams. Dabei hilfst Du uns, agile Arbeitsweisen in einem komplexen und kundenorientierten Umfeld erfolgreich weiterzuentwickeln. Das gesuchte Profil • Mehrjährige Erfahrung als Scrum Master oder Agile Coach in Softwareentwicklungs - oder Produktteams • Fundierte Kenntnisse agiler Methoden und Frameworks wie Scrum, Kanban sowie moderner Skalierungsansätze • Erfahrung in der Zusammenarbeit mit technischen Teams, idealerweise im Umfeld von Salesforce oder anderen CRM -Plattformen • Hervorragende Kommunikations - und Moderationsfähigkeiten sowie die Fähigkeit, unterschiedliche Perspektiven zusammenzubringen • Freude daran, Teams zu befähigen, weiterzuentwickeln und auf ihrem Weg zur Selbstorganisation zu begleiten • Ein gutes Verständnis für kundenorientierte Prozesse und digitale Service -Lösungen • Eine ausgeprägte Hands -on-Mentalität gepaart mit Begeisterung für kontinuierliche Verbesserung",
+      "first_seen": "2026-08-11T15:58:42.795438+00:00",
+      "id": "73c096e55d8b1eee",
+      "matched_keywords": [
+        "scrum master",
+        "product owner",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-08-11T17:54:43+02:00",
+      "source": "freelancermap.de",
+      "title": "Scrum Master im Bereich Customer Service Solutions (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/scrum-master-im-bereich-customer-service-solutions-m-w-d"
+    },
+    {
+      "description": "We are looking for a Cloud Data Migration Architect with proven experience in large-scale Data Warehouse migrations to Google BigQuery. Project Details Start: Immediate Duration: 3 months, extension possible Location: Remote from Germany, with several onsite days at the client’s locations across the EU Language: English required, Italian preferred Location Requirement: Candidates must be based and working from Germany Responsibilities Lead and design large-scale Data Warehouse migrations to Google BigQuery Develop cloud, database and end-to-end data migration strategies Design and support data migration processes Perform data mapping and data conversions Optimize complex workloads and SQL queries Support Data Streaming SIG initiatives Must-have Requirements Extensive experience as a GCP Data Architect Proven experience leading large-scale DWH migrations to BigQuery Experience with migrations of very large data volumes, e.g. several hundred TB or comparable scale Deep expertise in Teradata Strong knowledge of Cloud Database, Data Lake and end-to-end Data Migration strategies Hands-on experience with Databricks and Dataproc Advanced SQL and SQL tuning skills Proficiency in Python or Java Experience with Data Migration Design, Data Conversions and Data Mapping Nice-to-have Experience with Oracle / Exadata Experience with Snowflake Experience with other source systems, provided the migrations were conducted at a comparable scale Experience supporting Data Streaming SIG initiatives Teradata source experience is particularly preferred Italian language skills Important for Submission Please submit only candidates who are based and working from Germany . Please indicate at the beginning of the CV: Earliest availability / notice period Current employer Freelance Distribution Channel",
+      "first_seen": "2026-08-11T15:58:42.795438+00:00",
+      "id": "7b1d22f168135483",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-08-11T17:49:58+02:00",
+      "source": "freelancermap.de",
+      "title": "Cloud Data Migration Architect - Google BigQuery",
+      "url": "https://www.freelancermap.de/projekt/cloud-data-migration-architect-google-bigquery"
+    },
+    {
+      "description": "Für unseren Kunden suchen wir ab September einen Anforderungsmanagers / Requirement Engineer (m/w/d) Erfahrung Telematikinfrastruktur Die Aufgaben umfassen: Systematische Erfassung von Anforderungen aus Gesetzen, Normen, Richtlinien (gematik/BSI) und Stakeholder-Bedürfnissen, präzise Formulierung von Anforderungen (funktionale und nicht funktionale Anforderungen, z. B. zu Performance, Hochverfügbarkeit und Kryptografie), Moderation zwischen internen Teams, externen Partnern, Auditoren und Behörden; Durchführung von Abstimmungs- und Review-Workshops, strukturierte Aufbereitung von Änderungsanforderungen (Change Requests) und Sicherstellung der Rückverfolgbarkeit (Requirements Traceability Matrix), Vorbereitung von Audits, Zertifizierungen sowie Abnahmetests (UAT). Skills (must have): Mind. 5 Jahre Berufserfahrung im Anforderungsmanagement oder Requirements Engineering mind. 3 Jahre Praxiserfahrung in komplexen, hochregulierten IT-Projekten Mind. 3 Jahre Praxiserfahrung in komplexen, hochregulierten IT-Projekten – im Bereich der Telematikinfrastruktur (TI) oder mit Vertrauensdiensteanbietern (QTSP), gute Erfahrung in der Zusammenarbeit mit den verschiedenen Akteuren im deutschen Gesundheitswesen (z. B. gematik, Leistungserbringer, Herausgeberorganisationen) sowie der Architektur, Protokolle und Dienste der Telematikinfrastruktur, fundiertes, für die Rolle und Verantwortlichkeit eines Qualified Trust Service Providers (Vertrauensdiensteanbieter) relevantes Wissen, inklusive bereitgestellter Services wie elektronischer Signaturen, Siegel, Zeitstempel und Zertifikatsmanagement, fundiertes Verständnis von IT-Sicherheit, Kryptographie und PKI, TI-Infrastrukturkomponenten und Compliance-Prozessen (mindestens zwei pro Referenz), Erfahrung mit der nahtlosen Verfolgbarkeit (Traceability) von der initialen Idee über die Implementierung, Test und Rollout bis hin zur Außerbetriebnahme, sehr gute Kenntnisse von Requirements Engineering nach aktuellen Standards, User- Story-Mapping, Use-Case-Modellierung, Domänen-Modellierung sowie agiles Anforderungsmanagement, sicherer Umgang mit gängigen Anforderungs- und Projektmanagement-Tools (Jira & Confluence). Kenntnisse der relevanten gesetzlichen und regulatorischen Vorgaben (u. a. eIDAS2.0, ETSI EN 319 xxx, DSGVO, BSI-Anforderungen, gematik-Spezifikationen) Erfahrung in der Überführung die relevanten gesetzlichen und regulatorischen Vorgaben in präzise technische und fachliche Anforderungen Nachweis über CPRE-Zertifikat (Certified Professional for Requirements Engineering) des International Requirements Engineering Board (IREB). Projektdauer: Mai 2027 Ich freue mich auf Ihr Interesse! Mit freundlichen Grüßen Julia Barysava percision services GmbH Senior IT Recruitment Consultant Agrippinawerft 26 (2. Etage) 50678 Köln Mobil: ***** Mail: ***** Zentrale: Fon ***** – 555 Mail ***** Web www.percision.de percision services GmbH mit Sitz in Dortmund Geschäftsführer: Peter de Lorenzi Amtsgericht Dortmund HRB 16420 UST-ID: DE 217727976",
+      "first_seen": "2026-08-11T15:58:42.795438+00:00",
+      "id": "2019ec865ae46987",
+      "matched_keywords": [
+        "requirements engineer",
+        "anforderungsmanager",
+        "ireb",
+        "cpre",
+        "agil"
+      ],
+      "published": "2026-08-11T17:42:33+02:00",
+      "source": "freelancermap.de",
+      "title": "Anforderungsmanagers / Requirement Engineer (m/w/d) Erfahrung Telematikinfrastruktur",
+      "url": "https://www.freelancermap.de/projekt/anforderungsmanagers-requirement-engineer-m-w-d-erfahrung-telematikinfrastruktur"
+    },
+    {
+      "description": "Für meinen Kunden bin ich auf der Suche nach einem Order Management Design Experten (m/w/d) for Retail Skills: Supply Chain Sterling Order Management(key skill) Retail, Grocery, Business Design, Process Design, Requirements Engineering, Development Coordination; Bei interesse freue ich mich über Ihren CV an: Alena.Arnold AT pont-connects.de",
+      "first_seen": "2026-08-11T15:58:42.795438+00:00",
+      "id": "5020b91b872f921c",
+      "matched_keywords": [
+        "requirements engineer"
+      ],
+      "published": "2026-08-11T17:37:39+02:00",
+      "source": "freelancermap.de",
+      "title": "Package Consultant  /Order Management (m/w/d)  Retail",
+      "url": "https://www.freelancermap.de/projekt/order-management-design-experte-m-w-d-retail"
+    },
+    {
+      "description": "Für ein mehrjähriges Transformationsprogramm im SAP- und ERP-Umfeld wird Unterstützung in den Bereichen IT-Dokumentation und PMO gesucht. Im Mittelpunkt des Vorhabens steht die Ablösung einer bestehenden, individuell entwickelten Anwendung durch eine standardisierte, zukunftsfähige Systemlösung. Das Projekt ist in eine umfangreiche und international geprägte Systemlandschaft mit zahlreichen angebundenen ERP-Systemen eingebettet. Aufgabenbereich Begleitung einer umfangreichen Daten- und Systemmigration Entwicklung und Pflege einer einheitlichen Ablage- und Archivierungsstruktur für IT- und Projektdokumente Erstellung, Überarbeitung und Standardisierung von Dokumentvorlagen, unter anderem für: Business Requirements Documents Strategiedokumente Entscheidungsvorlagen für das Management Functional Design Documents weitere projektbezogene IT-Dokumentationen Prüfung eingereichter Dokumente hinsichtlich formaler Vorgaben sowie teilweise auch inhaltlicher Qualität Durchführung strukturierter Qualitätsprüfungen anhand definierter Kriterien Abstimmung mit Dokumentenverantwortlichen, Projektleitungen und externen Umsetzungspartnern Nachverfolgung von Überarbeitungen sowie Rückgabe nicht ausreichender oder unvollständiger Unterlagen Unterstützung beim Aufbau und bei der Weiterentwicklung von Dokumentationsrichtlinien und Projektstandards Übernahme organisatorischer PMO-Tätigkeiten, beispielsweise: Erstellung und Nachbereitung von Besprechungsprotokollen Pflege von Abwesenheits- und Urlaubskalendern Aktualisierung von Stakeholder- und Kontaktübersichten Unterstützung bei weiteren administrativen Projektabläufen",
+      "first_seen": "2026-08-11T15:58:42.795438+00:00",
+      "id": "9a8877b249cb351a",
+      "matched_keywords": [
+        "pmo"
+      ],
+      "published": "2026-08-11T17:36:42+02:00",
+      "source": "freelancermap.de",
+      "title": "IT PMO (w/m/d)",
+      "url": "https://www.freelancermap.de/projekt/it-pmo-w-m-d"
+    },
+    {
+      "description": "Facharbeiter Elektro- & Verfahrenstechnik (m/w/d) für langfristiges Industrieprojekt gesucht! Ich suche aktuell einen Facharbeiter (m/w/d) im Bereich Elektro- und Verfahrenstechnik zur Unterstützung anspruchsvoller Rückbau- und Entsorgungsprojekte im kerntechnischen Umfeld. Start: 01.12.2026 Auslastung: Vollzeit (40 Std./Woche) Einsatzort: Karlsruhe Ihre Aufgaben: ✅ Wartung und Instandhaltung elektrotechnischer und verfahrenstechnischer Anlagen ✅ Durchführung von Prüfungen nach Vorgaben und Protokollen ✅ Analyse und Beseitigung von Störungen ✅ Begleitung und Überwachung externer Dienstleister ✅ Mitwirkung bei Anlagenumbauten ✅ Teilnahme an der wechselnden Rufbereitschaft Ihr Profil: ✔ Abgeschlossene Ausbildung im Bereich Elektrotechnik, Mechatronik oder vergleichbar ✔ Erfahrung in Wartung, Instandhaltung oder Betrieb technischer Industrieanlagen ✔ Selbstständige Arbeitsweise und technisches Verständnis ✔ Bereitschaft zur Arbeit in sicherheitskritischen Anlagenbereichen Das Projekt bietet: ⚡ Langfristige Perspektive bis 2028 Technisch anspruchsvolles Industrieumfeld Abwechslungsreiche Aufgaben zwischen Instandhaltung, Umbau und Anlagenbetrieb Mitarbeit an einem der größten Rückbauprojekte Deutschlands Interessiert oder kennen Sie jemanden aus Ihrem Netzwerk? Dann freue ich mich über eine Nachricht oder die Zusendung eines aktuellen Lebenslaufs. ***** SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-08-11T15:58:42.795438+00:00",
+      "id": "2c71e2a91d51e9a8",
+      "matched_keywords": [
+        "netz",
+        "tso"
+      ],
+      "published": "2026-08-11T17:35:56+02:00",
+      "source": "freelancermap.de",
+      "title": "Facharbeiter Elektro- & Verfahrenstechnik (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/facharbeiter-elektro-und-verfahrenstechnik-m-w-d"
+    },
+    {
+      "description": "Start: Oktober 2026 Dauer: 30.09.2027 Auslastung: 39 Stunden/Woche Einsatzort: Frankfurt am Main Remote-Anteil: 1 Tag die Woche möglich Vertragsart: Arbeitnehmerüberlassung Aufgabenbereich: Telefonische Betreuung und Aktivierung vorausgewählter B2B-Bestandskunden aus dem Banken-, Fonds- und Asset-Management-Umfeld Durchführung von etwa 15 bis 20 Kundengesprächen pro Tag auf Basis bestehender Kontaktlisten und Gesprächsleitfäden Einladung von Kunden zu kleineren Veranstaltungen, Webcasts, Kongressen und persönlichen Austauschformaten Regelmäßige Information der Kunden über neue Produkte, Veranstaltungen sowie relevante Markt- und Unternehmensentwicklungen Ermittlung von Kundenbedürfnissen und Identifikation möglicher Cross-Selling- und Vertriebschancen Sicherstellung einer hohen Kundenzufriedenheit und kontinuierlichen Kundenbindung Dokumentation der Gespräche und Weiterleitung relevanter Kundeninformationen Enge Zusammenarbeit mit Business Development, Client Account Management und den internen Supportteams Unterstützung bei der Betreuung bestehender Kunden sowie bei der Entwicklung neuer Kundenbeziehungen Das bringen Sie mit: Erfahrung in der Kundenberatung oder im Account Management bei einer Bank, Fondsgesellschaft, einem Asset Manager oder Finanzdienstleister Erfahrung im Finanzmarktumfeld, idealerweise im Fondsvertrieb, Asset Management oder bei einer Bank Kenntnisse über Fonds, Investmentprodukte und Kapitalmärkte Ausgeprägte Freude an der aktiven telefonischen Kundenansprache und am regelmäßigen Kundenkontakt Starker Servicegedanke und der Anspruch, Kunden zuverlässig zu betreuen und langfristig zufriedenzustellen Kommunikationsstärke, ein verbindliches Auftreten und eine offene, teamorientierte Persönlichkeit Eigenständige, strukturierte und lösungsorientierte Arbeitsweise Deutsch auf muttersprachlichem Niveau sowie sichere Englischkenntnisse Idealerweise eine Bankausbildung oder ein abgeschlossenes Studium im Bereich Banking, Finance oder Wirtschaft Sollte die Aufgabe spannend für Sie klingen, zögern Sie nicht mich zu kontaktieren. Gerne dürfen Sie das Projekt auch in Ihrem Netzwerk teilen. Bei erfolgreicher Vermittlung eines Kollegen winkt Ihnen ein 250 EUR Amazon Gutschein als Dankeschön zu. Ich freue mich auf Ihre Rückmeldung! SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-08-11T15:58:42.795438+00:00",
+      "id": "052d0ecdbb2cd678",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-08-11T17:35:49+02:00",
+      "source": "freelancermap.de",
+      "title": "Client Account Manager (m/w/d) Frankfurt am Main",
+      "url": "https://www.freelancermap.de/projekt/client-account-manager-m-w-d-frankfurt-am-main"
+    },
+    {
+      "description": "Für ein befristetes Projekt bei einem öffentlichen Auftraggeber suchen wir eine/n KI-Entwickler/in für den Aufbau eines Open-Source-Assistenzsystems (Chatbot), das Bürgerinnen, Bürgern und Unternehmen in Sachsen-Anhalt Fragen zur Gebäudesanierung (energetische Sanierung, Förderprogramme) beantwortet. Aufgaben: Konzeption und Entwicklung eines Open-Source-KI-Assistenten (LLM-/RAG-basiert) für Bürger- und Unternehmensanfragen Aufbau einer Wissensbasis zu Sanierungs- und Förderthemen Einsatz ausschließlich Open-Source-Komponenten (keine proprietären Cloud-LLM-Dienste) Deployment auf der bereitgestellten Serverinfrastruktur Testing, Feinabstimmung, Dokumentation und Wissenstransfer an den Auftraggeber Anforderungen: Nachgewiesene Erfahrung in der Entwicklung von LLM-/RAG-basierten Chatbots/Assistenzsystemen Erfahrung mit Open-Source-LLM-Stacks (z. B. Llama, Open-Source-Frameworks für RAG) Gute Deutschkenntnisse Erfahrung mit Themen wie Energieeffizienz/Gebäudesanierung/Fördermittelberatung von Vorteil, aber nicht zwingend Wichtige Eignungsvoraussetzung: mindestens 1 abgeschlossenes Referenzprojekt aus den letzten 12 Monaten im Bereich KI-gestützte Assistenz für die öffentliche Hand. Bitte bei Bewerbung konkret angeben. Bewerbungen ohne diese Angabe werden ohne weitere Rückfrage abgelehnt. Projektdaten: Start 01.09.2026, Ende 31.10.2026 (Termin fix). Einsatzort Sachsen-Anhalt, Remote-Anteil nach Abstimmung. Auftraggeber: öffentlicher Auftraggeber (Details nach Zuschlag).",
+      "first_seen": "2026-08-11T15:58:42.795438+00:00",
+      "id": "3709d9d2cc63e599",
+      "matched_keywords": [
+        "energie",
+        "ems"
+      ],
+      "published": "2026-08-11T17:32:01+02:00",
+      "source": "freelancermap.de",
+      "title": "KI-Entwickler/in (m/w/d) – Open-Source-Assistent",
+      "url": "https://www.freelancermap.de/projekt/ki-entwickler-in-m-w-d-open-source-assistent-sanierungsfragen"
+    },
+    {
+      "description": "Ihr Verantwortungsbereich Analyse, Weiterentwicklung und Optimierung von Marktprozessen im SAP IS-U- und SAP S/4HANA-Umfeld Identifikation, Analyse und fachliche Bewertung von Datenqualitätsabweichungen in den Systemlandschaften von Netz- und Messstellenbetreibern Durchführung strukturierter Root-Cause-Analysen zur nachhaltigen Fehlerbehebung unter Anwendung etablierter Methoden wie 5-Why und Ishikawa Konzeption und Erstellung fachlicher Anforderungen sowie Spezifikationen für Datenbereinigungen und technische Korrekturmaßnahmen Steuerung, Priorisierung und kontinuierliche Pflege des Data-Quality-Backlogs in JIRA einschließlich Qualitätssicherung und Review-Prozessen Planung, Koordination, Durchführung und Dokumentation von Abnahmetests zur Sicherstellung einer hohen Datenqualität und Prozessstabilität Zentrales Schnittstellenmanagement zwischen Fachbereichen, Data-Quality-Team, Prozesssupport und IT zur Abstimmung und Umsetzung von Maßnahmen Moderation, Vor- und Nachbereitung sowie Dokumentation regelmäßiger Abstimmungs- und Steuerungstermine mit relevanten Stakeholdern Erstellung anwenderorientierter Prozessdokumentationen, Arbeitsanweisungen und pragmatischer Lösungskonzepte zur Unterstützung der Fachbereiche Unsere Leistungen Viel Flexibilität durch die Möglichkeit, mobil zu arbeiten Fachliche und persönliche Weiterentwicklungsmöglichkeiten Vergütete Urlaubs-, Kranken- und Feiertage sowie Zuschuss für Bildschirmarbeitsplatzbrillen Stundengenaue Abrechnung sowie die Möglichkeit eines Freizeitausgleichs Gesicherte und konstante Auslastung über den gesamten Projektzeitraum Der Arbeitgeber übernimmt die Hälfte der Renten-, Kranken- und Pflegeversicherung Freiberufliche Aufträge können weiterhin flexibel angenommen werden Das bringen Sie mit Abgeschlossenes Studium der Wirtschaftsinformatik, Energiewirtschaft, Betriebswirtschaftslehre oder einer vergleichbaren Fachrichtung Mehrjährige Berufserfahrung in der Analyse, Optimierung und Betreuung energiewirtschaftlicher Prozesse, insbesondere im Umfeld von Netz- und Messstellenbetreibern Fundierte Kenntnisse in SAP IS-U sowie idealerweise Erfahrungen mit SAP S/4HANA im energiewirtschaftlichen Kontext Praxiserfahrung in der strukturierten Fehleranalyse und nachhaltigen Problemlösung unter Anwendung etablierter Methoden der Root-Cause-Analyse Umfassendes Verständnis energiewirtschaftlicher Stammdaten, Bewegungsdaten sowie der relevanten Markt- und Geschäftsprozesse Kompetenzen im Anforderungsmanagement sowie in der Analyse, Planung und Durchführung von Tests in komplexen IT-Systemlandschaften Sicherer Umgang mit gängigen Kollaborations- und Projektmanagement-Tools wie JIRA und Confluence Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift",
+      "first_seen": "2026-08-11T15:58:42.795438+00:00",
+      "id": "f2ce17864da703d3",
+      "matched_keywords": [
+        "business analyst",
+        "energie",
+        "netz"
+      ],
+      "published": "2026-08-11T17:31:03+02:00",
+      "source": "freelancermap.de",
+      "title": "Business Analyst Energiemanagement (m/w/d) 30-69076-DO-CO",
+      "url": "https://www.freelancermap.de/projekt/business-analyst-energiemanagement-m-w-d-30-69076-do-co"
+    },
+    {
+      "description": "Für ein befristetes Projekt bei einem öffentlichen Auftraggeber aus dem Bereich angewandte Forschung suchen wir eine erfahrene Linux-Fachkraft für die Inbetriebnahme eines KI-Serversystems. Aufgaben: Installation, Konfiguration und Inbetriebnahme eines Linux-basierten Servers für KI-/GPU-Workloads Einrichtung von Netzwerk, Storage, Nutzerverwaltung und Security-Hardening Containerisierung (Docker/Kubernetes) und Vorbereitung der Laufzeitumgebung für eine anschließende KI-Anwendung Integration in die bestehende IT-Infrastruktur des Auftraggebers Dokumentation und Übergabe an den internen IT-Betrieb Anforderungen: Nachgewiesene mehrjährige Erfahrung als Linux-Administrator/in (Ubuntu, Debian oder RHEL) Erfahrung mit GPU-/KI-Serverumgebungen (CUDA, Docker, Kubernetes) von Vorteil Sicherer Umgang mit Netzwerk- und Security-Konfiguration Verhandlungssicheres Deutsch Verfügbarkeit vor Ort in der Region Magdeburg für die Inbetriebnahmephase Wichtige Eignungsvoraussetzung: mindestens 1 abgeschlossenes Referenzprojekt aus den letzten 12 Monaten im Bereich KI-gestützte Assistenzsysteme/-infrastruktur für die öffentliche Hand. Bitte bei Bewerbung konkret angeben. Bewerbungen ohne diese Angabe werden ohne weitere Rückfrage abgelehnt. Projektdaten: Start 01.09.2026, Ende 31.10.2026 (Termin fix). Auftraggeber: öffentlicher Auftraggeber (Details nach Zuschlag).",
+      "first_seen": "2026-08-11T15:58:42.795438+00:00",
+      "id": "43e89afc0cbc18da",
+      "matched_keywords": [
+        "netz",
+        "ems"
+      ],
+      "published": "2026-08-11T17:27:39+02:00",
+      "source": "freelancermap.de",
+      "title": "Linux-Administrator/in (m/w/d) – Inbetriebnahme KI-Serversystem",
+      "url": "https://www.freelancermap.de/projekt/linux-administrator-in-m-w-d-inbetriebnahme-ki-serversystem"
+    },
+    {
       "description": "Leistungsbeschreibung Leistungsbeschreibung: Als Scrum Master / Agile Coach begleitest Du das Prometheus Team bei der Weiterentwicklung unserer Salesforce Service-Plattform. Gemeinsam entwickeln wir Lösungen, die unseren Agent*innen die bestmöglichen Werkzeuge an die Hand geben, um unseren Kund*innen jeden Tag einen ausgezeichneten Service zu bieten. Das Prometheus Team verantwortet die Weiterentwicklung der Salesforce Service Cloud und gestaltet die digitale Arbeitsumgebung unserer Customer Service Teams maßgeblich mit. Du unterstützt und coachst das Team sowie die Product Ownerin bei der Umsetzung unserer Produktvision. Dabei förderst Du Selbstorganisation, Wissensaustausch und eine vertrauensvolle Zusammenarbeit, damit das Team nachhaltig erfolgreich und leistungsfähig arbeiten kann. Scrum und Agilität sind für Dich mehr als Methoden und Frameworks. Du lebst agile Werte aktiv vor, förderst eine Kultur der kontinuierlichen Verbesserung und unterstützt das Team dabei, Herausforderungen frühzeitig zu erkennen und zu lösen. Du schaffst Transparenz über Ziele, Fortschritte und Abhängigkeiten und unterstützt die Zusammenarbeit mit anderen Produkt - und Entwicklungsteams. Dabei hilfst Du uns, agile Arbeitsweisen in einem komplexen und kundenorientierten Umfeld erfolgreich weiterzuentwickeln. Profilanforderungen: Mehrjährige Erfahrung als Scrum Master oder Agile Coach in Softwareentwicklungs - oder Produktteams Fundierte Kenntnisse agiler Methoden und Frameworks wie Scrum, Kanban sowie moderner Skalierungsansätze Erfahrung in der Zusammenarbeit mit technischen Teams, idealerweise im Umfeld von Salesforce oder anderen CRM -Plattformen Hervorragende Kommunikations - und Moderationsfähigkeiten sowie die Fähigkeit, unterschiedliche Perspektiven zusammenzubringen Freude daran, Teams zu befähigen, weiterzuentwickeln und auf ihrem Weg zur Selbstorganisation zu begleiten Ein gutes Verständnis für kundenorientierte Prozesse und digitale Service-Lösungen Eine ausgeprägte Hands -on-Mentalität gepaart mit Begeisterung für kontinuierliche Verbesserung Du lachst auf der Arbeit. Täglich. Mehrmals. Warum die Rolle besonders ist Mit Deiner Arbeit trägst Du unmittelbar dazu bei, die Arbeitsumgebung unserer Customer Service Teams zu verbessern. Gemeinsam mit dem Team entwickelst Du Lösungen in der Salesforce Service Cloud, die unseren Agent *innen die Arbeit erleichtern und unseren Kund*innen ein noch besseres Serviceerlebnis ermöglichen. Über den Auftraggeber !!! Hierbei handelt es sich um eine Arbeitnehmerüberlassung (ANÜ) !!! Start: ab sofort Laufzeit: 18 Monate Volumen: 5 Tage pro Woche (Wochenarbeitszeit 20 Stunden) Einsatzort: Köln & Remote (Vorort: min. 30 %, Remote: max. 70 %)",
       "first_seen": "2026-08-11T14:20:43.985753+00:00",
       "id": "a8f7fc9079ad1856",
@@ -7126,5 +7258,5 @@
       "url": "https://www.freelancermap.de/projekt/application-manager-m-w-d-id-1853"
     }
   ],
-  "updated_at": "2026-08-11T14:20:44.123189+00:00"
+  "updated_at": "2026-08-11T15:58:42.936060+00:00"
 }
