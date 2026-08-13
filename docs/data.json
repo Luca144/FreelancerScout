@@ -1,6 +1,19 @@
 {
   "projects": [
     {
+      "description": "Das Unternehmen sucht Unterstützung im Rahmen einer S/4 HANA Transformation mit Fokus auf Utilities Gerätemanagement (IM4G). Die Position umfasst die unabhängige fachliche Beratung, Konzeption und Implementierung von IM4G-Prozessen. Aufgaben Technisches und funktionales Prozesswissen bezüglich SAP IM4G im S4U-Umfeld Prozessdesign für Zählerwechsel, Neuinstallationen und Ableseprozesse Implementierung und Customizing von SAP IM4G Abbildung und Verwaltung moderner Messeinrichtungen (mME) und Smart Meter Gateways (SMGW) Implementierung von Tarifanwendungsfällen (TAF) Integration und Parametrisierung von Messinstanzen und Messprodukten Webservice-Integration mit Gateway-Administrator-Systemen (GWA) und Meter Data Management (MDM) für iMSYS Implementierung von IM4G-Prozessen Erstellung eines Functional Concept Documents mit Lösungsübersicht, Datenanforderungen, Abhängigkeiten und Annahmen Anforderungen Erfahrung mit S/4 HANA Utilities Gerätemanagement (IM4G) Kenntnisse der genannten IM4G-Prozesse und Integrationen Fähigkeit zur selbstständigen Leistungserbringung und ergebnisorientierten Umsetzung Zusätzliche Informationen Start: 17.08.2026 Ende: 31.03.2027 Standort: Walldorf Arbeitsorte laut Projekt: Wolfsburg, Emden, Kassel Auslastung: 40% Geschätzter Aufwand: 480 Stunden Nächste Schritte Falls im Bewerbungsprozess eine Option zum Mitsenden einer E-Mail oder einer vergleichbaren Benachrichtigung angeboten wird, aktivieren Sie diese bitte, damit wir weiterhin mit Ihnen in Kontakt bleiben können. Nach Absenden der Bewerbung erhalten Sie automatisch einen Bewerbungslink für den weiteren Prozess. Bitte bewerben Sie sich nur, wenn Sie fachlich für die Position geeignet sind und Ihre Preisvorstellung zum Projekt passt. Wir freuen uns auf Ihre Bewerbung. Ihr Team bei joyIT.",
+      "first_seen": "2026-08-13T17:58:14.489041+00:00",
+      "id": "f10c7de600418285",
+      "matched_keywords": [
+        "tso",
+        "smart meter"
+      ],
+      "published": "2026-08-13T19:38:28+02:00",
+      "source": "freelancermap.de",
+      "title": "FSA260820P2B1: SAP S/4HANA Utilities IM4G Consultant - Smart Metering (Walldorf, Hybrid, 7,5 months)",
+      "url": "https://www.freelancermap.de/projekt/fsa260820p2b1-sap-s-4hana-utilities-im4g-consultant-smart-metering-walldorf-hybrid-7-5-months"
+    },
+    {
       "description": "Für unseren Kunden, eine Versicherung, suchen wir einen Cobol Entwickler (w/m/d). Aufgaben Cobol Entwicklers im Projekt zur Einführung der Drittanbieter Software Fiantec im Bereich Nicht-Leben zur Verwaltung der Pro-visionszahlungen und Vermittlerkontokorent Umsetzungen im schwerpunktmäßigen Umfeld Provisonsmanagement sowie fallbezogen im Umfeld Partnerdatenbanken Qualifikationen Benötigt wird Expertenerfahrung in Legacy Systems (IBM Mainframe) Programmierung: COBOL Datenbank: DB2, SQL Job Control: JCL Bedienungsoberfläche/System Tools: TSO (Time Sharing Option) und MVS (Multiple Virtual Storage) MS Office Von Vorteil sind Erfahrung mit: Transaktionsmonitor: CICS Entwicklungsumgebung:RTC (IBM Rational Team Concert) Job Steuerung: Automic Projektkenntnisse im Versicherungsumfeld https://www.etengo.de/it-projektsuche/102818/",
       "first_seen": "2026-08-13T16:57:06.273963+00:00",
       "id": "03c71a212581fa34",
@@ -7637,43 +7650,7 @@
       "source": "freelancermap.de",
       "title": "Enterprise-Projektmanager IT-Transformation / Liefermodelle (m/w/d)",
       "url": "https://www.freelancermap.de/projekt/enterprise-projektmanager-it-transformation-liefermodelle-m-w-d"
-    },
-    {
-      "description": "Netzwerk- & Security Engineer (m/w/d) Rahmenbedingungen Einsatzort: Köln Projektstart: 01.09.2026 Projektdauer: bis Mai 2027 mit Option auf anschließende Übernahme Auslastung: Vollzeit vor Ort Sprachen: Deutsch und Englisch Vertragsart: Arbeitnehmerüberlassung Ihre Aufgaben Planung, Design und Implementierung komplexer Netzwerk-, VoIP- und Security-Infrastrukturen Integration, Migration und Optimierung bestehender IT-Landschaften in hochsicherheitsrelevanten Umgebungen Konfiguration und Betrieb von Lösungen auf Basis von Cisco, Palo Alto, SINA, PKI und SD-WAN Umsetzung von Security-, Compliance- und Härtungsanforderungen Durchführung von Konfigurations-, Test- und Abnahmeverfahren Analyse und Behebung technischer Störungen im Netzwerk- und Security-Umfeld Erstellung und Pflege technischer Dokumentationen Ihr Profil Mehrjährige Erfahrung im Bereich Netzwerk- und IT-Security Fundierte Kenntnisse im Umgang mit Firewalls sowie Netzwerksicherheitskonzepten Erfahrung mit Technologien und Herstellern wie Cisco, Palo Alto, SINA, PKI und SD-WAN Kenntnisse in der Planung und Umsetzung komplexer Netzwerkarchitekturen Erfahrung bei Integrations-, Migrations- und Transformationsprojekten Strukturierte und analytische Arbeitsweise Hohe Problemlösungskompetenz und ausgeprägtes technisches Verständnis Sehr gute Deutsch- und Englischkenntnisse SThree_Germany is acting as an Employment Business in relation to this vacancy.",
-      "first_seen": "2026-07-30T17:23:44.797332+00:00",
-      "id": "e1d956bc63c71e9a",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-07-30T18:31:18+02:00",
-      "source": "freelancermap.de",
-      "title": "Netzwerk- & Security Engineer",
-      "url": "https://www.freelancermap.de/projekt/netzwerk-und-security-engineer-3030137"
-    },
-    {
-      "description": "Für ein bedeutendes kommunales Unternehmen der Entsorgungswirtschaft suchen wir eine erfahrene Führungspersönlichkeit zur Übernahme einer Interim-Aufgabe als Alleingeschäftsführer / CEO . Unser Auftraggeber übernimmt eine zentrale Aufgabe der kommunalen Daseinsvorsorge. Gesucht wird eine Persönlichkeit, die komplexe Organisationen sicher führt, unternehmerisch handelt und auch in einem anspruchsvollen Umfeld Verantwortung übernimmt. Sie verfügen über mehrjährige Erfahrung als Geschäftsführer, CEO oder Vorstand eines kommunalen Unternehmens oder einer vergleichbaren kommunalen Organisation. Sie besitzen fundierte Kenntnisse über die gesamten entsorgungswirtschaftlichen Wertschöpfungskette sowie ein ausgeprägtes Verständnis für die wirtschaftlichen, technischen und organisatorischen Zusammenhänge der Branche. Der professionelle Umgang mit Aufsichtsgremien, politischen Entscheidungsträgern, Arbeitnehmervertretungen sowie weiteren relevanten Stakeholdern ist Ihnen ebenso vertraut wie die Führung komplexer Organisationen. Gleichzeitig verfügen Sie über eine hohe Digitalkompetenz und verstehen es, digitale Transformationen sowie moderne Organisations- und Steuerungsstrukturen erfolgreich voranzutreiben. Neben Ihrer fachlichen Kompetenz überzeugen Sie durch Integrität, Führungsstärke, Entscheidungsfreude und eine verbindliche Kommunikation. Sie verstehen es, Menschen zu gewinnen, Veränderungen erfolgreich zu gestalten und Organisationen mit Klarheit, Weitblick und Augenmaß zu führen. Rahmenbedingungen Einsatzbeginn: 01.10.2026 Vertragsmodell: Befristeter Anstellungsvertrag direkt mit dem Auftraggeber Einsatzdauer: In Abstimmung Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre vertrauliche Kontaktaufnahme. Bitte übersenden Sie an ***** Ihr aktuelles Profil, Ihre frühestmögliche Verfügbarkeit sowie einen kurzen projektbezogenen Erfahrungsüberblick, aus dem Ihre Eignung für dieses Mandat hervorgeht. Selbstverständlich behandeln wir Ihre Anfrage und Ihre Unterlagen streng vertraulich. Klose Interim Management Persönlichkeiten, die Verantwortung übernehmen.",
-      "first_seen": "2026-07-30T17:23:44.797332+00:00",
-      "id": "9c632eb5be7c0d65",
-      "matched_keywords": [
-        "tso"
-      ],
-      "published": "2026-07-30T18:10:30+02:00",
-      "source": "freelancermap.de",
-      "title": "Interim Alleingeschäftsführer / CEO (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/interim-alleingeschaeftsfuehrer-ceo-m-w-d"
-    },
-    {
-      "description": "I am currently seeking a Senior Project Manager (m/f/d) for one of my clients in the healthcare sector, to lead key governmental initiatives within the Dutch healthcare domain. Here are the key details: - Position: Senior Project Manager (m/f/d) - Start date: Mid-August 2026 (latest by September 1st, 2026) - Workload: Full-time - Duration: 31.12.2026 (with possible Extension) - Location: Hybrid - 3 days/week onsite in netherlands, 2 days remote - Language: Fluent in Dutch - Hourly rate: max.60 Euro Responsibilities: End-to-end management of governmental healthcare projects: MP9 (medication exchange between GPs & pharmacies) and VIPP Farmacie (medication monitoring by pharmacies) Act as the primary interface to Dutch governmental bodies, healthcare providers, and program stakeholders Ensure timely delivery and compliance with national healthcare regulations Requirements: 8-10+ years of proven Senior Project Management experience, ideally within the ambulatory healthcare sector or public/governmental domain Strong knowledge of NL healthcare regulations and standards Hands-on expertise with General Practitioner (GP) or Pharmacy Information Systems (AIS / PHIS) is strongly preferred Native or fluent (C2) Dutch is strictly required to effectively interface with Dutch authorities and stakeholders. English proficiency is a plus Are you currently available, and does this align with your skills? If so, please feel free to contact me at ***** with your profile and hourly rate! I look forward to hearing from you! Best regards, Viktoria Wolf",
-      "first_seen": "2026-07-30T17:23:44.797332+00:00",
-      "id": "5cb507926dc02291",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-07-30T18:02:22+02:00",
-      "source": "freelancermap.de",
-      "title": "Freelance Senior Project Manager – Dutch Healthcare Sector (m/f/d)",
-      "url": "https://www.freelancermap.de/projekt/freelance-senior-project-manager-dutch-healthcare-sector-m-f-d"
     }
   ],
-  "updated_at": "2026-08-13T16:57:06.425973+00:00"
+  "updated_at": "2026-08-13T17:58:14.639510+00:00"
 }
