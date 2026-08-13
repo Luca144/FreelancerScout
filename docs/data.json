@@ -1,6 +1,95 @@
 {
   "projects": [
     {
+      "description": "Wir, die emagine, suchen einen erfahrenen AI & Data Science Engineer (m/w/d), der die digitale Transformation in einem hochinnovativen Hightech-Umfeld aktiv mitgestaltet. Deine Aufgaben: Entwicklung, Implementierung und Einsatz von Datenanalyse-, Prozessoptimierungs- und Machine-Learning-Lösungen für innovative Messsysteme. Analyse großer Datenmengen, einschließlich Bilddaten, gemeinsam mit einem interdisziplinären Algorithmus-Team. Mitarbeit an Digitalisierungs- und KI-Initiativen, von explorativen Analysen bis hin zu produktionsreifen und wartbaren Lösungen. Entwicklung und Nutzung moderner KI-Verfahren sowie agentischer KI-Systeme. Unterstützung bei der Identifikation neuer Machine-Learning-Potenziale im Bereich EUV-Metrologie. Koordination und Unterstützung fachübergreifender Teams zur erfolgreichen Umsetzung innovativer Data-Science-Projekte. Dein Profil: Sehr guter Hochschulabschluss, idealerweise mit Promotion, in Physik, Mathematik, Informatik, Data Science, Künstlicher Intelligenz, Ingenieurwissenschaften oder einem vergleichbaren quantitativen Fachgebiet. Mindestens drei Jahre Erfahrung entlang des gesamten Data-Science-Lifecycles – von der Algorithmenentwicklung über statistische Analysen bis zur Produktivsetzung und Betreuung von Modellen. Fundierte Kenntnisse in Datenanalyse, Machine Learning und den zugrunde liegenden Algorithmen. Sehr gute Python-Kenntnisse sowie Erfahrung mit objektorientierter Softwareentwicklung und Test-Driven Development. Erfahrung mit Git, Azure DevOps und agilen Entwicklungsprozessen. Technisches Verständnis sowie Interesse an optischer Messtechnik und der Verarbeitung komplexer Messdaten. Ausgeprägte Eigeninitiative, Hands-on-Mentalität und Teamfähigkeit. Sehr gute Deutsch- und Englischkenntnisse (mindestens Niveau B2). Rahmendaten: Einsatzort: Oberkochen Laufzeit: 24 Monate Vollzeit, 40 Stunden/Woche, ANÜ Vertrag (24 Monate) Haben wir dein Interesse geweckt? Dann freuen wir uns auf deinen aktuellen Lebenslauf und deine Kontaktaufnahme. mfG",
+      "first_seen": "2026-08-13T11:43:10.479165+00:00",
+      "id": "206f0caab57d5987",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-08-13T13:28:28+02:00",
+      "source": "freelancermap.de",
+      "title": "AI & Data Science Engineer (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/ai-und-data-science-engineer-m-w-d"
+    },
+    {
+      "description": "Momentan suche ich für meinen Kunden aus Nürnberg einen kurzfristig verfügbaren Projektmanager Azure Integration mit Middleware-Erfahrung für ein 100% Remote Projekt. Das Projekt: Start: 01.09.2026, gerne früher Länge: 4 Monate (Verlängerung möglich) Ort: 100% Remote (Endkunde sitzt in Nürnberg) Sprache: Deutsch Aufgaben: • Projektmanagement in einem Azure/Salesforce-Projekt; • Steuerung, Daten-Governance und Riskmanagement; • Durchführung von Präsentationen und Workshops; • Stakeholderkommunikation. Dein Background (!Selbsteinschätzung auf der Skala: 1 – 10!): • Projektmanagement; • Azure Integration Services; • SAP PI/PO; • Talend; • Salesforce; • MuleSoft. Du hast Interesse und bist zeitnah verfügbar? Dann melde dich gerne mit aktuellem CV, deiner projektbezogenen Selbsteinschätzung und deinem Stundensatz. Gerne können wir uns dann über die Projektdetails telefonisch austauschen.",
+      "first_seen": "2026-08-13T11:43:10.479165+00:00",
+      "id": "86d90f5be14636ed",
+      "matched_keywords": [
+        "projektmanager"
+      ],
+      "published": "2026-08-13T13:13:26+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektmanager Azure Integration mit Middleware-Erfahrung (m/w/d) - 100% Remote - Start: 01.09.2026!",
+      "url": "https://www.freelancermap.de/projekt/projektmanager-azure-integration-mit-middleware-erfahrung-m-w-d-100-prozent-remote-start-01-09-2026"
+    },
+    {
+      "description": "Aufgaben: We are currently looking for a Junior Robustness Test Automation Engineer for an exciting customer project. As part of this role, you will be responsible for the following tasks: Objective Support high-volume stress and robustness validation of HPC on SIL/HIL test benches, focusing on: + Large-scale test execution + Automation of regression campaigns + Fast failure detection and reporting + Bench utilization optimization Scope of Work + Create test cases for robustness and stress testing + Execute robustness, stress, endurance and regression testing + Run test campaigns on HIL/SIL benches and vehicles Develop and maintain automated test scripts + Integrate test cases into CI/CD pipelines + Perform first-level failure analysis and log evaluation Support bench setup, commissioning, and troubleshooting + Execute ad-hoc tests with short turnaround times Deliverables: + Create and executed test runs with traceable results + Automated test scripts and pipelines + Test reports incl. KPIs (pass/fail, coverage, performance) + Defect tickets with logs and clear reproduction steps + Bench status and execution metrics. Bench setup, commissioning, and troubleshooting Projekt-Nr.: 107465 Projekttitel: Junior Robustness Test Automation Engineer (m/w/d) Stellentyp: freiberuflich Einsatzort: D6 Starttermin: Asap, spästens 14.9. Dauer: 6 Monate mit Option auf Verlängerung Anforderungen: Core Validation + Automotive E/E systems (HPC, Zonal ECU concepts) + SIL / HIL testing experience + Test execution, analysis and reporting Toolchain + ECU-TEST / TestGuide + Vector CANoe (incl. CAPL scripting) + Robot Framework + Bus analysis: CAN / LIN / Ethernet Automation & DevOps + CI/CD (Jenkins, TeamCity, GitLab CI or similar) + Test automation scripting (Python, CAPL, ECU-Test) + Regression campaign automation + Test reporting pipelines Debugging + Log analysis (system logs, bus traces, performance logs) + Issue isolation and reproducibility + Basic SW/HW interaction understanding Bench Management + HIL bench bring-up + Flashing infrastructure + Bench monitoring + Hardware troubleshooting + Bench health management + Test environment maintenance Data & Reporting + SQL knowledge + Databricks experience (preferred) + Dashboard creation + Data-driven reporting Domain Knowledge + AUTOSAR (Classic / Adaptive) + SOME/IP, Ethernet communication + Diagnostics (UDS) Zusätzliche Informationen: Konnten wir Ihr Interesse wecken? Dann freuen wir uns auf die Zusendung Ihres aussagekräftigen Expertenprofils unter Angabe Ihrer Stundensatzvorstellung. SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
+      "first_seen": "2026-08-13T11:43:10.479165+00:00",
+      "id": "ff34a114d62229ce",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-08-13T12:59:55+02:00",
+      "source": "freelancermap.de",
+      "title": "Junior Robustness Test Automation Engineer (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/junior-robustness-test-automation-engineer-m-w-d"
+    },
+    {
+      "description": "Aufgaben: Aktuell sind wir auf der Suche nach einem \"Bauleiter Elektrotechnik\" (m/w/d), für ein spannendes Projekt bei einem unserer Kunden. Die Aufgabe umfasst: +Überwachung von Terminen, Kosten und Qualität +Zuarbeit im Bereich HSE +Bauüberwachung der Elektrogewerke Projekt-Nr.: 107468 Projekttitel: Bauleiter Elektrotechnik (m/w/d) Stellentyp: freiberuflich Einsatzort: D6 Starttermin: 01.09.2026 Dauer: 18M+ Anforderungen: Must-haves: +Erfahrung im Anlagenbau / industriellen Umfeld +Nachweisbare Großprojekterfahrung +Bauleitung und Überwachung der elektrotechnischen Gewerke (MS/NS-Anlagen, Kabeltrassenbau, Schaltanlagenbau, MSR/Automatisierung) Nice-to-haves: +Idealerweise Erfahrung in der Stahlindustrie, alternativ EPC / Chemie / Energie Zusätzliche Informationen: Konnten wir Ihr Interesse wecken? Dann freuen wir uns auf die Zusendung Ihres aussagekräftigen Expertenprofils unter Angabe Ihrer Stundensatzvorstellung. SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
+      "first_seen": "2026-08-13T11:43:10.479165+00:00",
+      "id": "fe43ccfe63e76c94",
+      "matched_keywords": [
+        "energie"
+      ],
+      "published": "2026-08-13T12:59:38+02:00",
+      "source": "freelancermap.de",
+      "title": "Bauleiter Elektrotechnik (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/bauleiter-elektrotechnik-m-w-d-3035251"
+    },
+    {
+      "description": "Für unseren Bestandskunden aus der Energiebranche suchen wir Sie im Rahmen der Arbeitnehmerüberlassung ab 17.08.2026 als Agile Coach / Scrum Master (m/w/d) – SAFe / Skalierte Agilität. Start: asap ab 17.08.2026 Ende: 31.12.2026 + Option auf Verlängerung Auslastung: 37h/Woche Arbeitsort: 98% remote, ca. 2 Mal pro Quartal vor Ort in Würzburg Zum Projekt: Im Rahmen eines laufenden Transformationsvorhabens unterstützt du als Scrum Master dabei, die Organisations- und Arbeitsweise entlang agiler Prinzipien weiterzuentwickeln – mit Fokus auf wirksames Team-Coaching, Event-Facilitation und kontinuierliche Verbesserung. Ziel ist der Aufbau einer skalierten agilen Organisation nach dem Scaled Agile Framework (SAFe). In diesem Kontext werden bis zu sechs Agile Release Trains (ARTs) mit jeweils mindestens zehn agilen Teams etabliert. Die Zusammenarbeit erfolgt entlang energiewirtschaftlicher Wertströme und orientiert sich an einem BizDevOps-Ansatz, um Fachbereiche, Entwicklung und Betrieb enger zu verzahnen. Parallel zum organisatorischen Aufbau werden Rollen, Prozesse und Zusammenarbeitsmodelle weiterentwickelt (u. a. Scrum Master, Product Owner, Product Manager, Release Train Engineer). Als externer Scrum Master arbeitest du eng mit den Teams, den ART-Funktionen und angrenzenden Einheiten zusammen und trägst dazu bei, agile Arbeitsweisen stabil zu etablieren und skalierte Zusammenarbeit wirksam zu machen. Der Einsatz erfolgt in einem dynamischen Umfeld mit hoher Abstimmung zwischen Teams und übergreifenden Einheiten. Du unterstützt die Planung und Durchführung der relevanten SAFe- und Scrum-Events, stärkst Transparenz (z. B. via Jira und Metriken) und hilfst dabei, Impediments strukturiert zu adressieren. Ziel ist, dass Teams verlässlich liefern und ihre Zusammenarbeit entlang der Wertströme verbessern. Wir suchen einen erfahrenen Scrum Master, der sich sicher in skalierten Umfeldern (SAFe) bewegen, Teams pragmatisch coachen und Moderation sowie Stakeholder-Abstimmung als integralen Teil der Rolle versteht. Ihre Aufgaben Du begleitest und unterstützt mehrere agile Teams innerhalb eines Agile Release Trains (ART) und förderst die Zusammenarbeit über Teamgrenzen hinweg. Du wirkst auf die Anwendung und Weiterentwicklung von Scrum- und SAFe-Praktiken hin und unterstützt Teams dabei, agile Prinzipien im Arbeitsalltag umzusetzen. Du planst, moderierst und begleitest relevante SAFe-Events (z. B. PI Planning, Iteration Planning, Reviews, Retrospektiven sowie Inspect & Adapt Workshops). Du coachst Teams sowie Rollen wie Product Owner, Product Manager und Release Train Engineer und unterstützt eine effektive, wertorientierte Zusammenarbeit. Du unterstützt bei der Identifikation und Bearbeitung von Impediments auf Team-, ART- und Organisationsebene. Du trägst zur Etablierung und Nutzung von Metriken (z. B. Flow, Predictability, Qualität) bei und unterstützt datenbasierte Verbesserungen. Du arbeitest aktiv mit Jira (bei Bedarf inkl. Advanced Roadmaps) zur Abbildung von Backlogs, Features, Enablern und Abhängigkeiten. Du unterstützt Teams und Rollen bei der strukturierten Nutzung von Jira (z. B. Pflege von Boards, Workflows, Refinements, PI Planning). Unsere Anforderungen Scrum (Rollen, Events, Artefakte, empirisches Arbeiten) SAFe (ART, PI Planning, Inspect & Adapt, System Demo) Arbeit in skalierter Teamlandschaft (mehrere Teams / ART) Coaching von Scrum Mastern, Product Ownern, Product Managern, RTEs Moderation von Workshops & Großgruppenformaten Jira (Boards, Backlogs, Workflows, Refinement, Abhängigkeiten) Metriken: Flow, Predictability, Qualität, Stabilität Impediment und Abhängigkeitsmanagement (Team, ART, Organisation) BizDevOps und Value Stream Orientierung Servant Leadership & Coaching Haltung",
+      "first_seen": "2026-08-13T11:43:10.479165+00:00",
+      "id": "833c447561d5f400",
+      "matched_keywords": [
+        "scrum master",
+        "product owner",
+        "agil",
+        "scrum",
+        "energie",
+        "tso"
+      ],
+      "published": "2026-08-13T12:55:44+02:00",
+      "source": "freelancermap.de",
+      "title": "SAFe- Scrum Master (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/safe-scrum-master-m-w-d-3035250"
+    },
+    {
+      "description": "Aufgaben Analyse und Umsetzung fachlicher Anforderungen in den Bereichen Abrechnung und Tarifierung Unterstützung bei Testaktivitäten und der fachlichen Qualitätssicherung Bearbeitung komplexer Fehler- und Klärfälle im Projektumfeld Entwicklung und Anpassung technischer Lösungen im SAP IS-U Umfeld Mitarbeit bei Migration, Integration und Optimierung der zukünftigen S/4 Utilities Prozesse Anforderungen Mehrjährige Erfahrung in SAP IS-U Abrechnung und Tarifierung. Gute Kenntnisse energiewirtschaftlicher Marktprozesse. Erfahrung in S/4 Utilities oder vergleichbaren Transformationsprojekten. Technische Entwicklungskompetenz (z. B. ABAP, Erweiterungen, Analysen). Selbstständige Arbeitsweise sowie Fähigkeit, fachliche und technische Themen zu verbinden. Amoria Bond operiert als Personalberatung. Keine der genannten Fachausdrücke soll im Hinblick auf Alter, Geschlecht oder Erfahrung diskriminierend sein. Wir bestätigen, dass wir alle Bewerbungen von Kandidaten jeden Alters, Geschlecht oder Erfahrung gerne entgegennehmen.",
+      "first_seen": "2026-08-13T11:43:10.479165+00:00",
+      "id": "5a75c6512d7c7666",
+      "matched_keywords": [
+        "energie"
+      ],
+      "published": "2026-08-13T12:36:10+02:00",
+      "source": "freelancermap.de",
+      "title": "SAP IS-U Abrechnung / Tarifierung mit Entwicklungskapazität",
+      "url": "https://www.freelancermap.de/projekt/sap-is-u-abrechnung-tarifierung-mit-entwicklungskapazitaet"
+    },
+    {
+      "description": "Hallo! Für meine Webdesign Agentur in München, Unterföhring suche ich eine / einen erfahrene/n Vertriebsprofi (m/w/d) Als Webdesignerin und WordPress-Spezialistin mit langjähriger Erfahrung im digitalen Bereich mit vielfältigen und überzeugenden Referenzen biete ich Unternehmen professionelle, moderne und individuelle Weblösungen von der Konzeption bis zur technischen Umsetzung. Zur Erweiterung meines Portfolios und Kundenstamms suche ich ab sofort eine oder einen erfahrenen, eigenständig arbeitenden Vertriebspartner/in (m/w/d), der/die neue B2B-Kunden und Projekte im Digitalbereich für mich akquiriert. Wichtig ist mir dabei der Austausch und eine langfristige, gemeinsame und aufbauende Zusammenarbeit. Die Zusammenarbeit erfolgt freiberuflich, remote, flexibel und ausschließlich auf Provisionsbasis mit 25% / Projekt. Projektbeschreibung: Mein Angebot • Beratung, Konzeption für Webseiten • UX Design / UI Design • Individuelle Webdesigns • Webdesign / Screendesign / Digital Design • Kreatives, innovatives, responsives und barrierefreies Webdesign fu?r Webseiten und Landingpages • Realisierung von Design- und Webprojekten mit WordPress, individuelle Lösungen • Moderne und performante WordPress-Webseiten, Blogs und Landingpages • SEO-Optimierung für Webseiten • Wartung und Pflege von WordPress-Webseiten Aufgaben • Vertrieb - eigenständige Vorgehensweise • Identifikation und Ansprache potenzieller B2B-Kunden im Digital-/Webbereich • Aufbau DSGVO-konformer Kontaktlisten und Leadgenerierung nach Ihrer eigenen und professionellen Herangehensweise • Terminvereinbarung und Durchführung von Erstgesprächen mit potenziellen Kunden • Bedarfsermittlung und erste Einordnung des Projektumfangs • Übergabe qualifizierter Leads bzw. Begleitung bis zum Vertragsabschluss • Dokumentation - Pflege der Kontakt- und Kommunikationshistorie • Austausch mit mir Anforderungsprofil • Nachweisbare Erfahrung im B2B-Vertrieb, idealerweise im Digital-, Web- oder Agentur-Umfeld • Sicheres, professionelles und freundliches Auftreten in der Kundenansprache (telefonisch, schriftlich, ggf. persönlich) • Erfahrung in der Neukundenakquise (Kaltakquise sowie Netzwerk-/Empfehlungsvertrieb) • Fundiertes Verständnis für digitale Dienstleistungen (Webdesign, WordPress, SEO von Vorteil) • Selbstständige, strukturierte und zielorientierte Arbeitsweise • Verhandlungssichere Deutschkenntnisse • Kenntnisse im Umgang mit DSGVO-konformer Datenerhebung und -verarbeitung • Eigene Vertriebs-/Kommunikationsinfrastruktur (Telefon, CRM o. Ä.) Vergütung • Provisionsbasis: 25 % vom Netto-Auftragswert des vermittelten und abgeschlossenen Projekts • Auszahlung der Provision nach Zahlungseingang der Kundenrechnung / Projektabschluss oder bei Vorauszahlungen beim Projekt • Keine Fixvergütung, kein Angestelltenverhältnis es handelt sich um eine reine erfolgsbasierte Vergütung Rahmenbedingungen • 100 % Remote, flexible Zeiteinteilung • Start: nach Vereinbarung • Vertragsform: freie Mitarbeit / Provisionsbasis bei 25% netto vom Auftrag • Region: Bayern / München / Deutschlandweit / primär deutschsprachiger B2B-Markt • Langfristige Zusammenarbeit und Vertriebspartnerschaft gewünscht Bewerbung Bitte bewerben Sie sich mit Kurzprofil, relevanten Vertriebserfahrungen (idealerweise im Digital-/Webbereich) und sofern vorhanden Referenzen oder Erfolgszahlen aus vergangenen Vertriebstätigkeiten.",
+      "first_seen": "2026-08-13T11:43:10.479165+00:00",
+      "id": "d7c50efd41ea21f1",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-08-13T12:30:49+02:00",
+      "source": "freelancermap.de",
+      "title": "Freelance Vertriebler/in (m/w/d) auf Provisionsbasis 25 % für Webdesign & WordPress (B2B, Remote)",
+      "url": "https://www.freelancermap.de/projekt/freelance-vertriebler-in-m-w-d-auf-provisionsbasis-25-prozent-fuer-webdesign-und-wordpress-b2b-remote"
+    },
+    {
       "description": "Für einen Großkunden von uns suchen wir ab Oktober Unterstützung für die Überwachung und Untersuchung von Security Alerts. Wir benötigen Unterstützung bei der Bewertung von Alerts anhand relevanter Kontextinformationen sowie Klassifizierung nach Schweregrad. Außerdem bei der Untersuchung verdächtiger Aktivitäten mithilfe von SIEM-Systemen, Log-Quellen und Asset-Kontexten. Technische Anforderungen: -Praktische Erfahrung im Bereich SIEM und Security Monitoring, insbesondere mit Plattformen wie Elastic, OpenSearch, Splunk, Microsoft Sentinel oder vergleichbaren SIEM- und Security-Monitoring Lösungen -Kenntnisse moderner Cloud Infrastrukturen und Cloud-Sicherheitskonzepte - AWS, Microsoft Azure und Google Cloud Kenntnisse -Erfahrungen mit Containerisierung und Kubernetes, einschließlich Docker, Container Logs und Workload Telemetrie -Gute Kenntnisse in der Linux- und Windows Analyse sowie Erfahrung mit Authentication Events, Process Activity, Network Indicators -Fundierte Kenntnisse der Netzwerkgrundlagen, insbesondere TCP/IP, DNS, HTTP(S), TLS, Proxies und Firewalls -Kenntnisse des MITRE ATT&CK Frameworks sowie die Fähigkeit, Security Alerts relevanten Taktiken, Techniken und Prozeduren zuzuordnen -Grundlegende Kenntnisse im Scripting beziehungsweise in der Datenabfrage, beispielsweise mit KQL, SPL, SQL, Python, Bash oder PowerShell -Erfahrung mit agilen Arbeitsmethoden sowie mit der strukturierten Dokumentation und Bearbeitung von Security Tickets. Bevorzugte Zertifizierungen und Zusatzqualifikationen: Security+ CySA+ oder Microsoft SC-200 Von Vorteil sind außerdem Zertifizierungen wie Splunk Core Certified User oder Power User, Elastic-Zertifizierungen oder vergleichbare SIEM- beziehungsweise Security-Monitoring-Zertifizierungen. Muss Kriterien: Deutsche Staatsbürgerschaft Bereitschaft der Sicherheitsüberprüfung (SÜ2 / SÜ3) Bereitschaft zur Schichtarbeit",
       "first_seen": "2026-08-13T10:01:43.270156+00:00",
       "id": "9d3faa0ee681b518",
@@ -7503,138 +7592,7 @@
       "source": "freelancermap.de",
       "title": "Senior Business Analyst/AI Engineer (Conversational AI/Chatbot).",
       "url": "https://www.freelancermap.de/projekt/senior-business-analyst-ai-engineer-conversational-ai-chatbot"
-    },
-    {
-      "description": "Für unseren Kunden suche ich einen Software Engineer(m/w/d) für ein remote Projekt. Wir entwickeln als eingespieltes Delivery-Team die Zug-ITK-Plattform (ZIP), die technische Basis für die Komfort-Services im ICE. Damit leistet ZIP einen wesentlichen Beitrag zu einem verbesserten digitalen Reiseerlebnis. Der aktuelle Schwerpunkt liegt auf dem Redesign der Plattform-Observability mit Fokus auf Monitoring, Logging, Alarming und Tracing. Aufgaben: Implementierung / Integration / Customizing technischer Komponenten im OS (Ubuntu) sowie verschiedener Applikationen/Services auf Basis der genutzten Technologien inkl. dazugehöriger Schnittstellen, Module unter Einhaltung der Standards des Auftraggeber Beheben von Fehlern aus den Testphasen in den Applikationen / Komponenten Dokumentation der technischen Komponenten Erstellen von Systemdokumentationen Erstellen von Lieferpaketen für die betreffenden Applikationen Anforderungen – must have: Anforderungen must have, sind zwingend erforderlich und müssen exakt wie gefordert in den Projekten aufgeführt sein: bitte auch das wording und die Jahre beachten! Es muss durch eindeutig beschriebene Tätigkeitsnachweise in den einzelnen Projekten nachgewiesen werden und nicht nur durch Nennung der Technologie! Erfahrung im Linux Engineering mit Ubuntu, insbesondere System- und Netzwerkkonfiguration sowie Boot-Prozessen Erfahrungslevel in Jahren ab 5 Jahre Erfahrung in der Entwicklung mit Python Erfahrungslevel in Jahren ab 5 Jahre Erfahrung in der agilen Software-Entwicklung (insb. SCRUM) Erfahrungslevel in Jahren ab 3 Jahre Erfahrung mit CI/CD, insbesondere Versionsverwaltung mit Git und Pipeline-Nutzung/-Konfiguration Erfahrungslevel in Jahren ab 3 Jahre Anforderungen – nice to have: Erfahrung mit RAUC Erfahrungslevel in Jahren ab 1 Jahr 40% Erfahrung in der Containerisierung von Anwendungen (mit Docker) Erfahrungslevel in Jahren ab 3 Jahre 20% Erfahrung mit CHEF (Progress) oder CINC Erfahrungslevel in Jahren ab 1 Jahr 20% Erfahrung mit Observability-Tools, insbesondere Prometheus und Fluentbit Erfahrungslevel in Jahren ab 3 Jahre 20% Zeitraum - von: 12.08.2026 Zeitraum - bis: 31.12.2026 Einsatzort: remote Tagessatz allin: 600 € - 700 € Profile bis: 04.08.2026 Projektsprache: deutsch Ich freue mich auf die Zusendung Ihres Profils, inkl. Verfügbarkeit",
-      "first_seen": "2026-07-30T11:05:31.604813+00:00",
-      "id": "a0520fb2df238e84",
-      "matched_keywords": [
-        "agil",
-        "scrum",
-        "netz"
-      ],
-      "published": "2026-07-30T12:57:33+02:00",
-      "source": "freelancermap.de",
-      "title": "AFRA-10820- Software Engineer(m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/afra-10820-software-engineer-m-w-d"
-    },
-    {
-      "description": "Zur Verstärkung unseres Teams bei unserem Kunden suchen wir einen Business Analyst Testmanagement (m/w/x) im Depotumfeld! Hintergrundinformation: Das Depotsystem unseres Kunden ist eines seiner zentralen Anwendungssysteme. Das eigenentwickelte Hostsystem verwaltet insgesamt mehr als 5 Mio Investmentfonds-Depots. Für die stetige Weiterentwicklung des Systems wird jährlich ein sog. Weiterentwicklungsprojekt aufgesetzt, um die umfangreichen regulatorische Anforderungen in den Themengebieten Steuern, Compliance und private Altersvorsorge umzusetzen. Für das aktuelle Projekt wird ein Tester / Business Analyst gesucht, der fachliche Tests durchführen sowie gleichermaßen Fachkonzepte schreiben kann. Aufgabenbeschreibung: Test: - Entwicklung von Testplanung, Testschwerpunkten und Testansätzen basierend auf der Fachkonzeption - Eigenverantwortliche Planung der Testdurchführung - Erstellung, Durchführung, Auswertung und Dokumentation von Testfällen für fachliche Systemtests - Erstellung von Testdaten mittels geeigneter Tools Business Analyse: - Business Analyse von Geschäftsanforderungen für das Kunden-Depot, schwerpunktmäßig aus regulatorischen Geschäftsprozessen - Planung und Abstimmung mit fachlichen und technischen Prozessbeteiligten - Eigenverantwortliche Erstellung von Fachkonzepten für das Kunden-Depot Zusatzinformation: 22 PT vor Ort und 31 PT remote Must Haves: - Versierter Umgang mit MS-Office Anwendungen und Projekttools (z.B. Octane) - Berufserfahrung im Bereich Depotführung und / oder Abwicklung von Fonds - Kenntnisse zu Depotführungs- und Abwicklungsprozessen von Kapitalverwaltungsgesellschaften / Fondsgeschäft / Depotverwaltung (Private & betriebl. Altersvorsorge (Riester / Rürup), Wertpapierabwicklung insbes. Fondsabwicklung, Investmentsteuerrecht, Gesetzliches Meldewesen (BzSt, ZfA,) - Ausgeprägte konzeptionelle Fähigkeiten - Berufserfahrung im Umfeld von Softwaretests und ggf. Testautomatisierung - Gute Methodenkompetenz bei der Gestaltung von Testaufgaben - Erfahrungen im Umgang mit der neuen EU-Geldwäsche-Regelung (EU-AML, insbesondere AMLR / AMLA) sind von Vorteil",
-      "first_seen": "2026-07-30T11:05:31.604813+00:00",
-      "id": "19f00af29f406457",
-      "matched_keywords": [
-        "business analyst",
-        "ems"
-      ],
-      "published": "2026-07-30T12:44:34+02:00",
-      "source": "freelancermap.de",
-      "title": "Business Analyst Testmanagement im Depotumfeld (m/w/x) | 9604",
-      "url": "https://www.freelancermap.de/projekt/business-analyst-testmanagement-im-depotumfeld-m-w-x-9603"
-    },
-    {
-      "description": "AFRA-10812 Senior Business Analyst (all genders) in ANÜ | Frankfurt am Main Start:01.09.2026 Ende: 31.12.2026, Option auf Verlängerung Vertragsart: ANÜ Remote: ja, 60 % - 40% in Frankfurt am Main Projektinhalt: Du bringst eine schnelle Auffassungsgabe und eine intrinsische Motivation mit, die Zusammenhänge an den IT-Schnittstellen zu verstehen, um auf Augenhöhe und adressatengerecht kommunizieren zu können Es macht dir Spaß, sich intern und extern zu vernetzen und den Austausch von Wissen und Trends voranzutreiben Du weißt, wie man Themen vorantreibt und Brücken baut: du bringst sehr gute Kommunikations-, Überzeugungs-, und Durchsetzungsfähigkeit im Umgang mit unterschiedlichen Stakeholdern mit Du setzt bereits erfolgreich generative KI-Werkzeuge ein (z. B. Copilot, ChatGPT/BahnGPT, Claude) zur Unterstützung von Analyse, Konzeption und Dokumentation. Der Einsatz analytischer KI-Verfahren zur Qualitätssicherung von Anforderungen und Solution Designs ist dir ebenfalls nicht fremd. Gemeinsam mit Solution und Product/Program Management führst Du Epics bestmöglich durch den Anforderungs- und Umsetzungsprozess und stehst jederzeit als Ansprechpartner zur Verfügung. In diesem Zusammenhang bist du häufiger Vermittler und Moderator Mit inhaltlichem Fokus auf die von Dir verantworteten Epics durchläufst Du diverse Phasen innerhalb und außerhalb der Ablauforganisation (übergreifende Rolle); Dein Fokus liegt jedoch speziell in der Explorationsphase und Anforderungserhebung. Durch Feedback und Sparring förderst Du eine schlagkräftige Teamkultur, die sich durch Zusammenhalt, Menschlichkeit und einem agilen Mindset definiert Anforderungen must have: **sind zwingend erforderlich und müssen exakt wie gefordert in den Projekten aufgeführt sein: bitte auch das wording und die Jahre beachten! Es muss durch eindeutig beschriebene Tätigkeitsnachweise in den einzelnen Projekten nachgewiesen werden und nicht nur durch Nennung der Technologie. Gern copy paste aus den Anforderungen (muss & soll) Du überzeugst uns mit deinem abgeschlossenen Studium der Betriebswirtschaftslehre / Informatik / Wirtschaftsinformatik oder einem vergleichbaren Studiengang Du bringst mehr als 5 Jahre Erfahrung in der Erarbeitung fachlicher IT-Anforderungen und in der Stakeholder-Kommunikation mit, idealerweise inklusive einer Zertifizierung als PSPO, CSPO oder CPRE Fachlich interessierst du dich für die Gesamtzusammenhänge, bringst eine breite technische Allgemeinbildung mit und beweist gutes Urteilsvermögen Dazu gehört, dass du deinen Arbeitstag selbstständig zu strukturieren weißt, Entscheidungen vorantreibst und auf unplanbare Parameter schnell reagieren kannst In der Ergebnispräsentation bist du überzeugend und deine Kollegen schätzen dich für deine Lösungsorientierung sowie dein Verantwortungsbewusstsein Du bist in der Lage fachliche Anforderungen, Epics und Capabilities mittels KI effizient zu strukturieren, zu präzisieren und zu bewerten und bist erfahren im Formulieren wirksamer Prompts.",
-      "first_seen": "2026-07-30T11:05:31.604813+00:00",
-      "id": "70bb3f5b37d30397",
-      "matched_keywords": [
-        "business analyst",
-        "cpre",
-        "agil",
-        "netz"
-      ],
-      "published": "2026-07-30T12:39:58+02:00",
-      "source": "freelancermap.de",
-      "title": "AFRA-10812 Senior Business Analyst (all genders) in ANÜ | Frankfurt am Main",
-      "url": "https://www.freelancermap.de/projekt/afra-10812-senior-business-analyst-all-genders-in-anue-frankfurt-am-main"
-    },
-    {
-      "description": "Deine Aufgaben Du übernimmst die Qualitätssicherung von Tarifdaten im öffentlichen Verkehr, die für die Preis- und Produktermittlung in Nahverkehrs-Apps genutzt werden. Du analysierst fachliche Anforderungen, erstellst Testfälle und implementierst diese als regressiv ausführbare Tests in einer bestehenden Testanwendung. Du führst manuelle und idealerweise auch automatisierte Tests durch, dokumentierst Fehler und verfolgst deren Behebung nach. Du arbeitest eng mit Entwicklern, Produktmanagern und Fachabteilungen zusammen, um ein tiefes Verständnis für die zu testenden Features zu entwickeln. Du bringst dich aktiv in die kontinuierliche Verbesserung von Testprozessen und Teststrategien ein. Das solltest du mitbringen Mehrjährige Erfahrung als Softwaretester, idealerweise im Bereich fachlicher Tests komplexer Softwareanwendungen. Ausgeprägtes analytisches Denkvermögen und die Fähigkeit, komplexe Sachverhalte schnell zu durchdringen. Hohe Motivation für Qualität sowie eine sorgfältige und strukturierte Arbeitsweise. Routinierter Umgang mit Ticketsystemen und Wikis, insbesondere Jira und Confluence. Grundkenntnisse in SQL, XML oder API-Testing sind von Vorteil. Du bist kommunikativ und teamfähig. Gute Deutschkenntnisse in Wort und Schrift (mind. C1). Das bieten wir dir Ein spannendes Aufgabenfeld im Umfeld digitaler Mobilitätslösungen und Nahverkehrs-Apps. Enge Zusammenarbeit mit Entwicklern, Produktmanagern und Fachbereichen in einem interdisziplinären Umfeld. Ein agiles Arbeitsumfeld mit viel Gestaltungsspielraum und Raum für Eigeninitiative. Ein erfahrenes und motiviertes Team. Persönliche und fachliche Weiterentwicklungsmöglichkeiten. Die Leistungserbringung erfolgt 80% Remote und 20% Onsite (Leipzig)",
-      "first_seen": "2026-07-30T11:05:31.604813+00:00",
-      "id": "e24c184a88a20662",
-      "matched_keywords": [
-        "agil"
-      ],
-      "published": "2026-07-30T12:39:07+02:00",
-      "source": "freelancermap.de",
-      "title": "Software Tester (m/w/d) (ID: 1856)",
-      "url": "https://www.freelancermap.de/projekt/software-tester-m-w-d-id-1856"
-    },
-    {
-      "description": "Aufgaben: Aufgaben: + Aufbau und Betrieb der relevanten Laborsysteme für das Netzmanagement + Erstellung und Durchführung von Testkampagnen sowie Automatisierung von Testfällen + Erstellung und Pflege der relevanten Testdokumentation sowie Konzeption und Durchführung der Testfälle bis hin zu Testberichten + Analyse der Testergebnisse und verständliche Aufbereitung für den Auftraggeber + Durchführung von Projektplanungsterminen inkl. Aufwandsschätzungen + Dokumentation Projekt-Nr.: ***** Projekttitel: Senior Test Engineer SMC-Netzmanagement (m/w/d) Stellentyp: freiberuflich Einsatzort: keine Angabe Starttermin: 17.08.2026, spätestens 01.09.2026 Dauer: 31.12.2026 Anforderungen: + Mind. 3 Projekte in der Testautomatisierung von Netzmanagementsystemen inkl. Skripting unter GNU/Linux (Bash/POSIX Shell, Python, Awk, Expect, TCL, M4, Make) + Mind. 3 Jahre Erfahrung im Test von Management- und Überwachungslösungen für IT-/TK-Systeme (z. B. Spectrum, OpenNMS, Icinga, Huawei NCE sowie SNMP, TACACS, RADIUS, AAA, Syslog, NTP, Diameter) + Mind. 5 Jahre Erfahrung im Test von IP-/TK-Netzwerken + Mind. 3 Referenzen in der Administration und Konfiguration von (virtualisierten) Windows- und Linux-Servern/-Clients (innerhalb der letzten 5 Jahre) + Mind. 3 Referenzen im Test von Systemen im bahnbetrieblichen Umfeld sowie Kenntnisse der einschlägigen Normen und Vorgehensweisen (innerhalb der letzten 6 Jahre) + sehr gute Deutschkenntnisse in Wort und Schrift Nice to have: + Erfahrung in der Bedienung/Konfiguration von Routing-/Switching-Infrastrukturen der Hersteller CISCO und/oder Huawei + sehr gute Englischkenntnisse in Wort und Schrift + Zertifizierung nach ISTQB (z.B. Certified Tester) Zusätzliche Informationen: Auslastung: 80-100 % SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
-      "first_seen": "2026-07-30T11:05:31.604813+00:00",
-      "id": "27eb47af313bbdcc",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-07-30T12:38:04+02:00",
-      "source": "freelancermap.de",
-      "title": "Senior Test Engineer SMC-Netzmanagement (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/senior-test-engineer-smc-netzmanagement-m-w-d"
-    },
-    {
-      "description": "Gesucht wird ein Senior SAP S/4HANA Transformation Consultant (m/w/d) bzw. SAP Program Advisor (m/w/d), der sowohl die Rolle eines fachlichen Gutachters im Vergabeverfahren als auch die eines unabhängigen Quality Assurance und Transformation Advisors während der Implementierung übernehmen kann. Dies schließt insbesondere Erfahrung mit Brownfield-Migrationen komplexer SAP R/3-Landschaften ein. Aufgaben Prüfung und Bewertung eingehender Bieterfragen Erstellung fachlicher und technischer Antwortvorschläge Beratung hinsichtlich SAP Best Practices für Brownfield-Transformationen Unterstützung bei Bietergesprächen und Präsentationen Fachliche Bewertung der angebotenen Migrationsansätze Erstellung von Bewertungsmatrizen für die Anbieterauswahl Durchführung technischer Due-Diligence-Prüfungen der Anbieter Fachliche Beratung des Auftraggebers während des Gesamtprojekts Qualitätssicherung der Implementierungsleistungen Qualifikationen SAP R/3 und SAP S/4HANA SAP S/4HANA Brownfield-Transformationen Durchführung komplexer SAP-Transformationsprogramme Begleitung von Vergabe- und Ausschreibungsverfahren SAP Architektur- und Integrationsmanagement Datenmigration und Systemkonvertierung Projektleitung bzw. PMO-Unterstützung in SAP-Großprojekten https://www.etengo.de/it-projektsuche/102671/",
-      "first_seen": "2026-07-30T11:05:31.604813+00:00",
-      "id": "b947b7be311826c0",
-      "matched_keywords": [
-        "pmo"
-      ],
-      "published": "2026-07-30T12:34:04+02:00",
-      "source": "freelancermap.de",
-      "title": "SAP S/4HANA Transformationsberater (w/m/d)",
-      "url": "https://www.freelancermap.de/projekt/sap-s-4hana-transformationsberater-w-m-d"
-    },
-    {
-      "description": "Für unseren Kunden aus dem Infrastruktur- und Bauumfeld suchen wir einen erfahrenen Freelance SHEQ Manager (Safety, Health, Environment & Quality) mit Schwerpunkt SiGeKo, Arbeitssicherheit und Brandschutz . Projektaufgaben Zentraler Ansprechpartner für alle Themen rund um Safety, Health, Environment & Quality (SHEQ). Wahrnehmung von Aufgaben im Bereich Sicherheits- und Gesundheitsschutzkoordination (SiGeKo). Unterstützung und Weiterentwicklung des Arbeitsschutz-, Qualitäts- und Umweltmanagements. Unterstützung bei Brandschutz- und Fire-Protection-Themen. Erstellung und Pflege von Gefährdungsbeurteilungen, Risikobewertungen, Method Statements und Notfallkonzepten. Durchführung von Audits, Baustelleninspektionen und Sicherheitsbegehungen. Untersuchung von Unfällen, Vorfällen und Schadensereignissen inklusive Ursachenanalyse und Präventionsmaßnahmen. Durchführung von Sicherheitsunterweisungen, Toolbox Talks und HSE-Schulungen. Unterstützung bei der SHEQ-Bewertung und Überwachung von Nachunternehmern. Reporting von SHEQ-Kennzahlen und HSE-Performance gegenüber Management und Kunden. Must-have Skills Mehrjährige Erfahrung im Bereich SHEQ, HSE oder Arbeitssicherheit. Erfahrung im Bau-, Infrastruktur-, Energie-, Hochspannungs- oder Rechenzentrumsumfeld. Erfahrung als SiGeKo oder in vergleichbaren HSE-Funktionen. Erfahrung im Bereich Brandschutz / Fire Protection. Gute Kenntnisse der deutschen Arbeitsschutz- und Sicherheitsvorschriften. Erfahrung mit ISO 9001, ISO 14001 und ISO 45001. Erfahrung mit Risikoanalysen, Gefährdungsbeurteilungen und HSE-Dokumentationen. Fließende Deutsch- und Englischkenntnisse in Wort und Schrift. Nice-to-have Erfahrung mit Procore oder vergleichbaren Projektmanagementsystemen. Kenntnisse der ISO 27001. Erfahrung im Bereich Datenschutz und Enterprise Risk Management. Erfahrung mit KI-gestützten Automatisierungs- und Digitalisierungsprozessen. Rahmendaten Start: asap Laufzeit: 12 Monate mit Option auf Verlängerung Auslastung: Vollzeit Einsatzort: Bevorzugt Nauen, alternativ Frankfurt am Main Remote: bis 40% möglich Falls gewünscht, auch in Festanstellung möglich. Spannend? Dann schicke mir deinen aktuellen CV, dein potenzielles Startdatum, deine Erfahrungen im gewünschten Umfeld und deinen gewünschten remote- und vor Ort Stundensatz an ***** zu. Beste Grüße Hani",
-      "first_seen": "2026-07-30T11:05:31.604813+00:00",
-      "id": "b558801ad4b92350",
-      "matched_keywords": [
-        "energie"
-      ],
-      "published": "2026-07-30T12:27:00+02:00",
-      "source": "freelancermap.de",
-      "title": "Dringend gesucht: SHEQ Manager / SiGeKo & Brandschutz (m/w/d) / 12 Monate+ / 40% Remote",
-      "url": "https://www.freelancermap.de/projekt/dringend-gesucht-sheq-manager-sigeko-und-brandschutz-m-w-d-12-monate-40-prozent-remote"
-    },
-    {
-      "description": "Für ein innovatives Digitalisierungsprojekt im Mobilitätsumfeld wird ein Senior Developer (m/w/d) mit Schwerpunkt auf Linux / Python gesucht. Im Fokus steht die Weiterentwicklung einer modernen IT-Plattform, die als technologische Basis für digitale Services dient. Der aktuelle Projektschwerpunkt liegt auf dem Ausbau der Plattform-Observability mit Fokus auf Monitoring, Logging, Alarming und Tracing. Gesucht wird ein erfahrener Entwickler (m/w/d) mit fundierten Kenntnissen im Linux Engineering sowie in der Python-Entwicklung, der technische Komponenten eigenverantwortlich implementiert, integriert und dokumentiert. Rahmendaten: Start: 12.08.2026 Dauer: Bis zum 31.12.2026 Auslastung: 80% (80PT) Remote: 100% remote (Onshore aus Deutschland) Projektsprache: Deutsch Aufgaben: - Implementierung, Integration und Customizing technischer Komponenten auf Basis von Ubuntu Linux - Entwicklung und Integration von Applikationen, Services und Schnittstellen - Konfiguration und Weiterentwicklung von System- und Netzwerkkomponenten - Fehleranalyse und Fehlerbehebung aus Testphasen - Erstellung und Pflege technischer Dokumentationen sowie Systemdokumentationen - Erstellung und Bereitstellung von Lieferpaketen für Anwendungen - Mitarbeit an modernen CI/CD-Prozessen - Unterstützung bei der Weiterentwicklung einer leistungsfähigen Observability-Plattform - Enge Zusammenarbeit innerhalb eines agilen Entwicklungsteams Must-haves: - Mindestens 5 Jahre Erfahrung im Linux Engineering mit Ubuntu (Systemadministration, Netzwerkkonfiguration und Boot-Prozesse) - Mindestens 5 Jahre Erfahrung in der Entwicklung mit Python - Mindestens 3 Jahre Erfahrung in der agilen Softwareentwicklung (Scrum) - Mindestens 3 Jahre Erfahrung mit CI/CD, Git sowie Build- und Deployment-Pipelines - Erfahrung in der Implementierung und Integration technischer Komponenten Selbstständige und strukturierte Arbeitsweise - Sehr gute Deutschkenntnisse (C2) Nice-to-haves: - Erfahrung mit RAUC - Erfahrung in der Containerisierung von Anwendungen mit Docker - Erfahrung mit CHEF (Progress) oder CINC - Erfahrung mit Observability-Tools wie Prometheus und Fluent Bit - Kenntnisse im Bereich Monitoring, Logging, Tracing und Alarming - Erfahrung im DevOps- oder Plattformumfeld",
-      "first_seen": "2026-07-30T11:05:31.604813+00:00",
-      "id": "033e1cde13348f5e",
-      "matched_keywords": [
-        "agil",
-        "scrum",
-        "netz"
-      ],
-      "published": "2026-07-30T12:24:51+02:00",
-      "source": "freelancermap.de",
-      "title": "Senior Developer (m/w/d) (Linux / Python)",
-      "url": "https://www.freelancermap.de/projekt/senior-developer-m-w-d-linux-python"
-    },
-    {
-      "description": "Freiberuflicher Controller / Budgetmanager Infrastruktur Bau (all genders) Start: Ab sofort Einsatzort: Remote / mind. 2 Tage/Woche am Standort in Berlin Projekt Für ein anspruchsvolle Infrastruktur-Großprojekte suchen wir erfahrene Controller / Budgetmanagemer zur Unterstützung des PMO. Aufgaben: Steuerung und Kontrolle des Projektbudgets in Abstimmung mit Projekt- und Teilprojektleitungen Budgetbedarfs- und Mittelabflussplanung Kostenanalysen, Forecasts und CAPEX-Planung Kontrolle von Bestell- und Abrechnungsprozessen Erstellung von Budget- und Management-Reports Analyse und Nachverfolgung von Budgetabweichungen Vorbereitung und Durchführung regelmäßiger Status- und Budget-Reviews Zusammenarbeit mit Termin-, Risiko- und Projektmanagement Must-haves: 5+ Jahre einschlägige Berufserfahrung im Bau-, Infrastruktur- oder Großprojektumfeld , idealerweise Anlagenbau / Elektroanlagenbau Erfahrung in Projektcontrolling und Budgetmanagement Sicherer Umgang mit SAP R/3 bzw. S/4HANA Sehr gute Excel-Kenntnisse, insbesondere Pivot-Tabellen Erfahrung mit CAPEX, Forecasting und Kostenanalysen Fließende Deutsch- und Englischkenntnisse Sicheres Auftreten und gute Kommunikationsfähigkeit Bereitschaft zu mind. 2 Tagen/Woche vor Ort in Berlin Erfahrung im Energieumfeld, PMO sowie mit Übertragungsnetzbetreibern (ÜNB).",
-      "first_seen": "2026-07-30T11:05:31.604813+00:00",
-      "id": "34c85c6658d407e6",
-      "matched_keywords": [
-        "pmo",
-        "energie",
-        "netz",
-        "übertragungsnetz"
-      ],
-      "published": "2026-07-30T12:24:25+02:00",
-      "source": "freelancermap.de",
-      "title": "Freiberuflicher Controller / Budgetmanager Infrastruktur Bau (all genders)",
-      "url": "https://www.freelancermap.de/projekt/freiberuflicher-controller-budgetmanager-infrastruktur-bau-all-genders"
-    },
-    {
-      "description": "Für unseren Kunden aus dem Maschinenbau suchen wir einen erfahrenen TwinCAT 3 Entwickler (m/w/d) zur Unterstützung beim Aufbau und der Weiterentwicklung einer zukunftsorientierten Steuerungsplattform. Ziel ist es, eine robuste, skalierbare und langfristig tragfähige Plattformarchitektur zu etablieren - unter Berücksichtigung aktueller Normen sowie Anforderungen. Aufgaben (Mit-)Entwicklung einer neuen Steuerungsplattform (Beckhoff) Mitarbeit am Aufbau und der Weiterentwicklung einer bestehenden Steuerungsarchitektur Eigenständige Entwicklung von Modulen innerhalb der Plattform Aktive Mitgestaltung und Weiterentwicklung der Systemarchitektur Enge Zusammenarbeit mit internen Stakeholdern sowie Beckhoff Sicherstellung von Zukunftsfähigkeit, Wartbarkeit und Skalierbarkeit der Lösung Anforderungen Fundierte Erfahrung mit Beckhoff TwinCAT 3 (Must-have) Tiefe Kenntnisse in der SPS-Programmierung Erfahrung in der Entwicklung von modularen Software-Architekturen Fähigkeit, technische Entscheidungen aktiv mitzugestalten Erfahrung im Maschinen- oder Anlagenbau, idealerweise mit praktischer Anwendung des PackML-Standards Verständnis für normative Anforderungen / Security-Themen (z. B. Cyber Resilience Act) wünschenswert Rahmenbedingungen Start: Anfang / Mitte September 2026 Laufzeit: ca. 12 Monatemit Option auf Verlängerung Auslastung: Vollzeit Einsatz: Vor-Ort-Anteil notwendig (Raum Stuttgart) Remote nach Absprache möglich, abhängig von Projektphase Bei Interesse am Projekt freue ich mich auf Ihre Kontaktaufnahme SThree_Germany is acting as an Employment Business in relation to this vacancy.",
-      "first_seen": "2026-07-30T11:05:31.604813+00:00",
-      "id": "40c9cf684b018f56",
-      "matched_keywords": [
-        "tso"
-      ],
-      "published": "2026-07-30T12:22:45+02:00",
-      "source": "freelancermap.de",
-      "title": "Beckhoff TwinCAT 3 - SW-Entwicklung (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/beckhoff-twincat-3-sw-entwicklung-m-w-d"
     }
   ],
-  "updated_at": "2026-08-13T10:01:43.417478+00:00"
+  "updated_at": "2026-08-13T11:43:10.625090+00:00"
 }
