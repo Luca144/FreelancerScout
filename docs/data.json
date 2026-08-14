@@ -1,6 +1,20 @@
 {
   "projects": [
     {
+      "description": "Für unseren Kunden suchen wir aktuell eine/n SAP ABAP OO Entwickler für SAP PM & BRF+ (m/w/d) Rahmeninformationen Referenz:179752 Einsatzort:Remote/ca. 5-10% Onsite in Frankfurt Starttermin:01.09.2026 ASAP Arbeitszeit:Vollzeit 84 Tage, davon 4 Tage Onsite Dauer:31.12.2026 Sprachen:Deutsch Ihre Qualifikationen - Bitte NUR Kandidaten vorstellen, die sich in einem sozialversicherungspflichtigen Angestelltenverhältnis befinden - Bitte NUR bewerben, wenn ALLE MUSS-Kriterien erfüllt sind: - MUSS-Kriterien: - mehr als 3 Jahre Erfahrung in der Entwicklung mit SAP ABAP OO - ca.1-3 Jahre Erfahrung bei der Implementierung von OData Services - ca.1-3 Jahre Erfahrung bei der Entwicklung von komplexen technischen Designs - ca.1-3 Jahre Erfahrung bei Entwicklung im BRF+ - SOLL-Kriterien: - ca.1-3 Jahre Erfahrungen bei der Durchführung von Entwicklungen im Modul SAP PM - Erfahrung mit agilen Methoden wie z.B. SCRUM oder SAFe in mind. 1 Projekt - ca.1-3 Jahre Erfahrung bei der Konzeption von Lösungen im SAP PM Modul - ca.1-3 Jahre Erfahrungen beim Customizing im SAP PM Modul Ihre Aufgaben - Zeitnahe Behebung von Fehlern, die bei der Nutzung der Anwendung auftreten und die Einschränkungen der Nutzung der Systeme zur Folge haben - Bereitstellung angepasster Funktionalitäten zur Verbesserung der Arbeitsabläufe und Prozesse in der Anwendung - Konzeption von Lösung und Umsetzung durch Customizing und Entwicklung - Umsetzung von Anforderungen im BRF+ - technische Anpassung der Anwendung an geänderte organisatorische Regelungen - Schreiben von sauberem, effizientem und vollständig dokumentiertem Code unter Verwendung angemessener Softwareentwicklungspraktiken und -standards - Entwicklung von Softwareanwendungen, die den Anforderungen des Auftraggebers entsprechen - Teilnahme an der Planung, Gestaltung und Implementierung von Softwareprojekten - Testen und Debuggen von Softwareanwendungen, um sicherzustellen, dass diese vorgegebene Qualitätsstandards erfüllen - Kooperation mit Projektmanagern, Designern und anderen Entwicklern, um eine rechtzeitige und erfolgreiche Fertigstellung von Projekten, gemäß Auftraggeber Vorgaben sicherzustellen - Teilnahme an relevanten fachlichen Meetings und Bereitstellung regelmäßiger Updates für Projektmanager und andere Projektteammitglieder - Teilnahme an Code-Reviews und Bereitstellung konstruktiven Feedbacks an andere Entwickler Interessiert? Wir freuen uns auf Ihre aussagekräftigen Bewerbungsunterlagen in elektronischer Form. Ihr Ansprechpartner: Lisa Fleig ***** ***** *****",
+      "first_seen": "2026-08-14T17:50:17.095159+00:00",
+      "id": "5dbf827d4a1fdfbc",
+      "matched_keywords": [
+        "projektmanager",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-08-14T19:43:38+02:00",
+      "source": "freelancermap.de",
+      "title": "SAP ABAP OO Entwickler für SAP PM & BRF+ (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/sap-abap-oo-entwickler-fuer-sap-pm-und-brf-m-w-d"
+    },
+    {
       "description": "derzeit suchen wir für folgendes freiberufliches Projekt: Für die Weiterentwicklung der Search- und Discovery-Funktionen einer E-Commerce-Plattform wird ein Product Owner / Product Manager gesucht. Im Fokus stehen die Optimierung der Produktsuche, die Verbesserung der Auffindbarkeit sowie die datengetriebene Weiterentwicklung des Nutzererlebnisses. Kundendetails Rahmenbedingungen: Start: ASAP Laufzeit: 3 Monate Auslastung: Voll- und Teilzeit möglich Einsatzort: Remote mit gelegentlichen Vor-Ort-Aufenthalten in Hamburg Stellenbeschreibung Aufgaben: Verantwortung für Search- und Discovery-Themen einer E-Commerce-Plattform Entwicklung der Produktvision für Search & Discovery Optimierung von Such- und Ergebnisqualität anhand von Analytics, A/B-Tests und Nutzerverhalten Zusammenarbeit mit Business, Tech, Data/Analytics und Katalogbereichen Auswahl, Einführung und Weiterentwicklung von Suchtechnologien Erstellung von User Stories und Priorisierung des Produkt-Backlogs Profil Anforderungen: Must-Have: Mehrjährige Erfahrung im Produktmanagement Erfahrung mit Search, Discovery oder digitaler Produktfindung im E-Commerce Verständnis von Suchsystemen (Indexierung, Relevanz-Tuning, Synonyme, Facetten, Query Understanding) Erfahrung mit Coveo und Algolia Erfahrung im Einsatz von KI-Tools im Produktmanagement Deutsch oder Englisch Nice-to-Have: Erfahrung mit Solr oder Elasticsearch Erfahrung mit Headless-CMS- oder Headless-Commerce-Lösungen Das Angebot Ich freue mich auf Ihre Rückmeldung mit Ihrem aktuellen CV, Ihrer Verfügbarkeit sowie Ihrem Stundensatz (remote und vor Ort).",
       "first_seen": "2026-08-14T16:48:34.076251+00:00",
       "id": "2e8a8573205d67ad",
@@ -7837,5 +7851,5 @@
       "url": "https://www.freelancermap.de/projekt/scrum-master-agile-coach-m-w-d-fokus-devops-in-essen-via-einer-anue"
     }
   ],
-  "updated_at": "2026-08-14T16:48:34.232149+00:00"
+  "updated_at": "2026-08-14T17:50:17.260430+00:00"
 }
