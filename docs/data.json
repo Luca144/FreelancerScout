@@ -7759,32 +7759,7 @@
       "source": "freelancermap.de",
       "title": "Senior Hardware Architect – Fog-Node Design",
       "url": "https://www.freelancermap.de/projekt/senior-hardware-architect-fog-node-design"
-    },
-    {
-      "description": "Reference: VA_000087 We are looking for an experienced Senior Platform Engineer to support platform engineering activities within a private-cloud environment. Responsibilities Design, implement and continuously improve cloud-native platform components Develop and maintain CI/CD pipelines using GitLab Automate infrastructure provisioning through Infrastructure as Code Operate and enhance Kubernetes-based environments Integrate security requirements into DevOps and deployment processes Collaborate within agile Scrum and Kanban teams Required Experience GitLab and CI/CD Kubernetes and cloud-native technologies DevOps and DevSecOps Infrastructure as Code and Terraform Linux and Bash scripting Familiarity with CNCF technologies Senior-level professional experience Project Details Location: Germany Work model: 100% remote Duration: 15 August 2026 – 15 August 2027 Industry: Public sector Rate: Up to €620 per day Security requirement: Willingness to undergo a German security clearance procedure is required Application Apply directly using the following link: https://os.pea-global.com/bewerben?vac=VA_000087",
-      "first_seen": "2026-08-01T11:14:34.176323+00:00",
-      "id": "89b767ace76d0139",
-      "matched_keywords": [
-        "agil",
-        "scrum"
-      ],
-      "published": "2026-08-01T13:11:05+02:00",
-      "source": "freelancermap.de",
-      "title": "Senior Platform Engineer – Private Cloud & DevSecOps",
-      "url": "https://www.freelancermap.de/projekt/senior-platform-engineer-private-cloud-und-devsecops"
-    },
-    {
-      "description": "Liebe FreelancerMap-Community, wir suchen für Projekt bei einem in Süddeutschland ansässigen Versicherer einen erfahrenen Testmanager (m/w/d). Wenn Sie zu den Anforderungen und den Projektrahmen passen, dann freuen wir uns über Ihr Profil (gerne als offene, wenig grafisch gestaltete Datei) mit einer Angabe zum gewünschten Honorar. Anforderungen: • Mindestens fünf Jahre Berufserfahrung im Testmanagement komplexer IT-Systeme, vorzugsweise in der Lebensversicherung, • Nachweisbare Erfahrung in Teststrategieentwicklung und Testkonzeption, • Planung und Steuerung von Testphasen, • Definition von Abnahmekriterien und Abnahmeempfehlungen, • Idealerweise Erfahrung mit der Migration oder der Einführung von Kernsystemen im Bereich einer Lebensversicherung, • Kenntnisse regulatorischer Anforderungen (z.B. BaFin, Solvency II, interne Kontrollsysteme). • Fundierte Kenntnisse in Jira, xRay oder vergleichbaren Werkzeugen, • Erfahrung mit gängigen Teststandards (z. B. ISTQB-orientierte Vorgehensmodelle)",
-      "first_seen": "2026-08-01T11:14:34.176323+00:00",
-      "id": "1289f2148990b2b3",
-      "matched_keywords": [
-        "testmanager"
-      ],
-      "published": "2026-08-01T11:57:43+02:00",
-      "source": "freelancermap.de",
-      "title": "Testmanager LV (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/testmanager-lv-m-w-d"
     }
   ],
-  "updated_at": "2026-08-15T10:19:05.093461+00:00"
+  "updated_at": "2026-08-15T11:17:41.330433+00:00"
 }
