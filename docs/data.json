@@ -7784,19 +7784,7 @@
       "source": "freelancermap.de",
       "title": "Testmanager LV (m/w/d)",
       "url": "https://www.freelancermap.de/projekt/testmanager-lv-m-w-d"
-    },
-    {
-      "description": "For an innovative automotive semiconductor project in the braking systems domain, we are looking for an experienced Senior Digital Verification Engineer who can take ownership of the verification of safety-critical ASIC IPs and contribute immediately to a tape-out-critical project. This role is aimed at highly experienced verification engineers who are able to independently develop and execute verification strategies with minimal supervision. Location: South Germany (Hybrid / On-site depending on project requirements)Start: September 2026Duration: 3 months (with potential follow-up opportunities)What We Are Looking ForWe are not simply looking for a UVM developer. We are looking for engineers who can independently: Analyze complex specifications Develop a complete verification strategy Design robust verification architectures Identify verification risks early Drive projects through successful verification sign-off Your Responsibilities Own the verification of complex ASIC IP blocks from specification review to verification sign-off Analyze requirements and derive comprehensive verification plans Develop and extend SystemVerilog/UVM verification environments Create reusable verification components, scoreboards and reference models Develop constrained-random and directed test cases Write SystemVerilog Assertions (SVA) Verify functional behavior, diagnostics and fault scenarios Drive functional and code coverage closure Debug verification issues together with RTL, analog and system architects Support verification reviews and final sign-off activities Required Skills 8+ years of ASIC or SoC Digital Verification experience Excellent knowledge of SystemVerilog and UVM Strong experience with coverage-driven verification methodologies Experience creating verification plans directly from specifications Development of scoreboards, reference models and reusable verification components Strong debugging skills (e.g. Verdi, DVE, SimVision or similar) Experience with SystemVerilog Assertions (SVA) Excellent English communication skills Please send us your updated CV (in English) highlighting your experience with: SystemVerilog UVM ASIC / SoC Verification Mixed-Signal Verification (if applicable) Automotive semiconductor projects Verification planning and sign-off",
-      "first_seen": "2026-08-01T09:03:56.475910+00:00",
-      "id": "830224fb0744a776",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-08-01T09:32:05+02:00",
-      "source": "freelancermap.de",
-      "title": "4368-3320 - Senior Digital Verification Engineer (m/f/d) - Automotive ASIC Verification",
-      "url": "https://www.freelancermap.de/projekt/4368-3320-senior-digital-verification-engineer-m-f-d-automotive-asic-verification"
     }
   ],
-  "updated_at": "2026-08-15T08:24:06.153871+00:00"
+  "updated_at": "2026-08-15T09:22:31.826631+00:00"
 }
