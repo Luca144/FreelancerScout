@@ -1,6 +1,81 @@
 {
   "projects": [
     {
+      "description": "Für einen Kunden aus dem produzierenden Mittelstand im Großraum Heilbronn suchen wir kurzfristig Unterstützung in der Betreuung des ERP-Systems Infor LN. Sie übernehmen die laufende Betreuung des Systems, unterstützen die Fachbereiche im Tagesgeschäft und setzen Anpassungen im System um. Die Rolle ist stark anwendungsnah: Sie sind erster Ansprechpartner für die Key User aus Produktion, Logistik, Einkauf und dem kaufmännischen Bereich. Ihre Aufgaben Betreuung und Support des ERP-Systems Infor LN im laufenden Betrieb Customizing und Anpassung von Prozessen und Funktionen an die fachlichen Anforderungen Analyse und Lösung von Störungen im Zusammenspiel von System und Fachprozess Beratung und Schulung der Key User und Anwender Unterstützung bei Auswertungen und Schnittstellenthemen rund um das ERP-System Dokumentation von Anpassungen und Lösungswegen Ihr Profil Mehrjährige Erfahrung in der Betreuung von Infor LN - Support, Customizing und Anwenderbetreuung Gutes Verständnis der ERP-Kernprozesse im Fertigungsumfeld (Produktion, Logistik, Einkauf) Solide SQL-Kenntnisse für Analysen und Datenauswertungen Kenntnisse in Crystal Reports sind ein Plus, aber keine Bedingung Verhandlungssicheres Deutsch für die enge Abstimmung mit den Fachbereichen vor Ort, gutes Englisch für die konzernweite Kommunikation Rahmendaten Einsatzort: Großraum Heilbronn Remote-Anteil: ca. 50 % nach Absprache Start: ab sofort, spätestens 01.09.2026 Laufzeit: zunächst 3 Monate, Verlängerungsoption vorhanden Auslastung: Vollzeit Sprachen: Deutsch (verhandlungssicher), Englisch (gut) Kontakt Bitte senden Sie uns Ihr Profil inklusive Verfügbarkeit und Stundensatz an ***** .",
+      "first_seen": "2026-08-17T16:23:26.896285+00:00",
+      "id": "23ae1582d29e6232",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-08-17T18:21:48+02:00",
+      "source": "freelancermap.de",
+      "title": "Infor LN Anwendungsbetreuer  (m/w/d) – Customizing & Support – 50 % Remote - GR Heilbronn",
+      "url": "https://www.freelancermap.de/projekt/infor-ln-anwendungsbetreuer-m-w-d-customizing-und-support-50-prozent-remote-gr-heilbronn"
+    },
+    {
+      "description": "Projektmanager (m/w/d) S/4 Finance | Norddeutschland | Hybrid | Start: 15.09.2026 | Vollzeit | Dauer: ca. 6 Monate | Branche: Handel Ihre Aufgaben Fachliche Steuerung der S/4HANA Finance-Integration (aktuelle Phase: Endphase Definition der Anforderungen) mit Schwerpunkt Controlling Projektmanagement für die Umstellung & Weiterentwicklung der bestehenden Controlling -Prozesse Fachliche Begleitung der S/4-Controlling-Module-Implementierung Fachliche Koordination zwischen IT-Teams und Controlling-Fachabteilungen Beratung zur Sicherstellung der termingerechten und qualitätsorientierten Projektabwicklung Ihr Profil Mehrjährige Erfahrungen im Projektmanagement von S/4 Finance-Implementierungen Fundierte Kenntnisse im Controlling Ausgeprägtes technisches Verständnis für S/4HANA-Architekturen Idealerweise Erfahrungen im Handel",
+      "first_seen": "2026-08-17T16:23:26.896285+00:00",
+      "id": "918358c31ad76789",
+      "matched_keywords": [
+        "projektmanager",
+        "tso"
+      ],
+      "published": "2026-08-17T18:14:02+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektmanager (m/w/d) S/4 Finance",
+      "url": "https://www.freelancermap.de/projekt/projektmanager-m-w-d-s-4-finance"
+    },
+    {
+      "description": "Die Rolle dient der Konzeption, Planung und technischen Vorbereitung einer neuen FHIR?Komponente zur einheitlichen Verarbeitung eingehender FHIR?Nachrichten aus verschiedenen Sozialversicherungszweigen (z. B. eRezept, eAU, DiGA). Ziel ist die Erstellung einer belastbaren Entscheidungsgrundlage sowie eines detaillierten Projektplans für die spätere Umsetzung. Solution Architect mit FHIR?Expertise Zertifizierung im Requirements Engineering (z. B. IREB) 10 Jahre Erfahrung in Softwarearchitektur, technischem Produktmanagement und Projektleitung Tiefes Wissen in Architectural Patterns und deren Anwendung Nachgewiesene Expertise in HL7/FHIR, insbesondere HAPI FHIR und ISiK?Profilen Erfahrung in Planung und Durchführung von Proof?of?Concepts Sicherheit in Anforderungsanalyse und Schnittstellen?Identifikation Erfahrung in Prozessoptimierung durch standardisierte Integrationsarchitekturen Kenntnisse in der Implementierung von FHIR?Profilen (Patientendaten, Diagnosen etc.) Ausgeprägte Kommunikations? und Abstimmungsfähigkeit Optional: Erfahrung mit SAP S/4HANA FHIR?Experte & Entwickler Studium oder vergleichbare Ausbildung im Bereich Informatik Praktische Erfahrung mit FHIR?Profilen und Profilmanagement (simplifier.net, GKV?FHIR?Profile) Kenntnisse in eHealth?Standards (eRezept, TA7, eAU) Fundierte Expertise in Java (Kotlin optional) Erfahrung in Machbarkeitsstudien und Technologieevaluierungen Fähigkeit zur schnellen Einarbeitung in neue Domänen Erfahrung in Architekturunterstützung moderner Softwareprojekte Kompetenz in Validierung technischer Anforderungen und deren Umsetzbarkeit Sinan Ucan Recruiting Manager SOMI Experts GmbH ***** *****",
+      "first_seen": "2026-08-17T16:23:26.896285+00:00",
+      "id": "95d0b6ae69ef452f",
+      "matched_keywords": [
+        "requirements engineer",
+        "ireb"
+      ],
+      "published": "2026-08-17T18:07:50+02:00",
+      "source": "freelancermap.de",
+      "title": "FHIR Solution Architect & FHIR Developer (m/w/d) Remote",
+      "url": "https://www.freelancermap.de/projekt/fhir-solution-architect-und-fhir-developer-m-w-d-remote"
+    },
+    {
+      "description": "We are currently looking for an experienced Software Engineer (m/f/d) to join our client's team in Hannover . This is a hands-on software engineering role within an agile sprint team, focused on monitoring solutions, web UI development and automation . You will work across Python/PowerShell, TypeScript and modern web technologies , helping to develop and maintain reliable software solutions. Key Details: Location: Hannover, Germany Contract: Temporary contract until December 2027 Start: ASAP Working hours: 40 hours/week Home Office: 60% remote Onboarding: First ~4 weeks on-site in Hannover After onboarding: 2 days office / 3 days home office Salary: €58,000–€94,000 gross annual, depending on experience Language: Fluent German + English Reference: #1583 Your Responsibilities Develop and extend monitoring solutions using Icinga Prepare, analyse and visualise data to support actionable recommendations Develop modern web UIs using TypeScript and Electron Support future application development using Angular Analyse technical requirements and implement reliable, maintainable software Continuously improve and extend existing applications Work closely with an agile sprint team Use development and collaboration tools including Git, Jira, Microsoft Teams and Cursor What We're Looking For: 6–10 years of hands-on software development experience Strong experience with Python or PowerShell Solid TypeScript development experience, particularly for web UIs Experience working with both Windows and Linux Strong knowledge of Git and Jira A proactive, independent and delivery-focused approach Ability to take ownership and deliver against defined objectives Fluent German and good English Nice to Have: Experience with Icinga or similar monitoring platforms Experience developing applications with Electron Knowledge of Angular Experience with AI-assisted / agentic coding , such as Cursor Experience with automation or scripting in addition to core software development Important Onboarding Requirement: The first approximately 4 weeks require full on-site presence in Hannover for onboarding. Following onboarding, the role offers a 60% home-office arrangement , typically 3 days remote and 2 days in the office per week . Nationality Requirement: The position is subject to the client's standard nationality requirements . Candidates must hold a nationality from the approved list. Nationality must be confirmed when submitting a candidate. Interested? If you have strong Python/PowerShell and TypeScript experience and are looking for a long-term contract opportunity with a leading technology organisation, please get in touch.",
+      "first_seen": "2026-08-17T16:23:26.896285+00:00",
+      "id": "d8403757f25dfe8f",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-08-17T18:02:24+02:00",
+      "source": "freelancermap.de",
+      "title": "#1583 Software Engineer (m/f/d)",
+      "url": "https://www.freelancermap.de/projekt/1583-software-engineer-m-f-d"
+    },
+    {
+      "description": "Technischer Projektleiter (m/w/d) Satellite Communication Space Standort: Bremen Start: 01.09.2026 Laufzeit: bis 31.12.2026 Arbeitszeit: 40 Stunden/Woche Bereich: Defence Ihre Mission Für ein anspruchsvolles End-to-End-Programm im Bereich Satellitenkommunikation suchen wir einen erfahrenen Technischen Projektleiter (m/w/d). In dieser Schlüsselrolle koordinieren Sie technische Arbeitspakete über verschiedene Systemsegmente hinweg und sorgen für eine durchgängige technische Planung sowie die Einhaltung der Systembaseline. Sie arbeiten an innovativen Technologien im sicherheitsrelevanten Umfeld und tragen maßgeblich zum Erfolg komplexer Raumfahrt- und Kommunikationsprojekte bei. Ihre Aufgaben Technische Planung, Steuerung und Überwachung definierter Arbeitspakete Koordination interner Fachbereiche, Segmentteams sowie externer Partner Pflege, Abstimmung und Weiterentwicklung der technischen Baseline Abstimmung von Anforderungen, Systemarchitekturen und Schnittstellen Steuerung technischer Meilensteine, Abhängigkeiten und Liefergegenstände Identifikation, Bewertung und Nachverfolgung technischer Risiken und Änderungen Vorbereitung, Organisation und Moderation technischer Reviews und Entscheidungsrunden Unterstützung bei Verifikation, Nachweisführung und Abnahmeprozessen Ihr Profil Abgeschlossenes Studium im technischen oder naturwissenschaftlichen Bereich Mehrjährige Berufserfahrung in der technischen Projektleitung oder im Systems Engineering Erfahrung mit komplexen, interdisziplinären technischen Systemen Kenntnisse in den Bereichen Requirements Engineering, Systemarchitektur oder Interface Management Strukturierte, selbstständige und lösungsorientierte Arbeitsweise Ausgeprägte Kommunikations-, Koordinations- und Moderationsfähigkeiten Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift Wünschenswerte Qualifikationen Erfahrung im Bereich Satellitenkommunikation, Raumfahrt oder Defence Fundiertes Verständnis von End-to-End-Systemarchitekturen Kenntnisse im Konfigurations-, Änderungs- oder Verifikationsmanagement Das erwartet Sie Mitarbeit an einem technologisch anspruchsvollen Zukunftsprojekt im Bereich Satellitenkommunikation Verantwortungsvolle Rolle mit hoher technischer Gestaltungsmöglichkeit Zusammenarbeit mit interdisziplinären Experten und internationalen Partnern Ein innovatives Projektumfeld innerhalb eines führenden Unternehmens der Verteidigungs- und Sicherheitsindustrie Sie verfügen über fundierte Erfahrung in der technischen Projektsteuerung und möchten an komplexen Raumfahrt- und Kommunikationssystemen mitwirken? Dann freuen wir uns auf Ihre Bewerbung. SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-08-17T16:23:26.896285+00:00",
+      "id": "3fd6d3a2963f0c76",
+      "matched_keywords": [
+        "requirements engineer",
+        "ems"
+      ],
+      "published": "2026-08-17T17:52:35+02:00",
+      "source": "freelancermap.de",
+      "title": "Technischer Projektleiter (m/w/d) Satellite Communication Space",
+      "url": "https://www.freelancermap.de/projekt/technischer-projektleiter-m-w-d-satellite-communication-space"
+    },
+    {
+      "description": "Für einen unserer Endkunden in Hamburg sind wir aktuell auf der Suche nach einem:einer Senior Risikomanager:in Interim auf freiberuflicher Basis. Tätigkeiten: Weiterentwicklung des Transaktions-Risikomanagements mit dem Ziel Conversion-Maximierung und Ausfallrisiko-Minimierung nachhaltig in Balance zu halten, d.h. kontinuierliche Analyse, Kalibrierung und fachliche Steuerung von Risikomodellen sowie die Beobachtung externer Risikoentwicklungen Sicherstellung des laufenden Tagesgeschäfts in der Betrugs- und Bonitätsprüfung (B2C & B2B) Weiterentwicklung der zugehörigen Regelwerke Fachliche Steuerung und aktive Mitarbeit in Projekten Weiterentwicklung des Risikoframeworks für den wachsenden B2B-Bereich Fachlicher Ansprechpartner für interne und externe Stakeholder Anforderungen: Mehrjährige Berufserfahrung im Bereich Risikomanagement, Fraud Management oder Credit Risk - idealerweise im E-Commerce- oder Finanzumfeld Fundierte Kenntnisse in der Betrugs- und Bonitätsprüfung (B2C und/oder B2B) inkl. Erfahrung im Umgang mit Auskunfteien und externen Datenlieferanten Sicherer Umgang mit Datenanalyse-Tools Verständnis für Datenqualitätsmanagement und Erfahrung im Umgang mit komplexen Datenstrukturen Strukturierte, eigenverantwortliche Arbeitsweise mit hoher Lösungsorientierung auch unter Ressourcendruck Ausgeprägte Kommunikationsstärke gegenüber Stakeholdern auf verschiedenen Hierarchieebenen Rahmendaten: Einsatzort: nach der Einarbeitung größtenteils Remote läuft. Ansonsten ist Arbeitsort Hamburg. Start: ab September Laufzeit: 8 Monate Auslastung: 5 Tage die Woche Remoteanteil: ja Sprachkenntnisse: Fließende Deutsch- und Englischkenntnisse Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
+      "first_seen": "2026-08-17T16:23:26.896285+00:00",
+      "id": "91d7c1c02c7cf0a4",
+      "matched_keywords": [
+        "tso"
+      ],
+      "published": "2026-08-17T17:46:18+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Risikomanager:in Interim (Remote/Hamburg)",
+      "url": "https://www.freelancermap.de/projekt/senior-risikomanager-in-interim-remote-hamburg"
+    },
+    {
       "description": "Für unseren Kunden suchen wir aktuell eine/n Beratung Rubrik Backup-Solution (m/w/d) Rahmeninformationen Referenz:179780 Einsatzort:Münster oder Remote Starttermin:24.08.2026 Arbeitszeit:Vollzeit Dauer:3PT Sprachen:Deutsch Ihre Qualifikationen - Fundierte Rubrik-Expertise, insbesondere in den Bereichen Backup-Infrastruktur, SLA-Domains, Archivierung, Security und Hardening. - Sicherer Umgang mit der Rubrik Security Cloud (RSC) sowie die Fähigkeit, Sicherheits- und Hardening-Maßnahmen über die neue RSC-Oberfläche zu bewerten und gegebenenfalls umzusetzen. - Kenntnisse zu Pure Storage FlashBlade und dessen S3-Funktionalität sind wünschenswert, jedoch keine zwingende Voraussetzung. Ihre Aufgaben - Prüfung unseres geplanten Offline-Backup-Konzepts auf Basis von Rubrik und einem bereitgestellten S3-Storage: - Zielbild ist beispielsweise ein halbjährliches Full Backup aller relevanten Server auf einen S3-Storage. - Anschließend soll der S3-Speicher offline genommen oder wirksam vom Netzwerk bzw. den produktiven Systemen getrennt werden. - Falls dieses Szenario mit Rubrik und S3 nicht sinnvoll oder technisch nicht umsetzbar ist, bitten wir um die Darstellung geeigneter alternativer Offline-Backup-Lösungen für VMware-VMs. - Beratung zur Rubrik Quorum Authorization, insbesondere zu: - den abzusichernden bzw. genehmigungspflichtigen Aktionen, - geeigneten Einstellungen, - praxistauglichen und revisionssicheren Genehmigungsprozessen. - Prüfung, ob anstelle der umfassend berechtigten Quorum-Admin-Rolle eine Rolle nach dem Prinzip der minimalen Berechtigungen eingerichtet werden kann, die ausschließlich oder überwiegend zur Genehmigung von Quorum-Anfragen berechtigt. Interessiert? Wir freuen uns auf Ihre aussagekräftigen Bewerbungsunterlagen in elektronischer Form. Ihr Ansprechpartner: Mirco Klapka ***** ***** *****",
       "first_seen": "2026-08-17T15:21:52.051276+00:00",
       "id": "40371b1483756814",
@@ -8452,31 +8527,7 @@
       "source": "freelancermap.de",
       "title": "Java Software Entwickler (m/w/d) - Hamburg - Arbeitnehmerüberlassung",
       "url": "https://www.freelancermap.de/projekt/java-software-entwickler-m-w-d-hamburg-arbeitnehmerueberlassung"
-    },
-    {
-      "description": "Für unseren Kunden aus der Energiebranche im Raum München suchen wir einen freiberuflichen SAP PM Berater (gn), der bei folgendem Projekt unterstützen kann: Kundendetails Start: Nach Absprache / kurzfristig Laufzeit: ca. 6 Monate Auslastung: ca. 3 Tage pro Woche Einsatzort: Full Remote Einarbeitung: Vor Ort in München Vertragsart: Freiberuflich Stellenbeschreibung Beratung und Weiterentwicklung der SAP PM-Prozesse Analyse und Optimierung bestehender Instandhaltungsprozesse Technisches und funktionales Customizing im SAP PM Umsetzung und Dokumentation von Systemanpassungen Unterstützung bei der Konzeption und Implementierung neuer Anforderungen Abstimmung mit Fachbereichen sowie technischen Ansprechpartnern Fehleranalyse und Behebung von Incidents im SAP PM-Umfeld Unterstützung bei Tests, Go-Lives und Knowledge Transfer Profil Mehrjährige Erfahrung als SAP PM Berater Fundierte Kenntnisse im SAP PM Customizing Technisches Verständnis sowie Erfahrung in der Umsetzung von Systemanpassungen Erfahrung in der Analyse und Optimierung von Geschäftsprozessen im Instandhaltungsumfeld Selbstständige und strukturierte Arbeitsweise Sehr gute Deutschkenntnisse Nice-to-have: Erfahrung in der Energiebranche Kenntnisse angrenzender SAP-Module (z. B. MM, CS oder EAM) Erfahrung in SAP S/4HANA-Projekten Das Angebot Bei Interesse freuen wir uns auf die Zusendung Ihres aktuellen Profils unter Angabe von: Verfügbarkeit Stundensatz (remote / vor Ort) Projektrelevanter Erfahrung im SAP PM-Umfeld Erfahrung im technischen Customizing",
-      "first_seen": "2026-08-03T16:22:03.750301+00:00",
-      "id": "312af33673edda93",
-      "matched_keywords": [
-        "energie"
-      ],
-      "published": "2026-08-03T17:39:37+02:00",
-      "source": "freelancermap.de",
-      "title": "INTERIM SAP PM Berater",
-      "url": "https://www.freelancermap.de/projekt/interim-sap-pm-berater"
-    },
-    {
-      "description": "Microsoft Tenant Carve-out & Hybrid-Migration (m/w/d) ab sofort für 3+ Monate (Remote) Skills: Microsoft Tenant Migration, Microsoft Exchange, Microsoft Entra ID (Azure AD), Hybrid Infrastructure, Microsoft Dynamics 365 Business Central, Identity Management Für meinen Endkunden suche ich ab sofort mehrere Microsoft Infrastruktur-Experten, die den geplanten Aufbau eines eigenen Microsoft-Tenants sowie die Migration der bestehenden IT-Landschaft begleiten. Im Fokus stehen die Ausgliederung aus der Infrastruktur des Mutterkonzerns, die Umsetzung einer hybriden Umgebung sowie die Migration zentraler Microsoft-Services. Auch Kandidaten, die sich in einzelnen Bereichen weiterentwickeln möchten, sind herzlich willkommen. Das bringen Sie für das Projekt mit: Erfahrung mit Microsoft Tenant-Migrationen oder Tenant Carve-out Projekten Kenntnisse in Microsoft Exchange und Microsoft Entra ID (Azure AD) Erfahrung im User- und Identity-Management Verständnis von hybriden Microsoft-Infrastrukturen Erfahrung mit Microsoft Dynamics 365 Business Central ist von Vorteil Idealerweise Erfahrung in der Migration von Microsoft-Umgebungen aus Konzernstrukturen Beauftragung für 12+ Monate Projektsprache: Deutsch, Englisch Skills: Microsoft Tenant Migration, Microsoft Exchange, Microsoft Entra ID (Azure AD), Hybrid Infrastructure, Microsoft Dynamics 365 Business Central, Identity Management Sie sind offen für neue Herausforderungen in einem agilen und engagierten Team? Dann senden Sie mir Ihren CV als Word-Dokument an ***** Wir operieren als Personalberatungsunternehmen. Keine der genannten Fachausdrücke sollen diskriminierend in Hinblick auf Alter oder Erfahrung sein. Wir bestätigen, dass wir alle Bewerbungen von Kandidaten jeden Alters und jeder Erfahrung gerne entgegennehmen.",
-      "first_seen": "2026-08-03T16:22:03.750301+00:00",
-      "id": "25af37dfdb7a24a2",
-      "matched_keywords": [
-        "agil"
-      ],
-      "published": "2026-08-03T17:34:51+02:00",
-      "source": "freelancermap.de",
-      "title": "Experte für Microsoft Tenant Carve-out & Hybrid-Migration (m/w/d) ab sofort für 3+ Monate (Remote)",
-      "url": "https://www.freelancermap.de/projekt/experte-fuer-microsoft-tenant-carve-out-und-hybrid-migration-m-w-d-ab-sofort-fuer-3-monate-remote"
     }
   ],
-  "updated_at": "2026-08-17T15:21:52.220406+00:00"
+  "updated_at": "2026-08-17T16:23:27.067200+00:00"
 }
