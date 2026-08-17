@@ -1,6 +1,30 @@
 {
   "projects": [
     {
+      "description": "Derzeit sind wir auf der Suche nach einem erfahrenen Interim Program Manager (m/w/d) zur Steuerung eines strategischen Carve-out- und Transformationsprojekts. Ziel: Erfolgreiche Loslösung von bestehenden (Einkaufs-)Prozessen und Aufbau einer nachhaltigen Einkaufs- und Transportmanagement-Struktur. Kundendetails Unser Kunde ist ein namhaftes Unternehmen. Rahmenbedingungen: Start: September Laufzeit: zunächst 6 Monate Einsatz: zunächst vor Ort zur Einarbeitung, anschließend hybrides Modell Auslastung: Vollzeit Stellenbeschreibung Gesamtverantwortliche Steuerung des Programms im Bereich Einkauf und Transportmanagement Aufbau und Pflege eines integrierten Masterplans Koordination aller Workstreams, Stakeholder und Projektabhängigkeiten Überwachung der Lieferanten- und Vertragsmigration Begleitung des europaweiten Rollouts an mehreren Standorten Risiko-, Eskalations- und Stakeholder-Management Profil Mehrjährige Erfahrung als Programm- oder Projektmanager in Transformations-, Carve-out- oder Restrukturierungsprojekten Fundierte Kenntnisse in Einkauf, Procurement und Supply Chain Management Gute SAP-Kenntnisse Erfahrung mit Lieferanten- und Vertragsmigrationen Erfahrung in internationalen Multi-Site-Rollouts Verhandlungssichere Englischkenntnisse Das Angebot Wir bieten ein spannendes Interim Mandat.",
+      "first_seen": "2026-08-17T17:23:25.344190+00:00",
+      "id": "81a2223f905abb10",
+      "matched_keywords": [
+        "projektmanager"
+      ],
+      "published": "2026-08-17T18:58:33+02:00",
+      "source": "freelancermap.de",
+      "title": "Interim Program Manager Procurement Transformation (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/interim-program-manager-procurement-transformation-m-w-d"
+    },
+    {
+      "description": "Project Manager with AI/software Start date: Immediately Contract length: 3 months + potential extension Location: Remote (occasional on site travel but very rare) Language : German speaking Capacity : Full time We are currently seeking an experienced project support specialist. The role involves the operational management and coordination of two projects that have been merged due to significant technical synergies: 1. Development of an AI platform for the code-based development and orchestration of AI agents. 2. Extending an app to include a prompting feature, enabling end customers to use specific agents. This is a highly complex, time-critical, multi-stakeholder environment comprising multiple companies within the finance industry. The agents must comply with strict regulatory requirements in on-premises operations. There are two key project milestones: September 2026 and November 2026. The project was officially launched recently and was initiated spontaneously despite its scale. The ideal candidate Essential: Experience in technical project management (TPM) within the AI/software sector. Understanding of AI architectures: knowledge of LLMs and AI agents Experience with FI projects Strong coordination skills in a multi-stakeholder environment: confident in dealing with clients, partners and development teams. Experience of agile working: sprints, milestone planning, backlog management. Nice-to-have: Framework knowledge: Experience with Python, LangChain/LangGraph or similar agent frameworks Protocols & architecture: Experience with MCP clients, A2A servers (agent-to-agent communication), asynchronous task processing and chatbot/dialogue platforms. Industry experience: Background in the banking/fintech sector. Compliance & AI governance: Experience in highly regulated sectors (e.g. EU AI Act risk assessment, auditability via chain-of-thought logging, dynamic guardrails and rights management). Key responsibilities within the project: Operational management & coordination: Taking charge of project coordination and managing the interfaces between companies. Organising coordination meetings, meetings, etc. Planning work packages: Detailed sprint planning of work packages (e.g. guardrails). Committee work: Preparing for and following up on coordination meetings, such as project presentations to the Executive Board and steering groups. Refinements: Conducting and facilitating technical refinements with the client to clarify any remaining scope discrepancies.",
+      "first_seen": "2026-08-17T17:23:25.344190+00:00",
+      "id": "57028a270b35d5c5",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-08-17T18:47:32+02:00",
+      "source": "freelancermap.de",
+      "title": "Project Manager - AI/Software experience within Finance industry",
+      "url": "https://www.freelancermap.de/projekt/project-manager-ai-software-experience-within-finance-industry-3036532"
+    },
+    {
       "description": "Für einen Kunden aus dem produzierenden Mittelstand im Großraum Heilbronn suchen wir kurzfristig Unterstützung in der Betreuung des ERP-Systems Infor LN. Sie übernehmen die laufende Betreuung des Systems, unterstützen die Fachbereiche im Tagesgeschäft und setzen Anpassungen im System um. Die Rolle ist stark anwendungsnah: Sie sind erster Ansprechpartner für die Key User aus Produktion, Logistik, Einkauf und dem kaufmännischen Bereich. Ihre Aufgaben Betreuung und Support des ERP-Systems Infor LN im laufenden Betrieb Customizing und Anpassung von Prozessen und Funktionen an die fachlichen Anforderungen Analyse und Lösung von Störungen im Zusammenspiel von System und Fachprozess Beratung und Schulung der Key User und Anwender Unterstützung bei Auswertungen und Schnittstellenthemen rund um das ERP-System Dokumentation von Anpassungen und Lösungswegen Ihr Profil Mehrjährige Erfahrung in der Betreuung von Infor LN - Support, Customizing und Anwenderbetreuung Gutes Verständnis der ERP-Kernprozesse im Fertigungsumfeld (Produktion, Logistik, Einkauf) Solide SQL-Kenntnisse für Analysen und Datenauswertungen Kenntnisse in Crystal Reports sind ein Plus, aber keine Bedingung Verhandlungssicheres Deutsch für die enge Abstimmung mit den Fachbereichen vor Ort, gutes Englisch für die konzernweite Kommunikation Rahmendaten Einsatzort: Großraum Heilbronn Remote-Anteil: ca. 50 % nach Absprache Start: ab sofort, spätestens 01.09.2026 Laufzeit: zunächst 3 Monate, Verlängerungsoption vorhanden Auslastung: Vollzeit Sprachen: Deutsch (verhandlungssicher), Englisch (gut) Kontakt Bitte senden Sie uns Ihr Profil inklusive Verfügbarkeit und Stundensatz an ***** .",
       "first_seen": "2026-08-17T16:23:26.896285+00:00",
       "id": "23ae1582d29e6232",
@@ -8529,5 +8553,5 @@
       "url": "https://www.freelancermap.de/projekt/java-software-entwickler-m-w-d-hamburg-arbeitnehmerueberlassung"
     }
   ],
-  "updated_at": "2026-08-17T16:23:27.067200+00:00"
+  "updated_at": "2026-08-17T17:23:25.527056+00:00"
 }
