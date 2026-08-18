@@ -1,6 +1,133 @@
 {
   "projects": [
     {
+      "description": "Für den Betrieb und im Rahmen der agilen Weiterentwicklung des e-Learning-Verfahrens „ELM-Lernwelt“, basierend auf dem Produkt PeopleSoft ELM („Enterprise Learning Management“) der Fa. Oracle, wird für folgende Aufgaben eine externe Dienstleistung benötigt: Aufgaben: - Lösungsentwicklung für fachl. und techn. Anforderungen im Bereich Entwicklung-, Architektur- und Fachkonzeption - Erstellung von produktspezifischen Konzepten zur Anbindung von Schnittstellenpartnern - Machbarkeitsanalysen im Rahmen neuer Anforderungen, hierzu sind Aufwand und Kosten zu bewerten - Reagieren auf BA-Handlungszwänge (RC-Termindruck, Gesetz, Technikzwänge, Architektur ff) - 3rd-Level-Support (Mithilfe bei der Analyse und Lösung von Störungen) - Erstellen / Anpassen technischer Konzepte (z.B. Designkonzept, Architekturkonzept, Schnittstellenkonzept, Rechte- Rollenkonzept, Konfigurationshandbuch, Installationsanleitung, Wiederherstellungsanleitung) - Ggf. Integration des Systems in die erforderliche Infrastruktur unter Beachtung von Architekturvorgaben (z.B. BApC, Containerplattform) - Unterstützung des Fachbereichs bei der Erstellung und Ausschreibung von Lerninhalten hinsichtlich technischer Punkte und Spezifikationen - technische Betreuung der Lerninhalte bzgl. der verwendeten E-Learning Standardspezifikationen (z.B. Scorm 1.2, 2004, LTI) - Konzeption, Entwicklung und Test spezifischer Komponenten im Kontext des Produkts - Unterstützung beim Umzug in die BApC von „Wiki“ inkl. Aufbau der Infrastruktur, Dokumentation, Upgrade der Wiki-Software und weiteren, benötigten Teilaufgaben Skills: - Programmiersprachen: z.B.: HTML, Java/JEE, C++, JSP, JavaScript, CSS, XML, SQL - Softwareprodukte: z.B.: Oracle Tuxedo, Elasticsearch, PeopleTools ab 8.5x, PeopleSoft ELM 9.x - E-Learning Standardspezifikationen und Technologien (z.B. Scorm 1.2, 2004, LTI, WBT, Blended/Distance-Learning, Virtual Classroom) - WebServices: SOAP/REST - Oracle Weblogic-Server - Betriebssysteme: Windows, Linux - Englischkenntnisse für die Abstimmung mit dem SW-Hersteller Nice to have: - ITIL-Prozesse: INC, CHG - RDBMS: Oracle DB - Web-Server: Apache - Media Wiki Start: 01.11.2026 Ende: 30.04.2027 mit Option auf Verlängerung Auslastung: Vollzeit Einsatzort: Remote (Abholung / Rückgabe Hardware in Nürnberg) Haben sie Interesse an unserem Projekt? Dann freue ich mich auf ihre Kontaktaufnahme. Vielen Dank. Schönen Gruß Silvia Griner",
+      "first_seen": "2026-08-18T12:39:29.229331+00:00",
+      "id": "7e001ce4fb27b242",
+      "matched_keywords": [
+        "agil",
+        "ems"
+      ],
+      "published": "2026-08-18T14:28:27+02:00",
+      "source": "freelancermap.de",
+      "title": "PeopleSoft ELM - LMS Engineer (m/w/d) - Remote - 01.11.2026 - 30.04.2027",
+      "url": "https://www.freelancermap.de/projekt/peoplesoft-elm-lms-engineer-m-w-d-remote-01-11-2026-30-04-2027"
+    },
+    {
+      "description": "Für die Weiterentwicklung von X-Portal suchen wir einen Requirements Engineer sowie einen KI-/Full-Stack-Entwickler. X-Portal gleicht Projektbeschreibungen mit Freelancer-Profilen ab und ermöglicht Auftraggebern, direkt ein Erstgespräch zu buchen. Ziel des Projekts ist es, die Qualität und Nachvollziehbarkeit des bestehenden Matching-Algorithmus zu verbessern. Aufgaben Requirements Engineering: • Bestehenden Matching-Prozess analysieren • Relevante Kriterien wie Skills, Erfahrung, Verfügbarkeit und Einsatzort definieren • Anforderungen, Nutzerfälle und Akzeptanzkriterien erstellen • Testfälle zur Bewertung der Matching-Qualität entwickeln • Anforderungen mit Entwicklung und Fachseite abstimmen Aufgaben Entwicklung: • Projektbeschreibungen und Freelancer-Profile strukturiert auswerten • Matching-, Scoring- und Ranking-Logik weiterentwickeln • Unscharfe und unvollständige Angaben sinnvoll berücksichtigen • Neue Logik in den bestehenden Chat-Prozess integrieren • Tests, Fehleranalyse, Dokumentation und Übergabe durchführen Rahmenbedingungen: • Remote • Projektlaufzeit: ca. 6–8 Wochen • Requirements Engineering: ca. 5–8 Personentage • Entwicklung: ca. 20–25 Personentage • Start: nach Vereinbarung • Bewerbungen als Einzelperson oder eingespieltes Team möglich Es handelt sich um einen konkreten Entwicklungsauftrag. Eine Aufnahme von Bewerberprofilen in X-Portal ist nicht Bestandteil der Bewerbung und erfolgt gegebenenfalls nur separat nach ausdrücklicher Zustimmung.",
+      "first_seen": "2026-08-18T12:39:29.229331+00:00",
+      "id": "40f481acf74c19aa",
+      "matched_keywords": [
+        "requirements engineer"
+      ],
+      "published": "2026-08-18T14:26:38+02:00",
+      "source": "freelancermap.de",
+      "title": "Requirements Engineer und KI-/Full-Stack-Entwickler (m/w/d) für Freelancer-Matching-Plattform",
+      "url": "https://www.freelancermap.de/projekt/requirements-engineer-und-ki-full-stack-entwickler-m-w-d-fuer-freelancer-matching-plattform"
+    },
+    {
+      "description": "Projektingenieur EMSR (m/w/d) Referenz: 887603/1-de Beginn: asap Dauer: 6 MM++ Meine Aufgaben: Selbstständige Planung, Steuerung und Umsetzung von elektrotechnischen Projekten und Teilprojekten unter Einhaltung von Terminen, Kosten und Qualitätsanforderungen Projektleitung und Koordination von Investitions- und Modernierungsprojekten sowie Systemoptimierungen an den Standorten Erstellung von technischen Konzepten, Zustandsberichten, Spezifikationen sowie Mitwirkung bei der vollständigen Projekt- und Anlagendokumentation Erarbeitung von Lastenheften und Ausschreibungsunterlagen zur Beauftrag ung externer Dienstleister entsprechend den Einkaufsrichtlinien in Zusammenarbeit mit der Group Procurement Meine Qualifikation: Nachweißliche Projekterfahrung in der Planung, Umsetzung oder Instandhaltung elektrotechnischer bzw. EMSR-technischer Anlagen, idealerweise in der Tanklager-, Prozess-, Chemie- oder Energiebranche Fundierte Kenntnisse der einschlägigen gesetzlichen und technischen Regelwerke, insbesondere z. B. VDE, DGUV, BetrSichV, BImSchG Fundierte Kenntnisse und Erfahrungen im Explosionsschutz Dokumentationssicher beim Thema „funktionale Sicherheit“ (SIL) Erfahrungen im Arbeitsgenehmigungswesen, der Erstellung von Gefährdungsbeurteilungen und HAZOP’s Erste Erfahrungen mit der GGVSEB, ADN, ADR Erfahrungen mit Verladesteuerungsanlagen im eichpflichtigen Verkehr Kenntnisse in Netzwerken und industriellen Kommunikationssystemen (z. B. Modbus, OPC UA). Erfahrung im Bereich Automatisierungstechnik Siemens S7, WinCC oder PCS7 Kenntnisse im Bereich der fehlersicheren SPS, der Not-Stopp-Systeme aber auch der Brandmeldeanlagen oder allgemeiner Alarmweiterleitungszentralen Meine Vorteile: Aussicht auf Projektverlängerung Aussicht auf Folgeprojekte Über uns: Im Bereich Construction & Property vermitteln wir Fach- und Führungskräfte in der Bau- und Immobilienbranche. Wir unterstützen Sie und unsere Kundenunternehmen in allen Bereichen des Hoch- & Tiefbaus sowie im Facility Management, im Großanlagenbau, in der TGA oder im Real Estate Management. Als überregionales, weltweit agierendes Personaldienstleistungsunternehmen können wir Ihnen sowohl Positionen und Projekte in Ihrer Nähe als auch bundes- und weltweit anbieten – und das völlig kostenfrei für Sie. Registrieren Sie sich und profitieren Sie von interessanten und passenden Angeboten. Mein Kontakt bei Hays: Referenznummer: ***** Kontakt aufnehmen: Email: ***** Telefone: *****",
+      "first_seen": "2026-08-18T12:39:29.229331+00:00",
+      "id": "2010897ff93c3f26",
+      "matched_keywords": [
+        "energie",
+        "netz",
+        "ems"
+      ],
+      "published": "2026-08-18T14:21:27+02:00",
+      "source": "freelancermap.de",
+      "title": "Projektingenieur EMSR (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/projektingenieur-emsr-m-w-d-3036843"
+    },
+    {
+      "description": "Senior Azure AI Platform Engineer (m/w/d) Referenz: 890478/1-de Beginn: asap Dauer: 4 MM Meine Aufgaben: Konzeption, Aufbau und Weiterentwicklung einer cloudbasierten AI- und Automatisierungsplattform auf Microsoft Azure Entwicklung und Automatisierung von Cloud-Infrastrukturen mittels Infrastructure as Code Implementierung und Optimierung moderner CI/CD-Pipelines Entwicklung von Best-Practice-Templates und wiederverwendbaren Plattformkomponenten Aufbau und Weiterentwicklung von Monitoring-, Logging- und Observability-Lösungen Sicherstellung von Cloud Security-, Governance- und Compliance-Anforderungen Beratung bei Architekturentscheidungen für skalierbare und zukunftssichere Plattformlösungen Zusammenarbeit mit Cloud-, DevOps-, Architektur- und AI-Teams in einem internationalen Umfeld Meine Qualifikation: Profunde Erfahrung in der Konzeption, Implementierung und dem Betrieb von Cloud- und Plattformlösungen auf Microsoft Azure Fundierte Expertise in Infrastructure as Code (IaC), vorzugsweise mit Terraform, sowie in der Automatisierung komplexer Cloud-Umgebungen Praxiserfahrung im Aufbau, der Optimierung und dem Betrieb moderner CI/CD-Pipelines mit Jenkins und/oder GitHub Actions Sehr gute Kenntnisse in Python für Automatisierungs-, Integrations- und Plattformentwicklung Nachweisbare Erfahrung im Bereich Cloud Security, Governance und der Umsetzung von Enterprise-Standards Fundiertes Know-how in Monitoring, Logging und Observability zur Sicherstellung stabiler und skalierbarer Plattformen Verständnis moderner GenAI- und Agentic-AI-Konzepte wie Agents, MCP, Human-in-the-Loop und intelligenter Automatisierung Erfahrung mit Azure Functions, Azure Logic Apps oder vergleichbaren serverlosen und eventgetriebenen Architekturen von Vorteil Kenntnisse im Umfeld AI Engineering, MLOps, Workflow-Automatisierung (z. B. n8n) oder vergleichbarer Plattformlösungen wünschenswert Azure- und/oder AWS-Zertifizierungen sowie Erfahrung in komplexen Enterprise- oder Konzernumgebungen von Vorteil Meine Vorteile: Spannendes Projekt in einen renommierten Unternehmen Option auf Projektverlängerung 100% Remote Über uns: Der Bereich IT ist unsere Kernkompetenz, auf deren Grundlage sich Hays entwickelt hat. Wir sind das größte privatwirtschaftlich organisierte IT-Personaldienstleistungsunternehmen in Deutschland und haben für jede Karrierestufe das passende Angebot – egal ob Sie an Vakanzen in agilen KMUs oder starken DAX-Konzernen interessiert sind. Wir beherrschen die komplette IT-Klaviatur von Support bis zur Softwarearchitektur oder Digitalisierung – dank unseres umfangreichen Portfolios ist für jeden etwas dabei. So konnten wir in den vergangenen Jahrzehnten im Rahmen einer Life-Long-Partnerschaft unzählige Fach- und Führungskräfte aus der IT dabei unterstützen, die Weichen für eine erfolgreiche Karriere zu stellen. Unser Beratungsteam ist spezialisiert und somit in der Lage, auf Ihre Wünsche und Vorstellungen einzugehen und Sie auf Bewerbungsgespräche und Vertragsverhandlungen bestens vorzubereiten. Probieren Sie es aus und erfahren Sie, was der Markt Ihnen zu bieten hat – völlig kostenfrei, diskret und unverbindlich! Wir freuen uns auf Sie. Mein Kontakt bei Hays: Referenznummer: ***** Kontakt aufnehmen: Email: ***** Telefone: *****",
+      "first_seen": "2026-08-18T12:39:29.229331+00:00",
+      "id": "cf0f920e9cf29e54",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-08-18T14:21:23+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Azure AI Platform Engineer (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-azure-ai-platform-engineer-m-w-d"
+    },
+    {
+      "description": "My Employer Testing Team Assignment (m/w/d) Referenz: 873960/1-de Beginn: asap Dauer: 12 MM Meine Aufgaben: Tasks Meine Qualifikation: Qualification Meine Vorteile: Benefits Über uns: Der Bereich IT ist unsere Kernkompetenz, auf deren Grundlage sich Hays entwickelt hat. Wir sind das größte privatwirtschaftlich organisierte IT-Personaldienstleistungsunternehmen in Deutschland und haben für jede Karrierestufe das passende Angebot – egal ob Sie an Vakanzen in agilen KMUs oder starken DAX-Konzernen interessiert sind. Wir beherrschen die komplette IT-Klaviatur von Support bis zur Softwarearchitektur oder Digitalisierung – dank unseres umfangreichen Portfolios ist für jeden etwas dabei. So konnten wir in den vergangenen Jahrzehnten im Rahmen einer Life-Long-Partnerschaft unzählige Fach- und Führungskräfte aus der IT dabei unterstützen, die Weichen für eine erfolgreiche Karriere zu stellen. Unser Beratungsteam ist spezialisiert und somit in der Lage, auf Ihre Wünsche und Vorstellungen einzugehen und Sie auf Bewerbungsgespräche und Vertragsverhandlungen bestens vorzubereiten. Probieren Sie es aus und erfahren Sie, was der Markt Ihnen zu bieten hat – völlig kostenfrei, diskret und unverbindlich! Wir freuen uns auf Sie. Mein Kontakt bei Hays: Referenznummer: ***** Kontakt aufnehmen: Email: ***** Telefone: *****",
+      "first_seen": "2026-08-18T12:39:29.229331+00:00",
+      "id": "161546227615dfa5",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-08-18T14:21:07+02:00",
+      "source": "freelancermap.de",
+      "title": "Testing Team Assignment (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/testing-team-assignment-m-w-d"
+    },
+    {
+      "description": "Du verantwortest die strategische und technische Weiterentwicklung von Infrastruktur- und Plattformlösungen. Du übersetzt fachliche Anforderungen in technische Konzepte und umsetzbare Roadmaps. Du priorisierst Anforderungen und steuerst deren Umsetzung gemeinsam mit internen und externen Stakeholdern. Du koordinierst die Zusammenarbeit zwischen Fachbereichen, Entwicklungsteams, Architekten und Infrastrukturverantwortlichen. Du entwickelst Infrastruktur-, Betriebs- und Architekturstandards weiter und stellst deren Einhaltung sicher. Du bewertest neue Technologien und leitest technische Handlungsempfehlungen ab. Du begleitest Architekturentscheidungen und unterstützt bei der Entwicklung nachhaltiger Lösungsansätze. Du behältst Themen wie Skalierbarkeit, Sicherheit, Verfügbarkeit und Wartbarkeit stets im Blick. Du steuerst technische Abhängigkeiten und unterstützt die erfolgreiche Umsetzung komplexer Digitalisierungsprojekte. Du bringst Infrastruktur- und Produktperspektive zusammen und sorgst für eine zukunftsfähige technische Ausrichtung.",
+      "first_seen": "2026-08-18T12:39:29.229331+00:00",
+      "id": "c15dc87153dd5f54",
+      "matched_keywords": [
+        "product owner"
+      ],
+      "published": "2026-08-18T14:18:27+02:00",
+      "source": "freelancermap.de",
+      "title": "Technischer Product Owner Infrastruktur (m/w/d) im öffentlichen Sektor",
+      "url": "https://www.freelancermap.de/projekt/technischer-product-owner-infrastruktur-m-w-d-im-oeffentlichen-sektor"
+    },
+    {
+      "description": "Rahmenbedingungen Start: 2026 Ende: 2027 Gesamtumfang: 170 Personentage (70 PT in 2026, 100 PT in 2027). Einsatzort: In der Regel remote und standortunabhängig, Onshore innerhalb Deutschlands. Projektstandort ist Frankfurt am Main. In begründeten Ausnahmefällen sind Vor-Ort-Termine in Frankfurt am Main oder an anderen Standorten in Deutschland möglich. Sprache: Deutsch auf muttersprachlichem Niveau. Aufgaben Entwicklung und Weiterentwicklung von Softwareanwendungen auf Basis von QGIS sowie Entwicklung spezifischer Fachfunktionen als Python-Plugin. Technische Beratung zur Umsetzung fachlicher Anforderungen. Durchführung von Workshops und Wissensvermittlung zu QGIS. Abstimmung mit Projektmanagement, Fachbereichen und Entwicklung im agilen SCRUM-Umfeld. Entwicklung von sauberem, effizientem und dokumentiertem Code unter Einhaltung vorgegebener Entwicklungsstandards. Erstellung von Lieferpaketen für die betreffenden Applikationen. Must Haves Mehr als 5 Jahre praktische Erfahrung in der Entwicklung von QGIS-Plugins mit Python (PyQGIS/PyQt). Mehr als 3 Jahre Erfahrung in Softwareprojekten von Eisenbahnverkehrsunternehmen. Mehr als 3 Jahre praktische Erfahrung in der Implementierung bahnspezifischer Lösungen unter Verwendung von QGIS. Mindestens 5 Projektreferenzen zum Nachweis tiefgehender Kenntnisse in QGIS und dessen praktischer Anwendung. Mindestens 1 Projektreferenz in der Wissensvermittlung zu QGIS. Nice to Haves Mindestens 1 Projektreferenz in der Durchführung von Workshops zu QGIS. Mehr als 3 Jahre praktische Erfahrung mit PostgreSQL/PostGIS-Datenbanken.",
+      "first_seen": "2026-08-18T12:39:29.229331+00:00",
+      "id": "f2f2c14f2217f0ce",
+      "matched_keywords": [
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-08-18T14:12:17+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Developer QGIS & Python-Plugin-Entwicklung (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-developer-qgis-und-python-plugin-entwicklung-m-w-d"
+    },
+    {
+      "description": "Leistungsbeschreibung * Bearbeitung der elektronischen Reklamationen und Analyse von Fehlerfällen im Bereich Marktkommunikation * Klärung und Koordination mit Marktpartnern sowie Sicherstellung revisionssicherer Bearbeitung * Abarbeitung netznutzungsrelevanter Geschäftsvorfälle und Klärung von Stammdatenabweichungen * Bearbeitung von Clearingfällen in der Lieferscheinbearbeitung zur Reduzierung vorhandener Klärfälle Anforderungen * Fundierte Kenntnisse der Netz- und Netznutzungsabrechnungsprozesse einschließlich SAP IS-U für die Bearbeitung der Vorgänge im System * Erfahrung in den energiewirtschaftlichen Marktprozessen und regulatorischen Vorgaben wie GPKE, GeLi Gas und EDIFACT * Know-how in SAP FI-CA-Modul sowie Versierter Umgang mit MS Office zur Dokumentation und Auswertung der Ergebnisse * Sehr gute Deutschkenntnisse in Wort und Schrift Kontaktperson: Senior Team Manager Recruiting Herr Johannes Dittrich FERCHAU Contract GmbH Niederlassung Mannheim CONTRACT Reichskanzler-Müller-Straße 21 68165 Mannheim",
+      "first_seen": "2026-08-18T12:39:29.229331+00:00",
+      "id": "9089685ffa69275c",
+      "matched_keywords": [
+        "energie",
+        "netz",
+        "marktkommunikation",
+        "edifact"
+      ],
+      "published": "2026-08-18T14:04:09+02:00",
+      "source": "freelancermap.de",
+      "title": "Bereinigung Netznutzungsabrechnung SAP IS-U",
+      "url": "https://www.freelancermap.de/projekt/bereinigung-netznutzungsabrechnung-sap-is-u"
+    },
+    {
+      "description": "Hydraulic Hub is a software platform for industrial hydraulic maintenance and service operations. We offer this in two subscription models (freemium / premium) to our users. We focus on the area of preventive maintenance activities and provide with the Hydraulic Hub a 360 degree service platform. We are seeking a SaaS Account Executive having the skills: * Value-Based Selling & Demo Excellence: You translate complex software features into measurable business value (ROI) and captivate prospects through highly tailored product demonstrations. * Proven Sales Methodology: You master modern qualification frameworks (e.g., MEDDPICC, SPIN) and manage your sales pipeline in a data-driven, conversion-oriented manner. * C-Level & Stakeholder Management: You communicate confidently on equal footing with executive decision-makers, as well as IT and procurement teams within complex enterprise environments. * Deep Discovery & Active Listening: You uncover the root business challenges (pain points) of your prospects through strategic questioning and architect the ideal solution strategy. * Closing Grit & Deal Navigation: You possess sharp negotiation skills, successfully isolate and overcome objections, and effectively steer long, multi-stakeholder sales cycles to a close. * 3+ years of successful B2B sales experience, ideally within industrial manufacturing, engineering, or industrial after-sales services * Industrial Sector Understanding: Deep comprehension of manufacturing workflows, maintenance pain points, and the ability to speak the language of plant managers, technical directors, and C-level executives * Track Record of Success: A proven history of meeting or exceeding sales quotas, with the ability to provide data-backed examples of closed deals in complex B2B environments. * Deal Ownership & CRM Discipline: Experienced in navigating long, non-linear sales cycles (3-9 months) while maintaining high data hygiene in modern CRM systems (e.g., HubSpot, Salesforce). Tasks: Support the Sales Process: Advise and support Bosch stakeholders throughout the sales process, from qualified lead identification through customer acquisition activities and contract discussions. Conduct Customer Demonstrations: Prepare and deliver tailored product demonstrations to technical and commercial audiences, clearly communicating the business value and potential benefits of the SaaS solution. Engage Key Stakeholders: Build professional relationships with plant managers, IT representatives, procurement teams, and other customer stakeholders to understand needs, gather feedback, and facilitate productive discussions. Contribute to Proposal Development: Support the preparation of commercial and technical proposals, provide input on customer requirements, and assist Bosch teams in addressing questions and objections raised during the sales process. Provide Sales Consulting and Recommendations: Share market insights, sales expertise, and recommendations regarding customer engagement strategies, while final commercial, contractual, and closing decisions remain with Bosch. Support Customer Transition Activities: Assist with the handover process to the Customer Success Team (CSM) by sharing relevant customer information and supporting a smooth transition for implementation activities.As a senior sales consultant, you will provide expert guidance and sales support throughout the B2B sales process. You will contribute your experience in value-based selling, help identify opportunities, and support Bosch stakeholders in engaging prospective customers and developing long-term business relationships.",
+      "first_seen": "2026-08-18T12:39:29.229331+00:00",
+      "id": "fa8348d3f022539f",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-08-18T14:03:46+02:00",
+      "source": "freelancermap.de",
+      "title": "SaaS Account Executive",
+      "url": "https://www.freelancermap.de/projekt/saas-account-executive"
+    },
+    {
+      "description": "Mein Kunde, ein führendes Unternehmen im technischen Industrieumfeld , sucht für ein anspruchsvolles Projekt zum nächstmöglichen Zeitpunkt einen erfahrenen Testmanager (m/w/d) . Gesucht wird ein erfahrener Testmanager mit einem ausgeprägten Verständnis für Systemintegration und komplexe technische Systeme . Der Schwerpunkt der Position liegt auf der Planung, Koordination und Steuerung umfangreicher Testaktivitäten sowie der Sicherstellung einer strukturierten und qualitativ hochwertigen Testdurchführung. Dabei arbeiten Sie eng mit verschiedenen technischen Fachbereichen und der Projektleitung zusammen. Hier kurz ein paar genauere Details zum Projekt: Position: Testmanager (m/w/d) Beginn: Mitte September bis Anfang Oktober 2026 Auslastung: Vollzeit Dauer: 6 Monate mit Option auf Verlängerung Standort: Großraum Niedersachsen Arbeitsmodell: Hybrid Aufgaben: • Planung und Koordination von Integrations und Systemtests • Definition und Weiterentwicklung von Teststrategien, Testkonzepten und Testumgebungen • Entwicklung von Testaufbauten und Testszenarien unter Berücksichtigung technischer Schnittstellen und Systemabhängigkeiten • Koordination der Testobjekte, Testsysteme und benötigten Testinfrastruktur • Sicherstellung der Funktionsfähigkeit sowie der technischen und sicherheitsrelevanten Anforderungen • Steuerung der Testaktivitäten in Testzentren und vor Ort sowie Überwachung und Auswertung des Testfortschritts • Erstellung der Testdokumentation und regelmäßiges Reporting an die Projektleitung Anforderungen: • Mehrjährige Erfahrung im Testmanagement komplexer technischer Systeme • Fundierte Erfahrung in Systemintegration sowie Integrations und Systemtests • Erfahrung mit Teststrategien, Testkonzepten und Testszenarien • Sehr gutes Verständnis technischer Schnittstellen und Systemabhängigkeiten • Erfahrung in der Koordination von Testaktivitäten, Fachbereichen und Projektbeteiligten • Erfahrung im Bahnumfeld bzw. in der Bahntechnik von Vorteil • Sehr gute Deutschkenntnisse sowie gute Englischkenntnisse Sind Sie aktuell verfügbar und haben die benötigten Kompetenzen? Dann melden Sie sich noch heute mit Ihrem Profil und Stundensatz/Tagessatz unter ***** und sichern Sie sich Ihr Projekt bei einem innovativen Kunden. Ich freue mich auf Ihre Rückmeldung. Viele Grüße Iryna Radchenko",
+      "first_seen": "2026-08-18T12:39:29.229331+00:00",
+      "id": "1595ed4455752e55",
+      "matched_keywords": [
+        "testmanager"
+      ],
+      "published": "2026-08-18T13:59:27+02:00",
+      "source": "freelancermap.de",
+      "title": "FREELANCE Testmanager (m/w/d) | Systemintegration | Komplexe technische Systeme |",
+      "url": "https://www.freelancermap.de/projekt/freelance-testmanager-m-w-d-systemintegration-komplexe-technische-systeme"
+    },
+    {
       "description": "Für ein anspruchsvolles Cloud- und Security-Projekt suchen wir kurzfristig einen erfahrenen Freelance OpenStack Security Engineer (m/w/d) mit Schwerpunkt auf Security Groups Logging . Ziel ist die Entwicklung einer Lösung, mit der Zugriffe in Echtzeit sowie rückwirkend für Troubleshooting und Analyse ausgewertet werden können. Rahmendaten Start: ab sofort Laufzeit: zunächst 3 Monate, Verlängerungsoption auf bis zu 12 Monate Auslastung: Vollzeit Einsatz: nahezu vollständig Remote Remote: Leistungserbringung aus einem europäischen Land Vor Ort: nur in Ausnahmefällen in Bad Friedrichshall Sprache: Deutsch bevorzugt, Englisch ebenfalls möglich Vertragsart: Freelance Deine Aufgaben Konzeption und Entwicklung einer Security-Groups-Logging-Lösung Bereitstellung von Logs in Echtzeit für Troubleshooting und Analyse Umsetzung historischer Auswertungsmöglichkeiten Implementierung klassischer Filtermöglichkeiten, z. B. nach Source, Destination, Port, Protocol, Date und Action Ausleitung relevanter Events, insbesondere Deny-Ereignisse, über OpenTelemetry Unterstützung bei der Integration in kundenseitige SIEM-Lösungen Berücksichtigung einer verschlüsselten Speicherung mit kundeneigenen Schlüsseln Unterstützung einer getrennten Log-Speicherung für DMZ- und Internal-Bereiche Bewertung einer nativen Integration in OpenStack gegenüber einer eigenständigen Lösung Bei nativer OpenStack-Integration: technische Abstimmung mit relevanten OpenStack-Maintainern Das solltest du mitbringen Fundierte Erfahrung mit OpenStack Sehr gute Kenntnisse in Kubernetes und Linux Fundiertes Verständnis von Netzwerken und dynamischem Routing Erfahrung mit Logging-, Monitoring- und Security-Konzepten Idealerweise praktische Erfahrung mit OpenTelemetry Erfahrung mit SIEM-Integrationen von Vorteil Gute Kenntnisse in Golang und/oder Python Eigenständige und lösungsorientierte Arbeitsweise Wir freuen uns auf dein aktuelles Profil inklusive Verfügbarkeit und Tagessatz.",
       "first_seen": "2026-08-18T11:22:18.357870+00:00",
       "id": "f9d1366fed7e4473",
@@ -8991,5 +9118,5 @@
       "url": "https://www.freelancermap.de/projekt/ipv6-tester-fuer-eine-bundesbehoerde"
     }
   ],
-  "updated_at": "2026-08-18T11:22:18.536287+00:00"
+  "updated_at": "2026-08-18T12:39:29.411417+00:00"
 }
