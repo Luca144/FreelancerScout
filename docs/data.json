@@ -1,6 +1,30 @@
 {
   "projects": [
     {
+      "description": "Für einen unserer Kunden sind wir aktuell auf der Suche nach 2 Senior Cloud Entwickler:innen auf freiberuflicher Basis. Aufgaben: Konzeption, Planung und Entwicklung von cloudbasierten Services auf Linux- und Windows-Basis mit dem Service-Modell SaaS/PaaS Weiterentwicklung von SaaS/PaaS-Services auf Linux- und Windows Server-Basis Konzeption, Entwicklung, Dokumentation und Betrieb von DevOps Pipelines so wie der zugehörigen Infrastruktur Beratung und praktische Unterstützung anderer Team bei der Einführung von DevOps Tools und Praktiken Entwicklung von Lösungen zur Verbesserung der Developer Experience Anforderungen: Erfahrungen in der Entwicklung von Private Cloud Services Erfahrungen in der Softwareentwicklung Erfahrungen in der Entwicklung von CI/CD-Pipelines/Automatisierungen (Gitlab) Erfahrungen in der API Entwicklung (REST API, Swagger) Erfahrung mit dem Erstellung und Betrieb von Containern Wünschenswert sind Projekterfahrung im Cloud-Umfeld mit Einsatz von Linux (RHEL), Docker/Podman, Puppet, Ansible, Kubernetes, Cloud Deployment oder vergleichbaren Technologien Projekterfahrung in der Teamarbeit im Kontext agiler (Software-) Entwicklung Technologien Linux (RHEL), Windows Server, Bash/Shell, Powershell API (REST, Swagger) Python 3 Go Gitlab CI Jira, Confluence Kubernetes & Container Rahmendaten: Einsatzort: remote Start: 14.09.2026 Laufzeit: bis 31.12.2026 + Option Auslastung: Vollzeit Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
+      "first_seen": "2026-08-19T06:38:41.806299+00:00",
+      "id": "03eafc1ed3b12916",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-08-19T07:46:28+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Cloud Entwickler:in per remote",
+      "url": "https://www.freelancermap.de/projekt/senior-cloud-entwickler-in-per-remote"
+    },
+    {
+      "description": "Für einen unseren Kunden sind wir aktuell auf der Suche nach einem:einer Administrator:in für die Unterstützung im Bereich Web-Dienste-Betrieb auf freiberuflicher Basis. Aufgaben: Anpassung/Konfiguration/Weiterentwicklung Betrieb/Lifecycle Erstellen / Anpassen technischer Dokumentationen (u.a. Konfigurationshandbuch, Installationsanleitung, Wiederherstellungsanleitung, Sicherheitskonzept) 2nd-Level-Support Anforderungen: Virtualisierung inkl. Netzsegmentierung (notwendig, vertiefte Kenntnisse) LDAP-Anbindung (notwendig, vertiefte Kenntnisse) Media Wiki (wünschenswert; vertiefte Kenntnisse) Rahmendaten: Einsatzort: remote Start: 01.11.2026 Laufzeit: bis 30.04.2026 Auslastung: Vollzeit Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
+      "first_seen": "2026-08-19T06:38:41.806299+00:00",
+      "id": "2ac34ee2eeb6b984",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-08-19T07:46:19+02:00",
+      "source": "freelancermap.de",
+      "title": "Betriebsunterstütze Web-Dienste per remote",
+      "url": "https://www.freelancermap.de/projekt/betriebsunterstuetze-web-dienste-per-remote"
+    },
+    {
       "description": "Zu den Aufgaben gehören die Installation, Konfiguration und Implementierung von Lernmanagement-Systemen wie iServ, MNS Pro sowie vergleichbaren Open-Source-Lösungen in bestehende Kunden- und Netzwerkumgebungen. Darüber hinaus werden die zugrunde liegenden Serverlandschaften mit Schwerpunkt auf Linux sowie ergänzend auf Windows administriert, gewartet und abgesichert. Ein weiterer Schwerpunkt liegt auf der technischen Beratung der Bildungseinrichtungen zu notwendigen System-Upgrades sowie deren eigenständiger Planung und Durchführung. Zudem werden technische Anforderungen aufgenommen und analysiert, um die Performance, Stabilität und Skalierbarkeit der eingesetzten Plattformen kontinuierlich zu optimieren. Auch die Bearbeitung technischer Eskalationen sowie die Analyse und nachhaltige Behebung komplexer Systemstörungen gehören zum Aufgabenbereich.",
       "first_seen": "2026-08-19T05:26:27.138751+00:00",
       "id": "c51c08368a3cfe51",
@@ -9380,5 +9404,5 @@
       "url": "https://www.freelancermap.de/projekt/lims-integration-specialist-m-w-d-3031839"
     }
   ],
-  "updated_at": "2026-08-19T05:26:27.337439+00:00"
+  "updated_at": "2026-08-19T06:38:41.993730+00:00"
 }

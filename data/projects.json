@@ -1,5 +1,75 @@
 [
   {
+    "description": "Ausgangssituation: SAP BusinessObjects Data Services (BODS) ist eingeführt und soll ausgebaut werden. Unterstützung bei Architektur- und Best-Practice-Fragen im SAP BODS Umfeld. Der Kunde führt derzeit im S4 System Historisierungen durch, die zukünftig über BODS abgebildet werden sollen. Es geht um die laufende Betreuung und Weiterentwicklung der digitalen Reporting-Schnittstellen im SAP-BODS-Umfeld. Datenmigration mit BODS. CSV- und Textdateien werden über SAP BODS verarbeitet und in SAP-Systeme integriert. Es existieren über 300 verschiedene Schnittstellen. Die Daten sollen aus SAP ausgelagert und in eine Datenbank überführt werden. Anschließend ist eine Rückführung vorgesehen. Anforderungen (Must-haves): Erfahrung mit BODS Erfahrung mit Schnittstellen Schnittstellen selbst bauen Expertise für unterschiedliche Eingabeformate Deutsch C1 & Englisch Aufgaben: Verarbeitung von CSV-Dateien mit verschiedenen Trennzeichen Verarbeitung von Archivformaten Behandlung gesperrter bzw. gleichzeitig genutzter Dateien Unterstützung beim Aufbau effizienter und leicht anpassbarer BODS-Schnittstellen Beratung & Coaching Umsetzung der Datenmigration Fachliche Beratung und Schulungsunterstützung für das bestehende Team Rahmendaten: Startzeit: September 2026 Laufzeit: bis Ende des Jahres Auslastung: 10 PT Einsatzort: Remote / Hamburg Projektsprache: Deutsch",
+    "first_seen": "2026-08-19T06:38:41.806299+00:00",
+    "id": "de5108ba5c45c8aa",
+    "matched_keywords": [],
+    "published": "2026-08-19T08:33:13+02:00",
+    "source": "freelancermap.de",
+    "title": "SAP BusinessObjects Data Services Beratung und Schnittstellenentwicklung",
+    "url": "https://www.freelancermap.de/projekt/sap-businessobjects-data-services-beratung-und-schnittstellenentwicklung"
+  },
+  {
+    "description": "Zusammenfassung: Die Rolle des Backup Administrators umfasst die Verwaltung sowie Weiterentwicklung von Backup-Systemen in einer gemischten Serverumgebung, um die Verfügbarkeit und Sicherheit von Daten zu gewährleisten. Das Ziel ist es, Datenintegrität und effektive Wiederherstellung zu sichern sowie Unterstützung für Plattformmigrationen zu leisten. Vertragsart: ANÜ für 23 Monate Standort: Remote 95%/vor-Ort in München 5% Verantwortlichkeiten: Administration und Weiterentwicklung einer IBM Spectrum Protect (ISP/TSM)-Umgebung. Unterstützung bei der Plattformmigration einer IBM Spectrum Protect-Umgebung. Einrichten, Pflegen und Verwalten von Clients auf verschiedenen Plattformen (Windows, Linux, AIS). Betrieb und Pflege von IBM-Bandrobotiksystemen. Bearbeitung und Steuerung von Sicherungs- und Rücksicherungsanforderungen. Unterstützung bei der DevOps-Entwicklung zur Automatisierung aller Tätigkeitsbereiche. Unterstützung bei der Administration einer Veeam-Umgebung. Dokumentation und Optimierung von Prozessen. Muss-Anforderungen: Abgeschlossenes Studium der Informatik oder Fachinformatiker für Systemintegration oder vergleichbare Ausbildung. Mehrjährige Erfahrung in der Administration einer IBM Spectrum Protect (ISP/TSM)-Umgebung. Erfahrung in einer gemischten Windows- und Linux-Server-Umgebung. Strukturierte Arbeitsweise. ITIL-Foundation Zertifizierung (mindestens v3). Sehr gute Deutschkenntnisse und gute Englischkenntnisse. Wünschenswerte Anforderungen: Erfahrung in der Migration von Plattformen innerhalb einer IBM Spectrum Protect-Umgebung. Kenntnisse im Changemanagement. Eigeninitiative und Teamfähigkeit. Wir freuen uns auf Ihre Bewerbung.",
+    "first_seen": "2026-08-19T06:38:41.806299+00:00",
+    "id": "e0bc4f0747b64af8",
+    "matched_keywords": [],
+    "published": "2026-08-19T08:23:50+02:00",
+    "source": "freelancermap.de",
+    "title": "Backup Administrator (m/w/d) in ANÜ",
+    "url": "https://www.freelancermap.de/projekt/backup-administrator-m-w-d-in-anue"
+  },
+  {
+    "description": "Aufgaben: Aufgaben: - Fachexperte für ein bestimmtes Gewerk auf der Baustelle in Bezug auf HSSE (Bautechnik, Anlagenbau, Elektrotechnik, Krangestellung, Gerüstbau, Schwertransporte, Baufeldgestaltung, Security, Gefahrgut, Altlasten, SchadstoKe, …) - Identifizierung von Sicherheitsrisiken und Einleitung von Präventionsmaßnahmen im jeweiligen Gewerk - Beratung in Fragen der Bauausführung und Koordination zwischen den Gewerken - Regelmäßige Bewertung der HSSE-Performance der AN - Durchführung regelmäßiger Inspektionen und Begehungen - Ist befugt, jederzeit und mit sofortiger Wirkung gefährliche Arbeiten zu stoppen, gefährliche Fahrzeuge, Anlagen bzw. Anlageteile sowie Ausrüstungen stillzulegen oder die Verwendung zu verbieten - Organisation der Zusammenarbeit der bauausführenden Unternehmen hinsichtlich Sicherheit und Gesundheitsschutz, Sicherheitstechnische Koordination zur Vermeidung gegenseitiger Gefährdungen verschiedener AN - Bekanntmachung und Kommunikation der jeweils aktuellen Fassung von relevanten HSSE Dokumenten bei den verantwortlichen Projektbeteiligten - Überwachung der Einhaltung der festgelegten HSSE Regeln (insbesondere der Baustellenordnung und des Baustelleneinrichtungsplans) und Vorgaben durch die AN - Wechselwirkungen mit anderen betrieblichen Tätigkeiten oder Einflüssen im Umfeld der Baustelle identifizieren und in den Planungen berücksichtigen - Durchführung von Sicherheitsbesprechungen und -inspektionen mit den Bauunternehmen, einschließlich Dokumentation und Bewertung der Ergebnisse im Hinblick auf Sicherheit und Gesundheitsschutz - Prüfung und Überwachung von AS-Dokumenten, HSSE-Dokumenten, die für anstehende Arbeiten erforderlich sind, einschließlich der Gefährdungsbeurteilung - Bietet dem Auftragnehmer Informationen und detaillierte Erklärungen zu HSSE-Maßnahmen Auslastung: 100% (10h/Tag) Einsatzort: 100% vor Ort im Saarland Erforderl. Sprachkenntnisse: Deutsch (verhandlungssicher), Englisch (fließend), weitere Sprachen gewünscht Projekt-Nr.: ***** Projekttitel: 2 HSSE Experten Saarland (m/w/d) Stellentyp: freiberuflich Einsatzort: keine Angabe Starttermin: 01.09.2026, spätestens 01.10.2026 Dauer: 2 Jahre+ Anforderungen: - Baufachliche Ausbildung auf Ingenieursebene - Sicherheitsingenieur/ -techniker/ -meister - Ausbildung zum SiGeKo - FaSi (Fachkraft für Arbeitssicherheit bzw. Sicherheitsfachkraft) gem. § 6 ASiG; Branchenbezug - Mehrjährige Erfahrung im Großanlagenbau, Baustellen - Offener Kommunikationsstil, Teamfähigkeit, Durchsetzungsvermögen Nice to have: - Ggf. Zusatzqualifikationen nach NEBOSH, IOSH, etc. - Ggf. Persönliches Zertifikat nach SCC-Dokument 017 oder 018 - Ggf. Nötige Arbeitsmedizinische Vorsorgeuntersuchungen z. B.: G15, G20, G30, G37, G41, etc. - Ggf. Erfahrungen in bau-, maschinen- oder elektrotechnischen Gewerken oder bei Inbetriebsetzungen - Mehrsprachig, wegen Nachunternehmern aus Osteuropa Zusätzliche Informationen: Auslastung: 100% SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
+    "first_seen": "2026-08-19T06:38:41.806299+00:00",
+    "id": "3e48ded1f8d61bca",
+    "matched_keywords": [],
+    "published": "2026-08-19T08:06:04+02:00",
+    "source": "freelancermap.de",
+    "title": "2 HSSE Experten Saarland (m/w/d)",
+    "url": "https://www.freelancermap.de/projekt/2-hsse-experten-saarland-m-w-d"
+  },
+  {
+    "description": "Für einen unserer Kunden sind wir aktuell auf der Suche nach einem:einer F5 Betriebsspezialist:In auf freiberuflicher Basis. Aufgaben: Sicherstellung des reibungslosen Betriebs (keep the lights on) der Kundeninfrastruktur Ansprechperson für interne und externe KundInnen (ab 2nd Level) Beratung der interne Teams (z.B. Enwickler) über die Vorgaben in Erstellung von neuen Services und den dazugehörigen Kommunikationsmatrixen Beratung beim Aufbau, Umbau und Optimierung bei neuen und Bestands-Deployments Eigenständige Erstellung und Pflege der technische Dokumentationen Erstellung von Anleitungen Optimierung in zyklischen Revision Dates der Infrastruktur Anforderungen: Erfahrungen für F5-Produkte (F5-OS, Velos, Big-IP) (must have) Erfahrungen optional (nice to have) weiterer Hersteller mit: Check Point (Maestro/VSX/MDS) und/oder Genua (Genuscreen, Genucenter, Genugate) Nachweisliche Erfahrung in der Automatisierung der oben genannten Produkte (mit Ansible, API etc) Sehr gute Deutsch und Englischkenntnisse Rahmendaten: Einsatzort: remote Start: 14.09.2026 Laufzeit: bis 31.12.2026 + Option Auslastung: Vollzeit Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
+    "first_seen": "2026-08-19T06:38:41.806299+00:00",
+    "id": "e31d2f693df95fe9",
+    "matched_keywords": [],
+    "published": "2026-08-19T07:46:33+02:00",
+    "source": "freelancermap.de",
+    "title": "F5 Betriebsspezialist:In - per remote",
+    "url": "https://www.freelancermap.de/projekt/f5-betriebsspezialist-in-per-remote"
+  },
+  {
+    "description": "Für einen unserer Kunden sind wir aktuell auf der Suche nach 2 Senior Cloud Entwickler:innen auf freiberuflicher Basis. Aufgaben: Konzeption, Planung und Entwicklung von cloudbasierten Services auf Linux- und Windows-Basis mit dem Service-Modell SaaS/PaaS Weiterentwicklung von SaaS/PaaS-Services auf Linux- und Windows Server-Basis Konzeption, Entwicklung, Dokumentation und Betrieb von DevOps Pipelines so wie der zugehörigen Infrastruktur Beratung und praktische Unterstützung anderer Team bei der Einführung von DevOps Tools und Praktiken Entwicklung von Lösungen zur Verbesserung der Developer Experience Anforderungen: Erfahrungen in der Entwicklung von Private Cloud Services Erfahrungen in der Softwareentwicklung Erfahrungen in der Entwicklung von CI/CD-Pipelines/Automatisierungen (Gitlab) Erfahrungen in der API Entwicklung (REST API, Swagger) Erfahrung mit dem Erstellung und Betrieb von Containern Wünschenswert sind Projekterfahrung im Cloud-Umfeld mit Einsatz von Linux (RHEL), Docker/Podman, Puppet, Ansible, Kubernetes, Cloud Deployment oder vergleichbaren Technologien Projekterfahrung in der Teamarbeit im Kontext agiler (Software-) Entwicklung Technologien Linux (RHEL), Windows Server, Bash/Shell, Powershell API (REST, Swagger) Python 3 Go Gitlab CI Jira, Confluence Kubernetes & Container Rahmendaten: Einsatzort: remote Start: 14.09.2026 Laufzeit: bis 31.12.2026 + Option Auslastung: Vollzeit Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
+    "first_seen": "2026-08-19T06:38:41.806299+00:00",
+    "id": "03eafc1ed3b12916",
+    "matched_keywords": [],
+    "published": "2026-08-19T07:46:28+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior Cloud Entwickler:in per remote",
+    "url": "https://www.freelancermap.de/projekt/senior-cloud-entwickler-in-per-remote"
+  },
+  {
+    "description": "Für einen unserer Kunden sind wir aktuell auf der Suche nach einem:einer Tester:in im Bereich Collaboration auf freiberuflicher Basis. Aufgaben: Durchführung fachlicher und technischer Schnittstellentests und Akzeptanztests Erstellung, Durchführung und Optimierung von Testfällen Aufbau und Pflege von Testdaten Test von SOAP/REST WebServices Test der Anwendung auf Barrierefreiheit (z. B. per Axe API) Testautomation (Schlüsselwortnotation mit TAMARA) Anforderungen: notwendige Kenntnisse: Programmiersprachen: z.B.: HTML, Java/JEE, JSP, JavaScript, CSS, XML (vertiefte Kenntnisse) Softwareprodukte: z.B.: JIRA, Confluence, SVN/GIT, Eclipse (vertiefte Kenntnisse) Testtools: z.B.: SilkTest, SilkPerformer, SCTM bzw. AQUA und soapUI pro, JUnit, Dynatrace, TFS (vertiefte Kenntnisse) Continuous Integration mit JENKINS (vertiefte Kenntnisse) wünschenswerte Kenntnisse: ITIL-Prozesse: INC (Grundkenntnisse) LMS: PeopleSoft ELM (Grundkenntnisse) Rahmendaten: Einsatzort: remote Start: 01.11.2026 Laufzeit: bis 30.04.2026 Auslastung: Vollzeit Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
+    "first_seen": "2026-08-19T06:38:41.806299+00:00",
+    "id": "7efbf6e702d02841",
+    "matched_keywords": [],
+    "published": "2026-08-19T07:46:23+02:00",
+    "source": "freelancermap.de",
+    "title": "Tester:in per remote",
+    "url": "https://www.freelancermap.de/projekt/tester-in-per-remote-3037162"
+  },
+  {
+    "description": "Für einen unseren Kunden sind wir aktuell auf der Suche nach einem:einer Administrator:in für die Unterstützung im Bereich Web-Dienste-Betrieb auf freiberuflicher Basis. Aufgaben: Anpassung/Konfiguration/Weiterentwicklung Betrieb/Lifecycle Erstellen / Anpassen technischer Dokumentationen (u.a. Konfigurationshandbuch, Installationsanleitung, Wiederherstellungsanleitung, Sicherheitskonzept) 2nd-Level-Support Anforderungen: Virtualisierung inkl. Netzsegmentierung (notwendig, vertiefte Kenntnisse) LDAP-Anbindung (notwendig, vertiefte Kenntnisse) Media Wiki (wünschenswert; vertiefte Kenntnisse) Rahmendaten: Einsatzort: remote Start: 01.11.2026 Laufzeit: bis 30.04.2026 Auslastung: Vollzeit Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
+    "first_seen": "2026-08-19T06:38:41.806299+00:00",
+    "id": "2ac34ee2eeb6b984",
+    "matched_keywords": [],
+    "published": "2026-08-19T07:46:19+02:00",
+    "source": "freelancermap.de",
+    "title": "Betriebsunterstütze Web-Dienste per remote",
+    "url": "https://www.freelancermap.de/projekt/betriebsunterstuetze-web-dienste-per-remote"
+  },
+  {
     "description": "Zu den Aufgaben gehören die Installation, Konfiguration und Implementierung von Lernmanagement-Systemen wie iServ, MNS Pro sowie vergleichbaren Open-Source-Lösungen in bestehende Kunden- und Netzwerkumgebungen. Darüber hinaus werden die zugrunde liegenden Serverlandschaften mit Schwerpunkt auf Linux sowie ergänzend auf Windows administriert, gewartet und abgesichert. Ein weiterer Schwerpunkt liegt auf der technischen Beratung der Bildungseinrichtungen zu notwendigen System-Upgrades sowie deren eigenständiger Planung und Durchführung. Zudem werden technische Anforderungen aufgenommen und analysiert, um die Performance, Stabilität und Skalierbarkeit der eingesetzten Plattformen kontinuierlich zu optimieren. Auch die Bearbeitung technischer Eskalationen sowie die Analyse und nachhaltige Behebung komplexer Systemstörungen gehören zum Aufgabenbereich.",
     "first_seen": "2026-08-19T05:26:27.138751+00:00",
     "id": "c51c08368a3cfe51",
