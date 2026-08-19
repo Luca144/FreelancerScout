@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Für unseren Kunden suchen wir einen Senior Data Engineer (m/w/d) mit ausgeprägter Expertise im Aufbau und der Weiterentwicklung moderner On-Premises-Datenplattformen. Gesucht wird ein erfahrener Data Engineer mit fundierten Kenntnissen in Kubernetes, Linux-Infrastrukturen, Data-Management-Plattformen sowie Batch- und Streaming-Datenverarbeitung. Der Fokus liegt auf der Entwicklung skalierbarer Datenplattformen, der Implementierung von Datenpipelines und Plattformservices sowie der Integration moderner Cloud-Native-Technologien. Neben einem starken technologischen Hintergrund werden analytisches Denkvermögen, eine hohe Problemlösungskompetenz sowie Erfahrung bei der Durchführung von Proof of Concepts erwartet. Aufgaben - Konzeption und Entwicklung einer On-Premises-Datenplattform - Entwicklung und Integration von Komponenten für Datenorchestrierung, Deployment und Plattformautomatisierung - Erstellung und Umsetzung von Proof of Concepts, unter anderem mit KI-Agent-Tools wie Cursor.ai - Implementierung von Batch- und Streaming-Datenpipelines - Entwicklung und Integration plattformbezogener Services - Integration von Workloads auf Kubernetes-Plattformen - Anbindung und Nutzung von S3-kompatiblen Storage-Lösungen - Analyse und Bewertung von Datenkatalogen sowie deren Integration in die Plattform - Untersuchung und Integration von Konzepten zur Datenversionierung - Enge Zusammenarbeit mit Lead Architekten sowie Infrastruktur- und Security-Teams Anforderungen: - Abgeschlossenes Studium der Informatik oder vergleichbare Qualifikation - Mehrjährige Berufserfahrung im Bereich Data Engineering - Idealerweise mehrjährige Erfahrung als Data Scientist - Nachweisbare Erfahrung mit Kubernetes und Kubernetes-Infrastrukturen - Sehr gute Kenntnisse im Umgang mit Linux-Betriebssystemen und Linux-Containern - Fundierte Kenntnisse moderner Datenplattform-Architekturen wie Kappa Architecture und Medallion Architecture - Erfahrung mit Batch- und Low-Latency-Streaming-Pipelines - Sehr gute Programmierkenntnisse in Python, Golang, SQL (MPP), Bash und Java - Praktische Erfahrung mit folgenden Technologien: S3 Apache Iceberg GitOps-Workflows NATS.io RisingWave Dagster Apache Spark Apache Kafka Apache Flink Apache Airflow - Idealerweise Erfahrung mit Cursor.ai - Kenntnisse von NUMA und Core Pinning von Vorteil - Erfahrung im Design und Aufbau von Cloud-Native-Plattformen - Verständnis für Edge-Data-Management-Plattformen ohne Public-Cloud-Services - Analytisches Denkvermögen und ausgeprägte Problemlösungskompetenz - Agile Arbeitsweise und hohe Lösungsorientierung - Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift -Rahmendaten- Vertragsart: ANÜ Einsatzort: Dresden Einsatzbeginn: asap Einsatzende: nach 18 Monaten Auslastung: 40h/Woche - 60% remote nach Einarbeitung",
+      "first_seen": "2026-08-19T20:23:19.817424+00:00",
+      "id": "c5d6c1b1fd2190ea",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-08-19T22:05:13+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Data Engineer (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-data-engineer-m-w-d-3037644"
+    },
+    {
       "description": "Experte Messwertmanagement / MaKo (m/w/d) Referenz: 890729/1-de Beginn: asap Dauer: 3 MM Meine Aufgaben: Manueller Versand von Zählerständen und Messwerten über Marktpartnerportale Bearbeitung und Nachverfolgung von Clearing-Vorgängen Anforderung fehlender Datenlieferungen und Klärung offener Sachverhalte mit Marktpartnern Telefonische Abstimmung mit Messstellenbetreibern und Netzbetreibern Nachverfolgung offener Fälle und Sicherstellung fristgerechter Datenlieferungen Meine Qualifikation: Erfahrung im Messwert-Clearing, Messstellenbetrieb oder energiewirtschaftlichen Abrechnungsumfeld Kenntnisse der Marktkommunikation in der Energiewirtschaft Verständnis für Prozesse rund um intelligente Messsysteme und Messwertübermittlung Meine Vorteile: Abwechslungsreiche Tätigkeit in einem renommierten Unternehmen Angenehmes Arbeitsklima Über uns: Entdecken Sie mit Hays die moderne Art der Vermittlung im Sales & Marketing. Mit uns erhalten Sie die richtige Unterstützung für Ihren beruflichen Erfolg in Zusammenarbeit mit auf Ihre Branche spezialisierten Consultants. Dieses Know-how ermöglicht es uns, Sie individuell und passgenau bei der Planung Ihrer nächsten beruflichen Schritte zu unterstützen. Von der Auswahl der passenden Stelle bis zum ersten Arbeitstag und natürlich darüber hinaus. Registrieren Sie sich und profitieren Sie von spannenden und passenden Angeboten – völlig kostenfrei. Mein Kontakt bei Hays: Mein Ansprechpartner: Lisa Marko Referenznummer: ***** Kontakt aufnehmen: Email: *****",
       "first_seen": "2026-08-19T18:30:51.491935+00:00",
       "id": "eac9e6cce02d8547",
@@ -10149,5 +10161,5 @@
       "url": "https://www.freelancermap.de/projekt/fbw260818p9a1-projektmanager-controlling-reporting-risikomanagement-bonn-60-prozent-remote-18-m"
     }
   ],
-  "updated_at": "2026-08-19T19:21:55.077403+00:00"
+  "updated_at": "2026-08-19T20:23:20.031370+00:00"
 }
