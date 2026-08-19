@@ -1,6 +1,19 @@
 {
   "projects": [
     {
+      "description": "Zu den Aufgaben gehören die Installation, Konfiguration und Implementierung von Lernmanagement-Systemen wie iServ, MNS Pro sowie vergleichbaren Open-Source-Lösungen in bestehende Kunden- und Netzwerkumgebungen. Darüber hinaus werden die zugrunde liegenden Serverlandschaften mit Schwerpunkt auf Linux sowie ergänzend auf Windows administriert, gewartet und abgesichert. Ein weiterer Schwerpunkt liegt auf der technischen Beratung der Bildungseinrichtungen zu notwendigen System-Upgrades sowie deren eigenständiger Planung und Durchführung. Zudem werden technische Anforderungen aufgenommen und analysiert, um die Performance, Stabilität und Skalierbarkeit der eingesetzten Plattformen kontinuierlich zu optimieren. Auch die Bearbeitung technischer Eskalationen sowie die Analyse und nachhaltige Behebung komplexer Systemstörungen gehören zum Aufgabenbereich.",
+      "first_seen": "2026-08-19T05:26:27.138751+00:00",
+      "id": "c51c08368a3cfe51",
+      "matched_keywords": [
+        "netz",
+        "ems"
+      ],
+      "published": "2026-08-19T07:26:01+02:00",
+      "source": "freelancermap.de",
+      "title": "Linux-Administrator  (m/w/d) 70.000€ Jahresbruttogehalt !!! in Mainz",
+      "url": "https://www.freelancermap.de/projekt/linux-administrator-m-w-d-70-000euro-jahresbruttogehalt-in-mainz"
+    },
+    {
       "description": "Start: nach Absprache (kurzfristig) Ende: nach Absprache Auslastung: nach Absprache Einsatzort: Kiel, ca. 60 % vor Ort und 40 % remote Umfeld: IT-Infrastruktur, Providerwechsel, Großprojekt Projektbeschreibung Für ein Großprojekt im Rahmen eines IT-Dienstleisterwechsels suchen wir einen erfahrenen IT-Architekten. Sie analysieren die bestehende Betriebs-, Netzwerk- und Compute-Architektur, entwickeln die technische Zielarchitektur und definieren Migrationsverfahren für die gesamte IT-Infrastruktur und die Enduser IT. Sie begleiten die Betriebs- und Serviceübernahme durch den neuen Dienstleister bis zur Abschlussdokumentation. Aufgaben * Analyse der bestehenden Betriebs-, Netzwerk- und Compute-Architektur sowie vorhandener Plattformen * Identifikation technischer Abhängigkeiten und Restriktionen (Dependency Map) * Entwicklung der technischen Zielarchitektur und ggf. von Migrationsverfahren für IT-Infrastruktur und Enduser IT * Definition technischer Vorgehensweisen für Server-, VM-, Netzwerk-, Daten-, Storage-, Active-Directory-, Backup-, Monitoring- und Client-Migrationen * Ggf. Entwicklung einer Migrationsarchitektur gemeinsam mit dem neuen Dienstleister * Definition technischer Standards, z. B. für Netzwerksegmentierung, Firewall, DNS, AD/Tenant, PKI, Backup und Storage, Monitoring/Logging, Hochverfügbarkeit und Disaster Recovery * Dokumentation, Beratung sowie Begleitung der Betriebs- und Serviceübernahme * Erstellung von Abschlussdokumenten und Abschlussberichten * Teilnahme an und Selbstorganisation von Meetings und Workshops Must-Have Skills * Nachgewiesene Erfahrung mit verschiedenen Technologien in den Bereichen Infrastruktur, Netzwerk, Cloud, Security, Microsoft, Storage und Backup sowie Client IT * Erfahrung in Großprojekten * Architektur- und Methodenkompetenz sowie Erfahrung in Risiko-, Qualitäts-, Change- und Stakeholdermanagement * Erfahrung im Multiprovidermanagement * Deutsch in Wort und Schrift mindestens auf C1-Niveau Bewerbungsprozess Bitte bewerben Sie sich direkt hier über freelancermap mit Ihren vollständigen Bewerbungsunterlagen inklusive Lebenslauf (PDF), relevanter Projekterfahrung sowie Ihrem Stundensatz. Datenschutzhinweis Wenn Sie sich auf diese Position bewerben, verarbeiten wir die von Ihnen übermittelten personenbezogenen Daten (z. B. Name, Kontaktdaten, Qualifikationen, Lebenslauf, Verfügbarkeit, Vergütungssatz) zur Bearbeitung Ihrer Bewerbung und zur Vertragsanbahnung gemäß Art. 6 Abs. 1 lit. b DSGVO. Weitere Informationen zur Verarbeitung Ihrer Daten finden Sie in unserer Datenschutzerklärung unter: www.codex-solutions.de/DSE",
       "first_seen": "2026-08-18T20:20:04.120841+00:00",
       "id": "442346d67ecfe76d",
@@ -9367,5 +9380,5 @@
       "url": "https://www.freelancermap.de/projekt/lims-integration-specialist-m-w-d-3031839"
     }
   ],
-  "updated_at": "2026-08-19T04:33:38.016386+00:00"
+  "updated_at": "2026-08-19T05:26:27.337439+00:00"
 }
