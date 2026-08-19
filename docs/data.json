@@ -1,6 +1,121 @@
 {
   "projects": [
     {
+      "description": "Wir suchen ab sofort einen Data Engineer (m/w/d) im Rahmen der Arbeitnehmerüberlassung . Info: 80% remote, 20% onsite in Frankfurt am Main Aufgabenbeschreibung: Es wird die Programmierung sowie Analyse und Konzeption in Abstimmung mit den fachlichen Verantwortlichen innerhalb des Teams verantwortet. Aufbau, Weiterentwicklung und Betrieb der zentralen Datenplattform für das Capacity Management der DB InfraGo. Arbeit im agilen Entwicklungsteam, Einbringen von Seniorität und Wissen aus dem Bereich ETL und Datawarehousing und damit Unterstützung des (fachlich orientierten) Product Owners Austausch mit den System Architekten und weiteren Kolleg:innen im interdisziplinären Team zur Entwicklung eines stabilen und zukunftssicheren Datawarehouses. Migration von ETL-Strecken/Data Pipelines aus existierenden Anwendungen DWH der DB InfraGo Anbindung, Aufbereitung, Verknüpfung, Qualitätssicherung und Bereitstellung von Daten sowie die Abstimmung dieser mit zugehörigen Stakeholdern Entwicklung basierend auf einer zukunftsgerichteten und skalierbaren AWS Cloud Plattform Analyse und Abstimmung von neuen Datenquellen und Schnittstellen mit dem liefernden System, basierend auf AWS ETL- bzw. Data Flow-Werkzeugen Beratung und Einbringen von KnowHow beim Einsatz automatisierter Testverfahren und der Definition von Testcases Aktive Mitarbeit in der Planung und Umsetzung von neuen Features, Architekturvorgaben, der Stabilisierung und Verbesserung bestehender Prozesse & Entwicklungen. Anforderungsprofil: Muss-Anforderungen Abgeschlossenes Diplom-/Master-IT-Studium, z. B. Wirtschaftsinformatik oder eine vergleichbare Ausbildung Mindestens 2 Jahre Erfahrung in der Implementierung großer Business Intelligence / Data Warehouse Lösungen, inklusive SQL-basierter ETL-Entwicklung, den Grundlagen von Datawarehouse-Strukturen (Historisierung, Key-Generierung, Star- & Snowflake, 3NF) Mindestens 2 Jahre Erfahrung in der Entwicklung eines Datalakehouses auf dem AWS Stack (Athena, Redshift, Lambda, Stepfunctions, S3, Secrets Manager, IAM, Python, SQL, AWS Glue) Mindestens 2 Jahre Erfahrung in der Strukturierung und Vorbereitung (Prototypisieren) sowie Anleitung der Umsetzung bis hin zum Testen/Qualitätssichern im Bereich Datawarehousing & Business Intelligence Erfahrung im Bereich der BI-Reportentwicklung (vorzugsweise mit Power BI) Erfahrung im Management von verschiedenen Stakeholdern (vor allem: Koordination mit technischem Betrieb und anderen Entwicklungsprojekten, Moderieren und Beraten im Austausch mit Product Managern) Soll-/Kann-Anforderungen Erfahrung in der Datenmigration und Migration von ETL-Strecken von einem DB-System und ETL-Werkzeug zu einem Cloud-basierten Ansatz Erfahrung in Datenmodellierung mehrlagiger, komplexer Quellen Erfahrung im Bereich Query-Tuning & Optimierung von Athena und Redshift Abfragen im Zusammenspiel mit einem BI-Tool, vorzugsweise MS Power BI. Erfahrung in DevOps Vorgehensmodellen wie git CI/CD Pipelines (mindestens in zwei Projekten) AWS Cloud Erfahrung; Mindestens eine Zertifizierung wie Cloud Practitioner, Developer, DevOpsEngineer oder Solution Architect",
+      "first_seen": "2026-08-19T10:25:00.371145+00:00",
+      "id": "cae707b542488bd2",
+      "matched_keywords": [
+        "product owner",
+        "agil"
+      ],
+      "published": "2026-08-19T12:24:47+02:00",
+      "source": "freelancermap.de",
+      "title": "Data Engineer (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/data-engineer-m-w-d-3037303"
+    },
+    {
+      "description": "Für unseren Kunden suchen wir aktuell eine/n O2C Value Team | Quality- / Test-Engineer | Senior (m/w/d) Rahmeninformationen Referenz:179790 Einsatzort:Remote 80% und Onsite 20% Frankfurt am Main Starttermin:01.09.2026 Arbeitszeit:Vollzeit Ihre Qualifikationen - Erfahrung in der Entwicklung, Einführung und Weiterentwicklung von Teststrategien und Testkonzepten in komplexen Multi-System-Landschaften - Erfahrung als Testmanager oder leitender Quality-Assurance-Verantwortlicher in komplexen Anwendungslandschaften mit Steuerung von mindestens 3 weiteren Quality-Assurance-Professionals - Nachweisbare Verantwortung für den Aufbau, die Einführung oder die Weiterentwicklung von modernen Testautomatisierungslösungen - Erfahrung in der Definition und dem Einsatz von Qualitätsmetriken und KPIs zur Steuerung und Optimierung von Testprozessen - Erfahrung mit KI-gestützten Verfahren zur Verbesserung von Test- und Qualitätsprozessen (z. B. KI-basierte Testfallgenerierung, intelligente Testpriorisierung oder Anomalieerkennung) - Zertifizierung als ISTQB Testmanager (CTAL-TM) oder vergleichbare Qualifikation im Bereich Testmanagement - Erfahrung in der Arbeit mit agilen Frameworks im Kontext von Qualitätssicherung und Testmanagement (z. B. SAFe, Scrum, Kanban) - Erfahrung mit Testmanagement- und Testautomatisierungswerkzeugen (z. B. Jira/Xray, Playwright, Selenium oder Karate) - Erfahrung im Umfeld der Transport- und Logistikindustrie oder vergleichbar regulierten Branchen - Erfahrung mit API-Testverfahren und zugehörigen Tools (z. B. Swagger UI, Postman, Thunder Client) - Kenntnisse moderner Architekturmodelle und deren Auswirkungen auf Testbarkeit (z. B. Microservices, Event-Driven Architecture) Ihre Aufgaben - Erstellung, Beratung und fachliche / methodische Unterstützung der Projektteams bei der Erstellung des Testkonzepts und der Teststrategie für einen Agile Release Train in einem Cloud Umfeld - Organisation der Testkoordination für einen übergreifenden Test - fachliche / methodische Unterstützung und Beratung der Projektteams im Bereich Test Methodik, Testspezifikation und Testdokumentation - fachliche / methodische Unterstützung und Beratung der Projektteams bei der Testdurchführung von manuellen, automatisierten, sowie Last- und Performancetests - Erstellung, Durchführung, Auswertung, Wartung und Dokumentation von automatisierten technischen und funktionalen Testfällen über alle Teststufen basierend auf den entwickelten Funktionen und Anwendungsfällen der Projektteams - Überprüfung und Sicherung der Qualität der Testautomatisierung, der manuellen Tests, sowie Last- und Performancetest - Konzeption und Umsetzung eines Testdatenmanagements für die Aufbereitung, Sicherung und Zurücksetzung von Testdaten in verschiedene Stages in einem Cloud Umfeld Interessiert? Wir freuen uns auf Ihre aussagekräftigen Bewerbungsunterlagen in elektronischer Form. Ihr Ansprechpartner: Patrick Hoening ***** ***** *****",
+      "first_seen": "2026-08-19T10:25:00.371145+00:00",
+      "id": "2a8985cd192a1f07",
+      "matched_keywords": [
+        "testmanager",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-08-19T12:20:51+02:00",
+      "source": "freelancermap.de",
+      "title": "O2C Value Team | Quality- / Test-Engineer | Senior (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/o2c-value-team-quality-test-engineer-senior-m-w-d"
+    },
+    {
+      "description": "Für unseren Kunden suchen wir aktuell eine/n System Engineer / IT-Spezialist (m/w/d) Rahmeninformationen Referenz:179808 Einsatzort:Dachau Starttermin:01.10.2026 Arbeitszeit:Vollzeit Ihre Qualifikationen - Ausbildung zum Meister / Techniker (Elektrotechnik) - Ausbildung zum Fachinformatiker oder vergleichbare Ausbildung - Berufserfahrung im Bereich Netzwerktechnik wünschenswert - Berufserfahrung im IT-Support / Helpdesk-Support - Verhandlungssichere Deutschkenntnisse (mind. C1) - Eine Sicherheitsüberprüfung im Rahmen des Sabotageschutzes ist notwendig Ihre Aufgaben - Konfiguration von Breitband-Powerline (BPLC) Geräten, LTE-Routern und Smart Meter Gateways (SMGW ) an den zentralen Netzmanagementsystemen - Inbetriebnahme von BPLC-Geräten, LTE-Routern und SMGW´s gemeinsam mit dem Field Service - Pflege der Konfigurationsdatenbank - Überwachung und Störungsbearbeitung in den WAN in Zusammenarbeit mit dem Field Service - Dokumentation im zentralen Troubleticketsystem - Erstellen von Reports zu Störungen und Verfügbarkeit der Netze Interessiert? Wir freuen uns auf Ihre aussagekräftigen Bewerbungsunterlagen in elektronischer Form. Ihr Ansprechpartner: Sonya Kalaai ***** *****",
+      "first_seen": "2026-08-19T10:25:00.371145+00:00",
+      "id": "3a46a1e4d8526976",
+      "matched_keywords": [
+        "netz",
+        "smart meter"
+      ],
+      "published": "2026-08-19T12:20:46+02:00",
+      "source": "freelancermap.de",
+      "title": "Westhouse Job: System Engineer / IT-Spezialist (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/westhouse-job-system-engineer-it-spezialist-m-w-d-3037300"
+    },
+    {
+      "description": "WIR BEI KODIAK stehen für fundiertes Know-how in der Umsetzung komplexer Infrastrukturprojekte. Als verlässlicher Partner für Projektumsetzer und Entwickler realisieren wir europaweit anspruchsvolle Linienbauwerke, Energie- sowie Infrastrukturprojekte, egal ob onshore, offshore oder bei der Modernisierung bestehender Netze. Bei uns geht es um mehr als Technik: Wir glauben an echte Zusammenarbeit, persönliche Entwicklung und Raum für neue Ideen. Unsere Spezialisten denken Projekte ganzheitlich, handeln lösungsorientiert und begleiten komplexe Vorhaben vom ersten Konzept bis zur Inbetriebnahme, mit Leidenschaft, Verantwortung und dem Blick fürs Wesentliche. DEINE AUFGABEN Qualitätskontrolle und Dokumentation Kontrolle der Hochspannungs-Kabel – und LWL-Garnituren hinsichtlich des Aufbaus, Beschriftung und Belegung. Überprüfung der Mess- und Spleißarbeiten durch die ausführenden Firmen. Kontrolle der korrekten Beschriftung aller Komponenten. Umsetzung und Überwachung des FIMT-Messkonzepts auf der Baustelle (Einweisung bei Bedarf). Begutachtung der LWL-Installationen auf Stationen (z. B. FIMT-Metallhaubenmuffen, FACT-Schränke, Übergabemuffen). Baubegleitung und Ausführungsüberwachung Betreuung der Ausführung der Kabelschutrzrohre. Überwachung und Bewertung des Einzugsvorgangs der der Hochspannungs-Kabel Überwachung des Einblasvorgangs parallel zum Hochspannungskabel verlegten LWL-Begleitkabel mit FIMT-Überwachung. Abstimmung und Koordination Teilnahme an projektbezogenen Terminen und Tafelplanungen mit Fokus auf die Hochspannungs-Kabel- und LWL-Verlegung. Gewerkeübergreifenden Abstimmung im Bauablauf. Teilnahme an Baubesprechungen mit Relevanz für Kabel- und LWL-Themen. Flexibilität und Problemlösung Bearbeitung und Koordination ungeplanter Themen im Bereich Kabel und LWL, die sich im Bauverlauf ergeben ANFORDERUNGEN & DEINE EXPERTISE Abgeschlossenes Studium im Bereich Elektrotechnik, Nachrichtentechnik, Bauingenieurwesen oder vergleichbare technische Berufsausbildung oder langjährige Berufserfahrung im Bereich Nachrichtentechnik / LWL. Fundierte Kenntnisse in der Verlegung von LWL-Kabeln. Mehrjährige praktische Erfahrung (mind. 3–5 Jahre) in der Bauüberwachung oder in der Bauleitung in Infrastrukturprojekten mit LWL-Kabeln. Erfahrung in der Qualitätssicherung und Dokumentation von Bauleistungen. Erfahrung in der Zusammenarbeit mit Bauunternehmen, Ingenieurbüros. Deutsche Sprachkenntnisse mindestens B2-Niveau und Englische Sprachkenntnisse mindestens B1 Niveau",
+      "first_seen": "2026-08-19T10:25:00.371145+00:00",
+      "id": "7468ab9dfc3479ae",
+      "matched_keywords": [
+        "energie",
+        "netz"
+      ],
+      "published": "2026-08-19T12:16:29+02:00",
+      "source": "freelancermap.de",
+      "title": "Fachbauleitung LWL (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/fachbauleitung-lwl-m-w-d"
+    },
+    {
+      "description": "Payroll Specialist (m/w/d) | Entgeltabrechnung Für ein etabliertes Unternehmen der kommunalen Versorgungs- und Energiewirtschaft suchen wir im Rahmen einer Elternzeitvertretung einen Payroll Specialist (m/w/d). Das Unternehmen steht für eine sichere, nachhaltige Versorgung der Region und bietet ein modernes Arbeitsumfeld mit kurzen Entscheidungswegen und einem kollegialen Team. Deine Aufgaben Eigenständige Durchführung der monatlichen Entgeltabrechnung Bearbeitung lohnsteuer- und sozialversicherungsrechtlicher Themen Pflege von Personalstamm- und Bewegungsdaten Ansprechpartner für Mitarbeitende und Führungskräfte bei abrechnungsrelevanten Fragen Zusammenarbeit mit Behörden, Krankenkassen und externen Stellen Das bringst du mit Erfahrung in der vollständigen Entgeltabrechnung Kenntnisse im Tarifvertragsumfeld Sicherer Umgang mit gängigen Payroll-Prozessen SAP-Kenntnisse im Payroll-Umfeld sind von Vorteil Kommunikative und aufgeschlossene Persönlichkeit Das erwartet dich Befristete Elternzeitvertretung für ca. 8-12 Monate Flexible Arbeitszeitmodelle mit 30 bis 39 Wochenstunden möglich Strukturierte Einarbeitung und anschließend hybrides Arbeiten (3 Tage Remote/Woche) Modernes Arbeitsumfeld mit Kantine und Parkmöglichkeiten Du möchtest deine Payroll-Expertise in einem stabilen und wertschätzenden Umfeld einbringen? Dann freuen wir uns auf deine Bewerbung. SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-08-19T10:25:00.371145+00:00",
+      "id": "7b31787b98df4bc7",
+      "matched_keywords": [
+        "energie"
+      ],
+      "published": "2026-08-19T11:57:07+02:00",
+      "source": "freelancermap.de",
+      "title": "SAP HCM Key User",
+      "url": "https://www.freelancermap.de/projekt/sap-hcm-key-user"
+    },
+    {
+      "description": "Start: Oktober 2026 Dauer: März 2027 Auslastung: ca. 15 Personentage gesamt Hauptaufwand im Oktober 2026 sowie Februar 2027 Einsatzort: Wiesbaden Remote-Anteil: 100% Vertragsart: Freiberuflich Aufgabenbereich: Durchführung von MSS-Prüfungen für ca. 20-40 Kreditnehmer Eigenständige Recherche auf Basis öffentlich verfügbarer Informationen Analyse von Unternehmens-, Beteiligungs- und Konsolidierungsstrukturen Berücksichtigung von SPVs und Konzernstrukturen Prüfung möglicher Verstöße gegen relevante Sozial- und Governance-Standards Dokumentation der Ergebnisse anhand einer vorhandenen internen Vorlage Erstellung einer revisionssicheren und prüfungskonformen Dokumentation Das bringen Sie mit: Erfahrung im Bereich ESG, Nachhaltigkeit oder Sustainable Finance Kenntnisse der EU-Taxonomie Erfahrung mit Research- und Due-Diligence-Tätigkeiten Fähigkeit zur selbstständigen Analyse von Unternehmen und Konzernstrukturen Sehr gute Deutschkenntnisse Kenntnisse in folgenden Standards: United Nations Guiding Principles on Business and Human Rights (UNGPs) ILO Core Labour Standards OECD Guidelines for Multinational Enterprises Sollte die Aufgabe spannend für Sie klingen, zögern Sie nicht mich zu kontaktieren. Gerne dürfen Sie das Projekt auch in Ihrem Netzwerk teilen. Bei erfolgreicher Vermittlung eines Kollegen winkt Ihnen ein 250 EUR Amazon Gutschein als Dankeschön zu. Ich freue mich auf Ihre Rückmeldung! SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-08-19T10:25:00.371145+00:00",
+      "id": "327dd8576fd9b5a9",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-08-19T11:56:52+02:00",
+      "source": "freelancermap.de",
+      "title": "Consultant Sustainable Finance / EU Taxonomy (m/w/d) remote",
+      "url": "https://www.freelancermap.de/projekt/consultant-sustainable-finance-eu-taxonomy-m-w-d-remote-3037293"
+    },
+    {
+      "description": "Taktischer Einkäufer Anlagenbau (m/w/d) Über das Unternehmen Unser Mandant ist ein etabliertes Unternehmen aus dem Bereich Infrastruktur, Energie und technische Dienstleistungen. Für den Ausbau und die Weiterentwicklung anspruchsvoller Projekte suchen wir einen erfahrenen Einkäufer mit technischem Verständnis. Rahmendaten Standort: Köln Start: ASAP Laufzeit: 12 Monate Vertragsart: Arbeitnehmerüberlassung Auslastung: 39 Stunden/Woche Urlaub: 30 Tage pro Jahr Aufgaben Beobachtung und Analyse relevanter Beschaffungsmärkte Entwicklung und Umsetzung von Beschaffungsstrategien Erstellung und Durchführung von Ausschreibungen Abstimmung technischer Anforderungen mit Fachabteilungen Angebotseinholung, Bewertung und Verhandlung Erstellung und Verhandlung von Kauf-, Werk- und Dienstleistungsverträgen Lieferantenmanagement und Vergabevorbereitung Bearbeitung von Vertragsstörungen und Reklamationen Identifikation von Kosten- und Optimierungspotenzialen Anforderungen Abgeschlossenes Studium im kaufmännischen oder wirtschaftlichen Umfeld Mehrjährige Erfahrung im technischen Einkauf Gute Kenntnisse im Vertrags- und Vergabewesen Sicherer Umgang mit SAP und Einkaufssystemen Erfahrung mit eProcurement-Lösungen (z.B. Ivalua) von Vorteil Sehr gute Kommunikations- und Verhandlungsfähigkeiten Gute Englischkenntnisse Das erwartet Sie Spannendes Projektumfeld im Anlagenbau Mitarbeit an anspruchsvollen Infrastruktur- und Energieprojekten Langfristiger Projekteinsatz mit einer Laufzeit von zunächst einem Jahr Strukturierte Zusammenarbeit in einem professionellen technischen Umfeld Bei Interesse gerne direkt hier bewerben oder Ihre Unterlagen an ***** schicken. SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-08-19T10:25:00.371145+00:00",
+      "id": "c9ee48c50930a85e",
+      "matched_keywords": [
+        "energie"
+      ],
+      "published": "2026-08-19T11:56:45+02:00",
+      "source": "freelancermap.de",
+      "title": "Taktischer Einkäufer (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/taktischer-einkaeufer-m-w-d-3037292"
+    },
+    {
+      "description": "Ihre Aufgaben: Planung, Durchführung und Dokumentation von Versuchen an hydraulischen Systemen Eigenständige Durchführung hydraulischer Messungen und Versuchsreihen an den Maschinen Aufbau und Betreuung von Versuchsreihen zur Absicherung hydraulischer Komponenten und Systeme Auswertung und Interpretation der aufgenommenen Messdaten sowie Bewertung des Systemverhaltens Identifikation von Optimierungspotenzialen in bestehenden Hydrauliksystemen und Ableitung entsprechender Maßnahmen Validierung elektrohydraulischer Steuerungssysteme und Unterstützung bei der Abstimmung von Regelungsstrategien Ihr Profil: Fundierte Berufserfahrung im Versuchsumfeld Fundierte Kenntnisse in Hydraulik bzw. Mobilhydraulik Praktische Erfahrung in der eigenständigen Durchführung und Auswertung technischer Messungen Fundierte Kenntnisse in Fluidtechnik, technischer Mechanik sowie Mess- und Regelungstechnik Erfahrung mit Mobilhydraulik, beispielsweise Proportionalventilen, Pumpenregelungen oder LS-Systemen Erfahrung mit Hochdruck-Hydrauliksystemen wünschenswert Kenntnisse in Bussystemen wie CAN sowie in der Datenanalyse von Vorteil Erfahrung mit NI DIAdem zur Messdatenauswertung wünschenswert Gute Englischkenntnisse in Wort und Schrift Rahmenparameter: Start: 01.10. Dauer: 12 Monate (+ Option auf Verlängerung) Auslastung: 100% Standort: Rheinland-Pfalz & Remote Remote-Anteil: ca. 20 % Vor-Ort-Anteil: ca. 80 % Vertragsart: Freiberuflich Sie sind offen für neue Herausforderungen in einem agilen und engagierten Team? Dann senden Sie mir schnellstmöglich Ihren CV als Word-Dokument. Disclaimer: Wir operieren als Personalberatungsunternehmen. Keine der genannten Fachausdrücke sollen diskriminierend in Hinblick auf Alter oder Erfahrung sein. Wir bestätigen, dass wir alle Bewerbungen von Kandidaten jeden Alters und Erfahrungen gerne entgegennehmen.",
+      "first_seen": "2026-08-19T10:25:00.371145+00:00",
+      "id": "453798398c59aa8f",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-08-19T11:50:11+02:00",
+      "source": "freelancermap.de",
+      "title": "Versuchsingenieur Hydraulik (m/w/d) für Rheinland-Pfalz & Remote",
+      "url": "https://www.freelancermap.de/projekt/versuchsingenieur-hydraulik-m-w-d-fuer-rheinland-pfalz-und-remote"
+    },
+    {
+      "description": "Für ein langfristiges Projekt in einem sicherheitskritischen Enterprise-Umfeld suchen wir einen erfahrenen Senior Testmanager (m/w/d) mit Schwerpunkt auf Testmanagement, Testautomatisierung und Schnittstellentests. Zu Projektbeginn ist aufgrund einer projektspezifischen Sicherheitsüberprüfung eine erhöhte Vor-Ort-Präsenz (Rhein-Main-Gebiet) erforderlich. Nach erfolgreichem Abschluss ist überwiegend Remote-Arbeit mit gelegentlichen Vor-Ort-Einsätzen vorgesehen. Ihre Aufgaben Konzeption, Planung, Steuerung und Dokumentation von Testaktivitäten Entwicklung und Weiterentwicklung von Testkonzepten und Teststrategien Planung und Koordination manueller sowie automatisierter Softwaretests Konzeption und Umsetzung von Testautomatisierungslösungen Erstellung, Pflege und Durchführung von Testfällen und Testszenarien Durchführung von API-, Schnittstellen- und Integrationstests mit SmartBear SoapUI Qualitätssicherung von Java-basierten Anwendungen und Schnittstellen Analyse, Dokumentation und Nachverfolgung von Fehlern und Testergebnissen Abstimmung mit Fachbereichen, Entwicklungsteams und weiteren Projektbeteiligten Erstellung von Testreports sowie Kommunikation der Ergebnisse an technische und fachliche Ansprechpartner Must-have Mindestens 5 Jahre einschlägige Berufserfahrung, idealerweise auf Senior-Level Sehr gute Kenntnisse im Testmanagement, insbesondere in: Testkonzeption Testplanung Teststeuerung Testdokumentation Fundierte Kenntnisse in der Testautomatisierung Sehr gute praktische Kenntnisse in SmartBear SoapUI Fundierte Kenntnisse in Java, insbesondere: Java SE / EE JDBC JMS JUnit Aktuelle Projekttätigkeit mit Schwerpunkt Testmanagement Nachweisbarer Projekthintergrund in sicherheitskritischen oder regulierten IT-Umgebungen Mindestens 5 relevante IT-Zertifizierungen Bereitschaft zur Durchführung einer projektspezifischen Sicherheitsüberprüfung Bereitschaft zu einer erhöhten Vor-Ort-Präsenz (Rhein-Main-Gebiet) während der Projektstartphase Nice to have Relevante Zertifizierungen, z. B. ISTQB, IREB, Scrum, ITIL oder Oracle Sicherer Umgang mit Jira und Confluence Projekthintergrund in komplexen und organisationsübergreifenden Testvorhaben Praxis in Schnittstellen-, Integrations- und End-to-End-Tests Kenntnisse aus Projekten mit erhöhten Anforderungen an Informationssicherheit und Verfügbarkeit Vertrautheit mit der Zusammenarbeit zwischen technischen und fachlichen Stakeholdern Sehr gute analytische und methodische Arbeitsweise Ausgeprägte Kommunikations- und Koordinationsfähigkeit Strukturierte, eigenverantwortliche und lösungsorientierte Arbeitsweise Interesse geweckt? Dann freuen wir uns über ein aussagekräftiges Profil mit Angaben zu Ihren relevanten Projekterfahrungen, insbesondere in den Bereichen Testmanagement, Testautomatisierung, SoapUI und Java, sowie einer Übersicht Ihrer vorhandenen Zertifizierungen. Vielen Dank im Voraus!",
+      "first_seen": "2026-08-19T10:25:00.371145+00:00",
+      "id": "353c561992efffac",
+      "matched_keywords": [
+        "testmanager",
+        "ireb",
+        "scrum"
+      ],
+      "published": "2026-08-19T11:34:10+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Testmanager / Test Automation – Java & SoapUI (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-testmanager-test-automation-java-und-soapui-m-w-d"
+    },
+    {
       "description": "Für unseren Kunden, einen führenden Anbieter auf dem Gebiet des Energiemanagements, suchen wir ab sofort einen IT Projektkoordinator (w/m/d) zur Erbringung der nachfolgenden Leistungen: Aufgaben Projektplanung und Steuerung Planung und Abstimmung von Projektaktivitäten Erstellung und Pflege von Terminplänen Nachverfolgung von Meilensteinen Identifikation und Monitoring von Abhängigkeiten Analyse und Nachverfolgung kritischer Pfade Risiko- und Entscheidungsmanagement Identifizierung, Bewertung und Dokumentation von Projektrisiken Vorbereitung von Entscheidungsgrundlagen für Projektleitung und Stakeholder Nachverfolgung offener Entscheidungen Mitwirkung bei Eskalationen und Lösungsfindung Governance und Stakeholder-Management Koordination zwischen dem Kunden und der HAWK IT Übernahme der Steering Committees und Eskalationsprozessen Kommunikation von Aktivitäten, Fragestellungen und Entscheidungen innerhalb der Organisation Readiness und Betriebsübergabe Unterstützung bei der Erstellung von Handover-Paketen Vorbereitung von Incident-Management-Unterlagen Sicherstellung einer strukturierten Übergabe in den Betrieb IT-Unterstützung Pflege von Berechtigungen Erstellung von Dokumentationen und Q amp;A-Unterlagen Erstellung von Präsentationen und Management-Reports Übernahme der organisatorischen und technischen Aufgaben im Projektumfeld Qualifikationen Langjährige Erfahrung als IT-Projektkoordinator Versierte Erfahrung in der Steuerung und Nachverfolgung von Projektaktivitäten Tiefgreifende Erfahrung im Stakeholder-Management Sehr Gute Kenntnisse in Microsoft Office (insbesondere Excel, PowerPoint und Outlook) Tiefe Erfahrung in der Erstellung von Projektdokumentationen und Status-Reports Erfahrung im IT-Infrastruktur- oder Workplace-Umfeld Erfahrung mit IT-Service-Management-Prozessen (Incident-, Change- oder Request-Management) Kenntnisse in Jira, Confluence, ServiceNow oder vergleichbaren Tools https://www.etengo.de/it-projektsuche/102869/",
       "first_seen": "2026-08-19T09:31:25.357929+00:00",
       "id": "9ae47e4688e0a500",
@@ -9597,5 +9712,5 @@
       "url": "https://www.freelancermap.de/projekt/tester-robotframework-testautomatisierung-web-api-mobile-tests-m-w-d-95-prozent-remote-id03150"
     }
   ],
-  "updated_at": "2026-08-19T09:31:25.548223+00:00"
+  "updated_at": "2026-08-19T10:25:00.564002+00:00"
 }
