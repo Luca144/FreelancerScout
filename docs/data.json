@@ -10790,76 +10790,7 @@
       "source": "freelancermap.de",
       "title": "Cloud Native Engineer (m/w/d)",
       "url": "https://www.freelancermap.de/projekt/cloud-native-engineer-m-w-d-3032894"
-    },
-    {
-      "description": "Liebes Netzwerk, für einen etablierten Entwickler spezialisierter Softwarelösungen unterstützen wir aktuell die Suche nach einem entwicklungsstarken Freelancer (m/w/d), der KI und Automatisierung direkt in die Support-Organisation bringt. Hier geht es nicht um klassischen Support, sondern um Echte Engineering-Power für das Team: Du analysierst wiederkehrende Muster, entwickelst intelligente Skripte sowie KI-Agenten und baust Tools, die die Effizienz des gesamten Support-Teams nachhaltig steigern. Projektdetails Position: Freelance AI Support Engineer & Automation Specialist (m/w/d) Start: asap Dauer: 6 Monate (Verlängerung möglich) Ort: Raum Pforzheim (hybrid, ca. 2 Tage pro Woche vor Ort) Workload: Vollzeit Projektsprache: Deutsch Aufgaben Analyse wiederkehrender Support-Fälle und Identifikation von konkretem Automatisierungspotenzial Entwurf und Entwicklung von Skripten sowie internen Tools (Python, PowerShell, SQL), um Support-Aufgaben spürbar zu beschleunigen Konzeption und Integration KI-gestützter Assistenten (z. B. für Log- und DB-Analysen, Ticket-Triage oder Wissensdatenbanken) Befähigung des Support-Teams durch das Erstellen von Playbooks sowie Schulungen zu Best Practices rund um KI und Automatisierung Anforderungen Solide Engineering-Erfahrung und die Fähigkeit, produktionsreifen, wartbaren Code zu schreiben Starke Praxis im Umgang mit KI-Coding-Tools (z. B. Cursor, Claude Code o. ä.) und ein ausgeprägtes AI-First-Mindset Verlässliche Kenntnisse in Python und SQL Sicherheit in Windows- und Linux-Serverumgebungen sowie auf der Kommandozeile Fließende Deutschkenntnisse in Wort und Schrift für die interne Kommunikation und Kundenkontakt Grundverständnis für Fernwartung / Remote-Desktop und Datenbank-Zugriffe Nice-to-Have Erfahrung in der Healthcare-IT oder Kenntnisse klinischer Software-Workflows Bewusstsein für Datenschutz und DSGVO im Kontext sensibler Daten Eine pragmatische, eigenverantwortliche und lösungsorientierte Arbeitsweise Klingt diese Schnittstelle aus Engineering, KI-Innovation und Prozessoptimierung spannend für Dich? Dann freue ich mich auf Deine Nachricht inklusive aktuellem Profil und Angabe Deiner Verfügbarkeit! Kleine Randnotiz: Wir bearbeiten alle Rückmeldungen und geben immer unser Bestes, uns bei allen Kandidaten (m/w/d) zurückzumelden. Leider ist dies nicht immer möglich, wir bitten um Ihr Verständnis. Wenn wir uns innerhalb von 5 Werktagen nicht bei Ihnen melden, gehen Sie bitte davon aus, dass der Kunde sich für einen anderen Kandidaten entschieden hat. Liebe Grüße Margarita",
-      "first_seen": "2026-08-06T23:55:39.232800+00:00",
-      "id": "ce59daa56e6f0a81",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-08-06T21:20:36+02:00",
-      "source": "freelancermap.de",
-      "title": "Freelance AI Support Engineer & Automation Specialist (m/w/d) – Python / KI-Tools",
-      "url": "https://www.freelancermap.de/projekt/freelance-ai-support-engineer-und-automation-specialist-m-w-d-python-ki-tools"
-    },
-    {
-      "description": "Projektkontext Für einen Endkunden aus der Energiewirtschaft suche ich einen Entwickler mit Schwerpunkt Application Process Engine (APE) für die Marktkommunikations- und Lieferantenwechselprozesse. Gesucht wird jemand, der APE-basierte Prozesse bereits End to End gebaut hat, das Prozessdesign versteht und nicht auf detaillierte Entwicklungsvorgaben wartet. Aufgaben Implementierung der Lieferantenwechselprozesse für die Marktrolle Netzbetreiber in der Application Process Engine Aufbau und Erweiterung von Prozessen in der APE: eigene Prozessschritte, eigene Prüfungen, kundenspezifische Prozessvarianten und Z-Prozesse Umsetzung der regulatorischen Anforderungen rund um den 24 Stunden Lieferantenwechsel, inklusive Prozesssplits für Strom und Gas Anpassungen in der Marktkommunikation, Nachrichtenvalidierung und Fehlerbehandlung auf Segmentebene Klärfallanalyse und Automatisierung von Klärfällen im APE Umfeld, inklusive Prozessmonitoring und Fehlerbehandlung Betreuung der workflowbasierten Altwelt parallel zur neuen Welt, soweit im Projekt relevant Anforderungen Mehrjährige praktische Entwicklungserfahrung in der SAP Application Process Engine (APE) im Utilities Umfeld Nachweisbare Erfahrung im Aufbau eigener Prozessschritte, Prüfungen und Prozessvarianten in der APE, nicht nur Customizing des Standards Sehr gute ABAP und ABAP OO Kenntnisse, sicheres Debugging in den APE Prozessen Prozesskenntnisse in den Wechselprozessen der Marktrolle Netzbetreiber, GPKE und GeLi Gas Erfahrung mit EDIFACT und der Arbeit mit AHB Dokumenten Fähigkeit, Fachkonzepte selbstständig zu lesen und den Prozess eigenverantwortlich umzusetzen Wichtig zur Rolle Der Fokus liegt klar auf der Umsetzung. Prozesswissen ist dabei keine Zugabe, sondern die Voraussetzung dafür, dass die Implementierung ohne ständige Rückfragen funktioniert. Ein reiner Prozessberater passt hier nicht, ein Entwickler ohne Prozessverständnis ebenso wenig. Rahmenparameter Start: 01.09.2026 Laufzeit: 6 Monate ++ Auslastung: min 2 Tage pro Woche, Vollzeit wünschenswert Einsatzort: 100 % remote Können Sie unterstützen? Ich freue mich auf Ihr Profil inklusive Verfügbarkeit und Stundensatz.",
-      "first_seen": "2026-08-06T23:55:39.232800+00:00",
-      "id": "e578b1d6c36f7af3",
-      "matched_keywords": [
-        "energie",
-        "netz",
-        "marktkommunikation",
-        "edifact"
-      ],
-      "published": "2026-08-06T19:54:13+02:00",
-      "source": "freelancermap.de",
-      "title": "SAP S4U Entwickler Application Process Engine (APE) für Lieferantenwechselprozesse (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/sap-s4u-entwickler-application-process-engine-ape-fuer-lieferantenwechselprozesse-m-w-d"
-    },
-    {
-      "description": "Projektkontext Für einen Endkunden aus der Energiewirtschaft suche ich Unterstützung im Bereich Gerätemanagement, Ablesesteuerung und intelligentes Messwesen. Hintergrund ist die Transformation von SAP IS-U auf SAP S/4HANA Utilities. Gesucht wird daher jemand, der die Prozesse rund um Geräte und Messsysteme eigenständig umsetzt, Fachkonzepte selbst liest und keine ständige Begleitung braucht. Aufgaben Umsetzung der Prozesse im Gerätemanagement: Einbau, Ausbau, Wechsel und Turnuswechsel von Geräten und intelligenten Messsystemen Prozesse im intelligenten Messwesen und in der AMI Funktionalität, inklusive IM4G, Parametrierung, Stilllegung und Rückbau Ablesesteuerung, Zählerstands- und Energiemengenprozesse sowie Mengenermittlung Übernahme fachlicher Anforderungen aus Fachkonzepten und eigenständige Umsetzung in Customizing und Entwicklung Unterstützung bei Migration und Transformation der geräte- und messwesenbezogenen Stammdaten von IS-U nach S/4HANA Utilities Analyse und Behebung von Stammdatenfehlern und Klärfällen, auch im Zusammenspiel mit der Marktkommunikation Anforderungen Mehrjährige Projekterfahrung im SAP IS-U Gerätemanagement beziehungsweise in der Geräteverwaltung Belastbare Erfahrung im intelligenten Messwesen, insbesondere IM4G und Parametrierung Kenntnisse in Ablesesteuerung und Mengenermittlung Umsetzungsstärke in ABAP, Customizing und Debugging, also Analyse und Realisierung in einer Hand Fähigkeit, Fachkonzepte selbstständig zu lesen, zu hinterfragen und in eine lauffähige Lösung zu übersetzen Wichtig zur Rolle Gesucht wird kein reiner Prozessberater und kein reiner Entwickler, der Vorgaben zur Umsetzung erwartet. Gesucht wird jemand, der versteht, was er tut, und den Prozess am Ende zum Laufen bringt. Rahmenparameter Start: kurzfristig, idealerweise zum 01.09.2026 Laufzeit: 6 Monate ++ Auslastung: mindestens 2 Tage pro Woche, mehr Kapazität wünschenswert Einsatzort: 100 % remote Können Sie unterstützen? Ich freue mich auf Ihr Profil inklusive Verfügbarkeit und Stundensatz.",
-      "first_seen": "2026-08-06T23:55:39.232800+00:00",
-      "id": "3524c7b44bcafa2f",
-      "matched_keywords": [
-        "energie",
-        "marktkommunikation"
-      ],
-      "published": "2026-08-06T19:49:54+02:00",
-      "source": "freelancermap.de",
-      "title": "SAP IS-U / S4U Experte Gerätemanagement und intelligentes Messwesen (IM4G) (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/sap-is-u-s4u-experte-geraetemanagement-und-intelligentes-messwesen-im4g-m-w-d"
-    },
-    {
-      "description": "Consultant SmartRecruiters-Implementierung (m/w/d) Referenz: 888748/1-de Beginn: asap Dauer: 100 MT Meine Aufgaben: Analyse der bestehenden Recruiting-Landschaft, Implementierungsziele und Systemumgebung des Kunden sowie Erstellung von Projektansatz, Umfang, Meilensteinen, Abhängigkeiten und Implementierungs-Roadmap Aufnahme und Analyse der fachlichen Anforderungen gemeinsam mit den relevanten Stakeholdern sowie Konzeption zukünftiger Recruiting-Prozesse im SmartRecruiters-Umfeld Konzeption, Konfiguration und Implementierung der SmartRecruiters-Lösung einschließlich technischer Integrationsdesigns zur SAP-Systemlandschaft Planung und Vorbereitung von Testaktivitäten (inkl. UAT) sowie Unterstützung bei Datenmigrationsaktivitäten für die produktive Einführung Vorbereitung und Begleitung des Go-Lives, einschließlich Knowledge Transfer, Anwenderschulungen und Erstellung relevanter Dokumentationen Unterstützung während der Hypercare-Phase durch Analyse von Optimierungspotenzialen, Ableitung von Handlungsempfehlungen sowie Begleitung des Projektabschlusses Meine Qualifikation: Fundierte Erfahrung in der Implementierung von SmartRecruiters oder vergleichbaren Talent-Acquisition-/Recruiting-Plattformen Nachweisbare Expertise in der Analyse, Optimierung und Gestaltung von Recruiting-Prozessen sowie im Requirements Engineering Erfahrung in der Konzeption und Konfiguration von SmartRecruiters-Lösungen inklusive technischer Integrationsszenarien Gute Kenntnisse im SAP-Umfeld, idealerweise mit Erfahrung in der Anbindung von SmartRecruiters an SAP-Systemlandschaften (z. B. SAP SuccessFactors) Erfahrung in Testmanagement, User Acceptance Testing (UAT), Datenmigration sowie Go-Live- und Hypercare-Phasen Ausgeprägte Kommunikations- und Stakeholder-Management-Fähigkeiten sowie Erfahrung in der Durchführung von Workshops und Wissenstransfermaßnahmen Meine Vorteile: Interessantes und verantwortungsvolles Projekt Remote-Möglichkeit Betreuung im laufenden Projekt durch unser Team Über uns: Der Bereich IT ist unsere Kernkompetenz, auf deren Grundlage sich Hays entwickelt hat. Wir sind das größte privatwirtschaftlich organisierte IT-Personaldienstleistungsunternehmen in Deutschland und haben für jede Karrierestufe das passende Angebot – egal ob Sie an Vakanzen in agilen KMUs oder starken DAX-Konzernen interessiert sind. Wir beherrschen die komplette IT-Klaviatur von Support bis zur Softwarearchitektur oder Digitalisierung – dank unseres umfangreichen Portfolios ist für jeden etwas dabei. So konnten wir in den vergangenen Jahrzehnten im Rahmen einer Life-Long-Partnerschaft unzählige Fach- und Führungskräfte aus der IT dabei unterstützen, die Weichen für eine erfolgreiche Karriere zu stellen. Unser Beratungsteam ist spezialisiert und somit in der Lage, auf Ihre Wünsche und Vorstellungen einzugehen und Sie auf Bewerbungsgespräche und Vertragsverhandlungen bestens vorzubereiten. Probieren Sie es aus und erfahren Sie, was der Markt Ihnen zu bieten hat – völlig kostenfrei, diskret und unverbindlich! Wir freuen uns auf Sie. Mein Kontakt bei Hays: Referenznummer: ***** Kontakt aufnehmen: Email: ***** Telefone: *****",
-      "first_seen": "2026-08-06T23:55:39.232800+00:00",
-      "id": "0679c279ccb75ec4",
-      "matched_keywords": [
-        "requirements engineer",
-        "agil"
-      ],
-      "published": "2026-08-06T19:06:38+02:00",
-      "source": "freelancermap.de",
-      "title": "Consultant SmartRecruiters-Implementierung (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/consultant-smartrecruiters-implementierung-m-w-d"
-    },
-    {
-      "description": "Experte Marktkommunikation Wiken ENER:GY Netzseite (m/w/d) Referenz: 888980/1-de Beginn: asap Dauer: 3 MM+ Meine Aufgaben: Bearbeitung und Überwachung der Marktkommunikationsprozesse Netz im Wilken ENER:GY Modul RUM Steuerung und Klärung von Lieferantenwechselprozessen inklusive Ablehnungen, Klärfällen und Systemschiefständen Bearbeitung von Stammdatenänderungen, Stammdatenanfragen sowie Kommunikation mit Marktpartnern Überwachung und Bearbeitung von Messwertprozessen einschließlich Messwertanfragen, Messwerteingängen und Lieferscheinmanagement Sicherstellung fristgerechter Rückmeldungen, Zustimmungen und Ablehnungen im Datenaustausch mit Marktpartnern Bearbeitung von Rechnungs-, Zahlungsavis- und Preisblattprozessen einschließlich Fehleranalyse und bilateraler Klärung Monitoring und Bereinigung fehlerhafter Netz- und Marktkommunikationsprozesse sowie Überwachung des EDIFACT-/MDA-Nachrichtenversands Meine Qualifikation: Fundierte Erfahrung in der Marktkommunikation auf Netzbetreiberseite Sehr gute Kenntnisse der Wechselprozesse, Stammdaten- und Messwertprozesse im deutschen Energiemarkt Praxiserfahrung im Umgang mit Wilken ENER:GY, idealerweise im Modul RUM Kenntnisse der EDIFACT-Marktkommunikation sowie der relevanten GPKE-, WiM- und Marktpartnerprozesse Erfahrung in der Bearbeitung von Klärfällen, Prozessfehlern und bilateraler Marktpartnerkommunikation Sicherer Umgang mit Rechnungs- und Zahlungsavisprozessen (INVOIC, REMADV, PRICAT) Strukturierte, eigenständige Arbeitsweise sowie hohe Prozess- und Datenqualität im operativen Tagesgeschäft Meine Vorteile: Remote-Möglichkeit Spannendes Projekt Über uns: Entdecken Sie mit Hays die moderne Art der Vermittlung im Sales & Marketing. Mit uns erhalten Sie die richtige Unterstützung für Ihren beruflichen Erfolg in Zusammenarbeit mit auf Ihre Branche spezialisierten Consultants. Dieses Know-how ermöglicht es uns, Sie individuell und passgenau bei der Planung Ihrer nächsten beruflichen Schritte zu unterstützen. Von der Auswahl der passenden Stelle bis zum ersten Arbeitstag und natürlich darüber hinaus. Registrieren Sie sich und profitieren Sie von spannenden und passenden Angeboten – völlig kostenfrei. Mein Kontakt bei Hays: Referenznummer: ***** Kontakt aufnehmen: Email: ***** Telefone: *****",
-      "first_seen": "2026-08-06T23:55:39.232800+00:00",
-      "id": "06c0c5deb575d275",
-      "matched_keywords": [
-        "energie",
-        "netz",
-        "ems",
-        "marktkommunikation",
-        "edifact"
-      ],
-      "published": "2026-08-06T19:06:28+02:00",
-      "source": "freelancermap.de",
-      "title": "Experte Marktkommunikation Wiken ENER:GY Netzseite (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/experte-marktkommunikation-wiken-ener-gy-netzseite-m-w-d"
     }
   ],
-  "updated_at": "2026-08-20T23:22:12.997896+00:00"
+  "updated_at": "2026-08-21T01:07:42.391610+00:00"
 }
