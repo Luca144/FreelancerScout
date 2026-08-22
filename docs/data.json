@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Für einen Kunden in Frankfurt suche ich aktuell nach einem Data Engineer für Datenprodukte für das Konsumentenkreditgeschäft (m/w/d). Anbei finden Sie das Stellenprofil zu der Vakanz. Aufgabenbeschreibung: Anforderungen für source-aligned Consumer-Lending-Datenprodukte definieren Datenprodukt-Felder auf Basis bestehender Produktivdaten spezifizieren und mappen Unterstützung bei der Entwicklung eines Historisierungskonzepts aus fachlicher Sicht Datenmodelle einschließlich der Abbildung in Collibra entwerfen und implementieren Spezifikation von dbt-Transformationen durchführen Fachbereichsorientierte Consumer-Datenprodukte erstellen Anforderungen für Locker- und Cognos-Dashboards definieren Unterstützung bei der Erstellung von Dashboards UAT-Tests (User Acceptance Testing) für Datenprodukte und Dashboards durchführen Unterstützung bei der Metadaten-Integration (GDP, Collibra, lokale deutsche Systeme und dbt) sowie bei der Überführung der Metadaten der Datenprodukte in den Marketplace leisten Start: ab sofort (nach Rücksprache) Dauer: 6 Monate ( mit Option auf Verlängerung) Einsatzort: Frankfurt, remote Bei Interesse und Verfügbarkeit freue ich mich über die Zusendung Ihres aktuellen Lebenslaufs. Gerne können Sie diese Anfrage in Ihrem Netzwerk weiterleiten. Vielen Dank im Voraus. Mit freundlichen Grüßen Zeynep Arslan ***** SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-08-22T08:25:16.902488+00:00",
+      "id": "74e7080f8359d6cd",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-08-22T09:44:32+02:00",
+      "source": "freelancermap.de",
+      "title": "Data Engineer für das Konsumentenkreditgeschäft",
+      "url": "https://www.freelancermap.de/projekt/data-engineer-fuer-das-konsumentenkreditgeschaeft"
+    },
+    {
       "description": "Einer unserer Kunden sucht einen erfahrenen F&E-Projektmanager (m/w/d), der komplexe Entwicklungsprogramme für Medizinprodukte strukturiert, transparent gestaltet und deren Projektsteuerung sicherstellt. In enger Zusammenarbeit mit der Unternehmensleitung und den Ingenieurteams erstellen Sie klare Entwicklungsroadmaps, sorgen für Transparenz projektübergreifend und treiben die erfolgreiche Umsetzung durch effektive Planung, Risikomanagement und die Abstimmung mit den Beteiligten voran. Aufgaben Leitung der Planung und Überwachung wichtiger F&E-Entwicklungsprojekte Erstellung und Pflege von Projekt-Roadmaps, Meilensteinen und Zeitplänen Ermittlung von Abhängigkeiten, kritischen Pfaden und Projektrisiken Überwachung des Projektfortschritts und proaktive Behebung von Problemen und Engpässen Transparente Projektberichterstattung an die Führungskräfte Abstimmung der Beteiligten durch konsistente Projekttransparenz und Kommunikation Funktion als unabhängiger Koordinator zwischen den Entwicklungsteams und dem Management Anforderungen Fachlicher Hintergrund Umfangreiche praktische Erfahrung im Projektmanagement Hintergrund in der Entwicklung medizinischer Geräte sowie in Forschung und Entwicklung (F&E) Erfahrung in der Leitung komplexer technischer Entwicklungsprojekte Fachkenntnisse in den Bereichen Projektplanung, Erstellung von Roadmaps und Risikomanagement Ausgeprägte Fähigkeiten im Stakeholder-Management und in der Berichterstattung Sicherer Umgang mit Projektmanagement-Tools und Microsoft Office-Anwendungen Sprachen: Deutsch & Englisch (beide verhandlungssicher) Persönliches Profil Erfahrener, selbstbewusster und glaubwürdiger Projektleiter (m/w/d) Fähigkeit, Autorität mit Diplomatie in Einklang zu bringen Ausgeprägte Kommunikations- und Organisationsfähigkeiten Fähigkeit, Stakeholder bei Bedarf zu hinterfragen Fähigkeit, Vertrauen zwischen technischen Teams und Führungskräften aufzubauen ?? Bitte beachten: Eine Bewerbung auf dieses Projekt macht nur Sinn, wenn Sie in Vollzeit verfügbar sind, bereit sind, Vollzeit vor Ort zu leisten, mehrere Jahre Erfahrung in der Medizintechnik-Branche haben und Deutsch & Englisch fließend beherrschen. In diesem Fall freuen wir uns auf Ihre Bewerbung incl. Angabe zur Verfügbarkeit, Angabe Ihres Stundensatzes und Schilderung Ihrer Medizintechnik-Erfahrung. ? Wir freuen uns, von Ihnen zu hören und in weitere Details einzusteigen!",
       "first_seen": "2026-08-21T20:22:07.603473+00:00",
       "id": "a207f5f0c5b038e9",
@@ -11024,5 +11036,5 @@
       "url": "https://www.freelancermap.de/projekt/qualitaets-und-testmanager-m-w-d-fuer-die-assekuranz-gesucht"
     }
   ],
-  "updated_at": "2026-08-22T07:28:58.363718+00:00"
+  "updated_at": "2026-08-22T08:25:17.133898+00:00"
 }
