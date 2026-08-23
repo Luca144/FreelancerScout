@@ -11188,19 +11188,7 @@
       "source": "freelancermap.de",
       "title": "Business Development Representative (BDR) – Warm Leads | Commission-Based | Remote",
       "url": "https://www.freelancermap.de/projekt/business-development-representative-bdr-warm-leads-commission-based-remote"
-    },
-    {
-      "description": "Projektziel: Aufbau einer stabilen und wartbaren Verbindung zwischen dem ERP-/Warenwirtschaftssystem pixi und Microsoft Power BI über die von pixi bereitgestellte SOAP-API. Der Schwerpunkt liegt auf der technischen Datenanbindung und Datenaufbereitung, nicht auf der Gestaltung komplexer Dashboards. Aktueller Stand: - Funktionierender SOAP-Endpunkt ist vorhanden - API-Zugangsdaten und Basic Authentication sind eingerichtet - SOAP-Aufrufe über Web.Contents funktionieren - Erster erfolgreicher Aufruf von pixiReadItems wurde durchgeführt - Die Daten liegen in Power Query verschachtelt als SOAP/XML bzw. SqlResultStream vor und müssen korrekt in tabellarische Daten überführt werden - Power Query Online / Power BI sowie pixi API-Dokumentation sind vorhanden Hauptaufgaben: - Saubere Verarbeitung der SOAP/XML-Rückgabe bzw. des SqlResultStream in Power Query - Umwandlung der SOAP/XML-Responses in tabellarische Strukturen - Abruf relevanter pixi SOAP-Methoden über Power Query - Nutzbarmachung der von pixi bereitgestellten Standardreports für Power BI - Einbindung mehrerer Datenbereiche: Artikel, Aufträge, Umsätze und Bestände - Bereitstellung von Datumswerten und anderen Dimensionen für Power-BI-Filter - Einrichtung automatischer Aktualisierungen im Power BI Service - Aufbau der Lösung so, dass intern später weitere Reports und Auswertungen eigenständig erstellt werden können Voraussetzungen: - Praktische Erfahrung mit Microsoft Power BI - Fundierte Kenntnisse in Power Query / M - Erfahrung mit REST- und insbesondere SOAP-APIs - XML-Verarbeitung - Web.Contents - Basic Authentication / HTTP Header - Datenmodellierung in Power BI - Power BI Service und automatische Aktualisierung - Erfahrung mit pixi ERP / Descartes pixi ist von Vorteil, aber keine Voraussetzung Erwartetes Ergebnis: - Funktionierender Datenabruf aus pixi über SOAP-API mit sauberer tabellarischer Ausgabe in Power BI - Stabile und wartbare Datenanbindung als Grundlage für weitere pixi-Reports und Datenquellen Zeitrahmen/Projektstart: Kurzfristig, gerne sofort Arbeitsmodell: Remote Projektumfang: Zunächst überschaubares Einrichtungs- und Beratungsprojekt; bei erfolgreicher Zusammenarbeit sind weitere Power-BI-Themen möglich.",
-      "first_seen": "2026-08-09T03:39:20.113667+00:00",
-      "id": "e1c50e1565fd40f5",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-08-09T04:32:44+02:00",
-      "source": "freelancermap.de",
-      "title": "Power BI Experte gesucht – Anbindung einer SOAP-API von pixi ERP an Power BI",
-      "url": "https://www.freelancermap.de/projekt/power-bi-experte-gesucht-anbindung-einer-soap-api-von-pixi-erp-an-power-bi"
     }
   ],
-  "updated_at": "2026-08-23T02:59:33.032149+00:00"
+  "updated_at": "2026-08-23T03:56:09.317492+00:00"
 }
