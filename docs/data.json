@@ -11164,31 +11164,7 @@
       "source": "freelancermap.de",
       "title": "Nearshore - Freelance AI Support Engineer & Automation Specialist (m/w/d) – Python / KI-Tools",
       "url": "https://www.freelancermap.de/projekt/nearshore-freelance-ai-support-engineer-und-automation-specialist-m-w-d-python-ki-tools"
-    },
-    {
-      "description": "Ich brauche Unterstützung bei der Einrichtung eines lokalen KI-Systems. Ziel ist es, vor allem Module in Python für das Tryton-ERP programmieren zu können, das habe ich bis jetzt online überwiegend mit qwen, gelegentlich etwas unterstützt von Claude gemacht, und das funktioniert schon ganz schön. Was ich gerne hätte: Ein lokales System, das mit einem lokalen KI-Modell den Code direkt lokal auf die Platte schreibt, so dass er direkt getestet werden kann und das lästige und fehleranfällige Hin- und Herkopieren entfällt. Und natürlich sollen dem System die ganzen Hintergrundinfos zu Trytons Strukturen und Arbeitsweisen, die ich im Laufe der Zeit gesammelt habe, zur Verfügung stehen. Vorhanden ist: Ein Rechner mit AMD Ryzen 2600, 16 GB RAM, eine AMD 7600 XT-Grafikkarte mit 16GB VRAM. Ubuntu-Linux 26. Was bereits funktioniert: Ollama Lokal mit quen-coder-2.5-7b. Auch die Anbindung an AnythingLLM hat geklappt. Was nicht funktioniert: Der Zugriff von AnythingLLM auf mein freigegebenes Verzeichnis – und das Schreiben auf die Platte. Ich hatte auch einen sehr guten ersten Eindruck von Cursor – allerdings scheint da die Einbindung eines lokalen Modells inzwischen nicht mehr zu funktionieren. Bin mir an diesem Punkt aber nicht ganz sicher, die Aussagen sind ja widersprüchlich. Was Sie tun sollen: Systementscheid: Bei AnythingLLM bleiben - oder etwas anderes? - VS Studio scheint mir allerdings stark übertrieben für meine Bedürfnisse. Und dann: Mir in ein bis zwei Stunden das System vollständig lauffähig zu machen, und noch eine kurze Einführung zu geben. ***** *****",
-      "first_seen": "2026-08-09T07:52:06.781761+00:00",
-      "id": "b88b9af0e3545f13",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-08-09T09:12:27+02:00",
-      "source": "freelancermap.de",
-      "title": "Lokales KI-System konfigurieren.",
-      "url": "https://www.freelancermap.de/projekt/lokales-ki-system-konfigurieren"
-    },
-    {
-      "description": "About Synapz Synapz is a digital consulting and development company helping businesses improve their processes, systems, and customer experiences through CRM solutions, business process automation, AI solutions, custom software development, and digital adoption technologies such as WalkMe. We are currently expanding our client base and are looking for an experienced Business Development Representative (BDR) / Sales Partner who can introduce Synapz to potential clients through an existing professional network. What We Are Looking For We are specifically looking for someone who already has access to warm B2B leads or an established network of companies that may require support with: CRM consulting, implementation and optimization HubSpot, Salesforce or similar CRM environments Business Process Automation AI solutions and AI assistants Custom software and web development WalkMe / Digital Adoption Platform implementations Workflow and process optimization System integrations and digital transformation projects This role is particularly interesting for BDRs, independent sales professionals, consultants, or industry contacts who already work with companies using or evaluating solutions such as WalkMe, HubSpot, Salesforce or other enterprise software platforms . Your Role Your main responsibility is to identify suitable opportunities within your existing network and make qualified introductions to Synapz. You do not need to deliver the technical project yourself. Ideally, you: Have an existing B2B client network Can generate warm introductions rather than purely cold leads Understand CRM, SaaS, software development, automation or digital transformation Have experience communicating with decision-makers Can identify companies with active or upcoming digital projects Are comfortable working independently on a success-based model Compensation We offer 15% commission on every successfully closed deal originating from your introduction . Example: Client project value: €20,000 Your commission: €3,000 There is no fixed limit on the number or size of deals you can refer. We are interested in building a long-term partnership with the right person rather than a short-term lead generation campaign. Requirements Required: Fluent professional English Existing B2B network and ability to provide warm leads Experience in B2B sales, business development, consulting or technology-related environments Nice to have: French language skills Existing relationships with companies using WalkMe, HubSpot, Salesforce or similar platforms Experience selling CRM, SaaS, IT consulting, automation or software development services If you already work with companies that could benefit from CRM optimization, automation, AI, software development or digital adoption solutions, we would be happy to discuss a potential partnership.",
-      "first_seen": "2026-08-09T07:52:06.781761+00:00",
-      "id": "7e0f6278de154b8b",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-08-09T09:10:06+02:00",
-      "source": "freelancermap.de",
-      "title": "Business Development Representative (BDR) – Warm Leads | Commission-Based | Remote",
-      "url": "https://www.freelancermap.de/projekt/business-development-representative-bdr-warm-leads-commission-based-remote"
     }
   ],
-  "updated_at": "2026-08-23T07:30:56.908946+00:00"
+  "updated_at": "2026-08-23T08:25:23.492409+00:00"
 }
