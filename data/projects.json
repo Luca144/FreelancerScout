@@ -1,5 +1,15 @@
 [
   {
+    "description": "Real-E Wohninvest GmbH & Co. KG begleitet Käufer bei der Suche, Auswahl und Entwicklung von Bestandsimmobilien im Rhein-Main-Gebiet. Zur Verstärkung unseres Teams suchen wir einen freien Mitarbeiter (m/w/d) , der Interessenten vom ersten Kontakt bis zur Auswahl geeigneter Immobilien persönlich begleitet. Deine Aufgaben Du übernimmst eigenständig die Betreuung von Interessenten, die über unsere Immobilienanzeigen und weitere Vertriebskanäle auf uns aufmerksam werden. Dazu gehören insbesondere: Betreuung und Aktualisierung unserer Immobilienanzeigen auf ImmobilienScout24 zeitnahe Kontaktaufnahme mit neuen Interessenten telefonische Vorqualifizierung der Anfragen Vereinbarung und Koordination von Beratungsterminen selbstständige Durchführung von Erst- und Beratungsgesprächen – telefonisch, digital oder persönlich strukturierte Ermittlung des Kundenbedarfs hinsichtlich Lage, Budget, Immobilienart, Eigennutzung oder Kapitalanlage Erstellung eines konkreten Suchprofils gemeinsam mit dem Kunden anschließende Recherche nach geeigneten Immobilien am Markt Sichtung und Vorauswahl interessanter Angebote auf ImmobilienScout24 und weiteren Immobilienportalen Abstimmung geeigneter Objekte mit dem Kunden Dokumentation und Nachverfolgung der Kundenkontakte Wichtig: Es geht nicht um klassische Kaltakquise. Die Interessenten kommen überwiegend über unsere bestehenden Aktivitäten und Immobilienangebote zu uns und sollen anschließend professionell betreut werden. Was wir suchen Wir suchen keine reine Assistenz, sondern eine kommunikationsstarke, selbstständige Persönlichkeit , die gerne mit Menschen arbeitet und Verantwortung für den Kundenprozess übernimmt. Idealerweise bringst du mit: Erfahrung im Immobilienbereich, Vertrieb, Kundenberatung oder vergleichbaren Tätigkeiten gutes Verständnis für Wohnimmobilien professionelles und verbindliches Auftreten Freude an telefonischer und persönlicher Kundenkommunikation selbstständige und strukturierte Arbeitsweise Fähigkeit, den tatsächlichen Bedarf eines Kunden im Gespräch herauszuarbeiten Erfahrung mit ImmobilienScout24 und Immobilienportalen von Vorteil gute Kenntnisse des Rhein-Main-Immobilienmarktes sind ein Plus Zusammenarbeit Die Tätigkeit soll zunächst auf freiberuflicher Basis erfolgen. Uns geht es ausdrücklich nicht um ein kurzfristiges Einzelprojekt. Bei guter Zusammenarbeit möchten wir die Tätigkeit langfristig ausbauen und weitere Verantwortung übertragen. Die operative Tätigkeit kann zu großen Teilen flexibel bzw. remote erfolgen. Für persönliche Kundentermine ist eine gewisse Präsenz im Rhein-Main-Gebiet sinnvoll. Über uns Real-E beschäftigt sich schwerpunktmäßig mit Bestandsimmobilien und deren Entwicklung. Wir begleiten unsere Kunden nicht nur bei der Suche nach einer Immobilie, sondern betrachten Kauf, Finanzierung, Sanierung, Ausstattung und spätere Nutzung als Gesamtprozess. Unser Anspruch ist es, für den Kunden nicht einfach irgendeine Immobilie zu finden, sondern eine Immobilie, die tatsächlich zu seinen persönlichen und wirtschaftlichen Zielen passt. Wenn du Immobilien spannend findest, gerne mit Menschen arbeitest und einen Kunden von der ersten Anfrage bis zum passenden Objekt begleiten möchtest, freuen wir uns auf deine Kontaktaufnahme.",
+    "first_seen": "2026-08-23T16:20:41.361321+00:00",
+    "id": "06e8a6f8bbeccdfa",
+    "matched_keywords": [],
+    "published": "2026-08-23T18:08:36+02:00",
+    "source": "freelancermap.de",
+    "title": "Freelance Immobilienberater / Kundenbetreuung & Objektsuche – Rhein-Main",
+    "url": "https://www.freelancermap.de/projekt/freelance-immobilienberater-kundenbetreuung-und-objektsuche-rhein-main"
+  },
+  {
     "description": "Liebe Berufskolleginnen und -kollegen, liebe FreelancerMap-Community, Wir suchen zum nächstmöglichen Zeitpunkt einen Project Management Officer, PMO mit Ingenieurskenntnissen, idealerweise aus der Luft- und Raumfahrtbranche. Wenn Sie zu den unten genannten Anforderungen und den Projektrahmenbedingungen passen, dann freuen wir uns über Ihre Bewerbung mit einer Angabe zum gewünschten Honorar (!). Ihre Aufgabe: Sie unterstützen die Projektarbeit, arbeiten dabei eng mit allen Stakeholdern, insbesondere den führenden Projektköpfen zusammen. Zu Ihren Aufgaben zählen u.a. die technische Dokumentation, die Projektkommunikation, das Verfassen und das Fortschreiben von Projektplänen, das Projektcontrolling, die Steuerung von Ressourcen und Budgets. Des Weiteren bereiten Sie Meetings vor, organisieren projektbezogene Events und sorgen für die Bereitstellung und Pflege geeigneter Werkzeuge fürs Projektmanagement. Rollenanforderungen: — Erfahrung als PMO in E-Technik getriebenen Projekten, — Erfahrung in ingenieurstechnischer (Projekt-)Dokumentation (E-Technik), — Berufs-/ Projekterfahrung in der Luft- und Raumfahrtindustrie, — gute Kommunikationsfähigkeiten, — Teamplayer, — belastbar, — loyal, — hohes Maß an Eigeninitiative, — zupackendes Wesen, — versierter Umgang mit einschlägigen Projektmanagement-Werkzeugen sowie MS Office-Programmen, — Kenntnisse von Projektmanagement-Vorgehensmodellen und Qualitätsstandards, — Referenzen in agilen Projektmanagementmethoden",
     "first_seen": "2026-08-23T12:34:00.512691+00:00",
     "id": "10d7c6cb9d55600b",
@@ -21938,25 +21948,5 @@
     "source": "freelancermap.de",
     "title": "Bauleiter/in Netzausbau (m/w/d)",
     "url": "https://www.freelancermap.de/projekt/bauleiter-in-netzausbau-m-w-d"
-  },
-  {
-    "description": "Project Goal: Design a carrier board for the RP2354A microcontroller chip. Main Tasks: - Design a carrier board based on the RP2354A chip - Integrate a USB-C port for power supply and data transfer, fulfilling the same role as the Micro USB port on a Raspberry Pi Pico - Add 8 RJ45 ports, wired non-standardly: each port has two pins connected to GPIO (pin 2 and pin 4) and one pin connected to GND (pin 8) - Include a boot button and a reset button on the board - Add a debug connector using a JST header, similar to the official reference design - No additional components or circuitry beyond the above specifications Prerequisites: Experience in PCB design, familiarity with RP2350/RP2354 chip designs is beneficial. Reference materials provided include official manufacturer documentation and an example RP2354A board design with USB-C. Expected Result: A complete carrier board design for the RP2354A featuring a USB-C port, 8 custom-wired RJ45 ports, boot and reset buttons, and a JST debug connector, with nothing else on the board.",
-    "first_seen": "2026-08-09T15:28:02.823952+00:00",
-    "id": "8ed57aface95b2f0",
-    "matched_keywords": [],
-    "published": "2026-08-09T16:43:46+02:00",
-    "source": "freelancermap.de",
-    "title": "PCB Designer for RP2354A Carrier Board with USB-C and RJ45",
-    "url": "https://www.freelancermap.de/projekt/pcb-designer-for-rp2354a-carrier-board-with-usb-c-and-rj45"
-  },
-  {
-    "description": "Parameter: Start: Ab sofort Laufzeit: 24 Monate Einsatzort: 74366 Kirchheim am Neckar (Baden-Württemberg) Auslastung: 5 Tage/Woche vor Ort ID: VAC-161924 Koordination und Überwachung der Teams auf der Baustelle Steuerung und Kontrolle von Kabelzug-, Anschluss- und Inbetriebnahmeaktivitäten Koordination der Stahlbau- und Montagearbeiten Überwachung der Installation von Hochspannungsgeräten, Schaltanlagen und Verbindungen Führung, Abstimmung und Betreuung der Mitarbeitenden sowie der beteiligten Unternehmen vor Ort Verantwortung für Arbeitssicherheit, Gesundheits- und Umweltschutz einschließlich DGUV-Konformität Fortschrittskontrolle, Terminverfolgung sowie Erstellung regelmäßiger Status- und Projektberichte",
-    "first_seen": "2026-08-09T15:28:02.823952+00:00",
-    "id": "c459facf27d16ebb",
-    "matched_keywords": [],
-    "published": "2026-08-09T16:38:01+02:00",
-    "source": "freelancermap.de",
-    "title": "Bauleitung Umspannwerk (m/w/d)",
-    "url": "https://www.freelancermap.de/projekt/bauleitung-umspannwerk-m-w-d"
   }
 ]
