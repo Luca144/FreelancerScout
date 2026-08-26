@@ -1,6 +1,140 @@
 {
   "projects": [
     {
+      "description": "Für ein langfristig angelegtes Projekt bei einem international tätigen Unternehmen aus dem Automotive- und Nutzfahrzeugumfeld suchen wir kurzfristig Unterstützung im klassischen IT Onsite Support . Der Einsatz erfolgt überwiegend vor Ort an einem Unternehmensstandort im Hamburger Süden . Projektrahmen Start: ASAP / kurzfristig Laufzeit: zunächst projektbezogen, Verlängerung vorgesehen Auslastung: 4 Tage pro Woche Einsatzort: Hamburg Süd Remote: überwiegend Onsite Stundensatz: bis max. 35,00 € / Stunde Vertragsart: Freelancer / Freiberuflich Aufgaben Klassischer 1st- und 2nd-Level Onsite Support für die Anwender am Standort Analyse und Behebung von Hard- und Softwarestörungen Support von Windows 10/11 Clients, Notebooks und Desktop-Systemen Installation, Konfiguration und Austausch von Arbeitsplatzhardware Fehleranalyse bei Notebooks, Desktops und Peripheriegeräten Unterstützung bei Druckern, Monitoren, Dockingstations und mobilen Endgeräten Durchführung von IMAC-Tätigkeiten (Install, Move, Add, Change) Unterstützung bei kleineren Rollouts und Hardwarewechseln Bearbeitung von Incidents und Service Requests über das eingesetzte Ticketsystem Unterstützung bei einfachen Netzwerk- und Connectivity-Problemen Übergabe bzw. Eskalation komplexerer Störungen an nachgelagerte Supporteinheiten Dokumentation der durchgeführten Tätigkeiten und Lösungen Direkte Betreuung und Unterstützung der Anwender vor Ort Unterstützung der IT in einem teilweise produktionsnahen Umfeld Anforderungen Erfahrung im IT Onsite Support, Field Service oder 1st-/2nd-Level Support Gute Kenntnisse im Microsoft-Client-Umfeld, insbesondere Windows 10/11 Erfahrung mit PC-, Notebook- und Peripherie-Hardware Kenntnisse in der Installation und Konfiguration von Hard- und Software Erfahrung mit Ticketsystemen und strukturiertem Incident Management Grundkenntnisse in LAN/WLAN, Netzwerk und Connectivity Erfahrung mit mobilen Endgeräten / iOS von Vorteil Selbstständige und lösungsorientierte Arbeitsweise Sicheres und freundliches Auftreten gegenüber Endanwendern Gute Deutschkenntnisse Interessiert? Dann freuen wir uns über ein aktuelles Profil mit Angabe der Verfügbarkeit und des Stundensatzes . Felix Heet Ahmadi M: ***** *****",
+      "first_seen": "2026-08-26T08:39:06.995920+00:00",
+      "id": "19675810cd03cf21",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-08-26T10:38:58+02:00",
+      "source": "freelancermap.de",
+      "title": "IT Onsite Support / 2nd Level Support (m/w/d) – Automotive-Umfeld",
+      "url": "https://www.freelancermap.de/projekt/it-onsite-support-2nd-level-support-m-w-d-automotive-umfeld"
+    },
+    {
+      "description": "Für unseren Kunden in Nürnberg sind wir aktuell auf der Suche nach einem Senior DevSecOps Engineer & Kubernetes Administrator (m/w/d). Falls Sie die folgende Projektbeschreibung interessiert und Sie die Anforderungen ausreichend abdecken, bitten wir Sie um kurzfristige Rückmeldung unter Angabe Ihrer Kontaktdaten, Ihrer Konditionen für den genannten Einsatzort (Stunden- oder Tagessatz) sowie Ihres Profils (vorzugsweise in Word). Gerne können Sie uns dieses per E-Mail an ***** schicken. Da der E-Mailversand bekanntermaßen nicht zu den sichersten Datenübertragungen zählt, möchten wir Ihnen zusätzlich eine sichere und verschlüsselte Upload-Möglichkeit für Ihre Bewerbungsunterlagen anbieten. Nutzen Sie dazu die Schaltfläche „Bewerben“ in unserem Projektportal unter https://mindheads.de. Projektstandort: Nürnberg (10% on-site/ 90% remote) Dauer: 01.10.2026 - 30.09.2027 Volumen: 1600 Projektstunden Abgabefrist beim Kunden: 08.09.2026 Kurzbeschreibung Projekt: Im IT-Systemhaus ist der Aufbau eines harmonisierten Geschäftsbereichs Leistung vorgesehen. D.h. Effizienzsteigerung durch Definition und Ausgestaltung einer Domäne Leistung - umfasst gemeinsame und spezifische fachliche Komponenten - bedeutet einheitliche Schnittstellen zu anderen IT-Verfahren - unter Nutzung einheitlicher Technologie, Methoden und Arbeitsweisen Die Technische Plattform stellt die zentrale Laufumgebung für Projekte und Verfahren zur Verfügung. Das Team unterstützt dabei im Rahmen folgender Themenbereiche: - Plattform Engineering - Beratung und Coaching - Kubernetes, CI/CD, DevOps und Tooling Aufgaben: - Pflege und Weiterentwicklung der erstellten Komponenten - Unterstützung der Projekte/Linien bei übergreifenden Fragen der Software-Architektur - Unterstützung der Teams zur Abarbeitung der Security-Tasks - Austausch mit Technischen und Fachlichen Chef Architekten der Domäne Leistung - technische Second-Level-Support und die Beseitigung von technischen Fehlern - Teilnahme an Meetings - die Fehleranalyse im Third-Level-Support - Deployment - Pflege der Pipeline - Konfigurationsmanagement - Sicherheitsupdates implementieren (Nexus IQScan) - Enabling neuer DevSecOps-Teams mit übergreifenden Technologien - Unterstützung aller Verfahren und Projekte in der Domäne Leistung bei Themen der Containerplattform - Organisation und Teilnahme von CoPs und Ergebnisse nachhalten Anforderungen: - Spezialwissen zu DevSecOps, insbesondere Kubernetes (Administration) erforderlich - Mehrjährige Erfahrung in der Administration und im Support von Kubernetes-Clustern - Sehr gute Linux-Kenntnisse sowie Erfahrung mit Docker oder Podman - Fundierte Kenntnisse in DevSecOps und Plattform Engineering - Erfahrung mit Helm, Tekton sowie dem Aufbau und der Pflege von CI/CD-Pipelines - Sicherer Umgang mit Git, GitHub und GitOps, beispielsweise mit Argo CD - Erfahrung mit Ansible, Shell-Scripting, Terraform und Infrastructure as Code - Kenntnisse in Kubernetes-Netzwerken, Ingress, DNS und Load Balancing - Kenntnisse im Security-, Patch- und Schwachstellenmanagement mit Nexus und Nexus IQ - Erfahrung im technischen Second- und Third-Level-Support sowie in der systematischen Fehleranalyse - Erfahrung mit modernen Microservice- und Plattformarchitekturen - Kenntnisse in Backstage, GoLang, JavaScript, Java, Quarkus - Erfahrung mit Kafka, S3 und Oracle Database - Sicherer Umgang mit XML, JSON, Jira und Confluence Für Fragen, Anregungen oder Wünsche stehen wir Ihnen gern zur Verfügung. Aktuelle Informationen über uns sowie weitere Vakanzen finden Sie auch auf unserer Homepage: https://mindheads.de Kontakt: mindheads GmbH Heinrichsdamm 40A 96047 Bamberg Tel. ***** *****",
+      "first_seen": "2026-08-26T08:39:06.995920+00:00",
+      "id": "695c00edc30aeda1",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-08-26T10:37:46+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior DevSecOps Engineer & Kubernetes Administrator (m/w/d) (6487)",
+      "url": "https://www.freelancermap.de/projekt/senior-devsecops-engineer-und-kubernetes-administrator-m-w-d-6487"
+    },
+    {
+      "description": "Es sollen rund 100 Bestandsanlagen aufgrund eines Wechsels der Speichergeneration an die aktuellen Gegebenheiten angepasst werden. Hierfür sind bestehende Netzanmeldungen zu prüfen, erforderliche Änderungen bei den zuständigen Netzbetreibern einzureichen und die Vorgänge bis zur erfolgreichen Bearbeitung nachzuverfolgen. Aufgaben Bearbeitung und Koordination von ca. 100 Änderungs- und Netzanmeldungen für Bestandsanlagen Prüfung vorhandener Anlagendaten und Dokumentationen Zusammenstellung und Vervollständigung der für die Netzbetreiber erforderlichen Unterlagen Einreichung von Änderungsmeldungen und Anträgen bei den zuständigen Netzbetreibern Nachverfolgung offener Vorgänge und Kommunikation mit Netzbetreibern Pflege und Aktualisierung von Projekt- und Stammdaten Dokumentation des Bearbeitungsstandes und Reporting an das Projektteam Qualifikationen Erfahrung im Bereich Netzanmeldung, Netzanschlussmanagement oder energiewirtschaftliche Administration Kenntnisse der Prozesse deutscher Verteilnetzbetreiber Erfahrung in der Bearbeitung größerer Vorgangsmengen Strukturierte und sorgfältige Arbeitsweise Kenntnisse regulatorischer Anforderungen im Netzanschlussumfeld https://www.etengo.de/it-projektsuche/102939/",
+      "first_seen": "2026-08-26T08:39:06.995920+00:00",
+      "id": "c0a21d3be6072566",
+      "matched_keywords": [
+        "energie",
+        "netz"
+      ],
+      "published": "2026-08-26T10:37:05+02:00",
+      "source": "freelancermap.de",
+      "title": "Spezialist Netzanmeldung (w/m/d)",
+      "url": "https://www.freelancermap.de/projekt/spezialist-netzanmeldung-w-m-d"
+    },
+    {
+      "description": "Für unseren Kunden suchen wir ab sofort einen erfahrenen Senior PMO Expert (m/w/d) zur Unterstützung eines komplexen Transformationsprojekts im Bereich Softwareentwicklung. Der Schwerpunkt der Rolle liegt auf der eigenverantwortlichen Steuerung und Weiterentwicklung des Project Management Office sowie der engen Zusammenarbeit mit der Gesamtprojektleitung. Sie übernehmen eine zentrale Rolle bei der Sicherstellung von Transparenz, Governance und einer erfolgreichen Projektsteuerung innerhalb eines anspruchsvollen Transformationsprojekts. Rahmendaten Start: asap Auslastung: 100 % Einsatzort: Remote 90 % | Onsite 10 % (Berlin) Stundensatz: max. 70 € Aufgaben Eigenverantwortliche Unterstützung und Beratung des Gesamtprojektleiters bei der operativen und strategischen Projektsteuerung Steuerung und Überwachung von Zeit, Budget, Qualität, Ressourcen sowie Projektfortschritt Etablierung, Weiterentwicklung und Standardisierung von PMO-Governance, Methoden, Prozessen und Best Practices Erstellung, Pflege und Steuerung von Projektplänen, Roadmaps sowie Meilensteinplänen Verantwortung für Projektstatus-, Risiko-, Maßnahmen- und Eskalationsmanagement Erstellung adressatengerechter Management-Reports, Dashboards und Entscheidungsunterlagen für Projektleitung und Management Identifikation, Analyse und kontinuierliche Optimierung bestehender PMO-Prozesse Planung, Moderation und Durchführung von Steering Committees, Projekt-Reviews und Lessons-Learned-Workshops Fachliche Beratung und Coaching von Projektleitern, Teilprojektleitern sowie PMO-Mitarbeitern Sicherstellung einer transparenten Kommunikation zwischen Projektleitung, Fachbereichen und weiteren Stakeholdern Unterstützung bei der Einführung und Einhaltung von Projektmanagement-Standards sowie Governance-Richtlinien Anforderungen Mehrjährige Berufserfahrung als Senior PMO Expert , Senior PMO, PMO Consultant oder PMO Manager in komplexen IT- Projekten Erfahrung im Aufbau und der Weiterentwicklung von PMO-Strukturen sowie Projektgovernance Erfahrung in Softwareentwicklungs- oder SAP-Projekten von Vorteil Sehr gute Kenntnisse klassischer und agiler Projektmanagementmethoden Sehr gute Kenntnisse in MS Office, insbesondere Excel, PowerPoint und Project Erfahrung mit Microsoft Teams, Jira und/oder Confluence Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift Ausgeprägte Kommunikations-, Moderations- und Präsentationsfähigkeiten Hohe analytische Kompetenz sowie eine strukturierte und lösungsorientierte Arbeitsweise Sicheres Auftreten auf Managementebene sowie ausgeprägte Stakeholder-Management-Kompetenz Diplomatisches, überzeugendes und souveränes Auftreten Bewerbung Bitte senden Sie uns Ihren aussagekräftigen Projekt-CV inklusive: Tagessatz Frühestmöglichem Starttermin Vor-Ort-Verfügbarkeit Aufgrund der Vielzahl eingehender Bewerbungen können wir leider nur Kandidaten kontaktieren, deren Profil für das Projekt in die engere Auswahl kommt. Wir danken Ihnen für Ihr Verständnis.",
+      "first_seen": "2026-08-26T08:39:06.995920+00:00",
+      "id": "8934dd39e7f7a60d",
+      "matched_keywords": [
+        "pmo",
+        "agil"
+      ],
+      "published": "2026-08-26T10:32:39+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior PMO Expert (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-pmo-expert-m-w-d-3040170"
+    },
+    {
+      "description": "Für unseren Kunden suchen wir ab sofort einen erfahrenen Senior PMO Lead (m/w/d) zur Unterstützung eines komplexen Transformationsprojekts im Bereich Softwareentwicklung. Der Schwerpunkt der Rolle liegt auf der eigenverantwortlichen Steuerung und Weiterentwicklung des Project Management Office sowie der engen Zusammenarbeit mit der Gesamtprojektleitung. Sie übernehmen eine zentrale Rolle bei der Sicherstellung von Transparenz, Governance und einer erfolgreichen Projektsteuerung innerhalb eines anspruchsvollen Transformationsprojekts. Rahmendaten Start: asap Auslastung: 100 % Einsatzort: Remote 90 % | Onsite 10 % (Berlin) Stundensatz: max. 80 € Aufgabenstellung: - Unterstützung des Gesamtprojektleiters - Unterstützung bei der Steuerung von Zeit, Budget, Qualität, Ressourcen - Beratung / Etablierung von Best Practices und Methoden - Projektplanung und Roadmap-Erstellung - Projektstatus- und Risikomanagement - Berichterstattung und Dashboard-Erstellung - Identifikation und kontinuierliche Verbesserung der PMO-Prozesse) - Projekt-Reviews und Organisation von Lessons Learned Sessions - Schulung und Weiterbildung des PMO-Teams Anforderungen: - Mehrjährige Erfahrung im PMO-Office (SAP) von Vorteil - Sehr gute Erfahrungen mit MS-Office, PowerPoint, Teams oder Confluence - Sehr gutes Deutsch und Englisch in Wort und Schrift - Sehr gute Kommunikations-Skills - Hohe analytische Fähigkeiten - Hohe Kooperationsbereitschaft - strukturierte Arbeitsweise - Diplomatisches, überzeugendes und selbstbewusstes Auftreten Bewerbung Bitte senden Sie uns Ihren aussagekräftigen Projekt-CV inklusive: Tagessatz Frühestmöglichem Starttermin Vor-Ort-Verfügbarkeit Aufgrund der Vielzahl eingehender Bewerbungen können wir leider nur Kandidaten kontaktieren, deren Profil für das Projekt in die engere Auswahl kommt. Wir danken Ihnen für Ihr Verständnis.",
+      "first_seen": "2026-08-26T08:39:06.995920+00:00",
+      "id": "65e1e7fcbf7f8878",
+      "matched_keywords": [
+        "pmo"
+      ],
+      "published": "2026-08-26T10:30:05+02:00",
+      "source": "freelancermap.de",
+      "title": "PMO Lead (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/pmo-lead-m-w-d-3040168"
+    },
+    {
+      "description": "Beschreibung Für unseren Kunden suchen wir ab sofort einen engagierten Junior PMO (m/w/d) zur Unterstützung eines komplexen Transformationsprojekts im Bereich Softwareentwicklung. Der Schwerpunkt der Rolle liegt auf der Unterstützung des Project Management Office sowie des Gesamtprojektleiters bei organisatorischen, administrativen und koordinativen Aufgaben innerhalb des Projekts. Die Position bietet einen idealen Einstieg in das Projektmanagement und die Mitarbeit in einem erfahrenen Projektteam. Rahmendaten Start: asap Auslastung: 100 % Einsatzort: Remote 90 % | Onsite 10 % (Berlin) Stundensatz: max. 60 € Aufgaben Unterstützung des Gesamtprojektleiters sowie des PMO-Teams im Tagesgeschäft Mitarbeit bei der Planung, Koordination und Nachverfolgung von Projektaufgaben Pflege und Aktualisierung von Projektplänen, Roadmaps und Statusübersichten Unterstützung bei der Erstellung von Projektstatusberichten, Präsentationen und Management-Reports Pflege von Projektdokumentationen sowie Ablage- und Dokumentationsstrukturen Unterstützung beim Risiko-, Maßnahmen- und Aufgaben-Tracking Organisation sowie Vor- und Nachbereitung von Meetings, Workshops und Projekt-Reviews Protokollführung und Nachverfolgung offener Punkte Mitarbeit bei der kontinuierlichen Verbesserung von PMO-Prozessen und Projektstandards Anforderungen Erste praktische Erfahrung im Projektmanagement oder PMO, beispielsweise durch Praktika, Werkstudententätigkeiten oder erste Berufserfahrung Erste Berührungspunkte mit SAP-Projekten sind von Vorteil, jedoch keine Voraussetzung Gute Kenntnisse in MS Office, insbesondere Excel und PowerPoint Erste Erfahrungen mit Microsoft Teams, Jira oder Confluence sind wünschenswert Sehr gute Deutschkenntnisse sowie gute Englischkenntnisse in Wort und Schrift Strukturierte und sorgfältige Arbeitsweise Hohe Lernbereitschaft sowie Interesse am Projektmanagement Gute Kommunikations- und Teamfähigkeit Eigeninitiative sowie zuverlässige Arbeitsweise Bewerbung Bitte senden Sie uns Ihren aussagekräftigen Projekt-CV inklusive: Tagessatz frühestmöglichem Starttermin Vor-Ort-Verfügbarkeit Aufgrund der Vielzahl eingehender Bewerbungen können wir leider nur Kandidaten kontaktieren, deren Profil für das Projekt in die engere Auswahl kommt. Wir danken Ihnen für Ihr Verständnis.",
+      "first_seen": "2026-08-26T08:39:06.995920+00:00",
+      "id": "d854d4092adfaf61",
+      "matched_keywords": [
+        "pmo"
+      ],
+      "published": "2026-08-26T10:27:34+02:00",
+      "source": "freelancermap.de",
+      "title": "Junior PMO (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/junior-pmo-m-w-d-3040161"
+    },
+    {
+      "description": "Start: ab sofort Ende: 31.12.2026 (mit Option auf Verlängerung) Auslastung: Vollzeit Aufgaben: Analyse, Optimierung und Weiterentwicklung von Geschäfts- und Betriebsprozessen unter Berücksichtigung regulatorischer sowie organisatorischer Anforderungen Konzeption und Pflege einer strukturierten Wissens- und Dokumentationslandschaft Entwicklung und Etablierung nachhaltiger Abläufe im DevOps-Umfeld mit Fokus auf Qualität, Stabilität und Effizienz Vereinheitlichung von Vorgehensweisen sowie Standards in den Bereichen Softwareentwicklung, Testing, Deployment und Release-Management Enge Abstimmung mit unterschiedlichen technischen Fachbereichen wie Infrastruktur, Betrieb und Engineering Aufbau und Pflege von Dokumentationsstandards, einschließlich Klassifizierung, Verschlagwortung und Änderungsmanagement Konzeption technischer Strukturen und Schnittstellen für moderne IT-Infrastrukturen in On-Premises- und Cloud-Umgebungen Entwicklung von Konzepten für das Applikations- und Lifecycle-Management Linux-basierter Systeme Beschreibung, Visualisierung und Dokumentation agiler Arbeitsweisen und Teamprozesse Beratung und Unterstützung von Fach- und Projektteams hinsichtlich effizienter Dokumentationsmethoden Erstellung praxisorientierter Richtlinien, Handbücher und Wissensdokumentationen Anforderungen: Umfangreiche Erfahrung mit Atlassian Confluence als Plattform für Wissensmanagement und Dokumentation Gute Kenntnisse Linux-basierter Umgebungen und deren technische Dokumentation Nachweisbare Erfahrung in der Erstellung strukturierter technischer Dokumentationen, Prozessbeschreibungen und Anwenderleitfäden Sicherer Umgang mit Auszeichnungssprachen sowie Dokumentations- und Automatisierungsfunktionen in Confluence Ausgeprägtes Verständnis für Informationsmanagement, Content-Strukturen und Wissensarchitekturen Hohe Kommunikationsfähigkeit sowie Erfahrung in der bereichsübergreifenden Zusammenarbeit mit technischen und fachlichen Stakeholdern wichtige Voraussetzung: Einsatz ausschließlich im Rahmen einer sozialversicherungspflichtigen Beschäftigung möglich",
+      "first_seen": "2026-08-26T08:39:06.995920+00:00",
+      "id": "5f4acc3071b1e41e",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-08-26T10:23:53+02:00",
+      "source": "freelancermap.de",
+      "title": "Technical Writer (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/technical-writer-m-w-d-3040160"
+    },
+    {
+      "description": "Elektroniker für Montage und Verdrahtung (m/w/d) | Berlin Rahmenbedingungen Position: Elektroniker für Montage und Verdrahtung (m/w/d) Einsatzort: Berlin-Tegel Start: ASAP Laufzeit: bis 31.12.2026 Vertragsart: Arbeitnehmerüberlassung Auslastung: Vollzeit Projektbeschreibung Für unseren Kunden, ein renommiertes Unternehmen im technischen Umfeld, suchen wir zum nächstmöglichen Zeitpunkt einen Elektroniker für Montage und Verdrahtung (m/w/d). Der Schwerpunkt der Tätigkeit liegt in der Montage, Verdrahtung und Prüfung elektrischer Baugruppen und Komponenten nach technischen Vorgaben. Aufgaben Vorbereitung von Montagearbeiten anhand von Fertigungs- und Auftragsunterlagen Prüfung der Verfügbarkeit und Vollständigkeit von Materialien und Bauteilen Selbstständige Montage und Verdrahtung von Baugruppen, elektrischen Komponenten und Drahtsätzen Arbeiten nach technischen Zeichnungen, Schaltplänen und Stücklisten Durchführung von Fertigungsverfahren wie Löten, Nieten, Fügen und Dichten Durchführung von Werkerselbstprüfungen und Dokumentation der Prüfergebnisse Erkennung und Meldung von Mängeln sowie Behebung einfacher Störungen Sicherstellung der Einhaltung von Qualitätsstandards, Normen und Richtlinien Durchführung von Wartungs-, Reinigungs- sowie Um- und Nachrüstarbeiten Anforderungen Abgeschlossene Berufsausbildung im elektrotechnischen Bereich, z. B. als Elektroniker, Industrieelektriker oder Mechatroniker (m/w/d) Mehrjährige Erfahrung in der Montage und Verdrahtung elektrischer Komponenten Sicherer Umgang mit technischen Zeichnungen, Schaltplänen und Stücklisten Kenntnisse im Umgang mit Crimp- und Drehmomentwerkzeugen Gute Deutschkenntnisse in Wort und Schrift Gute IT-Anwenderkenntnisse Selbstständige, sorgfältige und qualitätsorientierte Arbeitsweise Teamfähigkeit und hohes Verantwortungsbewusstsein Erfahrung im Schienenfahrzeugbau von Vorteil Interesse geweckt? Dann freuen wir uns auf die Zusendung Ihres aktuellen CVs inklusive Verfügbarkeit. SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-08-26T08:39:06.995920+00:00",
+      "id": "3622bad229c96d73",
+      "matched_keywords": [
+        "tso"
+      ],
+      "published": "2026-08-26T10:20:15+02:00",
+      "source": "freelancermap.de",
+      "title": "Elektroniker für Montage und Verdrahtung (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/elektroniker-fuer-montage-und-verdrahtung-m-w-d"
+    },
+    {
+      "description": "Projektdetails: Laufzeit: 15.09.2026 - 31.12.2026 Auslastung: Gesamt PT 83 / davon vor Ort (Frankfurt am Main) PT 8 Ihre Aufgaben Fungiert als Pega CDH Systems Engineer auf Auftraggeberseite in einem komplexen Umfeld mit technischen und fachlichen Abhängigkeiten zu verschiedenen Bereichen Agiert als technischer Counterpart für den IT-Dienstleister im Rahmen der Implementierung der neuen Pega-basierten Communications-Lösung Tauscht sich regelmäßig mit den relevanten technischen Experten aus, um Optimierungspotenzial in der technischen Weiterentwicklung der Anwendung zu identifizieren und stellt sicher, dass die Anwendung technisch entsprechend konsequent aufgesetzt und weiterentwickelt wird Analyse, Review und Beratung bei Setup und Weiterentwicklung der Communications-Systemlandschaft inklusive Qualitätssicherung, Erarbeitung von Optimierungsvorschlägen und Begleitung bei deren Umsetzung Analyse von Anforderungen und Ableiten von User Stories Erstellung technischer Enabler-Epics Umsetzung von Codeanpassungen in PEGA CDH Umsetzung von Konfigurationsanpassungen in PEGA CDH Fachliche und technische Unterstützung bei der Kanalintegration Arbeit mit dem PEGA-internen Email-Editor auch bzgl. dynamischer Content-Integration Einrichtung von Lieferpipelines Beratung der Systemadministration bezüglich Installation und Konfiguration sowie Deployment & CI/CD Muss-Kriterien Must-have: Praktische Erfahrung mit Pega Praktische Erfahrungen sind gemäß Angebot in mindestens 2 Projekten über eine Dauer von insgesamt mindestens 3 Jahren nachvollziehbar - Junior Must-have: Angewandtes Wissen im Lesen und Verstehen von OpenAPI-Spezifikationen in mindestens 2 Projekten - 2 Referenzen Must-have: Angewandtes Wissen in der Erstellung und Pflege von Datenmodellen - 2 Referenzen Must-have: Nachweislich angewandte Kenntnisse in Enterprise-Anwendungsarchitekturen und zugehörigen Middleware-, Entwicklungs- und Datenbanktechnologien - 2 Referenzen Must-have: Nachweislich praktische Erfahrung in der Durchführung von Aufgaben innerhalb des gesamten Softwareentwicklungslebenszyklus - Intermediate (> 3 Jahre Erfahrung) Soll-Kriterien Pega CDH-Zertifizierung - Pega Academy oder vergleichbar (Gewichtung: 30%) Praktische Erfahrung mit Pega CDH - 2 Referenzen (Gewichtung: 30%) Anwendungserfahrung in der Email-Template Erstellung und Verwendung - Junior ( Anwendungserfahrung in der Modellierungssprache UML (Sequenz-/ Klassendiagramme) - Junior ( Anwendungserfahrung in der JSON Schema-Validierung - Junior (mind. 3 Jahre)",
+      "first_seen": "2026-08-26T08:39:06.995920+00:00",
+      "id": "3c7fa5f0bbba2e99",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-08-26T10:20:01+02:00",
+      "source": "freelancermap.de",
+      "title": "Pega CDH Systems Engineer (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/pega-cdh-systems-engineer-m-w-d-3040157"
+    },
+    {
+      "description": "Moin, für einen Kunden aus dem High-Tech-/Medizintechnik-Umfeld bin ich aktuell auf der Suche nach einem Entwicklungsingenieur Leistungselektronik (m/w/d). Ziel des Projekts ist die Entwicklung und Weiterentwicklung analoger und digitaler Baugruppen mit Schwerpunkt Leistungselektronik für anspruchsvolle Anwendungen im Bereich Hochspannung und Medizintechnik. Rahmenbedingungen: Start: asap Laufzeit: 18 Monate mit Verlängerungsoption Auslastung: 40 Stunden/Woche Einsatzort: Erlangen Arbeitsmodell: 100 % vor Ort Vertragsart: Arbeitnehmerüberlassung (ANÜ) Aufgaben: Entwicklung, Aufbau, Test und Dokumentation analoger/digitaler Komponenten im Bereich Leistungselektronik Schaltungsdesign und Umsetzung technischer Anforderungen Erstellung von Konzept- und Entwicklungsdokumentationen Definition von Layoutvorgaben sowie Zusammenarbeit mit Layout-Teams Evaluierung und Verifizierung von Lösungskonzepten mittels Simulationen und Prototypen Inbetriebnahme, Test und Serienfreigabe entwickelter Komponenten Unterstützung bei der Systemintegration vor Ort Anforderungen: Abgeschlossenes Studium der Elektrotechnik oder vergleichbare Qualifikation Mindestens 3 Jahre Berufserfahrung in der Entwicklung von Leistungselektronik Erfahrung im Design analoger und digitaler Schaltungen Fundierte Kenntnisse im Netzteildesign (AC/DC-, DC/DC-Konverter, Thyristorschaltungen) Erfahrung im Bereich Motoransteuerungen Kenntnisse in Regelungstechnik und Regelschleifen-Auslegung Erfahrung mit EMV-gerechtem Design sowie funktionaler und elektrischer Sicherheit Idealerweise Erfahrung im medizintechnischen Umfeld (IEC 60601) Sehr gute Deutsch- und Englischkenntnisse Wenn Sie Interesse an dem Projekt haben, freue ich mich auf die Zusendung Ihres aktuellen Lebenslaufs und eines Bruttojahresgehaltes. Viele Grüße Isabel Scordialo SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-08-26T08:39:06.995920+00:00",
+      "id": "2e2467d6de3baa42",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-08-26T10:19:57+02:00",
+      "source": "freelancermap.de",
+      "title": "Hardwareentwickler (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/hardwareentwickler-m-w-d-3040156"
+    },
+    {
+      "description": "Rahmendaten Einsatzort: Niedersachsen Projektstart: ASAP Laufzeit: mind. 12 Monate (mit Option auf Verlängerung) Auslastung: Vollzeit Aufgaben Eigenständige fachtechnische Begleitung und Bewertung der Gründungsarbeiten an den Maststandorten Technische Bewertung von Gründungsverfahren, Baugrundgutachten, Fundamentstatiken und Ausführungsunterlagen Fachtechnische Begleitung von Pfahlgründungen, Fundamentbau und Wasserhaltungsmaßnahmen Bewertung von Qualität, Prüfungen, technischen Risiken und Abweichungen sowie Erarbeitung geeigneter Lösungsansätze Fachliche Abstimmung mit Projektbeteiligten, Fachplanern, Statik, Geotechnik und Nachunternehmern Anforderungen Studium Bauingenieurwesen, Geotechnik, Konstruktiver Ingenieurbau oder vergleichbar; alternativ Meister/Techniker Tiefbau mit langjähriger Erfahrung Mehrjährige Erfahrung im Tief- oder Spezialtiefbau Nachweisbare Projekterfahrung in größeren Infrastrukturprojekten Fundierte praktische Kenntnisse in Pfahlgründungen, Betonbau und Wasserhaltung Idealerweise Erfahrung in Freileitungsbau, Hochspannung, Umspannwerken oder Windenergie Kenntnisse relevanter Regelwerke Sicherer Umgang mit MS Office / M365 und SharePoint Sehr gute Deutschkenntnisse Bereitschaft zur regelmäßigen projektbezogenen Tätigkeit vor Ort",
+      "first_seen": "2026-08-26T08:39:06.995920+00:00",
+      "id": "27cc6551c27ac5ca",
+      "matched_keywords": [
+        "energie"
+      ],
+      "published": "2026-08-26T10:18:37+02:00",
+      "source": "freelancermap.de",
+      "title": "Fachbauleiter Gründung",
+      "url": "https://www.freelancermap.de/projekt/fachbauleiter-gruendung"
+    },
+    {
       "description": "SAP Test- & QA-Berater (SAP Fiori, SAP Solution Manager, Jira) (m/w/d) 95% remote ID03211 Für ein Projekt im Transport und Logistik suchen wir einen SAP Test- & QA-Berater (m/w/d) mit Erfahrung in SAP Fiori, SAP Solution Manager und Jira. Projektinformationen Bewerbungsfrist: ***** Uhr Ort: Frankfurt am Main / 95% Remote (davon 5% OnSite FFM) Start: 04.09.2026 Laufzeit: 04.09.2026 – 31.12.2027 Branche: Transport und Logistik Aufgaben Fachliche Unterstützung beim Testdesign sowie der Vorbereitung von End-to-End-Tests im SAP-Umfeld mit SAP Fiori und SAPUI5, Erstellung und Pflege von Testfällen im SAP Solution Manager, Durchführung manueller und automatisierter Tests, Analyse von Testergebnissen und Defektmanagement in Jira und SAP Solution Manager. Muss-Anforderungen ISTQB-Zertifizierung Erfahrung mit End-to-End-Tests von web-basierten Nutzeroberflächen (mehr als 5 Jahre Erfahrung) Sicherer Umgang mit Testdesign und Testdokumentation im SAP Solution Manager (mind. 3 Referenzen) Erfahrung im Test von SAP Fiori / SAPUI5-basierten Nutzeroberflächen (mind. 3 Referenzen) Certified Tester Foundation Level Soll-Anforderungen Fachbezogene ISTQB Zertifizierung Erfahrung mit Testautomatisierung (mind. 3 Referenzen) Nachweisbar sicherer Umgang und Anwendung von JIRA, Confluence und GitLab für die Qualitätssicherung in agilen Projekten (mind. 5 Referenzen) Erfahrung im Release- und Regressionstestmanagement (mind. 4 Referenzen) Technologien & Methoden SAP Fiori, SAP Solution Manager, Jira, SAPUI5, Tricentis Tosca, Confluence, GitLab Das Team von mund consulting freut sich auf Ihre Bewerbung mit CV & Stundensatz und unterstützt gerne im weiteren Prozess. Herzliche Grüße Das Recruiting Team *****",
       "first_seen": "2026-08-26T07:42:48.970477+00:00",
       "id": "925bb1e3f0ddd762",
@@ -11743,94 +11877,7 @@
       "source": "freelancermap.de",
       "title": "UX Research & Business Analysis Consultant (m/w/d)",
       "url": "https://www.freelancermap.de/projekt/ux-research-und-business-analysis-consultant-m-w-d"
-    },
-    {
-      "description": "Sie suchen ein anspruchsvolles Interim-Mandat mit echter Gestaltungs- und Koordinationsverantwortung in einem dynamischen Umfeld? Für einen unseren Kunden, ein hochagiles, stark wachsendes IT-Unternehmen suchen wir ab sofort Unterstützung! Hier kurz ein paar Details zum Projektrahmen: Position: Teamkoordinator:in Start: ab sofort, spätestens zum 20.09. Auslastung: 4-5 Tage/Woche Laufzeit: 6 Monate, mit Option auf Verlängerung Standort: 100% remote, Einarbeitung in Rheinland Pfalz für 3 Tage Stundensatz: 50€/h Tätigkeiten: Teamführung: Fachliche und organisatorische Leitung sowie Koordination eines engagierten Teams von rund 14 Mitarbeitenden Resource & Operations: Sicherstellung der optimalen Personalplanung, des Personaleinsatzes sowie eines reibungslosen Tagesgeschäfts Entwicklung & Onboarding: Einarbeitung neuer Teammitglieder, Durchführung von Mitarbeitergesprächen und Koordination von Schulungsmaßnahmen Prozessoptimierung: Qualitätssicherung und kontinuierliche Weiterentwicklung der Abläufe im Bereich Connectivity Schnittstellenarbeit: Enge Zusammenarbeit und Abstimmung mit angrenzenden Fachbereichen Profil: Mind. 1 Jahr Erfahrung im Bereich Teamführung/Teamkoordination Ausbildung oder Studium im Bereich Personal, Recruiting oder vergleichbares Nachweisbare Erfahrung in der fachlichen/organatorischen Führung von IT- oder Operational-Teams Fundiertes Verständnis für Prozesse im Bereich Order Management / Connectivity Starkes Stakeholdermanagement, hohe Kommunikationskompetenz und Durchsetzungsvermögen Strukturierte, lösungsorientierte Arbeitsweise gepaart mit einer bodenständigen Mentoring-Attitüde Erfahrung im Umfeld agiler Tools (z. B. JIRA, Confluence) Sind Sie aktuell verfügbar und passt dieses Projekt zu Ihren Kompetenzen? Dann freuen wir uns auf Ihre Rückmeldung! Bitte senden Sie uns Ihr aktuelles Profil sowie die Bestätigung Ihres Stundensatzes direkt an: ? ***** Jenisha Sivadasan",
-      "first_seen": "2026-08-12T08:14:26.341996+00:00",
-      "id": "37916b7611f78ae0",
-      "matched_keywords": [
-        "agil"
-      ],
-      "published": "2026-08-12T10:07:35+02:00",
-      "source": "freelancermap.de",
-      "title": "FREELANCE // Teamkoordinator:in (m/w/d) // 100% REMOTE",
-      "url": "https://www.freelancermap.de/projekt/freelance-teamkoordinator-in-m-w-d-100-prozent-remote"
-    },
-    {
-      "description": "Für einen unserer Kunden sind wir aktuell auf der Suche nach einem:einer Exchange Administrator:in im Bereich Messaging-Infrastruktur auf freiberuflicher Basis. Aufgaben: Betrieb und Betreuung der Exchange- und Messaging-Infrastruktur Unterstützung bei der Sicherstellung der Verfügbarkeit geschäftskritischer Mail-Services Analyse, Bewertung und Bearbeitung von Störungen im Messaging-Umfeld Abstimmung mit angrenzenden Infrastrukturteams, insbesondere Active Directory und Windows Server Übernahme und Dokumentation von bestehendem Betriebswissen Unterstützung bei Changes, Wartungen und technischen Weiterentwicklungen Sicherstellung einer strukturierten Einarbeitung und Wissenstransfer aus der bisherigen Verantwortung Koordination von Themen im Exchange-Ökosystem mit internen und externen Beteiligten Anforderungen: Fundierte Erfahrung mit Microsoft Exchange Sehr gute Kenntnisse in Mail-Infrastrukturen und Messaging-Umgebungen Verständnis des Exchange-Ökosystems Gute Kenntnisse in Active Directory Erfahrung mit Windows Server Erfahrung in komplexen Microsoft-Umgebungen Fähigkeit, bestehende Betriebsstrukturen schnell zu verstehen und zu übernehmen Rahmendaten: Einsatzort: Remote (90%) / Hannover (10%) Start: 01.09.2026 Laufzeit: bis 31.12.2026 + Option Auslastung: 50 % (350 Stunden) Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
-      "first_seen": "2026-08-12T08:14:26.341996+00:00",
-      "id": "e990587fb24f5c0f",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-08-12T09:58:17+02:00",
-      "source": "freelancermap.de",
-      "title": "Exchange-Administrator:in - Messaging-Infrastruktur",
-      "url": "https://www.freelancermap.de/projekt/exchange-administrator-in-messaging-infrastruktur"
-    },
-    {
-      "description": "Steuerung von stark spezialisierten Einzeltalenten hin zu einem kollaborativen T-Shaped-Team (Vermeidung von \"\"Key-Person-Dependencies\"\" im Netzwerkteam) Uns ist sehr wichtig: aktives Mitwirken bei der Arbeitsorganisation Schnittstelle zu Stakeholdern: Übersetzung komplexer technischer Netzwerkanforderungen in verständliche Business-Mehrwerte für externe Stakeholder und das Management. Tool-Kompetenz: Sehr gute Kenntnisse in Jira/Confluence (insb. Jira Software/Jira Service Management) zur Abbildung von Kanban-Prozessen. Mitwirken bei der Abbildung von Prozessen / Dokumentation der Prozesse in Confluence Kanban Expertise: Nachweisbare Erfahrung im Entwerfen, Verwalten und Optimieren von Kanban-Boards sowie der Definition von WIP-Limits (Work in Progress). (Hybride Arbeitsweise: Fähigkeit, Scrum-Elemente (z. B. Retrospektiven wenn erforderlich) sinnvoll mit Kanban-Flussprinzipien zu verknüpfen.) Engpass-Erkennung: Erfahrung im Identifizieren und Auflösen von Blockaden und Systemengpässen (Bottlenecks) im Ticketfluss. mehrjährige (3+) Erfahrungen in diversen agilen Frameworks Fachlicher Schwerpunkt: Netzwerk & Infrastruktur Technisches Grundverständnis: Fundierte Kenntnisse im Bereich Netzwerkarchitektur (z. B. Routing/Switching, Firewalls, Load Balancer, DNS, Cloud Networking). Inhaltliche Bewertung: Fähigkeit, technische Netzwerktickets (Changes, Incidents, Lifecycle-Projekte) inhaltlich zu verstehen, zu priorisieren und auf Plausibilität zu prüfen. Schnittstellenkompetenz: Erfahrung in der Zusammenarbeit mit klassischen Infrastruktur-Teams und dem Verständnis für deren oft reaktive Betriebs- Arbeitsweise. Team- & Prozesssteuerung SÜ2 – sollte möglichst vorhanden sein",
-      "first_seen": "2026-08-12T08:14:26.341996+00:00",
-      "id": "ffba4905cbf14cfa",
-      "matched_keywords": [
-        "agil",
-        "scrum",
-        "netz",
-        "tso"
-      ],
-      "published": "2026-08-12T09:55:33+02:00",
-      "source": "freelancermap.de",
-      "title": "Spezialist (gn) Agile & Kanban-Methodenkompetenz im Bereich Netzwerk & Infrastruktur",
-      "url": "https://www.freelancermap.de/projekt/spezialist-gn-agile-und-kanban-methodenkompetenz-im-bereich-netzwerk-und-infrastruktur"
-    },
-    {
-      "description": "Aufgaben: Für einen renommierten Kunden suchen wir einen erfahrenen Antennen Spezialisten Rahmenbedingungen: + 5 Tage pro Woche + Norddeutschland und Remote + Option auf Verlängerung Zu Ihren Aufgaben gehören: + Überprüfung der Verkabelung von Antennen + Durchführung von Messungen der Antennen und der Verkabelung + Befundung und Reparatur von HF Verteilnetzwerk + Technische Dokumentation Projekt-Nr.: 107439 Projekttitel: Antennen Spezialist (m/w/d) Stellentyp: freiberuflich Einsatzort: D2 Starttermin: asap Dauer: 6 Monate Anforderungen: Must-Have: + Antennen Erfahrung + HF Erfahrung + Messungen von HF + Bewertung von Messungen in HF + Erfahrung mit Verkabelung von Antennen + EU oder NATO Staatsbürger + Kein US Staatsburger + Kein Staatsburger der Staatenliste Zusätzliche Informationen: Konnten wir Ihr Interesse wecken? Dann freuen wir uns auf die Zusendung Ihres aussagekräftigen Expertenprofils unter Angabe Ihrer Stundensatzvorstellung. SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
-      "first_seen": "2026-08-12T08:14:26.341996+00:00",
-      "id": "d4948095bb8f7342",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-08-12T09:45:50+02:00",
-      "source": "freelancermap.de",
-      "title": "Antennen Spezialist (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/antennen-spezialist-m-w-d-3034613"
-    },
-    {
-      "description": "Unser Kunde ist auf der Suche nach Unterstützung. Aufgaben: Betrieb und Betreuung der Exchange- und Messaging-Infrastruktur Unterstützung bei der Sicherstellung der Verfügbarkeit geschäftskritischer Mail-Services Analyse, Bewertung und Bearbeitung von Störungen im Messaging-Umfeld Abstimmung mit angrenzenden Infrastrukturteams, insbesondere Active Directory und Windows Server Übernahme und Dokumentation von bestehendem Betriebswissen Unterstützung bei Changes, Wartungen und technischen Weiterentwicklungen Sicherstellung einer strukturierten Einarbeitung und Wissenstransfer aus der bisherigen Verantwortung Koordination von Themen im Exchange-Ökosystem mit internen und externen Beteiligten Skills: Fundierte Erfahrung mit Microsoft Exchange Sehr gute Kenntnisse in Mail-Infrastrukturen und Messaging-Umgebungen Verständnis des Exchange-Ökosystems Gute Kenntnisse in Active Directory Erfahrung mit Windows Server Erfahrung in komplexen Microsoft-Umgebungen Fähigkeit, bestehende Betriebsstrukturen schnell zu verstehen und zu übernehmen Start: 01.09.2026 Ende: 31.12.2026 mit Option auf Verlängerung Auslastung: 50% Einsatzort: 90% Remote - 10% Hannover Haben sie Interesse an unserem Projekt? Dann freue ich mich auf ihre Kontaktaufnahme. Vielen Dank. Schönen Gruß Silvia Griner",
-      "first_seen": "2026-08-12T08:14:26.341996+00:00",
-      "id": "ec8871a380b80c17",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-08-12T09:44:52+02:00",
-      "source": "freelancermap.de",
-      "title": "Exchange Administrator (m/w/d) - *****++ - Teilzeit - Remote und Hannover",
-      "url": "https://www.freelancermap.de/projekt/exchange-administrator-m-w-d-teilzeit-remote-und-hannover"
-    },
-    {
-      "description": "Guten Tag, wir sind auf der Suche nach mehreren Administratoren (m/w/d): Exchange-Administrator / Messaging-Infrastruktur - Auslastung 50%, 350 Std. Aufgaben: Betrieb und Betreuung der Exchange- und Messaging-Infrastruktur Unterstützung bei der Sicherstellung der Verfügbarkeit geschäftskritischer Mail-Services Analyse, Bewertung und Bearbeitung von Störungen im Messaging-Umfeld Abstimmung mit angrenzenden Infrastrukturteams, insbesondere Active Directory und Windows Server Übernahme und Dokumentation von bestehendem Betriebswissen Unterstützung bei Changes, Wartungen und technischen Weiterentwicklungen Sicherstellung einer strukturierten Einarbeitung und Wissenstransfer aus der bisherigen Verantwortung Koordination von Themen im Exchange-Ökosystem mit internen und externen Beteiligten SCCM / Softwareverteilung - Auslastung 50%, 350 Std. Aufgaben: Betrieb und Betreuung der bestehenden SCCM-Umgebung Unterstützung bei Softwareverteilung und Paketierung Betreuung von Windows Client Management Themen Analyse und Behebung von Problemen in der Softwareverteilung Unterstützung bei Rollouts, Updates und Client-bezogenen Änderungen Pflege und Weiterentwicklung bestehender Verteilprozesse Dokumentation von Abläufen, Konfigurationen und Änderungen Fachliche Mitwirkung bei der perspektivischen Weiterentwicklung Richtung Intune Microsoft 365 / Telefonie - Auslastung 100%, 530 Std. Aufgaben: Unterstützung bei Einführung und Ausbau von Microsoft Teams und Microsoft 365 Begleitung der Ablösung der bestehenden TK-Anlage Unterstützung bei Teams Phone Themen Mitwirkung an Konzepten für Local Breakout, Geo-Redundanz und QoS Abstimmung mit Netzwerk- und Infrastrukturteams Unterstützung bei Pilotierung und PoC Begleitung von Rollout- und Produktivsetzungsphasen Wissenstransfer an interne Teams Dokumentation technischer Entscheidungen, Konzepte und Betriebsaspekte Intune / Mobile Device Management - Auslastung 100%, 700 Std. Aufgaben: Unterstützung bei der Ablösung des bisherigen MDM-Ansatzes Planung und Begleitung der Migration auf Microsoft Intune Konfiguration, Pilotierung und Einführung von Intune-basierten MDM-Prozessen Einbindung von Entra ID und Microsoft 365 in das Zielbild Unterstützung bei Gerätemigrationen Durchführung und Begleitung von Pilotphasen Beratung zur stabilen Ausgestaltung einer langfristigen MDM-Plattform Dokumentation von Konzepten, Entscheidungen und Betriebsprozessen Übergabe von Wissen an interne Beteiligte Rahmenbedingungen: Start: 01.09.2026 Dauer: 31.12.2026 (option auf Verlängerung) Auslastung: je nach Rolle 50% oder 100% Ort: remote 90%, Hannover 10% Sprache: deutsch Stundensatz: 65-73€/h all in Haben wir Ihr Interesse geweckt? Dann freuen wir uns über die Zusendung Ihres CV's im Word-Format mit Kontaktdaten, Honorarsatz und Verfügbarkeit. Mit freundlichen Grüßen Joella Stumpp-Landoulsi Recruitment Consultant –––––––––––––––––––––––––––––––––––––––––– E: ***** T: *****",
-      "first_seen": "2026-08-12T08:14:26.341996+00:00",
-      "id": "95053966199caeb6",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-08-12T09:44:36+02:00",
-      "source": "freelancermap.de",
-      "title": "M365, SCCM, MDM Administratoren (m/w/d) - remote - ab September - 4 Monate +",
-      "url": "https://www.freelancermap.de/projekt/m365-sccm-mdm-administratoren-m-w-d-remote-ab-september-4-monate"
-    },
-    {
-      "description": "Start: 01.09.2026 Ende: 30.06.2027 mit Verlängerungsoption Ort: Berlin und remote (> 90% remote) Stundensatz: 89 € Aufgaben Inhaltliche Analyse und Erfassung der Funktionalitäten der ersten Gruppe der Biztalk-Schnittstellen, sowie der PowerShell-Skripte in Vorbereitung auf die Implementierung im Azure-Technologiestack Ausarbeitung der Anforderungsbeschreibung zur konkreten technischen Migration der besagten Schnittstellen Technische Umsetzung und Dokumentation der Schnittstellen in die Azure-Technologien Planung und Durchführung von technischen Tests, sowie sofern notwendig Analysieren und Behebung von Fehlern im Rahmen der Tests Vorbereitung und Durchführung von Schulungen zur Wissensübergabe an internes Integrationsteam Anforderungen Mehrjährige Berufserfahrungen im Bereich Software-Integration und Middleware-Lösungen (insb. Microsoft Biztalk) Nachgewiesene Expertise in der Überführung bestehender Integrationslösung (z.B. Webservices, MS Biztalk, PowerShell-Skripte), sowie in der Neuerstellung von Integrationen in Azure Technologien (insb. Azure Data Factory) Mehrjährige praktische Erfahrungen in der Implementierung von Webservices mittels .NET/C# Mehrjährige praktische Erfahrungen in Erstellung, Anpassungen, Fehleranalyse/-behebung und Ablaufplanung von PowerShell-Skripten Sicherer Umgang mit Datenmodelle, Datenbanken und Datenbanksystemen (wie Microsoft SQL Server) Erfahrung des eingesetzten Mitarbeitenden in automatisierten Softwareentwicklungs-, Test- und Auslieferungsprozessen inkl. Source Code Versionierung (Continuous Integration/Delivery/Deployment), idealerweise mittels Azure DevOps, Erfahrung des benannten Mitarbeitenden in der Umsetzung von Datenaustausch-Lösungen in verschiedenen Formaten (EDI, XML, etc.) und Schnittstellentechnologien (SOAP, REST) Erfahrung des mit dem Angebot benannten Mitarbeitenden in der Nutzung von Datenbanken, der Umsetzung von Datenintegrationen und Datentransformationen (ETL-Prozesse) Wünschenswert: Erfahrung in den Branchen Energie- oder Versorgungswirtschaft oder öffentliche Verwaltung",
-      "first_seen": "2026-08-12T08:14:26.341996+00:00",
-      "id": "c1c81913dfefa645",
-      "matched_keywords": [
-        "energie"
-      ],
-      "published": "2026-08-12T09:42:15+02:00",
-      "source": "freelancermap.de",
-      "title": "Integration Engineering zur Migration von Schnittstellen",
-      "url": "https://www.freelancermap.de/projekt/integration-engineering-zur-migration-von-schnittstellen"
     }
   ],
-  "updated_at": "2026-08-26T07:42:49.208369+00:00"
+  "updated_at": "2026-08-26T08:39:07.212315+00:00"
 }
