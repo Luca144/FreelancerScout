@@ -1,6 +1,81 @@
 {
   "projects": [
     {
+      "description": "Für einen Kunden in Ludwigsburg suchen wir derzeit einen IT-Servicetechniker (m/w/d) Applikation Aufgabengebiet - Installation und Konfiguration von Softwareanwendungen - Support und Wartung von IT-Systemen und Anwendungen - Durchführung von Systemupdates und Sicherheitsüberprüfungen - Dokumentation von Vorgängen und Nutzeranleitungen - Betreuung von Software Applikationen inkl. Installation und Userkonfiguration - Anpassungen im Scripting der verschiedenen Applikationen mit Power Shell oder vergleichbaren Tools Qualifikationen - Technische Kenntnisse in der IT - Erfahrung mit diversen Softwareanwendungen und Betriebssystemen - Fähigkeit zur Fehlerdiagnose und Problemlösung - Kenntnisse im Netzwerkumfeld (Switching, Layer 1-3) - Führerschein - Sehr gute Deutsch- und Englischkenntnisse Referenz : 26-1294 Einsatzort : Ludwigsburg Auslastung : Vollzeit Start : ab sofort Dauer : 6 Monate + Option Beauftragungsart : freiberuflich, Arbeitnehmerüberlassung Könnte diese Position für Sie interessant sein? Dann senden Sie mir bitte Ihr aktuelles CV per E-Mail an ***** Gerne stehe ich Ihnen natürlich auch jederzeit für Fragen oder Hintergrundinformationen zur Verfügung. Vielen Dank und beste Grüße Anne-Katrin Loth Senior Recruitment Consultant | Team Lead SECUSTAFF GmbH Telefon ***** ***** SECUSTAFF Secure Staffing.",
+      "first_seen": "2026-08-26T06:43:03.273815+00:00",
+      "id": "3c94b590b2ae4ce4",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-08-26T08:38:10+02:00",
+      "source": "freelancermap.de",
+      "title": "IT-Servicetechniker (m/w/d) Applikation --- Ludwigsburg",
+      "url": "https://www.freelancermap.de/projekt/it-servicetechniker-m-w-d-applikation-ludwigsburg-3040081"
+    },
+    {
+      "description": "Projektziel: Konfiguration und Aktualisierung von VPN-Verbindungen über Lancom Router zu Kundensystemen. Hauptaufgaben: - Upgrade bestehender VPN-Verbindungen von IKE auf IKEv2 an den Lancom Routern - Konfiguration der VPN-Verbindungen zu den jeweiligen Kunden - Perspektivisch: Mitwirkung bei der vollständigen Abbildung der Router in der Cloud über pfSense oder Mikrotik Voraussetzungen: - Kenntnisse in der Konfiguration von Lancom Routern - Erfahrung mit VPN-Verbindungen sowie den Protokollen IKE und IKEv2 Erwartetes Ergebnis: - Erfolgreich auf IKEv2 aktualisierte VPN-Verbindungen an den Lancom Routern - Grundlage für spätere Cloud-Migration der Router",
+      "first_seen": "2026-08-26T06:43:03.273815+00:00",
+      "id": "b67732f6ffb8cf3a",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-08-26T08:30:57+02:00",
+      "source": "freelancermap.de",
+      "title": "Netzwerkspezialist für VPN-Konfiguration mit Lancom Routern gesucht",
+      "url": "https://www.freelancermap.de/projekt/netzwerkspezialist-fuer-vpn-konfiguration-mit-lancom-routern-gesucht"
+    },
+    {
+      "description": "Branche: Energiewirtschaft Start: 01.09.2026 Ende: 20.06.2027 Auslastung: 50% Offsite: 840h Onsite: 0h Reisezeit: 0h Einsatzort: Augsburg und remote (Onshore aus Deutschland) Max. Stundensatz remote: 91€/h Weitere Hinweise: Bei den Konditionen ist eine Differenz 18€/h von Onsite zum Offsite Stundensatz nötig. (Onsite +18€/h). Die geplante Aufteilung der Stunden ist wie genannt, kann aber abweichen. Aufgabe: Ihre Aufgaben Sie wandeln unser IS-U Berechtigungskonzept in eine anzeigende Variante um. Sie stellen sicher, dass Rollen und Berechtigungen im Rahmen der Stilllegung des SAP IS-U Netzsystems sicher, transparent und revisionskonform umgesetzt werden. In dieser Funktion stimmen Sie sich bedarfsgerecht mit Ihrem zugeteilten Brückenkopf der LEW ab. Ein wesentlicher Schwerpunkt Ihrer Tätigkeiten liegt auf der Durchführung der Dekommissionierung des SAP Netzsystems. Dabei bewerten Sie bestehende Änderungsberechtigungen hinsichtlich ihrer weiterhin erforderlichen Nutzung und leiten geeignete Maßnahmen für den Übergang in den Zielzustand ab. Das bisherige IS-U Rollenkonzept, bestehend aus Sammelrollen (Transaktionen) und Einzelrollen (Berechtigungsobjekte) soll in anzeigende Varianten (Einzelrollen) transformiert werden mit einer Namenskonvention, die der bisherigen Namensgebung möglichst nahe kommt, um ein Berechtigungsrolenmapping (IKS) durchführen zu können. Ansonsten. Sie sorgen eigenständig dafür, dass Transparenz hinsichtlich Ihrer Projekttätigkeiten herrscht. Sie weisen ggfs. während des gesamten Transformationsprozesses auf Abhängigkeiten und Risiken hin. • Erstellung des Berechtigungskonzepts im Umfeld von SAP IS-U-Systemstilllegungen • Analyse bestehender Rollen- und Berechtigungskonzepte • Planung und Erstellung der reduzierten von Benutzer- und Systemuserberechtigungen im Zuge der Abschaltung, Mapping auf die anzeigenden Berechtigungsrollen • Sicherstellung der Einhaltung von Compliance-, Datenschutz- und Revisionsanforderungen • Erstellung und Pflege von Dokumentationen und Berechtigungskonzepten • Sicherheitsrelevante Fragestellungen werden zur Projektlaufzeit Ihrerseits kommuniziert • Sie reagieren auf Korrekturanforderungen von Berechtigungsrollen seitens Ihres Brückenkopfes im Rahmen der Dekommissionierung Ihr Profil • Erfolgreich abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder vergleichbare Qualifikation • Mehrjährige Erfahrung im SAP-Berechtigungsmanagement • Gute Kenntnisse in SAP IS-U sowie idealerweise in den Bereichen SAP ERP, SAP S/4HANA oder SAP Security • Erfahrung in Migrations-, Transformations- oder Stilllegungsprojekten • Verständnis regulatorischer Anforderungen (z. B. DSGVO, SOX, IDW PS 330, KRITIS oder interne Kontrollsysteme) • Kenntnisse in der Analyse von Rollen, Profilen und Berechtigungsobjekten • Strukturierte, selbstständige und lösungsorientierte Arbeitsweise Skills: • Erfolgreich abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder vergleichbare Qualifikation • Mehrjährige Erfahrung im SAP-Berechtigungsmanagement • Gute Kenntnisse in SAP IS-U sowie idealerweise in den Bereichen SAP ERP, SAP S/4HANA oder SAP Security • Erfahrung in Migrations-, Transformations- oder Stilllegungsprojekten • Verständnis regulatorischer Anforderungen (z. B. DSGVO, SOX, IDW PS 330, KRITIS oder interne Kontrollsysteme) • Kenntnisse in der Analyse von Rollen, Profilen und Berechtigungsobjekten • Strukturierte, selbstständige und lösungsorientierte Arbeitsweise Auf Ihre Nachricht freue ich mich. Bitte fügen Sie Ihrer Bewerbung Ihren Lebenslauf sowie Ihre Stundensatzvorstellungen hinzu, da Bewerbungen ohne diese Angaben nicht berücksichtigt werden können. Viele Grüße Dominik Ehlers",
+      "first_seen": "2026-08-26T06:43:03.273815+00:00",
+      "id": "19f69b446fb88d15",
+      "matched_keywords": [
+        "energie",
+        "netz",
+        "ems"
+      ],
+      "published": "2026-08-26T08:27:41+02:00",
+      "source": "freelancermap.de",
+      "title": "ITP-926: SAP IS-U Berechtigungsmanager / Consultant – Dekommissionierung & Rollenmanagement (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/itp-926-sap-is-u-berechtigungsmanager-consultant-dekommissionierung-und-rollenmanagement-m-w-d"
+    },
+    {
+      "description": "For an innovative automotive semiconductor project in the braking systems domain, we are looking for an experienced Senior Digital Verification Engineer who can take ownership of the verification of safety-critical ASIC IPs and contribute immediately to a tape-out-critical project. This role is aimed at highly experienced verification engineers who are able to independently develop and execute verification strategies with minimal supervision. Location: South Germany (Hybrid / On-site depending on project requirements)Start: September 2026Duration: 3 months (with potential follow-up opportunities)What We Are Looking ForWe are not simply looking for a UVM developer. We are looking for engineers who can independently: Analyze complex specifications Develop a complete verification strategy Design robust verification architectures Identify verification risks early Drive projects through successful verification sign-off Your Responsibilities Own the verification of complex ASIC IP blocks from specification review to verification sign-off Analyze requirements and derive comprehensive verification plans Develop and extend SystemVerilog/UVM verification environments Create reusable verification components, scoreboards and reference models Develop constrained-random and directed test cases Write SystemVerilog Assertions (SVA) Verify functional behavior, diagnostics and fault scenarios Drive functional and code coverage closure Debug verification issues together with RTL, analog and system architects Support verification reviews and final sign-off activities Required Skills 8+ years of ASIC or SoC Digital Verification experience Excellent knowledge of SystemVerilog and UVM Strong experience with coverage-driven verification methodologies Experience creating verification plans directly from specifications Development of scoreboards, reference models and reusable verification components Strong debugging skills (e.g. Verdi, DVE, SimVision or similar) Experience with SystemVerilog Assertions (SVA) Excellent English communication skills Please send us your updated CV (in English) highlighting your experience with: SystemVerilog UVM ASIC / SoC Verification Mixed-Signal Verification (if applicable) Automotive semiconductor projects Verification planning and sign-off",
+      "first_seen": "2026-08-26T06:43:03.273815+00:00",
+      "id": "7ede46fadef426c4",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-08-26T08:24:05+02:00",
+      "source": "freelancermap.de",
+      "title": "4372-3320 - Senior Digital Verification Engineer (m/f/d) - Automotive ASIC Verification",
+      "url": "https://www.freelancermap.de/projekt/4372-3320-senior-digital-verification-engineer-m-f-d-automotive-asic-verification"
+    },
+    {
+      "description": "SAP IS-U Berater (m/w/d) für die Abrechnung gesucht Büllesbach & Plöntzke sucht für einen Kunden einen freiberuflichen SAP IS-U Berater (m/w/d), der ab der zweiten Septemberwoche zur Verfügung steht. Gesucht wird Unterstützung in der SAP IS-U Abrechnung. Neben fundierter Erfahrung im Energiesektor sind insbesondere Kenntnisse in den Bereichen Abrechnung, Stammdaten, Formulare, Tarifierung, Customizing und Debugging gefragt. Anforderungen Mindestens vier Jahre Erfahrung im Energiesektor und im SAP IS-U Umfeld Sehr gute Kenntnisse in den Bereichen SAP IS-U Abrechnung, Stammdaten, Formulare, Tarifierung, Customizing und Debugging Erfahrung in der Erstellung von Turnus- und Schlussabrechnungen für Energie- und Wasserversorgungsprodukte sowie -dienstleistungen in der Marktrolle „Lieferant“ Erfahrung mit der Abrechnung von Tarifkunden, Sondervertragskunden, Direktvermarktungskunden, Eigenverbrauch und RTP-Modellen sowie von Erzeugungsanlagen, beispielsweise Photovoltaikanlagen, und steuerbaren Verbrauchseinrichtungen, beispielsweise Wärmepumpen Kenntnisse der Fernwärme- oder Fernkälte-Verbrauchserfassungs- und Abrechnungsverordnung (FFVAV) Erfahrung in der Nachbearbeitung ausgesteuerter Rechnungen, der Bearbeitung von Kulanzanträgen sowie der Durchführung von Rechnungskorrekturen Erfahrung in der Unterstützung von Quartalsabschlüssen im BILA-Umfeld Erfahrung in der Konzeption komplexer Anforderungen im SAP IS-U Umfeld, im Prozessdesign, in der Erstellung von Reportings sowie in der systemübergreifenden Integration Rahmenbedingungen Start: 07.09.2026 Laufzeit: Bis Jahresende mit Verlängerungsoption Auslastung: 3-5 Tage pro Woche Einsatzort: 100 % remote Bitte senden Sie mir bei Interesse Ihr aktuelles Profil im Word-Format zu: ***@***.com Keywords: SAP IS-U, SAP IS-U Abrechnung, SAP R/3, SAP IS, Energiewirtschaft, Energieversorgung, Abrechnung, Turnusabrechnung, Schlussabrechnung, Stammdaten, Tarifierung, Formulare, SAP Customizing, SAP Debugging, FFVAV, BILA, Netznutzungsentgelte, Tariflandschaften, Rechnungskorrektur, Jahresabschluss, SAP Consultant, Freelancer, Freiberufler Viele Grüße Marc Plöntzke",
+      "first_seen": "2026-08-26T06:43:03.273815+00:00",
+      "id": "51dc71bff9f3dc06",
+      "matched_keywords": [
+        "energie",
+        "netz"
+      ],
+      "published": "2026-08-26T08:04:16+02:00",
+      "source": "freelancermap.de",
+      "title": "SAP IS-U Berater (m/w/d) für die Abrechnung gesucht",
+      "url": "https://www.freelancermap.de/projekt/sap-is-u-berater-m-w-d-fuer-die-abrechnung-gesucht"
+    },
+    {
+      "description": "Rahmenbedingungen Start: 15.09.2026 Laufzeit: 12 Monate Auslastung: 60 % Einsatzort: Remote / vereinzelt vor Ort nach Absprache Vertragsart: Freelance . Aufgaben Beratung und Unterstützung im Bereich SAP IS-U / FI-CA Analyse und Optimierung bestehender Prozesse im Vertragskontokorrent Customizing und Konzeption von Lösungen im FI-CA-Umfeld Analyse von Fehlern und Störungen sowie Erarbeitung geeigneter Lösungsansätze Enge Zusammenarbeit mit Entwicklung, Fachbereich und weiteren SAP-Modulen Erstellung von fachlichen und technischen Spezifikationen Unterstützung bei Tests, Fehleranalysen und Produktivsetzungen Analyse von Schnittstellen, Datenflüssen, Jobs und technischen Prozessketten Technische Analyse bestehender Entwicklungen und Erweiterungen Anforderungen Mehrjährige Projekterfahrung als SAP IS-U / FI-CA Berater Sehr gute Kenntnisse in SAP FI-CA , idealerweise im Energieversorgungsumfeld Gute Kenntnisse der relevanten IS-U-Prozesse und deren Integration in FI-CA Fundierte Erfahrung im Customizing Gutes technisches Verständnis im SAP-Umfeld Fähigkeit, ABAP-Code zu analysieren bzw. zu debuggen – eigene Entwicklung ist nicht zwingend erforderlich Erfahrung mit technischen SAP-Konzepten wie z. B. BAdIs, User Exits, Funktionsbausteinen, Jobs, Schnittstellen, IDocs und APIs/BAPIs Sicherer Umgang mit Fehleranalyse, Debugging und technischen Logs Erfahrung in der Zusammenarbeit zwischen Fachbereich, Beratung und Entwicklung Strukturierte und eigenständige Arbeitsweise Sehr gute Deutschkenntnisse Bei Interesse freuen wir uns über die Zusendung Ihres aktuellen Projektprofils unter Angabe von Verfügbarkeit, gewünschter Auslastung und Stundensatz .",
+      "first_seen": "2026-08-26T06:43:03.273815+00:00",
+      "id": "a000a9a82f5b4d68",
+      "matched_keywords": [
+        "energie"
+      ],
+      "published": "2026-08-26T08:04:07+02:00",
+      "source": "freelancermap.de",
+      "title": "SAP IS-U / FI-CA Berater (m/w/d) mit technischem Know-how – Freelance",
+      "url": "https://www.freelancermap.de/projekt/sap-is-u-fi-ca-berater-m-w-d-mit-technischem-know-how-freelance"
+    },
+    {
       "description": "PEGA CDH Systems Engineer (Pega, OpenAPI, Enterprise-Anwendungsarchitekturen) (m/w/d) 90% remote Für ein Projekt im Transport und Logistik suchen wir einen PEGA CDH Systems Engineer (m/w/d) mit Erfahrung in Pega, OpenAPI und Enterprise-Anwendungsarchitekturen. Projektinformationen Ort: Frankfurt am Main / 90% Remote (davon 10% OnSite FFM) Start: 07.09.2026 Laufzeit: 07.09.2026 – 31.12.2026 Branche: Transport und Logistik Bewerbungsfrist: *****:00 Uhr Aufgaben Fungiert als Pega CDH Systems Engineer, agiert als technischer Counterpart für den IT-Dienstleister, Analyse und Beratung bei Setup und Weiterentwicklung der Communications-Systemlandschaft, Umsetzung von Code- und Konfigurationsanpassungen in PEGA CDH, Beratung der Systemadministration bezüglich CI/CD. Muss-Anforderungen Praktische Erfahrung mit Pega (mindestens 3 Jahre) Angewandtes Wissen im Lesen und Verstehen von OpenAPI-Spezifikationen (mind. 2 Referenzen) Angewandtes Wissen in der Erstellung und Pflege von Datenmodellen (mind. 2 Referenzen) Nachweislich angewandte Kenntnisse in Enterprise-Anwendungsarchitekturen und zugehörigen Middleware-, Entwicklungs- und Datenbanktechnologien (mind. 2 Referenzen) Nachweislich praktische Erfahrung in der Durchführung von Aufgaben innerhalb des gesamten Softwareentwicklungslebenszyklus (mehr als 3 Jahre) Soll-Anforderungen Pega CDH-Zertifizierung (Pega Academy oder vergleichbar) Praktische Erfahrung mit Pega CDH (mindestens 2 Referenzen) Anwendungserfahrung in der Email-Template Erstellung und Verwendung (mindestens 3 Jahre) Anwendungserfahrung in der Modellierungssprache UML (Sequenz-/Klassendiagramme) (mindestens 3 Jahre) Anwendungserfahrung in der JSON Schema-Validierung (mindestens 3 Jahre) Technologien & Methoden Pega, OpenAPI, Enterprise-Anwendungsarchitekturen, UML, JSON Schema Das Team von mund consulting freut sich auf Ihre Bewerbung mit CV & Stundensatz und unterstützt gerne im weiteren Prozess. Herzliche Grüße Das Recruiting Team *****",
       "first_seen": "2026-08-26T04:36:24.479342+00:00",
       "id": "4b0f33e1a21d4f38",
@@ -11584,5 +11659,5 @@
       "url": "https://www.freelancermap.de/projekt/integration-engineering-zur-migration-von-schnittstellen"
     }
   ],
-  "updated_at": "2026-08-26T05:31:19.675027+00:00"
+  "updated_at": "2026-08-26T06:43:03.532418+00:00"
 }
