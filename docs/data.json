@@ -1,6 +1,90 @@
 {
   "projects": [
     {
+      "description": "We are currently looking for a freelance \"DNS Security Engineer (DNSSEC Know-how) - m/f/d\" for our client in the IT sector . Start: asap End: 28.02.2027 Capacity: Fulltime Location: Remote / rare meetings in Berlin As basis for the architectural decision making of the ECS DNS Redesign, a DNSSEC and DNS-over-TLS (DoT) Proof of Concept (POC) is to be prepared and conducted. The objective is to produce comprehensive findings and recommendations to be reviewed with responsible Architects, enabling informed decisions on DNSSEC and DoT adoption and next steps. The contractor will be responsible for planning, executing, and documenting a DNSSEC and DoT POC within a virtual lab (Vlab) environment. Tasks: Test Planning - Gather and define test cases and use cases for DNSSEC and DoT implementation in the existing DNS infrastructure Metrics Definition - Establish measurable criteria and benchmarks to evaluate DNSSEC and DoT behavior during testing POC Execution - Conduct structured testing in the Vlab environment, documenting functionality, risks, dependencies, and edge cases Data Analysis & Reporting - Prepare detailed metrics, comparisons, and conclusions in a clear, presentation-ready format Stakeholder Presentation - Present POC findings to relevant Architects to facilitate discussion and decision-making on next steps Required Skills: Skills in DNS administration DNS Protocol Expertise: Strong knowledge of DNS fundamentals, DNSSEC, DNS-over-TLS (DoT), and TSIG authentication Automation: Experience with Ansible for DNS server deployment and configuration management Network Security: Knowledge of Cisco Umbrella integration for external DNS resolution Documentation: Strong technical writing skills and ability to produce data visualizations for executive and architectural audiences Language skills: German & English Preferred Skills: Inventory & Tooling: Familiarity with TIC inventory systems and DNS object management workflows Infrastructure Context: Understanding of SAP HEC landscape architecture, including admin and customer landscape separation",
+      "first_seen": "2026-08-26T09:37:41.088715+00:00",
+      "id": "59b5d4cbe41a0e60",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-08-26T11:36:16+02:00",
+      "source": "freelancermap.de",
+      "title": "DNS Security Engineer (DNSSEC Know-how) - m/f/d",
+      "url": "https://www.freelancermap.de/projekt/dns-security-engineer-dnssec-know-how-m-f-d"
+    },
+    {
+      "description": "We are looking for an experienced C++ freelancer to work on the desktop products Medistar. The codebase is a long-lived, mixed Qt estate built with CMake, Conan and MSVC, with several legacy components. The work centers on IT security and stability of the product. Location:remote, hybrid or onsite in Hannover. Duration and expected start date_ 4-5 months, asap Workload: Full-time Scope or work Develop and maintain C++ components for the desktop application, with priority on IT security and stability. Based on existing security requirements, analyze the existing code, develop fixes for security issues and improve the security of the product. Work with the Architecture, QA and Product Management teams to deliver secure, maintainable, high-quality solutions. Use AI coding agents (for example, Claude Code) in daily work to speed up code analysis, fix issues, and contribute to the team's shared agents, skills and prompt templates. Professional background Must-Have Skills Several years of senior C++ development, preferably in high-performance, heavily parallelized desktop systems. Strong command of modern C++ (C+*****), IT security, multithreading, and debugging. Hands-on experience with CMake, Conan and MSVC. Structured, analytical working style with high quality standards. Nice to have Hands-on experience with Claude Code or similar agentic coding tools (building agents, skills, workflows); familiarity with AI pipelines, harnesses and context engineering. Knowledge in IT security topics, e.g., BSI Grundschutz. Background in regulated or healthcare software. A degree in computer science, mathematics, physics, electrical engineering or a comparable technical field (relevant experience can substitute) Languages Fluent English required. Good German is an advantage.",
+      "first_seen": "2026-08-26T09:37:41.088715+00:00",
+      "id": "7df9d4ae0600d9ec",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-08-26T11:34:05+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior C++ Engineer – Desktop Applications",
+      "url": "https://www.freelancermap.de/projekt/senior-c-engineer-desktop-applications"
+    },
+    {
+      "description": "Netzwerktechniker für Lancom VPN / IKEv2 – ab sofort – 6 Monate – Teilzeit – REMOTE Für unseren Kunden suchen wir kurzfristig einen erfahrenen Netzwerktechniker mit fundierten Lancom Router Kenntnissen. Ziel des Projekts ist die Modernisierung bestehender VPN-Verbindungen durch die Umstellung von IKE auf IKEv2 sowie die Vorbereitung einer späteren Cloud Migration der Router Infrastruktur. Das Team beim Kunden verfügt intern über breites IT-Know-how – gesucht wird jedoch gezielt Expertise im Bereich Lancom und VPN Konfiguration. Aufgaben: Upgrade bestehender VPN-Verbindungen von IKE auf IKEv2 an Lancom-Routern Konfiguration und Einrichtung von VPN Verbindungen zu Kundenstandorten Analyse und Optimierung bestehender Netzwerkverbindungen Perspektivisch Unterstützung bei der Migration der Router Infrastruktur auf Software Router Lösungen wie pfSense oder MikroTik Wir operieren als Personalberatungsunternehmen. Keine der genannten Fachausdrücke sollen diskriminierend in Hinblick auf Alter, Geschlecht oder Erfahrung sein. Wir bestätigen, dass wir alle Bewerbungen von Kandidaten jeden Alters, Geschlechts und Erfahrungen gerne entgegennehmen.",
+      "first_seen": "2026-08-26T09:37:41.088715+00:00",
+      "id": "7419e79a1be9477d",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-08-26T11:29:15+02:00",
+      "source": "freelancermap.de",
+      "title": "Netzwerktechniker für Lancom VPN / IKEv2 – ab sofort – 6 Monate – Teilzeit – REMOTE",
+      "url": "https://www.freelancermap.de/projekt/netzwerktechniker-fuer-lancom-vpn-ikev2-ab-sofort-6-monate-teilzeit-remote"
+    },
+    {
+      "description": "Für einen unserer Kunden suche ich aktuell eine:n Senior Projektmanager:in Kapazitätsplanung & Personalcontrolling (all genders) im Rahmen der Arbeitnehmerüberlassung (ANÜ) . Das Projekt • Start: 15.09.2026 • Laufzeit: zunächst bis 14.03.2027 (Option auf Verlängerung) • Standort: Berlin • Remote-Anteil: ca. 40 % (3 Tage pro Woche vor Ort) • Arbeitszeit: 40 Stunden/Woche • Gehalt: nach Vereinbarung Ihre Aufgaben • Gesamtverantwortung für die Auswahl, Beschaffung und Einführung eines Kapazitätsplanungs- und Personalcontrolling-Tools • Analyse und Abstimmung fachlicher sowie organisatorischer Anforderungen mit relevanten Stakeholdern • Erstellung von Zielbildern, Fachkonzepten und Anforderungskatalogen • Steuerung des Ausschreibungs- und Vergabeprozesses einschließlich der Erstellung relevanter Unterlagen • Koordination interner Fachbereiche sowie externer Dienstleister und Anbieter • Durchführung und Begleitung von Anbieterbewertungen, Workshops, Präsentationen und Entscheidungsprozessen • Planung und Steuerung der Tool-Implementierung unter Berücksichtigung von Zeit, Budget, Ressourcen und Risiken • Entwicklung geeigneter Governance-, Reporting- und Kommunikationsstrukturen für das Projekt • Sicherstellung einer erfolgreichen Zusammenarbeit zwischen Fachbereichen, Management und Projektteams • Begleitung der organisatorischen Einführung neuer Prozesse und Arbeitsweisen • Regelmäßiges Reporting an Management und Projektgremien hinsichtlich Projektfortschritt, Risiken und Handlungsbedarfen Ihre Qualifikationen • Mehrjährige Erfahrung in der Leitung komplexer Projekte oder Programme • Nachweisbare Erfahrung in bereichsübergreifenden Transformations- oder Digitalisierungsprojekten • Erfahrung in der Auswahl, Beschaffung und Implementierung von Softwarelösungen oder Business-Applikationen • Fundierte Kenntnisse im Projektmanagement sowie in der Steuerung von Zeit, Budget, Ressourcen und Risiken • Erfahrung im Stakeholder- und Changemanagement auf Management-Ebene • Fähigkeit, komplexe Anforderungen zu analysieren, zu strukturieren und in praktikable Lösungen zu überführen • Sehr gute Kenntnisse in MS Excel und PowerPoint • Sehr gute Deutschkenntnisse in Wort und Schrift Von Vorteil • Erfahrung mit Ausschreibungs- und Vergabeprozessen • Kenntnisse im Bereich Kapazitätsplanung, Workforce Planning, Ressourcenmanagement oder Personalcontrolling • Erfahrung mit unternehmensweiten Softwareeinführungen • Kenntnisse im Aufbau von Governance- und Reporting-Strukturen • Erfahrung in der Zusammenarbeit mit unterschiedlichen Unternehmensbereichen und externen Dienstleistern Persönlich überzeugen Sie durch • Strukturierte, eigenständige und ergebnisorientierte Arbeitsweise • Ausgeprägte Kommunikations- und Moderationsfähigkeiten • Hohes Maß an Verantwortungsbewusstsein und Durchsetzungsstärke • Strategisches und analytisches Denkvermögen • Professionelles Stakeholder-Management auf unterschiedlichen Hierarchieebenen • Lösungsorientiertes Handeln sowie pragmatische Umsetzungskompetenz • Teamfähigkeit und sicheres Auftreten",
+      "first_seen": "2026-08-26T09:37:41.088715+00:00",
+      "id": "a9df1cfe6bec0ecb",
+      "matched_keywords": [
+        "projektmanager"
+      ],
+      "published": "2026-08-26T11:27:29+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Projektmanager:in Kapazitätsplanung & Personalcontrolling in Berlin in ANÜ gesucht",
+      "url": "https://www.freelancermap.de/projekt/senior-projektmanager-in-kapazitaetsplanung-und-personalcontrolling-in-berlin-in-anue-gesucht"
+    },
+    {
+      "description": "für unser Kundenprojekt suche ich aktuell eine/n Data & AI Business Strategy Consultant (m/w/d) (30568). Ist dies ein passendes Projekt für Sie? Ich freue mich auf Ihre Rückmeldung! Start: 01.09.2026 Dauer: 4 Monate + Einsatzort: Remote/Allendorf Aufgaben: Für unseren Kunden im Bereich Klima- und Kältetechnik suchen wir derzeit einen Data und AI Business Strategy Consultant (m/w/d). Ihre Aufgaben: - Einrichtung einer SharePoint-Plattform, inkl. Abgrenzung und Anbindung an andere Plattformen, z. B. AI Hub - Entwicklung fachlicher Data- und AI-Use-Cases gemeinsam mit den Business-Stakeholdern - Durchführen von Schulungen und Weiterbildung zu Themen wie Copilot, Databricks, Communities etc. - Einführen von Databricks, inkl. Best Practises (in Zusammenarbeit mit Fachbereichen) - Self-Service-Optionen im Datalake - Präsentation von Mehrwerten, Roadmaps und Entscheidungsvorlagen für Management und Business Im Projekt kann mit Ausnahme einzelner Termine remote gearbeitet werden. Anforderungen: must-have: -sehr gutes Verständnis von Data-, Analytics und AI-gestützten Businessprozessen (u.a. Databricks, Copilot) -sehr gute Expertise im Requirements Engineering und Stakeholdermanagement -Know-How im Transformations- und Change-Management -sehr gute Erfahrungen in der Moderation von Workshops, Business- und Strategieformaten Umfeld: Klima- und Kältetechnik, Data & AI Business Strategie, Requirements Engineering Für Ihre Bewerbung und weitere Informationen nutzen Sie bitte diesen Link: https://experts.contractor.de/projektangebot-details/30568/?so=-1&ts=c4b1aa3d885b860d2986314a79bcd7fb&cr=RFQFLM&utm_source=newsletter&utm_medium=RFQFLM&utm_campaign=30568 Weitere interessante Projekte finden Sie in unserer LinkedIn Gruppe: https://www.linkedin.com/groups/*****/ Beste Grüße Kirsten Wiehle Senior Recruiterin ***** | ***** Contractor Consulting GmbH Adams-Lehmann-Str. 56 80797 München https://www.contractor.de - we consult | we create | we recruit Datenschutzerklärung: https://www.contractor.de/datenschutz/ Geschäftsführer: Alexander Ulrich | Amtsgericht München, HRB 187777 | Sitz der Gesellschaft: München",
+      "first_seen": "2026-08-26T09:37:41.088715+00:00",
+      "id": "fcb1e80efcb1077b",
+      "matched_keywords": [
+        "requirements engineer"
+      ],
+      "published": "2026-08-26T11:25:30+02:00",
+      "source": "freelancermap.de",
+      "title": "Data & AI Business Strategy Consultant (m/w/d), Remote/Allendorf (ID: 30568)",
+      "url": "https://www.freelancermap.de/projekt/data-und-ai-business-strategy-consultant-m-w-d-remote-allendorf-id-30568"
+    },
+    {
+      "description": "Wir suchen für unseren Kunden in einem Infrastrukturprojekt im Bereich Stromnetzausbau / Erdkabel einen freiberuflichen Technischen Zeichner Infrastruktur Professional (m/w/d) . Aufgaben: Erstellung, Bearbeitung und Aktualisierung technischer Zeichnungen Planproduktion für Infrastruktur- und Erdkabelprojekte Strukturierte Bearbeitung größerer Mengen an Planunterlagen Arbeiten anhand einer Master Document List (MDL) Umsetzung und Dokumentation von Planänderungen Unterstützung der Trassierungs- und Planungsteams Sicherstellung einer strukturierten und nachvollziehbaren Planablage Profil: Berufserfahrung als Technischer Zeichner bzw. in einer vergleichbaren Funktion Erfahrung in Erdkabelprojekten im Stromnetzausbau Sehr gute Kenntnisse in AutoCAD Erfahrung in der strukturierten Planproduktion und Bearbeitung größerer Planpakete Erfahrung mit Master-Document-List-Verfahren (MDL) Idealerweise Erfahrung mit HGÜ-Projekten sowie im AC- oder MS-Bereich Kenntnisse in Civil 3D von Vorteil Kenntnisse in ProVI (OBERMEYER) von Vorteil Erfahrung im technischen Änderungsmanagement von Vorteil Kenntnisse der Autodesk Construction Cloud von Vorteil Rahmenbedingungen: Start: September 2026 Zeitraum: bis Mitte Dezember 2026 Auslastung: Zu Beginn ca. 10 %, projektabhängig steigend bis auf 100 % in einzelnen Wochen Ort: 100 % Remote / Homeoffice, kein Vor-Ort-Anteil Interesse? Dann freuen wir uns über ein aktuelles Projektprofil mit Angabe der Verfügbarkeit und des gewünschten Stundensatzes bzw. Tagessatzes .",
+      "first_seen": "2026-08-26T09:37:41.088715+00:00",
+      "id": "b1a6aab5fff01ffc",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-08-26T11:12:53+02:00",
+      "source": "freelancermap.de",
+      "title": "1013: Technischer Zeichner Infrastruktur  (m/w/d) | 100 % Remote",
+      "url": "https://www.freelancermap.de/projekt/1013-technischer-zeichner-infrastruktur-m-w-d-100-prozent-remote"
+    },
+    {
+      "description": "Für ein anspruchsvolles Projekt sucht die CIMPCO GmbH einen erfahrenen Full Stack Engineer (m/w/d) zur Weiterentwicklung eines modernen Händlerportals. Im Mittelpunkt stehen die Konzeption innovativer Funktionen, eine leistungsfähige technische Umsetzung sowie die Integration KI-gestützter Lösungen. Ihre Aufgaben Konzeption und Implementierung innovativer Funktionen für ein Händlerportal Enge Zusammenarbeit mit Product Management, UI/UX-Design und Softwareentwicklung Analyse und Optimierung von SQL-Abfragen zur Verbesserung der Anwendungsperformance Durchführung von Code Reviews und Sicherstellung hoher Qualitätsstandards Kontinuierliche Weiterentwicklung der bestehenden Codebasis Technischer Support sowie strukturierte Fehleranalyse zur Gewährleistung eines stabilen Betriebs Evaluierung und Implementierung KI-gestützter Funktionen zur Automatisierung und Optimierung von Arbeitsabläufen Ihr Profil Must-have Mindestens vier bis fünf Jahre Berufserfahrung als Full Stack Engineer Fundierte praktische Erfahrung mit Django 5.x, Tailwind CSS und HTMX Sehr gute Programmierkenntnisse in Python Erfahrung mit PostgreSQL, Redis oder vergleichbaren Datenspeichern Erfahrung in der Entwicklung und Optimierung moderner Webanwendungen Strukturierte, qualitätsorientierte und eigenverantwortliche Arbeitsweise Nice-to-have Gute Kenntnisse in JavaScript, HTML5 und CSS3 Erfahrung mit KI-gestützten Funktionen und Automatisierungslösungen Beiträge zu Open-Source-Projekten Erfahrung mit innovativen Greenfield-Projekten oder in einem Startup-Umfeld Ausgeprägtes Verständnis für Codequalität, Performance und wartbare Softwarearchitekturen Interesse Eine Zusammenarbeit ist sowohl auf freiberuflicher Basis als auch im Rahmen einer Festanstellung bei der CIMPCO GmbH möglich. Wir freuen uns über die Zusendung Ihres aktuellen Profils unter Angabe Ihrer Verfügbarkeit sowie Ihres gewünschten Stundensatzes beziehungsweise Ihrer Gehaltsvorstellung .",
+      "first_seen": "2026-08-26T09:37:41.088715+00:00",
+      "id": "3f463a39c4448a6d",
+      "matched_keywords": [
+        "tso"
+      ],
+      "published": "2026-08-26T11:12:46+02:00",
+      "source": "freelancermap.de",
+      "title": "Full Stack Engineer (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/full-stack-engineer-m-w-d-3040224"
+    },
+    {
       "description": "Für ein langfristig angelegtes Projekt bei einem international tätigen Unternehmen aus dem Automotive- und Nutzfahrzeugumfeld suchen wir kurzfristig Unterstützung im klassischen IT Onsite Support . Der Einsatz erfolgt überwiegend vor Ort an einem Unternehmensstandort im Hamburger Süden . Projektrahmen Start: ASAP / kurzfristig Laufzeit: zunächst projektbezogen, Verlängerung vorgesehen Auslastung: 4 Tage pro Woche Einsatzort: Hamburg Süd Remote: überwiegend Onsite Stundensatz: bis max. 35,00 € / Stunde Vertragsart: Freelancer / Freiberuflich Aufgaben Klassischer 1st- und 2nd-Level Onsite Support für die Anwender am Standort Analyse und Behebung von Hard- und Softwarestörungen Support von Windows 10/11 Clients, Notebooks und Desktop-Systemen Installation, Konfiguration und Austausch von Arbeitsplatzhardware Fehleranalyse bei Notebooks, Desktops und Peripheriegeräten Unterstützung bei Druckern, Monitoren, Dockingstations und mobilen Endgeräten Durchführung von IMAC-Tätigkeiten (Install, Move, Add, Change) Unterstützung bei kleineren Rollouts und Hardwarewechseln Bearbeitung von Incidents und Service Requests über das eingesetzte Ticketsystem Unterstützung bei einfachen Netzwerk- und Connectivity-Problemen Übergabe bzw. Eskalation komplexerer Störungen an nachgelagerte Supporteinheiten Dokumentation der durchgeführten Tätigkeiten und Lösungen Direkte Betreuung und Unterstützung der Anwender vor Ort Unterstützung der IT in einem teilweise produktionsnahen Umfeld Anforderungen Erfahrung im IT Onsite Support, Field Service oder 1st-/2nd-Level Support Gute Kenntnisse im Microsoft-Client-Umfeld, insbesondere Windows 10/11 Erfahrung mit PC-, Notebook- und Peripherie-Hardware Kenntnisse in der Installation und Konfiguration von Hard- und Software Erfahrung mit Ticketsystemen und strukturiertem Incident Management Grundkenntnisse in LAN/WLAN, Netzwerk und Connectivity Erfahrung mit mobilen Endgeräten / iOS von Vorteil Selbstständige und lösungsorientierte Arbeitsweise Sicheres und freundliches Auftreten gegenüber Endanwendern Gute Deutschkenntnisse Interessiert? Dann freuen wir uns über ein aktuelles Profil mit Angabe der Verfügbarkeit und des Stundensatzes . Felix Heet Ahmadi M: ***** *****",
       "first_seen": "2026-08-26T08:39:06.995920+00:00",
       "id": "19675810cd03cf21",
@@ -11879,5 +11963,5 @@
       "url": "https://www.freelancermap.de/projekt/ux-research-und-business-analysis-consultant-m-w-d"
     }
   ],
-  "updated_at": "2026-08-26T08:39:07.212315+00:00"
+  "updated_at": "2026-08-26T09:37:41.304335+00:00"
 }
