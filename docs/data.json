@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Westhouse ist eines der führenden Recruitment-Unternehmen für die Vermittlung hochqualifizierter Fachexperten aus dem gesamten IT-Lifecycle- und Engineering-Bereich. Für unseren Kunden suchen wir aktuell eine/n Architekt SAP und .NET-Plattform (m/w/d) Rahmeninformationen Referenz:179872 Einsatzort:Remote Starttermin:14.09.2026 Arbeitszeit:Vollzeit 60PT Dauer:Bis 31.12.2026+Verlängerung Sprachen:Deutsch Ihre Qualifikationen - Muss Kriterien: - SAP HANA Architektur 5 Jahre - S/4 HANA BTP 5 Jahre - .Net Plattform Architektur 3 Jahre - SAFe Framework 2 Jahre - Kenntnisse Lean IX 3 Jahre - Soll Kriterien: - Erfahrungen mit SCRUM 2 Referenzen - Kommunikationsstärke und erfahrener Umgang mit Top-Management 3 Referenzen - Erfahrung im Sektor Schienenverkehr 1 Referenz - Präsentations-Know-how, um komplexe Themen und Zusammenhänge zielgruppengerecht aufzubereiten und zu vermitteln 5 Jahre Ihre Aufgaben - Beratung zu SAP-Systemarchitektur im Kontext der bestehenden SAP-Systemlandschaft. - Bewertung von Lösungskonzepten für SAP-nahe Anwendungen und Integrationsvorhaben. - Erstellung von fachlich-technischen Freigabeempfehlungen für Lösungskonzepte. - Prüfung von Lösungskonzepten auf Einhaltung architektonischer Vorgaben für SAP-O. - Erstellung und Fortschreibung architektonischer Vorgaben für SAP-O im Kontext Onapsis. - Erstellung und Fortschreibung architektonischer Vorgaben für SAP-O im Kontext Clean Core. - Erstellung und Fortschreibung architektonischer Vorgaben für SAP-O im Kontext Programmiervorgaben. - Erstellung und Fortschreibung architektonischer Vorgaben für SAP-O im Kontext Archivierung. - Erstellung und Fortschreibung architektonischer Vorgaben für SAP-O im Kontext Datenlöschung. - Bewertung von SAP-HANA-Technologien im Hinblick auf Architekturkonformität und Integrationsfähigkeit. - Bewertung von C#-Entwicklungen im Hinblick auf Architekturkonformität und Einbindung in die bestehende Systemlandschaft. - Bewertung von Oracle-basierten Komponenten im Hinblick auf Architekturkonformität und Integrationsfähigkeit. - Bewertung von SaaS-Lösungen im Hinblick auf Architekturkonformität, Schnittstellenfähigkeit und Einbindung in die bestehende Systemlandschaft. - Überarbeitung und Pflege von Anwendungsinformationen in LeanIX. - Erstellung architekturbezogener Dokumentation in Confluence. - Erfassung und Fortschreibung architekturrelevanter Aufgaben, Bewertungen und Statusinformationen in Jira. - Erstellung von Entscheidungsvorlagen zu Architekturvarianten für SAP-nahe Integrationsszenarien. Interessiert? Interessiert? Wir freuen uns auf Ihren aussagekräftigen Lebenslauf/CV in elektronischer Form. Ihr Ansprechpartner: Merve Ilkiz ***** ***** *****",
+      "first_seen": "2026-09-01T01:37:28.693389+00:00",
+      "id": "7d31358819d522f1",
+      "matched_keywords": [
+        "scrum"
+      ],
+      "published": "2026-09-01T00:47:31+02:00",
+      "source": "freelancermap.de",
+      "title": "Architekt SAP und .NET-Plattform (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/architekt-sap-und-net-plattform-m-w-d-3042043"
+    },
+    {
       "description": "Leistungsbeschreibung Kaufmännische Sachbearbeitung mit Schwerpunkt Stammdatenpflege, Kundenkommunikation, Excel-Auswertungen und Unterstützung im Bereich Energiewirtschaft Anforderungen Projektbeschreibung: Sorgfältige Pflege, Aktualisierung und Überprüfung von Stammdaten in den entsprechenden Systemen Kompetente, zuverlässige und serviceorientierte Kundenkommunikation Unterstützen das Team durch die Erstellung, Pflege und Aufbereitung von Excel-Listen und Übersichten Regelmäßige sowie bedarfsorientierte Auswertungen erstellen Berufskompetenzen: Erfolgreich abgeschlossene Berufsausbildung als Industriekaufmann/Bürokaufmann (m/w/d) Fundierte Anwenderkenntnisse in MS Office besonders MS Excel Idealerweise Kenntnisse in der Energiewirtschaft (EEG, EnWG) Erste Grundkenntnisse in IT und Prozessen (SAP IS-U, Connect +, Robotron eCount) Strukturierte, eigenständige und pragmatische Arbeitsweise Über den Auftraggeber Start: 01.10.2026 Ende: 22.06.2027 Std/Wo: 38,00 Vertragsart: ANÜ Einsatzort: Augsburg Home-Office: Nach Absprache",
       "first_seen": "2026-08-31T22:25:44.765434+00:00",
       "id": "647b18500715dcf5",
@@ -10084,5 +10096,5 @@
       "url": "https://www.freelancermap.de/projekt/system-engineer-azure-m-w-d-3036601"
     }
   ],
-  "updated_at": "2026-08-31T22:25:44.974951+00:00"
+  "updated_at": "2026-09-01T01:37:28.875148+00:00"
 }
