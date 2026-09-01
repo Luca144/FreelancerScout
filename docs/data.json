@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Projektkontext Für ein langfristiges Kundenprojekt im öffentlichen Sektor suchen wir einen erfahrenen Consultant für Aufbau und Betrieb produktiver Kubernetes-Plattformen. Der Einsatz erfolgt vor Ort in Berlin in einem sicherheitsrelevanten Umfeld. Aufgaben Aufbau, Betrieb und Weiterentwicklung produktiver Kubernetes-Umgebungen Administration und Troubleshooting der zugrundeliegenden Linux-Systeme Betrieb cloud-nativer Plattformkomponenten und moderner Infrastrukturumgebungen Analyse und Behebung von Störungen im laufenden Betrieb (2nd/3rd Level) Zusammenarbeit mit den Plattform-, Netzwerk- und Betriebsteams des Kunden Muss-Anforderungen Mehrjährige Erfahrung im Aufbau und produktiven Betrieb von Kubernetes-Clustern Fundierte Linux-Administration (RHEL/Debian) inkl. Troubleshooting Erfahrung mit cloud-nativen Plattformen und Container-Ökosystemen Grundverständnis Netzwerk, Server und Storage Bereitschaft zum Einsatz vor Ort in Berlin Bereitschaft und Eignung zur Sicherheitsüberprüfung Deutsch verhandlungssicher Wünschenswert Erste Erfahrung mit der Google Cloud Platform (GCP) Infrastructure as Code (Terraform, Ansible) GitOps-Werkzeuge (ArgoCD, Flux), Helm Monitoring/Observability (Prometheus, Grafana) Erfahrung im öffentlichen Sektor oder in regulierten Umgebungen Bitte sende uns: Aussagekräftiges Profil/CV mit Kubernetes- und Linux-Projekterfahrung Deine Verfügbarkeit ab [Startdatum] Eine kurze Rückmeldung zur Eignung für die Sicherheitsüberprüfung",
+      "first_seen": "2026-09-01T22:59:29.359860+00:00",
+      "id": "377425cca4c3f109",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-09-01T23:59:45+02:00",
+      "source": "freelancermap.de",
+      "title": "Kubernetes / Linux Consultant (m/w/d) – Freiberuflich, Berlin (vor Ort)",
+      "url": "https://www.freelancermap.de/projekt/kubernetes-linux-consultant-m-w-d-freiberuflich-berlin-vor-ort-3042681"
+    },
+    {
       "description": "Project: Development of an Agentic AI Platform Industry: Chemical Industry Location: 100% Remote Start: 21 September 2026 Duration: Long-term project Language: German / English Seniority: Senior / Expert Rate: Up to €665/day Project Overview We are looking for a Senior AI Engineer to support the development of an agentic AI platform for a leading company in the chemical industry. The project focuses on integrating and connecting LLMs, AI agents, MCPs (Model Context Protocol) and existing AI services into a scalable platform environment. You will work closely with developers, architects and business stakeholders and play an important role in translating requirements into robust technical solutions. Your Responsibilities Develop and further enhance an agentic AI platform Integrate and connect LLMs, AI agents, MCPs and existing AI services Analyse business and technical requirements and translate them into practical AI solutions Work closely with developers, solution architects and business stakeholders Evaluate different approaches and independently develop structured technical solutions Support the design of modern Generative AI / Agentic AI architectures Align technical solutions with relevant stakeholders and communicate complex topics clearly Create and maintain technical documentation Contribute to knowledge transfer and the continuous development of the platform Your Profile Several years of experience as an AI Engineer, AI Developer or in a comparable senior AI role Strong practical experience with Generative AI and Large Language Models (LLMs) Hands-on experience with AI Agents / Agentic AI Experience integrating LLMs, AI services and/or agent-based systems Good understanding of modern AI architectures and application patterns Ability to independently analyse requirements and develop structured technical solutions Strong communication skills and confidence working with developers, architects and business stakeholders Ability to explain complex technical concepts in a clear and understandable way Fluent German and English Senior-level experience and a high degree of independence Application Please complete the following project qualification form as soon as possible so we can review your profile against the project requirements: https://os.pea-global.com/bewerben?vac=VA_000112 The position is to be filled promptly. Suitable profiles will be reviewed and, if there is a good match, forwarded directly for the next stage of the selection process.",
       "first_seen": "2026-09-01T20:32:22.265038+00:00",
       "id": "9e9f1f6a6d76dae2",
@@ -9218,5 +9230,5 @@
       "url": "https://www.freelancermap.de/projekt/linux-administrator-m-w-d-70-000euro-jahresbruttogehalt-in-mainz"
     }
   ],
-  "updated_at": "2026-09-01T20:32:22.443962+00:00"
+  "updated_at": "2026-09-01T22:59:29.551778+00:00"
 }
