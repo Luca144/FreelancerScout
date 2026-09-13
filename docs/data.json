@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Ihre Aufgaben: Wir suchen technische Projektleitung mit Migrations- und IPv4/IPv6 Erfahrung. - Unterstützung bei Festlegung des Vorgehens in den IPv6-Migrationen, - Durchführung der Ist-Aufnahme und der einzelnen Migrationsschritte - Beratung der Techniker im Projektteam im Hinblick auf Projektumsetzung, - Unterstützung des IT-Betriebs und Helpdesks im Zusammenhang mit der Umstellung Konfigurationselemente - Allgemeine Techniken von Projektmanagement und Projektorganisation - Sowie Projektmanagement unter Anwendung des Vorgehens im Migrationsleitfaden - Erstellen von Migrationshandbüchern und Konzepten Projektsprache: Deutsch C1 Fachliche Anforderungen: Qualifikation: Hochschulstudium oder Berufsausbildung in Informatik, Wirtschaftsinformatik, Mathe, Physik oder Ingenieurwissenschaften. IPv4 ++++ (excellent) > 4 Jahre IPv6 ++++ (excellent) > 4 Jahre Netzwerk ++++ (excellent) > 4 Jahre Migration ++++ (excellent) >4 Jahre Berufserfahrung: Mindestens 6 Jahre Gesamterfahrung, davon mindestens 4 Jahre explizit im Bereich Netzwerke. IPv6-Expertise: Praktische und durch drei verschiedene Referenzen nachgewiesene Erfahrung in IPv4-auf- IPv6- Migrationseinzelprojekten mit Aufgaben einer technischen Projektleitung oder gleichwertige Erfahrungen (davon mind. 1 Referenzprojekte zwingend in > 1000 Endgeräte). Sprachen: Sehr gute Deutschkenntnisse in Wort und Schrift Projektdaten : Projekt: 19253 Ort: Remote - innerhalb Deutschland Beginn: 02.11.2026 Dauer: 29.10.2027 Haben wir Ihr Interesse geweckt? ich freue mich über Ihren Kontakt.",
+      "first_seen": "2026-09-13T17:14:48.689858+00:00",
+      "id": "78bab3bb3303ddbf",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-09-13T18:45:39+02:00",
+      "source": "freelancermap.de",
+      "title": "Technische Projektleitung (m/w/d) - IPv6 Erfahrung",
+      "url": "https://www.freelancermap.de/projekt/technische-projektleitung-m-w-d-ipv6-erfahrung"
+    },
+    {
       "description": "Momentan suche ich für meinen Kunden aus Frankfurt am Main einen kurzfristig verfügbaren Senior Testmanager mit Release/E2E-Erfahrung (m/w/d) für ein 100% Remote Projekt. Das Projekt: Start: 01.10.2026, spätestens 19.10.2026 Länge: 3 Monate (Verlängerung möglich) Ort: 100% Remote (Endkunde sitzt in Frankfurt am Main) Sprache: Deutsch/Englisch Zu deinen Aufgaben zählen: • Koordination integrativer E2E- und Systemintegrationstests in komplexen Systemlandschaften; • Abstimmung der Testaktivitäten unter Berücksichtigung der technischen Architektur; • Steuerung von Release-, Build- und Deliveryprozessen unter Einsatz von GitLab und Artifactory; • Durchführung des Test- und Defectmanagements mittels Tools wie Xray und ALM Octane. Dein Background (!Selbsteinschätzung auf der Skala: 1-10!): • E2E-Testing/Systemintegration; • Transport/Logistik; • ISTQB-Zertifizierung; • Releaseprozesse/GitLab; • Xray/ALM Octane. Du hast Interesse und bist zeitnah verfügbar? Dann melde dich gerne mit aktuellem CV, deiner projektbezogenen Selbsteinschätzung und deinem Stundensatz. Gerne können wir uns dann über die Projektdetails telefonisch austauschen.",
       "first_seen": "2026-09-13T13:38:40.275942+00:00",
       "id": "b7f4aecf824936ec",
@@ -4291,5 +4303,5 @@
       "url": "https://www.freelancermap.de/projekt/senior-security-engineer-cisco-aci-security-hardening-microsoft-infrastruktur-m-w-d-100-prozent-remote"
     }
   ],
-  "updated_at": "2026-09-13T13:38:40.346848+00:00"
+  "updated_at": "2026-09-13T17:14:48.775650+00:00"
 }
