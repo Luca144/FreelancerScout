@@ -1,6 +1,35 @@
 {
   "projects": [
     {
+      "description": "Für einen unserer Endkunden in Hamburg sind wir aktuell auf der Suche nach einem:einer Business Analyst:in auf Dienstvertragsbasis zum zeitnahen Start. Die Kandidat:innen müssen sich in einem sozialversicherungspflichtigem Anstellungsverhältnis befinden bzw. die Bereitschaft haben, sich projektbezogen bei uns - über die eightbit talent GmbH - sozialversicherungspflichtig anstellen zu lassen. Aufgaben: Erhebung und Analyse fachlicher Anforderungen in Abstimmung mit Product Owner, Fachbereich, UX und Entwicklung Erstellung von funktionalen Analyse-Dokumenten (Prozessflüsse, Datenmodelle, Schnittstellen) auf Basis bestehender Templates Ausarbeitung von User Stories inkl. Akzeptanzkriterien nach GKP-Styleguide (hierarchische AC, bilinguale UI-Texte) Vorbereitung von Refinements: Klärung offener Fragen, Abstimmung von Abhängigkeiten, Aufbereitung von Entscheidungsvorlagen für den Product Owner Pflege der Dokumentation in Jira/Confluence (Epics, Stories, Verlinkungen) Unterstützung bei der Priorisierungsvorbereitung (Aufwand/Nutzen-Einschätzung in Abstimmung mit Entwicklung) Fachliche Abnahme von Arbeitsergebnissen, Unterstützung bei der Testkonzeption sowie im Umgang mit produktiven Störungen Umfang: ca. 2 Personentage pro Woche, mindestens einer davon in Zusammenarbeit mit dem Product Owner, zwecks Abstimmung und Übergabe von Themen. Die Einsatztage sollen sich an den agilen Teamformaten (Refinement, Planning, Review) orientieren und werden zu Projektbeginn mit dem Team abgestimmt. Zusammenarbeit mit einem kleinen Entwicklungsteam und Scrum Mastern über Teamgrenzen hinweg in einem agilen Umfeld (z. B. Scrum oder Kanban) Anforderungen: Mehrjährige Erfahrung im Requirements Engineering/Business-Analyse, idealerweise im agilen Umfeld Agile Arbeitsweisen (Scrum, Kanban) inkl. Vorbereitung und Moderation der zugehörigen Formate sind für dich selbstverständlich. Sicherer Umgang mit Jira und Confluence Erfahrung in der Erstellung von User Stories und testbaren Akzeptanzkriterien Strukturierte, eigenständige Arbeitsweise und hohe Kommunikationsfähigkeit gegenüber Fachbereich und Entwicklung Souveränes Stakeholder-Management: Du holst Fachbereiche ab, moderierst unterschiedliche Interessen und bereitest nachvollziehbare Entscheidungsgrundlagen für den Product Owner auf Verhandlungssicheres Deutsch (alle Dokumentationen werden auf Deutsch erstellt) Praktische Erfahrung mit KI-gestütztem Arbeiten: Du setzt Tools wie Claude Code selbstverständlich für Analyse, Konzeption und Dokumentation ein und verstehst Prompt Engineering als Handwerkszeug Technisches Grundverständnis für Web-Anwendungen, REST-Schnittstellen und Datenbanken – ausreichend, um mit dem Entwicklungsteam auf Augenhöhe zu diskutieren, ohne selbst zu entwickeln Rahmendaten: Einsatzort: Remote & 1-2 monatliche vor Ort Termine in Hamburg Start: November 2026 Laufzeit: 12 Monate Auslastung: 2 Tage/Woche Remoteanteil: 95% Sprachkenntnisse: deutsch Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
+      "first_seen": "2026-09-18T05:47:44.151783+00:00",
+      "id": "5d64229fc645b817",
+      "matched_keywords": [
+        "requirements engineer",
+        "business analyst",
+        "scrum master",
+        "product owner",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-09-18T06:31:25+02:00",
+      "source": "freelancermap.de",
+      "title": "Dienstleister für Business Analyst:in (2 Tage/Woche)",
+      "url": "https://www.freelancermap.de/projekt/dienstleister-fuer-business-analyst-in-2-tage-woche"
+    },
+    {
+      "description": "Für einen unserer Endkunden sind wir aktuell auf der Suche nach einem:einer Junior UI/UX Designer:in (50%) auf freiberuflicher Basis. Aufgaben: Erstellung von Wireframes und klickbaren Prototypen in Axure unter Berücksichtigung des bestehenden Designs für neue Funktionalitäten Unterstützung bei der Durchführung von Usability-Tests und bei der Befragung von Anwendern Analyse von Benutzerfeedback Selbstständige Erarbeitung von Vorschlägen für Verbesserungen am bestehenden Design Anforderungen: Abgeschlossenes Studium in Mediendesign, Kommunikationsdesign, Interaction Design, Medieninformatik oder einer vergleichbaren Fachrichtung Grundkenntnisse in Axure oder einem vergleichbaren Prototyping-Tool (z. B. Figma, Adobe XD) Grundverständnis von UX-Methoden wie Usability-Tests, Personas und User Journeys Erste praktische Erfahrungen im UX-/UI-Umfeld, z. B. durch Studium, Praktika, Werkstudententätigkeiten oder private Projekte Wünschenswert: Erste Berührungspunkte mit Design Systems oder Komponentenbibliotheken Rahmendaten: Einsatzort: remote/Nürnberg Start: 01.10. nach bestandener SÜ Laufzeit: 31.03.2027 Auslastung: 50% Remoteanteil: ca. 80% Sprachkenntnisse: Deutsch Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
+      "first_seen": "2026-09-18T05:47:44.151783+00:00",
+      "id": "832a4a33b0896743",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-09-18T06:31:20+02:00",
+      "source": "freelancermap.de",
+      "title": "Junior UI/UX Designer:in (50%)",
+      "url": "https://www.freelancermap.de/projekt/junior-ui-ux-designer-in-50-prozent"
+    },
+    {
       "description": "25 Tage vom 01.11.2026 bis 30.09.2027 CITAX ist die SAP-basierte Softwarelösung, die den gesamten Incentive-Management Prozess digital und automatisiert abbildet. Anforderungen: Muss: 3 Jahre Berufserfahrung in PMO- oder Projektsteuerungsfunktionen in IT-Projekten Muss: Projektmanagement-Zertifizierung, z.B. IPMA Level D, PRINCE2®, PMI PMP® oder gleichwertig Muss: 1 Referenzprojekte mit Verantwortung für Statusberichtswesen und Gremienunterlagen bis Lenkungsausschussebene Muss: Nachgewiesene Erfahrung in Risiko-, Issue- und Maßnahmenmanagement Muss: Sichere Anwendung gängiger Projektmanagement- und Kollaborationswerkzeuge (u.a. MS Project, Jira, Confluence oder vergleichbar) Muss: Verhandlungssichere Deutschkenntnisse (mindestens C1) Kann: Erfahrung im PMO von Softwareeinführungsprojekten mit externen Lieferanten Kann: Erfahrung in der Nachverfolgung von Lieferantenverpflichtungen Kann: Erfahrung im PMO von Projekten im SAP-Umfeld Kann: Erfahrung im Stakeholder- und Change-Management bei Softwareeinführungen Kann: Zertifizierung im agilen Umfeld (z.B. Scrum, SAFe) oder vergleichbar",
       "first_seen": "2026-09-18T01:00:49.150724+00:00",
       "id": "229231105b52a17e",
@@ -4126,5 +4155,5 @@
       "url": "https://www.freelancermap.de/projekt/platform-tester-m-w-d"
     }
   ],
-  "updated_at": "2026-09-18T01:00:49.234301+00:00"
+  "updated_at": "2026-09-18T05:47:44.235778+00:00"
 }

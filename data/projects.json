@@ -1,5 +1,65 @@
 [
   {
+    "description": "Projektziel: Eine bestehende Comfi UI Anwendung soll überarbeitet und angepasst werden. Hauptaufgaben: - Überarbeitung der vorhandenen Comfi UI Anwendung - Anpassung der bestehenden Anwendung Erwartetes Ergebnis: - Eine überarbeitete und angepasste Comfi UI Anwendung",
+    "first_seen": "2026-09-18T05:47:44.151783+00:00",
+    "id": "902bffd6393d445e",
+    "matched_keywords": [],
+    "published": "2026-09-18T07:12:26+02:00",
+    "source": "freelancermap.de",
+    "title": "Entwickler für Überarbeitung einer Comfi UI Anwendung gesucht",
+    "url": "https://www.freelancermap.de/projekt/entwickler-fuer-ueberarbeitung-einer-comfi-ui-anwendung-gesucht"
+  },
+  {
+    "description": "Für einen unserer Endkunden in Hannover sind wir aktuell auf der Suche nach einem:einer Senior Python Developer auf freiberuflicher Basis. Aufgaben: Build and maintain Flask APIs and server-rendered web pages Improve PDF extraction, OCR, clause detection, matching, and RAG search Develop reliable Celery/Redis background processing Integrate AWS Bedrock LLM workflows and improve prompt/output reliability Work with PostgreSQL, SQLAlchemy, pgvector, AWS S3, and Aurora Anforderungen: Strong Python (5+ years), Flask, SQLAlchemy, and PostgreSQL Production experience with Celery and Redis Practical LLM/RAG experience, ideally AWS Bedrock and Claude PDF/document-processing and OCR experience AWS: S3, RDS/Aurora, IAM, KMS, CloudWatch pytest, Docker, Git, and secure secrets management Rahmendaten: Einsatzort: remote Start: 01.10.2026 Laufzeit: 3 Monate Auslastung: 40-50% Remoteanteil: 100% Sprachkenntnisse: Deutsch und Englisch Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
+    "first_seen": "2026-09-18T05:47:44.151783+00:00",
+    "id": "5829a0096c04d116",
+    "matched_keywords": [],
+    "published": "2026-09-18T06:31:38+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior Python Developer",
+    "url": "https://www.freelancermap.de/projekt/senior-python-developer-3049360"
+  },
+  {
+    "description": "Für einen unserer Kunden aus dem Behördenumfeld aus Berlin suchen wir asap eine:n Entwickler:in für SAP Workflow und OpenText VIM für die Einführung der E-Rechnung auf freiberuflicher Basis. Anforderungen sehr gute Kenntnisse mit SAP Business Workflow sehr gute OpenText Vendor Invoice Management (VIM) for SAP Kenntnisse Entwicklungserfahrung mit ABAP / ABAP OO Erfahrungen mit Eingangsrechnungsprozessen ist wünschenswert Kenntnisse mit Opentext ebenfalls wünschenswert Einsatzort: Berlin / Remote (80-90 % remote, alle 4 Wochen 3 Tage Vorort HH oder B) Start: asap Auslastung: Vollzeit Laufzeit: 6 Monate mit Option auf Verlängerung Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils.",
+    "first_seen": "2026-09-18T05:47:44.151783+00:00",
+    "id": "fa13cede6a17d55e",
+    "matched_keywords": [],
+    "published": "2026-09-18T06:31:34+02:00",
+    "source": "freelancermap.de",
+    "title": "SAP VIM / Workflow Entwicklung (Berlin/Remote)",
+    "url": "https://www.freelancermap.de/projekt/sap-vim-workflow-entwicklung-berlin-remote"
+  },
+  {
+    "description": "Für einen unserer Kunden sind wir aktuell auf der Suche nach einem:einer Software-/Systemarchitekt:in per Remote Aufgaben: Konzeption, Entwicklung und Weiterentwicklung von Software- und Systemarchitekturen Erstellung von Architekturkonzepten, technischen Zielbildern und Lösungsvarianten Konzeption und Bewertung von: Systemkomponenten, Schnittstellen Rest API's, Integrationen von Drittsystemen Dokumentation von Architekturentscheidungen (ADR) und technischen Lösungsvarianten Konzeption und Begleitung von Build-, Deployment-, Logging-, Tracing- und Monitoring-Lösungen Anforderungen: Kenntnisse Architekturmethoden und -frameworks, insbesondere TOGAF Technische Kenntnisse in: Java / Spring Rest API's DBMS GitLab Linux / Windows Server PowerShell Ansible Terrarform Rahmendaten: Einsatzort: Remote Start: 01.10.2026 Laufzeit: 30.07.2026 Auslastung: Vollzeit Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
+    "first_seen": "2026-09-18T05:47:44.151783+00:00",
+    "id": "a6d5b717533c7b01",
+    "matched_keywords": [],
+    "published": "2026-09-18T06:31:29+02:00",
+    "source": "freelancermap.de",
+    "title": "Software-/Systemarchitekt:in per Remote",
+    "url": "https://www.freelancermap.de/projekt/software-systemarchitekt-in-per-remote"
+  },
+  {
+    "description": "Für einen unserer Endkunden in Hamburg sind wir aktuell auf der Suche nach einem:einer Business Analyst:in auf Dienstvertragsbasis zum zeitnahen Start. Die Kandidat:innen müssen sich in einem sozialversicherungspflichtigem Anstellungsverhältnis befinden bzw. die Bereitschaft haben, sich projektbezogen bei uns - über die eightbit talent GmbH - sozialversicherungspflichtig anstellen zu lassen. Aufgaben: Erhebung und Analyse fachlicher Anforderungen in Abstimmung mit Product Owner, Fachbereich, UX und Entwicklung Erstellung von funktionalen Analyse-Dokumenten (Prozessflüsse, Datenmodelle, Schnittstellen) auf Basis bestehender Templates Ausarbeitung von User Stories inkl. Akzeptanzkriterien nach GKP-Styleguide (hierarchische AC, bilinguale UI-Texte) Vorbereitung von Refinements: Klärung offener Fragen, Abstimmung von Abhängigkeiten, Aufbereitung von Entscheidungsvorlagen für den Product Owner Pflege der Dokumentation in Jira/Confluence (Epics, Stories, Verlinkungen) Unterstützung bei der Priorisierungsvorbereitung (Aufwand/Nutzen-Einschätzung in Abstimmung mit Entwicklung) Fachliche Abnahme von Arbeitsergebnissen, Unterstützung bei der Testkonzeption sowie im Umgang mit produktiven Störungen Umfang: ca. 2 Personentage pro Woche, mindestens einer davon in Zusammenarbeit mit dem Product Owner, zwecks Abstimmung und Übergabe von Themen. Die Einsatztage sollen sich an den agilen Teamformaten (Refinement, Planning, Review) orientieren und werden zu Projektbeginn mit dem Team abgestimmt. Zusammenarbeit mit einem kleinen Entwicklungsteam und Scrum Mastern über Teamgrenzen hinweg in einem agilen Umfeld (z. B. Scrum oder Kanban) Anforderungen: Mehrjährige Erfahrung im Requirements Engineering/Business-Analyse, idealerweise im agilen Umfeld Agile Arbeitsweisen (Scrum, Kanban) inkl. Vorbereitung und Moderation der zugehörigen Formate sind für dich selbstverständlich. Sicherer Umgang mit Jira und Confluence Erfahrung in der Erstellung von User Stories und testbaren Akzeptanzkriterien Strukturierte, eigenständige Arbeitsweise und hohe Kommunikationsfähigkeit gegenüber Fachbereich und Entwicklung Souveränes Stakeholder-Management: Du holst Fachbereiche ab, moderierst unterschiedliche Interessen und bereitest nachvollziehbare Entscheidungsgrundlagen für den Product Owner auf Verhandlungssicheres Deutsch (alle Dokumentationen werden auf Deutsch erstellt) Praktische Erfahrung mit KI-gestütztem Arbeiten: Du setzt Tools wie Claude Code selbstverständlich für Analyse, Konzeption und Dokumentation ein und verstehst Prompt Engineering als Handwerkszeug Technisches Grundverständnis für Web-Anwendungen, REST-Schnittstellen und Datenbanken – ausreichend, um mit dem Entwicklungsteam auf Augenhöhe zu diskutieren, ohne selbst zu entwickeln Rahmendaten: Einsatzort: Remote & 1-2 monatliche vor Ort Termine in Hamburg Start: November 2026 Laufzeit: 12 Monate Auslastung: 2 Tage/Woche Remoteanteil: 95% Sprachkenntnisse: deutsch Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
+    "first_seen": "2026-09-18T05:47:44.151783+00:00",
+    "id": "5d64229fc645b817",
+    "matched_keywords": [],
+    "published": "2026-09-18T06:31:25+02:00",
+    "source": "freelancermap.de",
+    "title": "Dienstleister für Business Analyst:in (2 Tage/Woche)",
+    "url": "https://www.freelancermap.de/projekt/dienstleister-fuer-business-analyst-in-2-tage-woche"
+  },
+  {
+    "description": "Für einen unserer Endkunden sind wir aktuell auf der Suche nach einem:einer Junior UI/UX Designer:in (50%) auf freiberuflicher Basis. Aufgaben: Erstellung von Wireframes und klickbaren Prototypen in Axure unter Berücksichtigung des bestehenden Designs für neue Funktionalitäten Unterstützung bei der Durchführung von Usability-Tests und bei der Befragung von Anwendern Analyse von Benutzerfeedback Selbstständige Erarbeitung von Vorschlägen für Verbesserungen am bestehenden Design Anforderungen: Abgeschlossenes Studium in Mediendesign, Kommunikationsdesign, Interaction Design, Medieninformatik oder einer vergleichbaren Fachrichtung Grundkenntnisse in Axure oder einem vergleichbaren Prototyping-Tool (z. B. Figma, Adobe XD) Grundverständnis von UX-Methoden wie Usability-Tests, Personas und User Journeys Erste praktische Erfahrungen im UX-/UI-Umfeld, z. B. durch Studium, Praktika, Werkstudententätigkeiten oder private Projekte Wünschenswert: Erste Berührungspunkte mit Design Systems oder Komponentenbibliotheken Rahmendaten: Einsatzort: remote/Nürnberg Start: 01.10. nach bestandener SÜ Laufzeit: 31.03.2027 Auslastung: 50% Remoteanteil: ca. 80% Sprachkenntnisse: Deutsch Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
+    "first_seen": "2026-09-18T05:47:44.151783+00:00",
+    "id": "832a4a33b0896743",
+    "matched_keywords": [],
+    "published": "2026-09-18T06:31:20+02:00",
+    "source": "freelancermap.de",
+    "title": "Junior UI/UX Designer:in (50%)",
+    "url": "https://www.freelancermap.de/projekt/junior-ui-ux-designer-in-50-prozent"
+  },
+  {
     "description": "25 Tage vom 01.11.2026 bis 30.09.2027 CITAX ist die SAP-basierte Softwarelösung, die den gesamten Incentive-Management Prozess digital und automatisiert abbildet. Anforderungen: Muss: 3 Jahre Berufserfahrung in PMO- oder Projektsteuerungsfunktionen in IT-Projekten Muss: Projektmanagement-Zertifizierung, z.B. IPMA Level D, PRINCE2®, PMI PMP® oder gleichwertig Muss: 1 Referenzprojekte mit Verantwortung für Statusberichtswesen und Gremienunterlagen bis Lenkungsausschussebene Muss: Nachgewiesene Erfahrung in Risiko-, Issue- und Maßnahmenmanagement Muss: Sichere Anwendung gängiger Projektmanagement- und Kollaborationswerkzeuge (u.a. MS Project, Jira, Confluence oder vergleichbar) Muss: Verhandlungssichere Deutschkenntnisse (mindestens C1) Kann: Erfahrung im PMO von Softwareeinführungsprojekten mit externen Lieferanten Kann: Erfahrung in der Nachverfolgung von Lieferantenverpflichtungen Kann: Erfahrung im PMO von Projekten im SAP-Umfeld Kann: Erfahrung im Stakeholder- und Change-Management bei Softwareeinführungen Kann: Zertifizierung im agilen Umfeld (z.B. Scrum, SAFe) oder vergleichbar",
     "first_seen": "2026-09-18T01:00:49.150724+00:00",
     "id": "229231105b52a17e",
