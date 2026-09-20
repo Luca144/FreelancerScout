@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Wir suchen für unseren Kunden einen Consultant (m/w/d) für Copilot Studio Platform-Betriebsführung. Es sind 50 PT insgesamt geplant, davon remote 47 PT und in Frankfurt/Main 3 PT. Anforderungen: Mehr als 3 Jahre Kenntnisse in Microsoft PowerPlatform Administration und Governance, insbesondere Copilot Studio, Managed Environments, Environment-Strategien, Sicherheitsrollen, DLP-Richtlinien, Connector-Governance und PP-Admin-Centre Nachgewiesene praktische Erfahrung mit Microsoft Copilot Studio, insbesondere Governance-relevanten Einstellungen innerhalb von PowerPlatform-Umgebungen mit KI-Nutzung und der Konfiguration von Agents (2 Projektreferenzen) Mehr als 3 Jahre Erfahrung bei der Konzeption, Einführung und Weiterentwicklung von Governance-, Betriebs- und Berechtigungskonzepten für geteilte PowerPlatform-/Copilot-Studio-Umgebungen Erfahrung in der Erstellung von Governance-Dokumentationen zu Betriebsprozessen, Rollen- und Berechtigungsmodellen, Entscheidungsvorlagen und Mindestanforderungen für Maker oder Citizen Developer im Kontext Agentenerstellung auf der PowerPlatform (1 Projektreferenz) Erfahrung in der Erstellung von Monitoring- und Abrechnungsmodellen für Copilot-Credits (1 Projektreferenz) Erfahrung mit dem Aufbau und der Konfiguration von PowerPlatform-Umgebungen in komplexen Konzern- oder Großunternehmensstrukturen mit zentralen Plattform-, Betriebs-, Security- und Freigabeprozesse aber dezentraler Nutzung der Infrastruktur (2 Projektreferenzen) Mehr als 3 Jahre Erfahrung mit Center-of-Excellence-Strukturen, mit dem Aufbau, Betrieb oder der Weiterentwicklung eines PowerPlatform CoE oder vergleichbarer Enablement-/Governance-Strukturen Erfahrung mit Kosten-, Verbrauchs- und Nutzungsmonitoring für Plattformnutzung, insbesondere Kenntnisse zu Copilot- und AI-Builder-Credits und deren Abrechnung (2 Projektreferenzen) Erfahrung mit Application Life-cycle Management für Copilot-Studio-Lösungen, insbesondere Solution-Konzept, Deployment-Pfade, Umgebungsabgrenzung, Versionierung, Test-/Abnahmeprozesse und Übergabe in den Betrieb (2 Projektreferenzen) Mehr als 3 Jahre nachweisbare praktische und theoretische Kenntnisse im Umfeld des SAFe- und SCRUM-Frameworks Wenn das ein passendes Projekt für Ihren Kollegen ist (m/w/d), senden Sie bitte ein Bewertung zu den einzelnen Anforderungspunkten in Verbindung mit einem aktuellen CV und Konditionen.",
+      "first_seen": "2026-09-20T22:58:02.874408+00:00",
+      "id": "0089541e83537d97",
+      "matched_keywords": [
+        "scrum"
+      ],
+      "published": "2026-09-21T00:36:44+02:00",
+      "source": "freelancermap.de",
+      "title": "Consultant Copilot Studio Platform-Betriebsführung (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/consultant-copilot-studio-platform-betriebsfuehrung-m-w-d"
+    },
+    {
       "description": "Projekt Für den Ausbau unseres Partnernetzwerks suchen wir selbstständige Vertriebspartner, Berater und Digitalisierungsexperten, die Unternehmen, Vereine und Selbstständige bei der Einführung unserer Softwarelösung JDS Management unterstützen. JDS Management ist eine moderne Verwaltungs- und Managementsoftware für Vereine, Unternehmen, Freelancer, Hotels und Gastronomiebetriebe. Aufgaben Neukundengewinnung Beratung potenzieller Kunden Vorstellung und Demonstration der Software Unterstützung bei der Einführung Aufbau eines eigenen Kundenstamms Langfristige Betreuung von Kundenbeziehungen Zielgruppen Vereine Kleine und mittelständische Unternehmen Freelancer und Selbstständige Hotels Restaurants Weitere Organisationen mit Verwaltungsbedarf Anforderungen Gute Deutschkenntnisse Englischkenntnisse von Vorteil Eigenes Netzwerk von Vorteil Interesse an Digitalisierung und Softwarelösungen Keine spezifischen Softwarekenntnisse erforderlich. Unser Angebot Verhandelbare Provisionen Zusätzliche Provisionen bei Folgeverkäufen Kostenlose Schulungen Teilnahmezertifikat Marketing- und Vertriebsmaterialien Demo-Systeme Partnerportal Technischer Support Gelegentliche Lead-Weitergabe Möglichkeit auf bevorzugte regionale Partnerschaften Rahmenbedingungen Remote Weltweit Flexible Zeiteinteilung Neben- oder hauptberuflich möglich Langfristige Zusammenarbeit Über Joel Digitals Joel Digitals entwickelt innovative Softwarelösungen für die Digitalisierung von Vereinen, Unternehmen und Selbstständigen. Mit JDS Management bieten wir eine moderne Alternative zu komplexen und oft teuren Verwaltungssystemen. Wir freuen uns auf motivierte Partner, die gemeinsam mit uns wachsen möchten.",
       "first_seen": "2026-09-20T20:24:05.528794+00:00",
       "id": "00b98b89ba253b27",
@@ -4332,5 +4344,5 @@
       "url": "https://www.freelancermap.de/projekt/junior-sap-cs-pm-consultant-m-w-d"
     }
   ],
-  "updated_at": "2026-09-20T20:24:05.614669+00:00"
+  "updated_at": "2026-09-20T22:58:03.006713+00:00"
 }
