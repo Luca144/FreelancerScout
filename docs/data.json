@@ -1,6 +1,30 @@
 {
   "projects": [
     {
+      "description": "Einen schönen guten Tag, wir suchen für einen unserer Kunden einen IT-Supporter vor Ort in Ditzingen. Rahmendaten Start/Laufzeit: 01.10.2026–31.01.2027 Vollzeit vor Ort Bitte beachten: Aus Sicherheitsgründen ist eine Beauftragung leider nicht möglich, wenn das Herkunftsland auf der geltenden Staatenliste steht. Aufgaben 1st- und 2nd-Level-Support Support für Clients, Drucker und Telefonie Installation und Konfiguration von Windows-Clients Ticketbearbeitung Unterstützung bei Server- und Netzwerkaufgaben Asset- und Hardwaremanagement Pflege technischer Dokumentationen Anforderungen Mehrjährige Erfahrung im IT-Support Gute Microsoft- und Windows-Kenntnisse Sehr gute Deutsch- und gute Englischkenntnisse Strukturierte und serviceorientierte Arbeitsweise ITIL- und ServiceNow-Kenntnisse von Vorteil Bitte senden Sie uns Ihr aktuelles Profil inklusive Referenzen, Stundensatz und Verfügbarkeit. Wir freuen uns auf Ihre Bewerbung!",
+      "first_seen": "2026-09-20T10:36:21.646308+00:00",
+      "id": "c943628fb92a1496",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-09-20T11:54:42+02:00",
+      "source": "freelancermap.de",
+      "title": "IT-Support (m/w/d) in Ditzingen Onsite gesucht",
+      "url": "https://www.freelancermap.de/projekt/it-support-m-w-d-in-ditzingen-onsite-gesucht"
+    },
+    {
+      "description": "Wir suchen für unseren Kunden einen erfahrenen SAP Senior EWM Berater (m/w) für ein S/4HANA-EWM-Projekt . Eckdaten: Einsatzort: Remote und Pinneberg Start: 01.10.2026 Ende: 31.12.2026 Auslastung: ca. 3 Tage/Woche Konditionen: ca. 120 €/Std. remote , Onsite zzgl. Nebenkosten Projektsprache: Deutsch Schwerpunkte / Anforderungen: Selbstständige Durchführung von Prozess-Workshops mit den Fachbereichen Konzeption und Design der EWM-Soll-Prozesse : Inbound, Outbound, interne Logistik und Produktionsversorgung Hands-on SAP EWM Customizing in S/4HANA Vollständiges Aufsetzen der Lagerprozesse und Organisationsstrukturen Fachliche Führung und Koordination der eingebundenen GDS-KollegInnen Prüfung und Abnahme der WRICEF-Items vor Übergabe in den UAT Sprintplanung und Status-Reporting im EWM-Workstream Planung und Durchführung von Unit-, Integrations- und UAT-Tests Fehleranalyse, Klassifizierung und Koordination der Fehlerbehebung Cutover-Unterstützung , insbesondere Bestands- und Stammdatenmigration Vorbereitung von Trainingsunterlagen und Schulung der Key-User Support während Go-Live und Hypercare zur Sicherstellung stabiler Lagerprozesse Besonders wichtig: Senior-Level / fundierte SAP EWM-Erfahrung , S/4HANA , Hands-on Customizing , Erfahrung in der Workstream-Steuerung , Testmanagement , Cutover/Migration sowie sehr gute Deutschkenntnisse .",
+      "first_seen": "2026-09-20T10:36:21.646308+00:00",
+      "id": "ab9e4eb4c0f311ab",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-09-20T09:16:44+02:00",
+      "source": "freelancermap.de",
+      "title": "SAP Senior EWM Berater (m/w)",
+      "url": "https://www.freelancermap.de/projekt/sap-senior-ewm-berater-m-w"
+    },
+    {
       "description": "Für einen unserer Kunden suchen wir einen Business Analysten (m/w/d) zur Unterstützung eines laufenden Portfoliotransfers (Verträge, Prämien, Verbindlichkeiten). Anforderungen des Kunden: Mehrjährige Berufserfahrung als Business Analyst Einschlägige Erfahrung in der Versicherungsbranche, insbesondere in der Analyse und Optimierung von Prozessen und IT-Systemen Erfahrung in der Durchführung von Post-Merger-Integrationen und im Change- Management Fundierte Kenntnisse in der Anwendung von Standards und Tools wie PM-Standards (z. B. Scrum, Kanban), Microsoft Office, Teams, Jira und Confluence Technisches Verständnis und Erfahrung in der Analyse und Modellierung von IT-Systemen und Schnittstellen (z. B. UML, BPMN) Grundlegendes fachliches Verständnis des Lebensversicherungsumfelds Aufgaben: Durchführung von Interviews und Workshops mit den Fachbereichen zur Anforderungsanalyse und Prozessaufnahme Ableitung von Use-Cases, Diagrammen und groben Prozessbildern zur Visualisierung der Anforderungen Analyse und Dokumentation der (internen/externen) Kommunikationsprozesse zwischen bestehenden Systemen Identifikation und Herausarbeitung von Anforderungen unter Berücksichtigung der fachlichen Bedürfnisse, technischen Machbarkeit und gesetzlichen Vorgaben Strukturierte, transparente und kategorisierte Dokumentation der Anforderungen in geeigneten Tools (z. B. Jira, Confluence) unter Berücksichtigung der Anforderungen von der Aufsichtsbehörden Analyse und Management von Abhängigkeiten zwischen Anforderungen Bewertung potenzieller Risiken und Definition geeigneter Maßnahmen zur Risikominimierung Unterstützung bei der Erstellung von IT-Konzepten und technischen Lösungsdesign Zertifikate (gewünscht bzw. von Vorteil): CPRE (Certified Professional for Requirements Engineering) – Foundation Level PM-Zertifizierung (z. B. IPMA, PMI, PRINCE2) ISTQB Foundation Level (International SoftwareTesting Qualifications Board) Weitere Zertifizierungen im Bereich BusinessAnalysis oder IT-Testing (z. B. CBAP, CCBA) Bei Interesse senden Sie uns bitte neben Ihrem CV Ihre Stundensatzvorstellungen VB für Remote und vor Ort Frankfurt, sowie Ihre zeitliche Verfügbarkeit.",
       "first_seen": "2026-09-19T22:05:44.256539+00:00",
       "id": "d1d78404417909db",
@@ -4258,5 +4282,5 @@
       "url": "https://www.freelancermap.de/projekt/externer-it-sicherheitsbeauftragter-isb-fuer-schwachstellen-und-risikomanagement-nis2-kritis"
     }
   ],
-  "updated_at": "2026-09-20T05:41:50.485145+00:00"
+  "updated_at": "2026-09-20T10:36:21.731006+00:00"
 }
