@@ -1,5 +1,15 @@
 [
   {
+    "description": "Projekt. Neuentwicklung einer datenbankgestützten Fachanwendung für einen öffentlichen Auftraggeber im Bundesbereich. Laufzeit. Rund 18 Monate, Start voraussichtlich Dezember 2026. Vollzeit oder belastbare Teilzeit. Ort. Überwiegend remote. Einzelne Präsenztermine beim Kunden in Berlin Technologie Jakarta EE 10 im Full Profile auf JBoss EAP 8, OpenJDK 21 JSF mit Facelets und PrimeFaces, JPA, EJB, JAX-RS und JAX-WS PostgreSQL 15, Liquibase, Maven Keycloak 26 mit OpenID Connect, OpenLDAP Kein Spring — die Anwendung wird durchgängig mit Jakarta-EE-Bordmitteln umgesetzt, einschließlich transitiver Abhängigkeiten Was du mitbringen musst mindestens 4 Jahre Entwurf und Programmierung von Webservice-Schnittstellen (SOAP und/oder REST) und mindestens 4 Jahre Design und Entwicklung webbasierter Oberflächen unter Java EE mit HTML, CSS, JavaScript und JSF — beides, nicht nur eines davon Deutsch auf C1-Niveau oder Deutsch B2 kombiniert mit Englisch C1 (GER) Von Vorteil Barrierefreiheit nach BITV 2.0 / EN 301 549 Testautomatisierung mit Selenium oder Arquillian Graphene, JMeter, SoapUI Datenmigration Oracle ? PostgreSQL XML-Verarbeitung mit XSD, XSLT, JAXB Rahmenbedingungen. Die Beauftragung steht unter dem Vorbehalt des Zuschlags; das Angebot ist eingereicht, die Entscheidung wird für Ende Oktober 2026 erwartet. Bewerbung. Profil mit konkreten Projektbeispielen zu Jakarta EE, JSF und Webservice-Schnittstellen, Verfügbarkeit ab November 2026 und Stundensatz an *****",
+    "first_seen": "2026-09-21T05:57:10.367306+00:00",
+    "id": "2e9ab1d18bb74866",
+    "matched_keywords": [],
+    "published": "2026-09-21T03:31:41+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior Java-/Jakarta-EE-Entwickler (m/w/d) — freiberuflich, remote",
+    "url": "https://www.freelancermap.de/projekt/senior-java-jakarta-ee-entwickler-m-w-d-freiberuflich-remote"
+  },
+  {
     "description": "Für meine junge Digitalmarke KUPERA suche ich Unterstützung. Ich biete 2 verschiedene Tätigkeiten. Ein Schwerpunkt ist die aktive Gewinnung neuer Kunden für digitale Produkte wie Excel-Tools, Vorlagen und weitere digitale Lösungen. Kein direkter oder telefonischer Verkauf erforderlich. Zu den möglichen Aufgaben gehört die Entwicklung eigener Vertriebsansätze sowie die Unterstützung beim Aufbau neuer Vertriebskanäle. Die andere Aufgabe besteht in der Entwicklung neuer Produkte. Hierbei handelt es sich um automatisierte Lösungen (Excel, PDF usw.) Die Zusammenarbeit erfolgt vollständig remote und flexibel. Wichtig sind Eigeninitiative, zuverlässige Kommunikation und Freude an Marketing oder der Produktentwicklung. Vergütung: provisionsbasiert nach tatsächlich erzielten Verkäufen. Details und Provisionshöhe werden vor Beginn transparent vereinbart. KUPERA befindet sich aktuell im Aufbau. Gesucht wird daher jemand, der Lust hat, früh dabei zu sein und den Vertrieb gemeinsam mit mir weiterzuentwickeln und langfristig mitzuverdienen.",
     "first_seen": "2026-09-21T00:56:26.132392+00:00",
     "id": "ca5173c8be509bd9",
@@ -8308,15 +8318,5 @@
     "source": "freelancermap.de",
     "title": "Junior SAP CS/PM Consultant  (m/w/d)",
     "url": "https://www.freelancermap.de/projekt/junior-sap-cs-pm-consultant-m-w-d"
-  },
-  {
-    "description": "Im Rahmen einer Microsoft Dynamics365 FSCM Einführung sind Sie für die fachliche Konzeption, Optimierung, Validierung und den Test einer komplexen ECM-Lösung auf Basis von Sharepoint verantwortlich. Konkret geht es um Shareflex - Kenntnisse hierzu sind optional. Ziel ist die Einführung einer integrierten ECM-Plattform zur Unterstützung von Projektakten, Artikel- und Variantenakten, Eingangsrechnungsverarbeitung sowie der Anbindung an Microsoft FSCM und weitere Umsystemen. ??Darüber hinaus sind sowie für die Koordination der Zusammenarbeit mit den Implementierungs- und Entwicklungsdienstleistern verantwortlich. Rahmendaten Start: ab sofort Auslastung: 50 % - 100 % möglich Remote: Im Schnitt 60-80 % - flexibel je nach Projektphase Dauer: Mindestens 12 Monate Ihre Aufgaben Aufgaben Analyse und Optimierung bestehender ECM-Prozesse Fachliche Konzeption von Projekt-, Artikel- und Variantenakten Definition von Dokumentenklassen, Metadaten und Ablagestrukturen Mitarbeit bei der Konzeption und Umsetzung der Migration von ELO nach Shareflex Analyse und Optimierung der Eingangsrechnungsverarbeitung Fachliche Begleitung der Integration von Shareflex mit FSCM Validierung von End-to-End-Prozessen Durchführung von Fachtests und Abnahmen Unterstützung der Fachbereiche beim Design und der Optimierung von E2E-Prozessen Unsere Anforderungen Muss-Kriterien Nachweisbare Erfahrung mit SharePoint und ELO Erfahrung im ECM- oder Dokumentenmanagement-Umfeld Erfahrung bei ECM-Einführungen oder ECM-Transformationen Erfahrung mit Dokumentenmigrationen Erfahrung in der Strukturierung von Akten, Dokumentenklassen und Metadatenmodellen Erfahrung im Aufbau von Projektakten, Artikelakten oder vergleichbaren Dokumentenstrukturen Erfahrung mit Eingangsrechnungsverarbeitung und Workflow-Lösungen Erfahrung in der Zusammenarbeit mit Fachbereichen Wünschenswert Kenntnisse von Microsoft Dynamics 365 FSCM Erfahrung mit der Migration von Dokumentenbeständen aus ELO nach Shareflex (oder anderen Systemen) Kenntnisse von Konstruktionssoftware Erfahrung mit Artikel- und Variantenverwaltung Erfahrung im produzierenden Mittelstand oder der Fertigungsindustrie Erfahrung mit ERP-/ECM-Integrationen Persönliche Anforderungen Strukturierte und eigenständige Arbeitsweise Hohe analytische Fähigkeiten Ausgeprägtes Prozessverständnis Hohe Ergebnisorientierung Fähigkeit zur Zusammenarbeit mit Fachbereichen, IT und Dienstleistern",
-    "first_seen": "2026-09-07T05:40:18.230742+00:00",
-    "id": "c6eca965385b5d37",
-    "matched_keywords": [],
-    "published": "2026-09-07T07:05:09+02:00",
-    "source": "freelancermap.de",
-    "title": "DMS Experte (m/w/d) Migration ELO - Sharepoint",
-    "url": "https://www.freelancermap.de/projekt/dms-experte-m-w-d-migration-elo-sharepoint"
   }
 ]
