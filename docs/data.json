@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Für ein Projekt im Umfeld Accounting as a Service suchen wir einen erfahrenen Requirements & Delivery Manager SAP FI: Ihre Aufgaben: Aufnahme, Analyse und Strukturierung fachlicher und technischer Anforderungen im SAP FI Umfeld Erstellung und Pflege von Epics, User Stories, Akzeptanzkriterien und fachlichen Spezifikationen Bewertung und Priorisierung von Anforderungen hinsichtlich Mehrwert, Umsetzbarkeit und Skalierbarkeit Entwicklung von Lösungsvorschlägen zur Optimierung bestehender Accounting Prozesse und Funktionen Erstellung von Entscheidungsgrundlagen, Anforderungskonzepten und Delivery Roadmaps Abstimmung mit internen und externen Stakeholdern sowie Koordination relevanter Schnittstellen Qualitätssicherung und Dokumentation der fachlichen Arbeitsergebnisse Ihr Profil: Mindestens 3 Jahre Erfahrung in Requirements Engineering, Business Analyse, technischer Produktentwicklung oder Delivery Management Sehr gute Erfahrung in der Strukturierung von Anforderungen, Epics, User Stories und Akzeptanzkriterien Gute Kenntnisse im SAP FI Umfeld Idealerweise Erfahrung mit Debitorenbuchhaltung, Accounting Prozessen, Forderungsmanagement oder Mahnwesen Gutes technisches Verständnis und Erfahrung in der Übersetzung fachlicher Anforderungen in technische Umsetzungskonzepte Sehr gute Englischkenntnisse auf C1 Niveau Deutschkenntnisse sind von Vorteil Rahmenparameter: Einsatzort: Berlin Laufzeit: Ab sofort - 6 Monate + Option Auslastung: Vollzeit / 5 Tage je Woche Ihr GECO-Ansprechpartner freut sich auf Ihre Kontaktaufnahme und über die Zusendung Ihrer aussagekräftigen Projekthistorie sowie Ihrer Honorarvorstellung/Gehaltsvorstellung/Preisvorstellung.",
+      "first_seen": "2026-10-01T04:06:59.204846+00:00",
+      "id": "b68fed3e80592150",
+      "matched_keywords": [
+        "requirements engineer"
+      ],
+      "published": "2026-10-01T01:28:05+02:00",
+      "source": "freelancermap.de",
+      "title": "Requirements & Delivery Manager SAP FI (m/w/d) in Einsatzort / ZMAW238359",
+      "url": "https://www.freelancermap.de/projekt/requirements-und-delivery-manager-sap-fi-m-w-d-in-einsatzort-zmaw238359"
+    },
+    {
       "description": "Westhouse ist eines der führenden Recruitment-Unternehmen für die Vermittlung hochqualifizierter Fachexperten aus dem gesamten IT-Lifecycle- und Engineering-Bereich. Für unseren Kunden suchen wir aktuell eine/n Senior SAP HCM-PT Experte (m/w/d) Rahmeninformationen Referenz:180339 Einsatzort:Remote/Onboarding Vor Ort in Bonn Starttermin:19.10.2026 Mitte Oktober Arbeitszeit:Teilzeit 20 Tage, ca. 2-3 Tage/Woche Dauer:31.12.2026 (verlängerung bis 30.04.27 geplant) Sprachen:Deutsch und Englisch Ihre Qualifikationen - Langjährige Projekt- und Branchenerfahrung in SAP HCM-PT/Zeitwirtschaft im Umfeld der öffentlichen Verwaltung - Expertenkenntnisse in komplexen zeitwirtschaftlichen Regelungen - Sehr gute Kenntnisse in SAP HCM On-Premise - Tiefgreifende Erfahrung mit Schemas und Regeln im SAP HCM - Sehr gute Kenntnisse in SAP HCM-PY/Payroll, SAP HCM-PA/Personnel Administration und SAP HCM-OM/Organizational Management - Umfangreiche Erfahrung im Customizing, Betrieb und der Pflege komplexer SAP-HCM-Systemlandschaften mit mindestens fünf Komponenten - Fundierte Erfahrung in der Anforderungsanalyse, Konzeption und im Testing von SAP-HCM-Lösungen - Gute Kenntnisse der spezifischen Anforderungen der öffentlichen Verwaltung, insbesondere Bereitschaftsregelungen, Reisezeitregelungen und Zeitkontenmodelle Ihre Aufgaben - Konzeption und Weiterentwicklung eines neuen Zeitwirtschaftsschemas inklusive der zugehörigen Regeln - Analyse bestehender Anforderungen und Prozesse im Bereich SAP HCM Zeitwirtschaft für die öffentliche Verwaltung - Unterstützung bei Customizing, Betrieb und Pflege eines komplexen SAP-HCM-Systems mit mindestens fünf SAP-HCM-Komponenten - Analyse und Abbildung komplexer zeitwirtschaftlicher Anforderungen, insbesondere Bereitschaften, Reisezeitregelungen und Zeitkontenmodelle der öffentlichen Verwaltung - Durchführung und Begleitung von Tests im Rahmen der Entwicklung und Einführung des neuen Zeitwirtschaftsschemas - Analyse und Optimierung bestehender Schemas und Regeln im SAP HCM - Unterstützung bei Fragestellungen und Integrationen im Umfeld von Personaladministration (SAP HCM-PA), Organisationsmanagement (SAP HCM-OM) und Personalabrechnung (SAP HCM-PY) - Analyse und Abstimmung von Anforderungen mit den relevanten Fachbereichen und Projektbeteiligten Interessiert? Interessiert? Wir freuen uns auf Ihren aussagekräftigen Lebenslauf/CV in elektronischer Form. Ihr Ansprechpartner: Lisa Fleig ***** ***** *****",
       "first_seen": "2026-09-30T23:27:02.088976+00:00",
       "id": "cf2ef866fe87fb38",
@@ -3907,5 +3919,5 @@
       "url": "https://www.freelancermap.de/projekt/junior-sps-programmierer"
     }
   ],
-  "updated_at": "2026-09-30T23:27:02.166943+00:00"
+  "updated_at": "2026-10-01T04:06:59.280396+00:00"
 }
