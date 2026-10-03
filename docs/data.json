@@ -1,6 +1,79 @@
 {
   "projects": [
     {
+      "description": "Product and article master data is maintained in a dedicated PIM platform outside SAP, and flows from there into the SAP estate and on to the downstream systems. The role owns that chain end to end, covering the data model itself, the integration into SAP, and the quality of what arrives in the consuming processes. This sits between the business data owners and the integration developers, so it needs someone who can define a data model with the business and specify an interface to a developer. RESPONSIBILITIES • Own the article and product master data process from PIM through SAP to the consuming systems • Define the article data model: hierarchies, variants, characteristics, units of measure, assortments and listing • Specify and validate the interfaces between the PIM platform and SAP, including error handling and reprocessing • Work with the business on data ownership, maintenance processes and governance • Set and monitor data quality rules, and drive resolution of recurring data defects • Support master data migration and cutover into S/4HANA • Align with the order management, purchasing, warehouse and store teams on what they need from the data REQUIRED PROFILE • Retail article master data experience, including variants, assortments and listing • Experience where PIM, and not SAP, is the leading system for product data, with responsibility for the handover into SAP • Good knowledge of SAP interface technology, IDoc, APIs and SAP AIF, enough to specify to developers and analyse failures • Understanding of how article data is consumed downstream in purchasing, order management, warehouse and store or online channels • Experience of master data migration on an S/4HANA programme • Experience defining data governance, ownership and quality rules with business teams • Able to work with both business data owners and integration developers • German and English, both required DETAILS • Location: northern Germany • Contract type: contract / freelance, full-time • On-site requirement: 3 days per week on site, 2 days remote • Duration: 6 months, extension expected • Start: as soon as possible • Languages: German and English Applications are handled by AP Staffing Limited, specialist SAP contract recruitment.",
+      "first_seen": "2026-10-03T16:58:02.295358+00:00",
+      "id": "dcbeda166d53cae8",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-10-03T18:24:04+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior SAP Retail Master Data Consultant - PIM to S/4HANA (German required)",
+      "url": "https://www.freelancermap.de/projekt/senior-sap-retail-master-data-consultant-pim-to-s-4hana-german-required"
+    },
+    {
+      "description": "Start: 01.01.2027 | Laufzeit: 12 Monate (bis 31.12.2027) Auslastung: Vollzeit Einsatzort: überwiegend vor Ort Raum Koblenz/Bonn, vereinzelt Berlin/Brandenburg Aufgaben: - Analyse und Bewertung eingehender Anforderungen zu DMZ-Anbindungen - Erstellung von Onepagern (Lösung, Auswirkungen, Aufwand, Priorität) - Abstimmung mit Anforderern, IT-Sicherheit, Datenschutz und Bedarfsträgern - Erarbeitung von Umsetzungsvorschlägen zu SINA, NdB, ZeD, Akkreditierung VS-NfD-Netze - Dokumentation und Nachverfolgung der Anforderungen Muss-Anforderungen (jeweils mind. 5 Jahre): - DMZ-Anbindungsmodelle, BSI IT-Grundschutz, VS-NfD - SINA-Technologie, NdB, ZeD, Akkreditierung von VS-NfD-Netzen, CMS VS-NfD - Prüfung von Sicherheitskonzepten und Sicherheitsbedarfsanalysen - Kenntnis der Prozesse und Abläufe im Verteidigungs-/Bundesumfeld - Anforderungsmanagement inkl. Onepager-Erstellung - Zertifikat: IPMA Level D / PRINCE2 Practitioner / PMI CAPM - Deutsch C1 - Bitte Staatsangehörigkeit angeben Bitte senden: deutsches Profil mit Projektreferenzen, Zertifikate, Stundensatz, Verfügbarkeit, Wohnort.",
+      "first_seen": "2026-10-03T16:58:02.295358+00:00",
+      "id": "21bc252521395bc0",
+      "matched_keywords": [
+        "anforderungsmanager",
+        "netz"
+      ],
+      "published": "2026-10-03T18:10:15+02:00",
+      "source": "freelancermap.de",
+      "title": "Senior Anforderungsmanager DMZ / Netzanbindungen VS-NfD (SINA, NdB)",
+      "url": "https://www.freelancermap.de/projekt/senior-anforderungsmanager-dmz-netzanbindungen-vs-nfd-sina-ndb"
+    },
+    {
+      "description": "Start: 01.01.2027 | Laufzeit: 24 Monate (bis 31.12.2028), Option auf Verlängerung Auslastung: Vollzeit Einsatzort: überwiegend remote (innerhalb Deutschlands), anteilig vor Ort Raum Berlin/Brandenburg Aufgaben: - Architektur- und Lösungsdesign für eine große DMZ-Infrastruktur (zentraler Internetübergang) - Konzeption von Erweiterungen und Veränderungen aus mehreren Großprojekten - Erstellung und Fortschreibung plattformspezifischer Konzepte - Projektmanagement: Arbeitspakete, Meilensteine, Beschaffung - Engineering: VLANs, IP-Planung, Erstkonfiguration und Inbetriebnahme - Dokumentation auf Deutsch, Visio Muss-Anforderungen: - Mind. 5 Jahre Cisco Nexus 9K/ASR/Catalyst 8000 ODER mind. 3 aus: Check Point (VSX/MDS), NetScaler, Cisco ESA, Skyhigh/McAfee WG, FortiWeb, CrushFTP - DMZ-/Sicherheitsarchitektur nach BSI IT-Grundschutz, VS-NfD - Hochleistungsnetze (100 Gbit/s+), SSL-Offloading, Netzwerktopologien - Zertifikate: ITIL 4 Foundation UND IPMA Level D / PRINCE2 Practitioner / PMI CAPM - Deutsch C1, Englisch B1 - Bitte Staatsangehörigkeit angeben Bitte senden: deutsches Profil mit Projektreferenzen, Zertifikate, Stundensatz, Verfügbarkeit.",
+      "first_seen": "2026-10-03T16:58:02.295358+00:00",
+      "id": "2b2e54fd5d8a9fc6",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-10-03T18:04:45+02:00",
+      "source": "freelancermap.de",
+      "title": "2x Senior Network/Security Architect DMZ (Cisco Nexus/ASR oder Security-Gateways)",
+      "url": "https://www.freelancermap.de/projekt/2x-senior-network-security-architect-dmz-cisco-nexus-asr-oder-security-gateways"
+    },
+    {
+      "description": "Momentan suche ich für meinen Kunden aus Frankfurt am Main einen kurzfristig verfügbaren Rollout Manager mit PRINCE2/Netzwerkplattform-Erfahrung (m/w/d) für ein 100% Remote Projekt. Das Projekt: Start: 03.11.2026, gerne früher Länge: 3 Monate (Verlängerung möglich) Ort: 100% Remote (Endkunde sitzt in Frankfurt am Main) Sprache: Deutsch Zu deinen Aufgaben zählen: • Planung, Steuerung und Ausführung komplexer Rollout-, Migrations- und Transformationsprojekte für zentrale Netzwerkplattformen; • Erstellung und Fortführung umfassender Migrationskonzepte, Meilensteinplanungen sowie Risiko- und Dependenzanalysen; • Bewertung funktionaler und technischer Auswirkungen von Transformationsmaßnahmen auf Prozesse, Organisationseinheiten und Betriebsmodelle; • Koordination externer Dienstleister und Erstellung entscheidungsgerechter Management-Vorlagen unter Berücksichtigung von Governance, Risk und Compliance. Dein Background (!Selbsteinschätzung auf der Skala: 1-10!): • PRINCE2 Practitioner; • Rollout Management; • Netzwerkplattformen / Transformation; • Stakeholder Management; • Governance / Compliance. Du hast Interesse und bist zeitnah verfügbar? Dann melde dich gerne mit aktuellem CV, deiner projektbezogenen Selbsteinschätzung und deinem Stundensatz. Gerne können wir uns dann über die Projektdetails telefonisch austauschen.",
+      "first_seen": "2026-10-03T16:58:02.295358+00:00",
+      "id": "97650214f6e00b5a",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-10-03T15:24:18+02:00",
+      "source": "freelancermap.de",
+      "title": "Rollout Manager mit PRINCE2/Netzwerkplattform-Erfahrung (m/w/d) - 100% Remote - Start: 03.11.2026!",
+      "url": "https://www.freelancermap.de/projekt/rollout-manager-mit-prince2-netzwerkplattform-erfahrung-m-w-d-100-prozent-remote-start-03-11-2026"
+    },
+    {
+      "description": "Berater für IT Capability Management (m/w/d) // IT-CMF und IT4IT Beschreibung Für ein konzerninternes IT-Transformationsprojekt wird Unterstützung im IT Capability Management gesucht. Die konzeptionelle Grundlage bilden das IT Capability Management Framework (IT-CMF) und das IT4IT Framework. Im Projekt sollen die Zusammenhänge zwischen IT-Capabilities und den verschiedenen Betrachtungsebenen berücksichtigt werden; zugleich rückt die IT näher an das Business heran und entwickelt sich zum IT Business Partner. Projektkontext Die betrachteten Capabilities hängen miteinander zusammen und sind auf strategischer, taktischer und operativer Ebene sowie aus IT-, Business- und gemeinsamer Perspektive zu betrachten. Für die Arbeit ist ein praxisorientiertes Verständnis der Zusammenarbeit und Abhängigkeiten innerhalb der IT relevant. Aufgaben Die Betrachtung der IT-Capabilities und ihrer Wechselwirkungen auf strategischer, taktischer und operativer Ebene unterstützen. IT-eigene, Business-eigene und gemeinsam verantwortete Capabilities in die Betrachtung einbeziehen. Ein praxisorientiertes Prozessverständnis in die Betrachtung der Zusammenarbeit und Abhängigkeiten innerhalb der IT einbringen. Die angestrebte stärkere Ausrichtung der IT auf die Rolle als IT Business Partner bei der fachlichen Betrachtung berücksichtigen. Anforderungen Mindestens grobes Verständnis des IT Capability Management Frameworks (IT-CMF) und des IT4IT Frameworks. Verständnis dafür, wie IT-Capabilities miteinander interagieren und welche strategischen, taktischen und operativen sowie IT-, Business- und gemeinsamen Perspektiven zu berücksichtigen sind. Gutes, praxisorientiertes Prozessverständnis, insbesondere hinsichtlich der Zusammenarbeit und Abhängigkeiten innerhalb der IT; eine bestimmte Prozessmodellierungsmethode ist nicht vorausgesetzt. Verständnis der Zusammenarbeit zwischen Business und IT. Sehr sichere Kommunikation auf Deutsch; Englischkenntnisse sind von Vorteil. Agile, flexible und pragmatische Arbeitsweise sowie Kooperationsbereitschaft. Haben Sie Interesse? Dann benötige ich bitte folgende Informationen beziehungsweise Unterlagen: aktuelles Profil, Verfügbarkeit mit möglichem Startdatum und gewünschter Wochenauslastung, Tagessatz, kurze Darstellung von zwei bis drei besonders relevanten IT-Capability-Management- oder IT-/Business-Zusammenarbeitsprojekten mit Rolle, Zeitraum, Aufgaben und den für dieses Projekt relevanten Erfahrungen, optional eine kurze Einschätzung zur fachlichen Passung in zwei bis fünf Sätzen. Bei hoher Passgenauigkeit melde ich mich zeitnah zurück.",
+      "first_seen": "2026-10-03T16:58:02.295358+00:00",
+      "id": "fd343018ad8166ab",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-10-03T14:27:46+02:00",
+      "source": "freelancermap.de",
+      "title": "Berater für IT Capability Management (m/w/d) // IT-CMF und IT4IT",
+      "url": "https://www.freelancermap.de/projekt/berater-fuer-it-capability-management-m-w-d-it-cmf-und-it4it"
+    },
+    {
+      "description": "Beschreibung Für ein konzerninternes IT-Transformationsprojekt wird Unterstützung im IT-Service-Management gesucht. Im Mittelpunkt stehen der praktische Aufbau eines IT-Servicekatalogs sowie die Entwicklung eines IT-Kostenmodells einschließlich der Zuordnung von Servicekosten. Neben der Konzeption ist die Begleitung der Pilotierung und iterativen Umsetzung gefragt. Projektkontext Das Projekt verbindet Aufgaben im IT-Service-Management mit der Abbildung und Verrechnung von IT-Services und Business Services. Die fachliche Arbeit erfolgt in einem Projektteam mit weiteren beteiligten Personen. Aufgaben Aufbau eines IT-Servicekatalogs mit Definition von Technical Services und Business Services unterstützen. Aufbau eines IT-Kostenmodells und der Verrechnung von Services unterstützen. IT-Services und Business Services auf Kostenblöcke abbilden und die jeweiligen Kostenkomponenten und Servicekosten zuordnen. Die Pilotierung und iterative Umsetzung des Kostenmodells begleiten. Anforderungen Gutes Grundverständnis von IT-Service-Management (ITSM). Konkrete praktische Erfahrung im Aufbau eines IT-Servicekatalogs; rein theoretische Kenntnisse reichen nicht aus. Kenntnisse zum Aufbau von IT-Kostenmodellen und zur Verrechnung von IT-Services. Sehr sichere Kommunikation auf Deutsch; Englischkenntnisse sind von Vorteil. Agile, flexible und pragmatische Arbeitsweise sowie Kooperationsbereitschaft. Interesse? Dann benötige ich bitte folgende Informationen beziehungsweise Unterlagen: aktuelles Profil, Verfügbarkeit mit möglichem Startdatum und gewünschter Wochenauslastung, Tagessatz, kurze Darstellung von zwei bis drei besonders relevanten ITSM-, Servicekatalog- oder IT-Kostenmodellprojekten mit Rolle, Zeitraum, Aufgaben und den für dieses Projekt relevanten Erfahrungen, optional eine kurze Einschätzung zur fachlichen Passung in zwei bis fünf Sätzen. Bei hoher Passgenauigkeit melde ich mich zeitnah zurück.",
+      "first_seen": "2026-10-03T16:58:02.295358+00:00",
+      "id": "cba89c5878f20a2e",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-10-03T14:21:53+02:00",
+      "source": "freelancermap.de",
+      "title": "IT-Service-Management-Berater (m/w/d) // IT-Servicekatalog und IT-Kostenmodell",
+      "url": "https://www.freelancermap.de/projekt/it-service-management-berater-m-w-d-it-servicekatalog-und-it-kostenmodell"
+    },
+    {
       "description": "Projektleitung Infrastruktur- Aufbau bei Datacenter-Neubauten Gesamtverantwortung für Planung, Bau und Inbetriebnahme mehrerer mobiler Rechenzentren über alle Projektphasen hinweg Aufsetzen und Steuern von Projektplan, Meilensteinen, Budget, Ressourcen und Risiken Steuerung der Projektbeteiligten im Umfeld Planung und Integration der Datacenter-Ausstattung. Regelmäßiges Projektcontrolling und Reporting an Lenkungskreis und Management Datacenter- und Infrastrukturplanung Mitwirkung an der Flächen- und Kapazitätsplanung (Whitespace, Rack-Layouts, Leistungsdichte) Koordination/Abstimmung mit Bauleitung, Gesamtprojektleitung, Fach und Business Sicherstellung von Verfügbarkeits- und Redundanzanforderungen (z. B. nach EN 50600 oder Uptime-Tier-Klassifizierung) Steuerung der Einrichtung: Verkabelung, Netzwerk, Rack- und Serverinfrastruktur, Monitoring (DCIM) Planung und Durchführung von Abnahmen, Integrated Systems Tests und der Übergabe in den Regelbetrieb Führung Fachliche Führung eines Teams aus Infrastruktur- und IT-Architekten sowie Fachkräften der Gewerke Aufgabenverteilung, Priorisierung und Koordination interner und externer Teammitglieder Förderung einer verbindlichen, lösungsorientierten Zusammenarbeit im Projekt Stakeholder-Management Zentrale Schnittstelle zu Fachbereichen, Business, IT-Betrieb, Bauleitungund Projektmanagement Aufnahme und Abstimmung von Anforderungen der Fachbereiche und Übersetzung in technische Vorgaben Moderation von Zielkonflikten zwischen Kosten, Terminen, Qualität und Betriebsanforderungen Transparente Kommunikation von Projektstatus, Risiken und Entscheidungsbedarfen Ihr Profil Muss-Anforderungen Mehrjährige Erfahrung (idealerweise 7+ Jahre) als Projektleiter in Infrastruktur-, Bau- oder IT-Projekten, davon nachweislich mindestens ein Datacenter-Neubau und eine vollständige Datacenter-Einrichtung/-Planung. Fundierte Kenntnisse in Datacenterplanung und Infrastrukturplanung: Strom, USV, Kühlung, Brandschutz, Verkabelung, Netzwerk und Rack-Infrastruktur Erfahrung in der fachlichen Führung von Infrastruktur- und Architekturteams sowie externen Dienstleistern Ausgeprägte Kompetenz im Stakeholder-Management mit Fachbereichen, Business und Management Sicherer Umgang mit klassischen und hybriden Projektmanagement-Methoden Sehr gute Deutschkenntnisse (mind. C1) sowie gute Englischkenntnisse Wünschenswert Zertifizierungen wie PMP, PRINCE2, IPMA, CDCP/CDCS oder vergleichbar Kenntnisse relevanter Normen und Standards: EN 50600, TIA-942, Uptime Institute Tier, BSI-Anforderungen, ISO 27001 Erfahrung mit Energieeffizienz- und Nachhaltigkeitsanforderungen (PUE, Energieeffizienzgesetz) Erfahrung in HOAI-Leistungsphasen und im Umgang mit Generalunternehmern Branchenerfahrung in regulierten Umfeldern (z. B. KRITIS, Finanzwesen, öffentlicher Sektor) Persönlich Durchsetzungsstark, strukturiert und verbindlich Souveräne Kommunikation auf allen Ebenen, von der Baustelle bis zur Geschäftsführung Hohe Eigenverantwortung und unternehmerisches Denken",
       "first_seen": "2026-10-03T12:12:41.631208+00:00",
       "id": "0bd0391bf5a2fe6a",
@@ -3816,19 +3889,7 @@
       "source": "freelancermap.de",
       "title": "Service Desk / 1st & 2nd Level IT-Support Techniker (m/w/d) in Hannover gesucht",
       "url": "https://www.freelancermap.de/projekt/service-desk-1st-und-2nd-level-it-support-techniker-m-w-d-in-hannover-gesucht-3049777"
-    },
-    {
-      "description": "Für unseren Kunden in Duisburg suchen wir einen erfahrenen Netzwerk-/Proxy-Administrator (m/w/d) zur Unterstützung des operativen Betriebs. Der Schwerpunkt liegt auf der Administration und Betreuung von Proxy- und Web-Gateway-Lösungen, insbesondere im Umfeld der Sicherheitslösung SkyHigh (Nachfolgeprodukt von McAfee Web Gateway). Gesucht wird eine kommunikative Persönlichkeit mit fundierter Erfahrung im Netzwerk- und Security-Umfeld sowie idealerweise Kenntnissen aus dem Behördenumfeld. Aufgaben Administration und Betrieb von Proxy- und Web-Gateway-Systemen Betreuung und Weiterentwicklung der SkyHigh-Plattform Analyse und Behebung von Störungen im laufenden Betrieb Unterstützung bei Konfigurations- und Optimierungsmaßnahmen Zusammenarbeit mit internen Fachbereichen und IT-Teams Dokumentation relevanter Betriebs- und Supportprozesse Anforderungen Must-have: Mehrjährige Erfahrung in der Administration von Proxy-Lösungen Fundierte Kenntnisse im Netzwerkumfeld Erfahrung mit Web-Gateway-Technologien Praktische Erfahrung mit SkyHigh (ehemals McAfee Web Gateway) Gute Kommunikationsfähigkeit Gültige SÜ2-Sicherheitsüberprüfung Wünschenswert: Erfahrung im Behörden- oder öffentlichen Umfeld Kenntnisse von IT-Sicherheitsprozessen und -richtlinien Rahmendaten Start: ab 15.10.2026 Auslastung: Vollzeit Einsatzort: Duisburg Projektsprache: Deutsch Dauer: 3 MM++",
-      "first_seen": "2026-09-19T12:51:53.262837+00:00",
-      "id": "aecc041e0827cd7f",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-09-19T14:09:38+02:00",
-      "source": "freelancermap.de",
-      "title": "Netzwerk-/Proxy-Administrator (m/w/d) mit SÜ2, ab 15.10.2026, Duisburg, 3 MM++",
-      "url": "https://www.freelancermap.de/projekt/netzwerk-proxy-administrator-m-w-d-mit-sue2-ab-15-10-2026-duisburg-3-mm"
     }
   ],
-  "updated_at": "2026-10-03T12:12:41.712555+00:00"
+  "updated_at": "2026-10-03T16:58:02.374664+00:00"
 }
