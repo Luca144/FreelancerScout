@@ -1,5 +1,15 @@
 [
   {
+    "description": "OCENOX ist eine 360°-Beratung aus Neuseeland, von Training über Coaching und Consulting bis zur Umsetzung. Für einen Kunden aus dem Industrieumfeld suchen wir Verstärkung vor Ort in Hamburg. Du entwickelst eine bestehende Desktop- und Web-Anwendung weiter, arbeitest mit dem internen Software-Architekten des Kunden nah am Code und nimmst das Team dabei mit. Rahmendaten Start: ASAP / 01.11.2026 Laufzeit: 6 Monate, Verlängerung möglich Auslastung: 3–5 Tage pro Woche Einsatzort: Hamburg, davon 2–3 Tage pro Woche vor Ort, Rest remote Vertragsart: freiberuflich Projektsprache: Deutsch, im Team auch Englisch Deine Aufgaben Du triffst Architektur- und Design-Entscheidungen auf Code-Ebene gemeinsam mit dem Team und dokumentierst sie nachvollziehbar (z. B. als ADRs) Du setzt architektonische Konzepte in produktionsreifen Code um, im Pair- und Mob-Programming mit dem Team Du modernisierst die Bestandssoftware Schritt für Schritt: Modularisierung, Entkopplung, Ablösung veralteter Komponenten Du sicherst das bestehende Verhalten durch automatisierte Tests und aussagekräftige Gerätesimulatoren ab Du führst Architektur-, Design- und Code-Reviews durch und gibst Best Practices ans Team weiter Du setzt Qualitäts- und Sicherheitsanforderungen im Code um, auch mit Blick auf den Cyber Resilience Act Du gestaltest technische Standards und Leitlinien für den Einsatz von KI-Werkzeugen in der Entwicklung mit Das bringst du mit Mindestens 5 Jahre Erfahrung mit C# / .NET in größeren Desktop- oder Web-Anwendungen Erfahrung als Software-Architekt, Tech Lead oder Senior Entwickler mit Architekturverantwortung Praktische Erfahrung mit der Modernisierung gewachsener Codebasen (Refactoring unter Testschutz, schrittweise Ablösung) Sicherer Umgang mit Testmethoden (Unit-, Integrations-, Systemtests) Erfahrung mit Code-Reviews und Wissenstransfer im Team Sehr gute Deutschkenntnisse, gute Englischkenntnisse Du kannst 2–3 Tage pro Woche vor Ort in Hamburg sein Pluspunkte WPF und MVVM Gerätesoftware, Messtechnik, Laborautomation oder hardwarenahe Entwicklung KI-gestützte Entwicklung mit Claude Code, GitHub Copilot oder vergleichbaren Werkzeugen Security by Design, Erfahrung mit regulatorischen Anforderungen (z. B. CRA) Erfahrung in der Zusammenarbeit mit Offshore-Teams Was die Rolle ausmacht Du entwickelst selbst mit, setzt dabei Maßstäbe für Qualität im Code und hilfst dem Team, Architekturentscheidungen eigenständig zu treffen. Wir suchen keinen reinen Architekten am Whiteboard und keinen Agile Coach, sondern jemanden, der gerne konzeptionell arbeitet und das Ergebnis selbst mit umsetzt.",
+    "first_seen": "2026-10-11T03:57:17.219604+00:00",
+    "id": "00238499f0ba4fb6",
+    "matched_keywords": [],
+    "published": "2026-10-11T01:27:59+02:00",
+    "source": "freelancermap.de",
+    "title": "Senior C#/.NET Entwickler / Software-Architekt (m/w/d) – Legacy-Modernisierung Gerätesoftware – HH",
+    "url": "https://www.freelancermap.de/projekt/senior-c-net-entwickler-software-architekt-m-w-d-legacy-modernisierung-geraetesoftware-hh"
+  },
+  {
     "description": "Branche: IT-Dienstleistung & Beratung Einsatzort: Deutschland / 100 % Remote Start: ab November 2026 Erfahrungsstufe: Principal Sicherheitsüberprüfung: erforderlich – deutsche Staatsangehörigkeit ist Voraussetzung Tagessatz: bis 700 €/Tag Projektüberblick Für ein Projekt im Umfeld IT-Dienstleistung & Beratung wird ein Principal Lead Architect Distribution gesucht. Im Mittelpunkt stehen CI/CD, Systemintegration & Schnittstellen und Netzwerktechnik. Der Einsatz erfolgt zu 100 % remote aus Deutschland. Aufgaben - Ziel-Architekturen entwerfen und dokumentieren - Technologie-Entscheidungen vorbereiten und vertreten - Teams in der Umsetzung begleiten (Reviews, Leitplanken) Profil Erforderlich: - CI/CD - Systemintegration & Schnittstellen - Netzwerktechnik - CI/CD-Automatisierung Erfahrung: - Berufserfahrung auf Principal-/Lead-Niveau Von Vorteil: - Automatisierungsplattform - Hardware-Integration - Netzwerk- & Perimeter-Sicherheit - Platform Engineering - Konfigurationsmanagement - Observability & Monitoring Sicherheitsanforderung Für dieses Projekt ist eine Sicherheitsüberprüfung erforderlich. Das ist zwingende Voraussetzung. Voraussetzung dafür ist die deutsche Staatsangehörigkeit. Bewerbung Bitte füllen Sie das folgende Qualifizierungsformular aus, damit wir Ihr Profil für dieses Projekt prüfen können: https://pea-global.com/bewerben?vac=VA_000149",
     "first_seen": "2026-10-10T23:12:36.432732+00:00",
     "id": "7a33268863380189",
@@ -10,13 +20,13 @@
     "url": "https://www.freelancermap.de/projekt/principal-lead-architect-distribution-ci-cd-systemintegration-und-schnittstellen-va-000149"
   },
   {
-    "description": "Branche: IT-Dienstleistung & Beratung Einsatzort: Deutschland / 100 % Remote Start: ab November 2026 Erfahrungsstufe: Senior Sicherheitsüberprüfung: erforderlich – deutsche Staatsangehörigkeit ist Voraussetzung Tagessatz: bis 600 €/Tag Projektüberblick Für ein Projekt im Umfeld IT-Dienstleistung & Beratung wird ein Senior IT-Architekt gesucht. Im Mittelpunkt stehen Requirements Engineering, ITIL & Service-Management und Technische Dokumentation. Der Einsatz erfolgt zu 100 % remote aus Deutschland. Aufgaben - Ziel-Architekturen entwerfen und dokumentieren - Technologie-Entscheidungen vorbereiten und vertreten - Teams in der Umsetzung begleiten (Reviews, Leitplanken) Profil Erforderlich: - Requirements Engineering - ITIL & Service-Management - Technische Dokumentation - Enterprise-Architektur Erfahrung: - Berufserfahrung auf Senior-Niveau Von Vorteil: - Sicherheitsarchitektur & -konzeption - Rechenzentrums- & Hardware-Engineering - Virtualisierung & Private Cloud - Requirements- & ALM-Werkzeug - ARIS - Alfabet - Microsoft-Serverdienste - Linux - Change Management - VMware vSphere Sicherheitsanforderung Für dieses Projekt ist eine Sicherheitsüberprüfung erforderlich. Das ist zwingende Voraussetzung. Voraussetzung dafür ist die deutsche Staatsangehörigkeit. Bewerbung Bitte füllen Sie das folgende Qualifizierungsformular aus, damit wir Ihr Profil für dieses Projekt prüfen können: https://pea-global.com/bewerben?vac=VA_000148",
+    "description": "Branche: IT-Dienstleistung & Beratung Einsatzort: Deutschland / 100 % Remote Start: ab November 2026 Erfahrungsstufe: Senior Sicherheitsüberprüfung: erforderlich – deutsche Staatsangehörigkeit ist Voraussetzung Tagessatz: bis 600 €/Tag Projektüberblick Für ein Projekt im Umfeld IT-Dienstleistung & Beratung wird ein Senior IT-Architekt gesucht. Im Mittelpunkt stehen Requirements Engineering, ITIL & Service-Management und Technische Dokumentation. Der Einsatz erfolgt zu 100 % remote aus Deutschland. Aufgaben - Ziel-Architekturen entwerfen und dokumentieren - Technologie-Entscheidungen vorbereiten und vertreten - Teams in der Umsetzung begleiten (Reviews, Leitplanken) Profil Erforderlich: - Requirements Engineering - ITIL & Service-Management - Enterprise-Architektur Erfahrung: - Berufserfahrung auf Senior-Niveau Von Vorteil: - Sicherheitsarchitektur & -konzeption - Rechenzentrums- & Hardware-Engineering - Virtualisierung & Private Cloud - Requirements- & ALM-Werkzeug - ARIS - Alfabet - Microsoft-Serverdienste - Linux - Change Management - VMware vSphere Sicherheitsanforderung Für dieses Projekt ist eine Sicherheitsüberprüfung erforderlich. Das ist zwingende Voraussetzung. Voraussetzung dafür ist die deutsche Staatsangehörigkeit. Bewerbung Bitte füllen Sie das folgende Qualifizierungsformular aus, damit wir Ihr Profil für dieses Projekt prüfen können: https://pea-global.com/bewerben?vac=VA_000148",
     "first_seen": "2026-10-10T23:12:36.432732+00:00",
     "id": "eb7cb828ee3a5d12",
     "matched_keywords": [],
     "published": "2026-10-11T00:44:53+02:00",
     "source": "freelancermap.de",
-    "title": "Senior IT-Architekt – Requirements Engineering, ITIL & Service-Management | Remote (VA_000148)",
+    "title": "Senior IT-Architekt – Enterprise-Architektur, Requirements Engineering | Remote (VA_000148)",
     "url": "https://www.freelancermap.de/projekt/senior-it-architekt-requirements-engineering-itil-und-service-management-remote-va-000148"
   },
   {
@@ -26,7 +36,7 @@
     "matched_keywords": [],
     "published": "2026-10-11T00:43:01+02:00",
     "source": "freelancermap.de",
-    "title": "Senior DevOps Engineer – ArgoCD, Ansible, SQL & Datenbanken | Remote (VA_000147)",
+    "title": "Senior DevOps Engineer – Python, Linux, GitLab CI/CD | Remote (VA_000147)",
     "url": "https://www.freelancermap.de/projekt/senior-devops-engineer-argocd-ansible-sql-und-datenbanken-remote-va-000147"
   },
   {
@@ -36,7 +46,7 @@
     "matched_keywords": [],
     "published": "2026-10-11T00:41:12+02:00",
     "source": "freelancermap.de",
-    "title": "Senior Frontend Developer – SQL & Datenbanken, GitLab CI/CD, Angular | Remote (VA_000146)",
+    "title": "Senior Frontend Developer – Angular, HTML/CSS, FastAPI | Remote (VA_000146)",
     "url": "https://www.freelancermap.de/projekt/senior-frontend-developer-sql-und-datenbanken-gitlab-ci-cd-angular-remote-va-000146"
   },
   {
@@ -46,7 +56,7 @@
     "matched_keywords": [],
     "published": "2026-10-11T00:39:32+02:00",
     "source": "freelancermap.de",
-    "title": "Senior Backend Developer – Kubernetes, Django, Linux | Remote (VA_000145)",
+    "title": "Senior Backend Developer – FastAPI, Django, Software-Architektur | Remote (VA_000145)",
     "url": "https://www.freelancermap.de/projekt/senior-backend-developer-kubernetes-django-linux-remote-va-000145"
   },
   {
@@ -6728,15 +6738,5 @@
     "source": "freelancermap.de",
     "title": "KI-Bildverarbeitung & Qualitätserkennung für Sägewerk gesucht",
     "url": "https://www.freelancermap.de/projekt/ki-bildverarbeitung-und-qualitaetserkennung-fuer-saegewerk-gesucht"
-  },
-  {
-    "description": "Projektziel: Es sollen 100 vorgegebene Kontakte telefonisch angerufen werden, um deren Interesse an einer Immobilie abzufragen. Ab dem 28.09 sofort starten! Hauptaufgaben: - 100 Kontakte telefonisch kontaktieren - Interesse an einer Immobilie erfragen Voraussetzungen: - Nutzung des vom Auftraggeber bereitgestellten Dialers - Nutzung der vom Auftraggeber bereitgestellten Kontaktliste Erwartetes Ergebnis: Alle 100 Kontakte wurden angerufen und deren Interesse an der Immobilie wurde erfasst.",
-    "first_seen": "2026-09-27T00:12:55.515822+00:00",
-    "id": "7666a501f67c0542",
-    "matched_keywords": [],
-    "published": "2026-09-27T00:59:58+02:00",
-    "source": "freelancermap.de",
-    "title": "Telefonischer Erstkontakt für Immobilieninteresse – 100 Kontakte",
-    "url": "https://www.freelancermap.de/projekt/telefonischer-erstkontakt-fuer-immobilieninteresse-100-kontakte"
   }
 ]
