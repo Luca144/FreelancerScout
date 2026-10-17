@@ -4105,31 +4105,7 @@
       "source": "freelancermap.de",
       "title": "Freelance IT Project Manager / Business Systems Analyst (m/w/d) | FinTech",
       "url": "https://www.freelancermap.de/projekt/freelance-it-project-manager-business-systems-analyst-m-w-d-fintech"
-    },
-    {
-      "description": "Start: 01.01.2027 | Laufzeit: 24 Monate (bis 31.12.2028), Option auf Verlängerung Auslastung: Vollzeit (40 h/Woche) Einsatzort: überwiegend remote (innerhalb Deutschlands), anteilig vor Ort Raum Berlin/Brandenburg Rollen: 2x Senior Consultant (?5 J.), 2x Consultant (?3 J.) Aufgaben: - Betrieb und Weiterentwicklung einer großen DMZ-Netzwerkinfrastruktur (zentraler Internetübergang) - Incident- und Change-Bearbeitung (Ticketsystem): Routing-Störungen, Hardwaredefekte, Troubleshooting - Updates/Patches und Konfigurationsänderungen auf Cisco-Komponenten - Planung und Inbetriebnahme: VLANs, IP-Adressplanung, Verkabelungspläne, Erstkonfiguration - Erstellung und Fortschreibung technischer Dokumentation (Deutsch, Visio) Muss-Anforderungen: - Praxiserfahrung mit Cisco Nexus 9000, Cisco ASR und Catalyst ***** (Konfiguration, Inbetriebnahme, Optimierung) - Netzwerke im Hochleistungsbereich (100 Gbit/s+), Routing-Protokolle, SSL-Offloading - DMZ-/Sicherheitsarchitekturen nach BSI IT-Grundschutz im VS-NfD-Umfeld - Erstellung von Netzwerktopologien, Konzepten und Betriebsdokumentation - Deutsch mindestens C1, Englisch B1 - Verfügbarkeit über die gesamte Laufzeit - Bitte Staatsangehörigkeit angeben (Vorgabe des Endkunden) Bitte senden: aktuelles deutsches Profil mit Projektreferenzen (Zeitraum, Aufgaben), Stundensatz, Verfügbarkeit.",
-      "first_seen": "2026-10-03T00:09:06.275415+00:00",
-      "id": "c27d7c88785130ee",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-10-03T01:38:35+02:00",
-      "source": "freelancermap.de",
-      "title": "4x Network Engineer DMZ (Cisco Nexus 9K, ASR, Catalyst *****)",
-      "url": "https://www.freelancermap.de/projekt/4x-network-engineer-dmz-cisco-nexus-9k-asr-catalyst"
-    },
-    {
-      "description": "Start: 01.01.2027 | Laufzeit: 24 Monate (bis 31.12.2028), Option auf Verlängerung Auslastung: Vollzeit (40 h/Woche) Einsatzort: 80 % remote (innerhalb Deutschlands), 20 % vor Ort Raum Berlin/Brandenburg Rollen: 2x Senior Consultant (?5 J.), 2x Consultant (?3 J.) Aufgaben: - Betrieb, Pflege und Weiterentwicklung einer großen DMZ-Infrastruktur (zentraler Internetübergang) - Incident- und Change-Bearbeitung (Ticketsystem), Troubleshooting, Loganalyse - Patches/Updates und Regelwerkspflege auf Application Layer Gateways - Planung und Inbetriebnahme neuer Systeme (VLANs, IP-Planung, Verkabelungspläne) - Erstellung und Fortschreibung technischer Dokumentation (Deutsch, Visio) Muss-Anforderungen: - Erfahrung mit mind. 3 der folgenden Produkte: Cisco E-Mail Security (ESA/IronPort), Citrix ADC/NetScaler SDX, Check Point (GAiA, VSX, MDS), Skyhigh/McAfee Web Gateway, FortiWeb, CrushFTP - DMZ-/Sicherheitsarchitekturen nach BSI IT-Grundschutz im VS-NfD-Umfeld - Netzübergänge in Hochleistungsnetzen (100 Gbit/s+), SSL-Offloading, Netzwerkprotokolle - Erstellung von Netzwerktopologien, Konzepten, Betriebs- und Arbeitsanweisungen - Deutsch mindestens C1, Englisch B1 - Verfügbarkeit über die gesamte Laufzeit - Bitte Staatsangehörigkeit angeben (Vorgabe des Endkunden) Bitte senden: aktuelles deutsches Profil mit Projektreferenzen (Zeitraum, Aufgaben), Stundensatz, Verfügbarkeit.",
-      "first_seen": "2026-10-03T00:09:06.275415+00:00",
-      "id": "5cdb8e6bedad8347",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-10-03T01:20:03+02:00",
-      "source": "freelancermap.de",
-      "title": "4x DMZ / Security Gateway Engineer (Check Point, NetScaler, Cisco ESA, Skyhigh, FortiWeb)",
-      "url": "https://www.freelancermap.de/projekt/4x-dmz-security-gateway-engineer-check-point-netscaler-cisco-esa-skyhigh-fortiweb"
     }
   ],
-  "updated_at": "2026-10-16T22:30:00.988002+00:00"
+  "updated_at": "2026-10-17T01:02:09.448003+00:00"
 }
