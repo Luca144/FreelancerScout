@@ -1,6 +1,19 @@
 {
   "projects": [
     {
+      "description": "Rahmendaten: Start: 01.12. Laufzeit: 18 Monate Standort: remote 60% + vor Ort in Bonn 40% (Tendenz weniger) Vertragsart: ANÜ Budget: Bis 90.000€ Jahresgehalt je nach Erfahrung Aufgaben : Steuerung eines Entwicklungsteams in der Rolle des Product Owners mittels Scrum-Events und Backlog Aufnahme, Klärung und Schreiben von Epics und User Stories inklusive dazugehöriger Akzeptanzkriterien Verantwortliche Sicherstellung der Einhaltung von Termin-, Kosten- und Qualitätszielen bei der (Teil-)Projektumsetzung Unterstützung des Gesamtprojektleiters bei der Berichterstattung und der Gesamtprojektplanung Übergreifende Koordination von Abhängigkeiten, Risiken und Änderungen mit den anderen Teilprojekten Zuständigkeit für das Stakeholder-Management und das Kosten-Controlling sowie für die Erstellung der Projekt-Reportings Steuerung von kontinuierlichen Verbesserungen für die Zusammenarbeit im Entwicklungsteam zur Effizienzsteigerung Zwingend erforderlich: Zertifizierung: IPMA Level D oder Vergleichbares ITIL Foundation Zertifizierung – ITIL V3 oder höher Scrum Product Owner Zertifizierung: Product Owner II oder vergleichbares Zertifikat Anforderung Berufserfahrung als Projektmitarbeiter in ITSM-Projekten (Plattformaufbau/-migration), vorzugsweise für öffentliche Auftraggeber Nachgewiesene ITSM-Kenntnisse in Bereich Service Request Management Einschlägige Erfahrung in der Product Owner Rolle Erfahrung im Umgang mit Projekt Management Tools",
+      "first_seen": "2026-10-25T21:24:51.235756+00:00",
+      "id": "7a52338ab3ee9126",
+      "matched_keywords": [
+        "product owner",
+        "scrum"
+      ],
+      "published": "2026-10-25T19:37:32+01:00",
+      "source": "freelancermap.de",
+      "title": "ANÜ: Senior Project Manager / Product Owner ITSM (m/w/d) gesucht!",
+      "url": "https://www.freelancermap.de/projekt/anue-senior-project-manager-product-owner-itsm-m-w-d-gesucht"
+    },
+    {
       "description": "Tätigkeiten: Deployment, Installation und Betrieb einer air-gapped Cloud-Plattform (GCA) in mehreren Rechenzentren. Eigenständige Durchführung von GCA-Deployments auf Basis der offiziellen Operator-Dokumentation. Administration und Weiterentwicklung von Kubernetes- und Linux-Systemen. Betrieb, Konfiguration und Fehleranalyse von Netzwerkkomponenten, einschließlich Switches, Firewalls, VLANs, Routing und DNS. Administration und Wartung der Server-, Storage- und Rechenzentrumsinfrastruktur. Implementierung und Verwaltung von Netzwerktechnologien wie VXLAN/EVPN, VRFs, OSPF und BGP. Anforderungen: GCA Infrastructure Operator Training von Google oder vergleichbar. Mindestens ein eigenständiges GCA-Deployment nach Operator-Dokumentation. 5 Jahre Erfahrung in der Kubernetes-Administration. 5 Jahre Erfahrung in der Linux-Administration: OS-Verwaltung, Netzwerk, PXE-Boot, systemd/journalctl, Container/Namespaces, Bash, Vim, Tmux und SSH. Kenntnisse in Bash- oder Python-Scripting. 5 Jahre Erfahrung mit Networking Basics: Switching, VLANs, Subnetting, Routing, DHCP, DNS, TLS, ip/tcpdump/dig/netstat sowie OOB- und serielle Konsole. 3 Jahre Erfahrung mit Networking Advanced: Cisco-Switch-Konsole, VXLAN/EVPN, VRFs, OSPF, LLDP und BGP. 5 Jahre Erfahrung in der Hardware-Administration: iLO/OOB, Verkabelung, Storage/NetApp, HSM, Server, NTP, Switches und Firewalls. 3 Jahre Erfahrung mit PKI: SSL-Zertifikate, Root-/Intermediate-CA, CSR und OpenSSL CLI. 3 Jahre Erfahrung mit Istio/Service Mesh und Envoy Proxy. Jeweils 3 Jahre Erfahrung mit Ansible, Prometheus, Cilium und Grafana/Loki. 3 Jahre Erfahrung mit Virtualisierung in Kubernetes. 3 Jahre Erfahrung mit Scrum und ITIL.",
       "first_seen": "2026-10-25T14:47:31.762164+00:00",
       "id": "a624d48ff4fc21a0",
@@ -4115,19 +4128,7 @@
       "source": "freelancermap.de",
       "title": "System Engineer Infrastruktur (m/w/d)",
       "url": "https://www.freelancermap.de/projekt/system-engineer-infrastruktur-m-w-d-3059203"
-    },
-    {
-      "description": "Vertriebspartner (m/w/d) gesucht Fördermittelberatung & Steuerliche Forschungszulage | Provisionsbasis | Remote Du hast ein starkes Netzwerk im Mittelstand und erkennst wirtschaftliche Potenziale? Dann lass uns gemeinsam Unternehmen voranbringen! Die Elbfinanzen GmbH ist eine spezialisierte Unternehmensberatung mit Schwerpunkt auf Fördermittelakquise, Fördermittelmanagement und der steuerlichen Forschungszulage. Wir unterstützen Unternehmen dabei, Förderpotenziale zu identifizieren, Investitions- und Innovationsvorhaben strategisch zu begleiten und Fördermöglichkeiten gezielt zu nutzen. Für den Ausbau unseres Partnernetzwerks suchen wir selbstständige Vertriebspartner (m/w/d) auf Provisionsbasis . Deine Aufgaben Identifikation und Ansprache potenzieller Unternehmenskunden Aufbau und Pflege langfristiger Geschäftskontakte Vermittlung qualifizierter Kundenanfragen im Bereich Fördermittel und Forschungszulage Eigenständige Entwicklung neuer Vertriebs- und Kooperationsmöglichkeiten Enge Zusammenarbeit mit Elbfinanzen bei der Kundenakquise Dein Profil Erfahrung im B2B-Vertrieb, Business Development oder in der Unternehmensberatung Idealerweise bestehendes Netzwerk zu Geschäftsführern, Unternehmern und mittelständischen Unternehmen Interesse an Fördermitteln, Innovationen und steuerlichen Förderinstrumenten Unternehmerisches Denken, Eigeninitiative und Kommunikationsstärke Selbstständige, zuverlässige und ergebnisorientierte Arbeitsweise Vorkenntnisse im Fördermittelrecht sind von Vorteil, aber keine Voraussetzung. Das bieten wir Attraktive erfolgsabhängige Provisionen für erfolgreich vermittelte Kunden Flexible und ortsunabhängige Zusammenarbeit Eigenständige Gestaltung deiner Vertriebsaktivitäten Fachliche Unterstützung durch Elbfinanzen Langfristige Kooperationsperspektive Wachstumsmarkt mit interessanten Potenzialen im Mittelstand Warum Elbfinanzen? Wir verbinden langjährige Erfahrung in der Finanzverwaltung mit fundierter Fördermittelkompetenz und betriebswirtschaftlicher Beratung. Unser Anspruch: Unternehmen nicht nur Fördermöglichkeiten aufzeigen, sondern sie strategisch und professionell bei deren Nutzung begleiten. Interesse an einer Zusammenarbeit? Dann freuen wir uns auf eine kurze Vorstellung deiner Person, deiner Vertriebserfahrung und deines Netzwerks. Elbfinanzen GmbH Fördermittel. Finanzen. Perspektiven. Jetzt Kontakt aufnehmen und gemeinsam Wachstum gestalten!",
-      "first_seen": "2026-10-11T20:47:28.018441+00:00",
-      "id": "f05ac8096e44cb7d",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-10-11T21:05:54+02:00",
-      "source": "freelancermap.de",
-      "title": "Vertriebspartner (m/w/d) gesucht",
-      "url": "https://www.freelancermap.de/projekt/vertriebspartner-m-w-d-gesucht"
     }
   ],
-  "updated_at": "2026-10-25T18:06:26.170234+00:00"
+  "updated_at": "2026-10-25T21:24:51.292262+00:00"
 }
