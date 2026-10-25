@@ -4127,19 +4127,7 @@
       "source": "freelancermap.de",
       "title": "Freiberuflicher Bauleiter / Montageleiter (m/w/d) – Maschinenverlagerung im Raum Nürnberg",
       "url": "https://www.freelancermap.de/projekt/freiberuflicher-bauleiter-montageleiter-m-w-d-maschinenverlagerung-im-raum-nuernberg"
-    },
-    {
-      "description": "OCENOX ist eine 360°-Beratung aus Neuseeland, von Training über Coaching und Consulting bis zur Umsetzung. Für einen Kunden aus dem Industrieumfeld suchen wir Verstärkung vor Ort in Hamburg. Du entwickelst eine bestehende Desktop- und Web-Anwendung weiter, arbeitest mit dem internen Software-Architekten des Kunden nah am Code und nimmst das Team dabei mit. Rahmendaten Start: ASAP / 01.11.2026 Laufzeit: 6 Monate, Verlängerung möglich Auslastung: 3–5 Tage pro Woche Einsatzort: Hamburg, davon 2–3 Tage pro Woche vor Ort, Rest remote Vertragsart: freiberuflich Projektsprache: Deutsch, im Team auch Englisch Deine Aufgaben Du triffst Architektur- und Design-Entscheidungen auf Code-Ebene gemeinsam mit dem Team und dokumentierst sie nachvollziehbar (z. B. als ADRs) Du setzt architektonische Konzepte in produktionsreifen Code um, im Pair- und Mob-Programming mit dem Team Du modernisierst die Bestandssoftware Schritt für Schritt: Modularisierung, Entkopplung, Ablösung veralteter Komponenten Du sicherst das bestehende Verhalten durch automatisierte Tests und aussagekräftige Gerätesimulatoren ab Du führst Architektur-, Design- und Code-Reviews durch und gibst Best Practices ans Team weiter Du setzt Qualitäts- und Sicherheitsanforderungen im Code um, auch mit Blick auf den Cyber Resilience Act Du gestaltest technische Standards und Leitlinien für den Einsatz von KI-Werkzeugen in der Entwicklung mit Das bringst du mit Mindestens 5 Jahre Erfahrung mit C# / .NET in größeren Desktop- oder Web-Anwendungen Erfahrung als Software-Architekt, Tech Lead oder Senior Entwickler mit Architekturverantwortung Praktische Erfahrung mit der Modernisierung gewachsener Codebasen (Refactoring unter Testschutz, schrittweise Ablösung) Sicherer Umgang mit Testmethoden (Unit-, Integrations-, Systemtests) Erfahrung mit Code-Reviews und Wissenstransfer im Team Sehr gute Deutschkenntnisse, gute Englischkenntnisse Du kannst 2–3 Tage pro Woche vor Ort in Hamburg sein Pluspunkte WPF und MVVM Gerätesoftware, Messtechnik, Laborautomation oder hardwarenahe Entwicklung KI-gestützte Entwicklung mit Claude Code, GitHub Copilot oder vergleichbaren Werkzeugen Security by Design, Erfahrung mit regulatorischen Anforderungen (z. B. CRA) Erfahrung in der Zusammenarbeit mit Offshore-Teams Was die Rolle ausmacht Du entwickelst selbst mit, setzt dabei Maßstäbe für Qualität im Code und hilfst dem Team, Architekturentscheidungen eigenständig zu treffen. Wir suchen keinen reinen Architekten am Whiteboard und keinen Agile Coach, sondern jemanden, der gerne konzeptionell arbeitet und das Ergebnis selbst mit umsetzt.",
-      "first_seen": "2026-10-11T03:57:17.219604+00:00",
-      "id": "00238499f0ba4fb6",
-      "matched_keywords": [
-        "agil"
-      ],
-      "published": "2026-10-11T01:27:59+02:00",
-      "source": "freelancermap.de",
-      "title": "Senior C#/.NET Entwickler / Software-Architekt (m/w/d) – Legacy-Modernisierung Gerätesoftware – HH",
-      "url": "https://www.freelancermap.de/projekt/senior-c-net-entwickler-software-architekt-m-w-d-legacy-modernisierung-geraetesoftware-hh"
     }
   ],
-  "updated_at": "2026-10-25T00:48:15.181832+00:00"
+  "updated_at": "2026-10-25T05:39:43.656088+00:00"
 }
