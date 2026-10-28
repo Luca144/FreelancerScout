@@ -1,6 +1,131 @@
 {
   "projects": [
     {
+      "description": "Semantic Layer & Data Platform Architect 6 month B2B contract | Fully remote | Remobi Remobi is hiring a hands-on Semantic Layer & Data Platform Architect to join a global energy technology company’s Digital Finance team. This is a chance to shape a greenfield semantic layer from day one, making finance data understandable and usable by both people and AI agents. About the project The foundation is a Snowflake-based finance data platform that has been live for around six months. It follows a federated model, where finance expert teams produce their own data products and a central team keeps an overview of what exists. A core team of 5 to 6 people looks after the foundations: data management, CI/CD and gatekeeping, data quality testing, access management and row-level security. This role sits in a new innovation team. Its first goal is a context and semantic layer on top of the platform, including: An architecture in Snowflake A chosen framework and standard for semantic definitions and ontology Governed workflows to approve or decline semantic changes Interfaces that serve this information to human users and to AI via MCP The architecture isn’t fixed yet, so you’ll shape it. The role You’ll own the end to end architecture and implementation of the semantic layer, from the Snowflake data model through to the interfaces that consume it. This is a full-stack, hands-on role, not an advisory one. You’ll turn a broad set of competing semantic and AI concepts into a working solution, ship early increments that show what works and what doesn’t, and take full ownership of delivery. As the team grows, you may lead a small group of engineers. Key responsibilities Architecture and design Design the target architecture for the semantic layer within Snowflake, integrated with the existing data platform Define how semantic metadata (business definitions, metrics, entities, relationships, lineage) maps to federated data products owned by different finance teams Decide where and how the ontology is stored and versioned, and how it stays in sync with the underlying data products Framework and standards selection Evaluate and recommend the right framework for semantic modelling, such as Snowflake Semantic Views, Open Semantic Interchange (OSI), dbt Semantic Layer / MetricFlow, or RDF/OWL-based ontologies Document decisions with clear trade-offs and an architecture decision record (ADR) trail Interfaces and distribution Design and build interfaces that serve semantic information to human users (catalogue, search, documentation) and to AI agents Expose the semantic layer to LLMs and agents via the Model Context Protocol (MCP), and via APIs where relevant Ensure AI consumers respect existing access controls, including role-based and row-level security Governance workflows Build workflows for proposing, reviewing, approving or declining changes to semantic definitions Integrate semantic changes into the platform’s existing CI/CD, gatekeeping and data quality testing Delivery and leadership Own implementation of the kickoff project in an agile / Scrum cadence Deliver early prototypes and POCs that show value quickly, then harden them to production quality Lead and mentor engineers as the team grows, working closely with internal stakeholders, the core platform team and the programme manager Essential Deep Snowflake architecture and engineering experience at enterprise scale Advanced SQL and data modelling (dimensional, Data Vault or similar) Designing and implementing a semantic or metrics layer in production Business glossaries, entity and relationship modelling, and metadata management Experience exposing data or metadata to LLMs and AI agents Building APIs and services in Python (or similar) Federated data platforms and data products Git-based CI/CD, automated testing and infrastructure as code Role-based access control and row-level security Technical ownership of a delivery from design to production Desirable Snowflake Horizon, Cortex, Semantic Views; SnowPro Advanced certification dbt Semantic Layer / MetricFlow, Cube, AtScale, LookML, Open Semantic Interchange (OSI) RDF, OWL, SKOS, SPARQL, knowledge graphs, Apache Jena or similar triple stores MCP server development, RAG patterns, LLM frameworks REST / GraphQL and data catalogue integration (Collibra, Alation, Atlan, DataHub) Data Mesh principles and data contracts dbt, Terraform, Azure DevOps or GitHub Actions, data quality tooling (Great Expectations, Soda) Approval and change workflows for metadata, data lineage tooling Finance data (controlling, reporting, planning) in a large enterprise Leading small engineering teams in a Scrum setting The details 6 month B2B contract Fully remote Start: ASAP",
+      "first_seen": "2026-10-28T16:58:26.860435+00:00",
+      "id": "d80000a691d325b1",
+      "matched_keywords": [
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-10-28T17:56:10+01:00",
+      "source": "freelancermap.de",
+      "title": "Data Architect",
+      "url": "https://www.freelancermap.de/projekt/data-architect-3066419"
+    },
+    {
+      "description": "Senior Delivery Manager / Technical Project Manager (m/w/d) in Frankfurt am Main Senior Delivery Manager / Technical Project Manager (m/w/d) Start: 15.11.2026 Ende: Dezember 2028, Option auf Verlängerung Die Leistung erfolgt remote; als Projektstandort ist Frankfurt am Main angegeben. Nearshore-Leistung ist in Deutschland bzw. im Europäischen Wirtschaftsraum möglich. Freelancer willkommen, alle Muss erfüllt! Wir suchen einen Delivery Manager für ein DevOps-Umsetzungsteam, das eine bestehende Softwarelösung für die operative Steuerung ablöst. Die Produkte werden als Single-Page-Anwendungen in einer Microservice-Architektur in der Cloud entwickelt und betrieben (Docker, CI/CD, vollständige Liefer- und Testautomatisierung). Die Teams arbeiten agil mit starkem Fokus auf UX, DDD und TDD und verantworten neben der Entwicklung auch den Betrieb. Aufgabenbeschreibung • Verantwortung für die fachliche, technische und organisatorische Weiterentwicklung der Anwendung • Erstellung, Pflege und Aktualisierung der Umsetzungsroadmap • Analyse, Bewertung und Spezifikation fachlicher und technischer Anforderungen in Abstimmung mit Fachbereichen und Stakeholdern • Erstellung und Pflege des Product Backlogs sowie Priorisierung nach fachlichen, technischen und wirtschaftlichen Kriterien • Durchführung von Reviews und fachlichen Abnahmen neuer Funktionalitäten und Releases • Stakeholder- und Risikomanagement • Sicherstellung eines gemeinsamen Verständnisses von Zielen, Anforderungen und Prioritäten • Monitoring des Produktfortschritts und Kommunikation von Status, Prioritäten und Entscheidungen • Aktive Mitgestaltung und Weiterentwicklung der agilen Arbeitsweise Muss-Anforderungen • Fundierte Erfahrung als Technical Project Manager oder Delivery Lead für komplexe Softwareanwendungen, Erfahrungslevel in Jahren (> 5 Jahre Erfahrung) • Praktische Erfahrung im Product Backlog Management (Erstellung und Pflege eines Backlogs), Erfahrungslevel in Jahren (> 5 Jahre Erfahrung) • Praktische Erfahrung im Verfassen von User Stories auf Basis komplexer fachlicher Anforderungen, Erfahrungslevel in Jahren (> 5 Jahre Erfahrung) • Nachweisbares fachliches Verständnis von Domain Driven Design (DDD) zur domänenorientierten Strukturierung fachlicher Anforderungen, Erfahrungslevel in Jahren (> 5 Jahre Erfahrung) • Praktische Erfahrung im Risikomanagement innerhalb der Produktverantwortung, Erfahrungslevel in Jahren (> 5 Jahre Erfahrung) • Deutsch auf muttersprachlichem Niveau Datenschutzhinweis Wenn Sie mit uns per E-Mail Kontakt aufnehmen, verarbeiten wir die von Ihnen übermittelten personenbezogenen Daten (z. B. Name, Adresse, Kontaktdaten sowie Angaben zu Ihrer Qualifikation, Ausbildung, Tätigkeit, Lebenslauf und Profil, Referenzen) ausschließlich zur Bearbeitung Ihrer Anfrage und zur Vertragsanbahnung gemäß Art. 6 Abs. 1 lit. b DSGVO. Weitere Informationen zur Verarbeitung Ihrer Daten finden Sie in unserer Datenschutzerklärung unter: https://www.sps-cs.de/impressum-datenschutzerklaerung/",
+      "first_seen": "2026-10-28T16:58:26.860435+00:00",
+      "id": "cf873cf824f583a4",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-10-28T17:56:08+01:00",
+      "source": "freelancermap.de",
+      "title": "Senior Delivery Manager / Technical Project Manager (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/senior-delivery-manager-technical-project-manager-m-w-d"
+    },
+    {
+      "description": "Für unseren Kunden, ein Versicherungsunternehmen, suchen wir ASAP einen IT-Projektkoordinator / Business Analyst (w/m/d), zur Erbringung der nachfolgenden Leistungen: Aufgaben Koordination der Print-Projekte an der Schnittstelle zwischen den Fachbereichen und der IT-/Entwicklungsabteilung Steuerung und Koordination relevanter Print-Arbeitspakete sowie regelmäßiges Reporting an die Gesamtprojektleitung Integration und Umsetzung von Print-Anforderungen in bestehende System- und Prozesslandschaften Konzeption, Erstellung und Anpassung von Fachkonzepten unter Berücksichtigung fachlicher und technischer Anforderungen Planung, Koordination und Durchführung des Testmanagements einschließlich Dokumentation und Nachverfolgung der Testergebnisse Abstimmung mit den Fachbereichen und der IT-/Entwicklungsabteilung sowie Erstellung und Überarbeitung bestehender Prozessschaubilder und Prozessbeschreibungen Qualifikationen Fundierte Erfahrung in der IT-Projektkoordination oder Business Analyse, idealerweise im Versicherungsumfeld Erfahrung im Print- und Outputmanagement sowie in der Integration von Print-Anforderungen in bestehende Systemlandschaften Kenntnisse in der Erstellung und Anpassung fachlicher und technischer Konzepte Erfahrung in der Steuerung und Koordination von Arbeitspaketen sowie im Projekt-Reporting Fundierte Kenntnisse im fachlichen Testmanagement einschließlich Testplanung, Testdurchführung und Ergebnisdokumentation Erfahrung in der Abstimmung zwischen Fachbereichen und IT sowie in der Erstellung und Überarbeitung von Prozessdokumentationen https://www.etengo.de/it-projektsuche/103650/",
+      "first_seen": "2026-10-28T16:58:26.860435+00:00",
+      "id": "ecebc1b414015f42",
+      "matched_keywords": [
+        "business analyst"
+      ],
+      "published": "2026-10-28T17:46:04+01:00",
+      "source": "freelancermap.de",
+      "title": "IT-Projektkoordinator / Business Analyst (w/m/d)",
+      "url": "https://www.freelancermap.de/projekt/it-projektkoordinator-business-analyst-w-m-d"
+    },
+    {
+      "description": "Für unseren Kunden suchen wir einen Senior SAP BW/4Hana & Datasphere Developer auf freiberuflicher Basis. Projekt: Das Projekt umfasst die Wartung, Optimierung und Weiterentwicklung bestehender Business-Intelligence-Anwendungen. Ziel ist es, einen stabilen Betrieb sicherzustellen und die Lösungen an neue fachliche Anforderungen anzupassen. Die Umsetzung erfolgt in enger Zusammenarbeit mit einem agilen Entwicklungsteam nach der Kanban-Methode. Aufgaben und Anfroderungen: Entwicklung in SAP BW/4HANA, Datasphere und SAC Schnittstellenentwicklung Programmierung Qualitätskontrolle und Analyse Entwicklungsdokumentierung Rahmendaten: Einsatzort: remote Start: ab Anfang 2027 bis Ende 2028 Auslastung: 100% Bei Interesse freuen wir uns über die Zusendung Ihres Skillprofils als PDF mit Angabe von Stundensatz und Verfügbarkeit. Sollte es aktuell bei Ihnen nicht passen, sprechen Sie gerne eine Empfehlung aus.",
+      "first_seen": "2026-10-28T16:58:26.860435+00:00",
+      "id": "46dc4ffa7ab72ac8",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-10-28T17:44:15+01:00",
+      "source": "freelancermap.de",
+      "title": "Senior SAP BW/4Hana & Datasphere Entwickler (Remote)",
+      "url": "https://www.freelancermap.de/projekt/senior-sap-bw-4hana-und-datasphere-entwickler-remote"
+    },
+    {
+      "description": "Leistungsbeschreibung * Eigenverantwortliche Steuerung und Koordination von Entwicklungsprojekten im Bereich Pitch-Lager sowie der zugehörigen Antriebssysteme * Begleitung des gesamten Produktentwicklungsprozesses von der Anforderungsdefinition über die Konstruktions- und Entwicklungsphase bis hin zu Werks- und Feldtests sowie der Serienüberführung * Enge Abstimmung mit Lieferanten, Entwicklungspartnern und internen Fachbereichen im Turbinenentwicklungsumfeld * Planung, Strukturierung und Nachverfolgung von Projektaktivitäten einschließlich der technischen Verifizierung komplexer elektromechanischer Systeme * Kontinuierliches Monitoring von Projektfortschritt, Terminen, Risiken und technischen Herausforderungen sowie Initiierung geeigneter Gegenmaßnahmen * Erstellung und Pflege projektrelevanter Dokumentationen, technischer Berichte, Statusreports und Abschlussbewertungen * Zusammenarbeit mit internationalen Engineering-Teams bei der Konzeption, Weiterentwicklung und Optimierung von Antriebssystemen Anforderungen * Abgeschlossenes Studium der Fachrichtungen Maschinenbau, Mechatronik oder einer vergleichbaren Fachrichtung * Fundierte Erfahrung in der Auslegung, Überwachung und messtechnischen Analyse von Pitch-Lagern und zugehörigen Antriebssystemen, idealerweise im Windenergieumfeld * Sehr gute Kenntnisse in der Entwicklung, Konstruktion und Verifizierung von Antriebskomponenten und Antriebssystemen * Praxiserfahrung in der technischen Projektabwicklung sowie im Umgang mit gängigen Projektmanagement-Methoden und -Tools * Kommunikationsstärke sowie souveräne Präsentation und Vertretung technischer Ergebnisse gegenüber unterschiedlichen Stakeholdern * Selbstständige, strukturierte und verantwortungsbewusste Arbeitsweise in internationalen Projektumgebungen * Sehr gute Englischkenntnisse in Wort und Schrift; weitere Fremdsprachenkenntnisse von Vorteil Rahmenbedingungen: * Start: kurzfristig * Auslastung: Vollzeit 40h/Woche * Laufzeit: 1 Jahr, Folgebeauftragung möglich * Einsatzort: Rostock (Mecklenburg-Vorpommern), Remote-Arbeit anteilig möglich * Verrechnungssatz: 80-90 €/h Kontaktperson: Senior Talent Acquisition Expert Frau Luisa Lore Krüger FERCHAU GmbH Niederlassung Rostock Lübecker Str. 32 18057 Rostock",
+      "first_seen": "2026-10-28T16:58:26.860435+00:00",
+      "id": "7057191fbc9e0c87",
+      "matched_keywords": [
+        "energie"
+      ],
+      "published": "2026-10-28T17:43:56+01:00",
+      "source": "freelancermap.de",
+      "title": "Technische Projektsteuerung Pitch-Lager und Antriebe Windenergieanlagen",
+      "url": "https://www.freelancermap.de/projekt/technische-projektsteuerung-pitch-lager-und-antriebe-windenergieanlagen"
+    },
+    {
+      "description": "Für ein Kreditprojekt in der Sparkassen-Finanzgruppe suchen wir ab 01.01.2027 einen Business Analyst mit nachweislicher OSplus-Kredit-Erfahrung. Projektkontext und Aufgaben Das Projekt bewegt sich im Kreditgeschäft der Sparkassen-Finanzgruppe und betrifft die Fachlichkeit rund um OSplus Kredit. Du übersetzt fachliche Anforderungen in umsetzbare Vorgaben und verbindest Fachbereich, Fachbetreuung und Entwicklung. Anforderungen aus dem Kreditprozess erheben, analysieren und dokumentieren Fachkonzepte, User Stories und Akzeptanzkriterien erstellen Abläufe und Schnittstellen im OSplus-Kredit-Umfeld fachlich beschreiben Workshops mit Fachbereichen und IT moderieren Fachliche Abnahme und Testfälle begleiten Änderungen und Abhängigkeiten im Projektteam abstimmen Anforderungen OSplus Kredit ist ein Ausschlusskriterium: Profile ohne konkrete Projekterfahrung damit werden nicht berücksichtigt. Muss Mehrjährige, belegbare Projekterfahrung mit OSplus Kredit Erfahrung als Business Analyst oder Fachkonzeptionist im Bankumfeld Sicherer Umgang mit Anforderungsmanagement, Prozessmodellierung und Fachkonzepten Kenntnis des Kreditgeschäfts in der Sparkassen-Finanzgruppe Verhandlungssichere Deutschkenntnisse Bereitschaft zu Vor-Ort-Terminen in Hannover oder Münster Kann Erfahrung in agilen oder hybriden Projektvorgehen Kenntnisse zu regulatorischen Anforderungen im Kreditgeschäft Erfahrung mit Test- und Abnahmeprozessen Eckdaten: Projektstart: 01.2027 Laufzeit: 12 Monate Auslastung: Vollzeit Einsatzort: 80–90 % remote, Rest vor Ort in Hannover oder Münster Wenn Ihnen das Projekt zusagt, freuen wir uns auf Ihre Rückmeldung mit Ihrem CV als Word-Datei, sowie Ihrem Stundensatz für remote und onsite (all in) via https://tpn2.com/job/business-analyst-im-umfeld-osplus-kredit-46526-44ba/",
+      "first_seen": "2026-10-28T16:58:26.860435+00:00",
+      "id": "3ab68f4074603bfb",
+      "matched_keywords": [
+        "business analyst",
+        "agil"
+      ],
+      "published": "2026-10-28T17:43:46+01:00",
+      "source": "freelancermap.de",
+      "title": "Business Analyst im Umfeld OSplus Kredit (46526-44BA)",
+      "url": "https://www.freelancermap.de/projekt/business-analyst-im-umfeld-osplus-kredit-46526-44ba"
+    },
+    {
+      "description": "Achtung: Es können nur sozialversicherungspflichtig festangestellte Kandidaten (m/w/d) berücksichtigt werden. Auslastung: 4 Tage pro Woche 180 PT remote / 20 PT vor Ort Aufgaben: Planung, Einsatz und Steuerung agiler Methoden und Vorgehensweisen Koordination und Coaching der Teams bei der Anwendung agiler Methoden Förderung der Selbstorganisation und kontinuierlichen Verbesserung der Zusammenarbeit Identifikation, Koordination und Beseitigung von Impediments Moderation von Scrum-Meetings einschließlich Lessons Learned Unterstützung bei agilen Planungs-, Schätz- und Controllingprozessen, beispielsweise mithilfe von Story Points Förderung der Zusammenarbeit zwischen Projektteams, Fachbereichen und Stakeholdern Stakeholdermanagement und Einbindung relevanter Geschäftsziele Kontinuierliche Optimierung der agilen Arbeitsweise und Lieferfähigkeit Unterstützung beim Risikomanagement und Entwicklung geeigneter Verbesserungsmaßnahmen Sicherstellung des Know-how-Transfers und Dokumentation der Ergebnisse Erforderliche Kenntnisse und Erfahrungen: Kenntnisse agiler Methoden und Erfahrung in der Rolle als Scrum Master Zertifizierung als Scrum Master Mindestens 2 Jahre Erfahrung als Scrum Master in vergleichbaren erfolgreichen Vorhaben mit agilen Arbeitsmethoden und agilen Teams Wünschenswert: Erfahrung der Versicherungsbranche",
+      "first_seen": "2026-10-28T16:58:26.860435+00:00",
+      "id": "9846044d16931348",
+      "matched_keywords": [
+        "scrum master",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-10-28T17:41:19+01:00",
+      "source": "freelancermap.de",
+      "title": "Scrum Master (m/w/d) - Nur sozialversicherungspflichtig Festangestellte (m/w/d) möglich",
+      "url": "https://www.freelancermap.de/projekt/scrum-master-m-w-d-nur-sozialversicherungspflichtig-festangestellte-m-w-d-moeglich"
+    },
+    {
+      "description": "Für ein laufendes Interim-Mandat suchen wir aktuell einen erfahrenen Interim Marketing Lead (m/w/d) für ein mittelständisches Unternehmen mit erklärungsbedürftigen technischen Produkten. ? Besonders wichtig: Gesucht wird keine klassische Consumer-Marketing-Persönlichkeit. Entscheidender Erfolgsfaktor sind Industrieerfahrung und/oder ein ausgeprägtes technisches Verständnis . Wer sich schnell in komplexe Produkte, technische Zusammenhänge und B2B-Zielgruppen einarbeiten kann, hat hier einen klaren Vorteil. Das Mandat Beratung und Weiterentwicklung der Performance-Marketing-Strategie Optimierung von Lead-Generation-Konzepten über digitale Kanäle Begleitung von SEO- und Website-Optimierungsinitiativen Weiterentwicklung der Social-Media- und Content-Strategie Konzeption und Begleitung von Messe- und Marketingmaßnahmen Beratung zu CRM-nahen Marketingprozessen und Strukturen Sparringspartner für Management und Marketing-Team Gesuchtes Profil Mehrjährige Erfahrung als Interim Marketing Manager, Head of Marketing oder Marketing Lead Fundierte Expertise im Bereich Performance Marketing Nachweisbare Erfahrung im B2B-Marketing Idealerweise Branchenhintergrund in: Industrie Technische Produkte Maschinenbau Gebäudetechnik Ähnlichen technologiegetriebenen Umfeldern Hohe Präsenzbereitschaft im Raum Rhein-Neckar Interesse oder eine Empfehlung aus dem Netzwerk? Ich freue mich über eine Nachricht mit Profil oder kurzer Vorstellung.",
+      "first_seen": "2026-10-28T16:58:26.860435+00:00",
+      "id": "459c74566733a785",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-10-28T17:27:42+01:00",
+      "source": "freelancermap.de",
+      "title": "Interim Marketing Lead (m/w/d) | Technisches B2B-Umfeld | Raum Rhein-Neckar",
+      "url": "https://www.freelancermap.de/projekt/interim-marketing-lead-m-w-d-technisches-b2b-umfeld-raum-rhein-neckar"
+    },
+    {
+      "description": "Wir suchen einen erfahrenen Business Analysten (m/w/d) zur fachlichen Begleitung einer zentralen Compliance-ETL für AFC-Systeme. Die Aufgaben umfassen insbesondere die Erhebung fachlicher Datenanforderungen und die Datenanalyse in den Quellsystemen. Die fachlichen Anforderungen werden in Datenanforderungen an die Quellsysteme sowie in Transformationsanforderungen an die zentrale Compliance-ETL überführt. Dazu gehören insbesondere die Normalisierung, Standardisierung und Anreicherung von Daten. Die Umsetzung der Anforderungen soll fachlich begleitet, getestet und abgenommen werden. Aufgaben Analyse fachlicher Anforderungen an Daten und Datenflüsse Überführung der Anforderungen in Datenanforderungen an Quellfunktionen und Quellsysteme Konzeption von ETL-Transformationslogiken, insbesondere zur Normalisierung, Standardisierung und Anreicherung von Daten Überführung der Anforderungen in die applikationsspezifischen Datenmodelle der AFC-Systeme Definition fachlicher Testfälle, Testdatenanforderungen und erwarteter Soll-Ergebnisse Durchführung der Tests sowie fachliche Abnahme der Umsetzung Geforderte Kompetenzen Nachgewiesene Kenntnisse in Datenbankstrukturen, Datenintegration und Datenmodellierung, beispielsweise Entity-Relationship-Modelle Sehr gute SQL-Kenntnisse Sehr gute Erfahrung im Umgang mit Target-Source-Matrizen Verständnis für Schnittstellen und technische Möglichkeiten der Datenbereitstellung Erfahrung im Test von ETL-Transformationsregeln sowie in der Ableitung fachlicher Testfälle Fähigkeit, Testdatenanforderungen zu definieren und Soll-Ergebnisse für Soll-Ist-Vergleiche zu erstellen Mehrjährige Erfahrung als Business Analyst Erfahrung in der Analyse, Modellierung und Optimierung von Geschäftsprozessen, beispielsweise mit BPMN, sowie von Datenflüssen im Finanzsektor Kompetenz in der Ausgestaltung und Implementierung von Datenflüssen und Transformationsregelwerken Methodenkenntnisse im Anforderungsmanagement und Stakeholder-Management sowie in der Planung und Durchführung von Workshops Methodenkenntnisse im Testmanagement, insbesondere in Testanalyse, Testdatendefinition und Testdurchführung zur fachlichen Abnahme von Umsetzungen IREB Foundation Level oder vergleichbare Zertifizierung ISTQB Foundation Level oder vergleichbare Zertifizierung",
+      "first_seen": "2026-10-28T16:58:26.860435+00:00",
+      "id": "c5d639a63cc6a718",
+      "matched_keywords": [
+        "business analyst",
+        "ireb"
+      ],
+      "published": "2026-10-28T17:26:17+01:00",
+      "source": "freelancermap.de",
+      "title": "Business Analyst Compliance ETL / AFC (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/business-analyst-compliance-etl-afc-m-w-d"
+    },
+    {
+      "description": "Wir bieten Ihnen ein spannendes Interim-Mandat, bei einem interessanten Kunden aus dem Produktionsbereich. Kundendetails Wir bieten Ihnen ein spannendes Interim-Mandat, bei einem interessanten Kunden aus dem Produktionsbereich. Stellenbeschreibung Unterstützung der Stakeholder bei der Koordination und Nachverfolgung projektbezogener Aktivitäten Vorbereitung, Organisation und Nachbereitung von Workshops sowie Projektmeetings Pflege und Tracking von Aufgaben& Maßnahmen Sicherstellung einer aktuellen und vollständigen Projektdokumentation Unterstützung bei der Einhaltung von Governance-Vorgaben und Projektstandards Profil Mehrjährige Erfahrung als PMO, Projektkoordinator oder in einer vergleichbaren Rolle Sehr gute organisatorische Fähigkeiten sowie ein strukturierter und lösungsorientierter Arbeitsstil Erfahrung in der Vorbereitung und Steuerung von Workshops, Meetings und Management-Reportings Fließende Englischkenntnisse in Wort und Schrift Bereitschaft 2 Tage pro Woche vor Ort zu arbeiten Das Angebot Wir bieten Ihnen ein spannendes Interim-Mandat, bei einem interessanten Kunden aus dem Produktionsbereich.",
+      "first_seen": "2026-10-28T16:58:26.860435+00:00",
+      "id": "faf24e0a94ee3b70",
+      "matched_keywords": [
+        "pmo"
+      ],
+      "published": "2026-10-28T17:20:39+01:00",
+      "source": "freelancermap.de",
+      "title": "Interim PMO (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/interim-pmo-m-w-d-3066394"
+    },
+    {
       "description": "Für unseren Kunden in Dresden suchen wir ab Mitte November einen Product Owner (m/w/d) MS365, Azure, Intune Ihre Aufgaben: • Sie analysieren und priorisieren Anforderungen der Fachbereiche rund um den digitalen Arbeitsplatz auf Basis von Microsoft 365. • Sie entwickeln fachliche und technische Lösungskonzepte und steuern deren Umsetzung gemeinsam mit internen Teams und externen Dienstleistern. • Sie analysieren, modellieren und optimieren Geschäftsprozesse und identifizieren Potenziale zur Standardisierung und Automatisierung. • Sie verantworten und pflegen das Anforderungs- und Feature-Backlog und gestalten die Weiterentwicklung unserer M365-Roadmap. • Sie leiten oder begleiten Projekte zur Einführung und Weiterentwicklung von M365- und Azure- Services – von der Konzeption über Tests bis zum Go-live. • Sie übernehmen die fachliche Produktverantwortung für ausgewählte M365-Services einschließlich Anwendersupport, Rollen- und Berechtigungskonzepten sowie Incident- und Problemmanagement. • Sie unterstützen Softwareauswahl, Lizenzmanagement und Wirtschaftlichkeitsbetrachtungen für neue IT-Lösungen. Ihr Profil: • Abgeschlossenes Studium der (Wirtschafts-)Informatik oder eine vergleichbare Qualifikation mit entsprechender Berufserfahrung. • Fundierte Kenntnisse im Microsoft-Ökosystem, insbesondere Microsoft 365, Azure, Power Platform, Intune und modernen Workplace-und Sicherheits-Technologien inkl. Einsatz in regulierten Unternehmen. • Erfahrung im Requirements Engineering, Prozessmanagement und idealerweise im agilen Projektumfeld. • Kenntnisse in Methoden wie BPMN, UML oder vergleichbaren Modellierungsverfahren. • Erfahrung in der Zusammenarbeit mit Fachbereichen, Stakeholdern und externen Dienstleistern. • Idealerweise Erfahrung als Product Owner oder in der fachlichen Produktverantwortung. • Analytische, strukturierte, eigenverantwortliche und ergebnisorientierte Arbeitsweise sowie ausgeprägte Kommunikations- und Präsentationsfähigkeiten. • Deutschkenntnisse auf mindestens C1-Niveau. Projektdauer: Ende März 2027 Vor Ort in Dresden 2 Tage / Woche, Rest - remote Ich freue mich auf Ihr Interesse! Mit freundlichen Grüßen Julia Barysava percision services GmbH Senior IT Recruitment Consultant Agrippinawerft 26 (2. Etage) 50678 Köln Mobil: ***** Mail: ***** Zentrale: Fon ***** – 555 Mail ***** Web www.percision.de percision services GmbH mit Sitz in Dortmund Geschäftsführer: Peter de Lorenzi Amtsgericht Dortmund HRB 16420 UST-ID: DE 217727976",
       "first_seen": "2026-10-28T10:25:08.560314+00:00",
       "id": "1b0d53f64d08be7d",
@@ -4044,256 +4169,7 @@
       "source": "freelancermap.de",
       "title": "Spezialist BSH-Offshore-Genehmigungsmanagement (m/w/d)",
       "url": "https://www.freelancermap.de/projekt/spezialist-bsh-offshore-genehmigungsmanagement-m-w-d"
-    },
-    {
-      "description": "Aufgaben: Erstellung und Bearbeitung von Lageplänen, Trassenplänen sowie Ausführungs- und Bestandsunterlagen im Bereich Fernwärme Zeichnerische Umsetzung von Tiefbau- und Leitungsbaumaßnahmen für Fernwärmenetze Modellierung und Bearbeitung von Trassenverläufen sowie Geländedaten in AutoCAD Civil 3D Erstellung von Quer- und Längsschnitten für Leitungs- und Tiefbauprojekte Pflege, Aktualisierung und Qualitätssicherung von Planungsunterlagen Unterstützung der Fachplanung bei Entwurfs-, Genehmigungs- und Ausführungsplanungen Koordination von Planständen sowie Dokumentation projektbezogener Änderungen Erstellung von Bestandsdokumentationen und Revisionsunterlagen Abstimmung mit Fachplanern, Bauleitern und Projektbeteiligten Mitwirkung bei der technischen Aufbereitung von Ausschreibungs- und Vergabeunterlagen Anforderungen: Abgeschlossene Ausbildung als Bauzeichner, Technischer Zeichner oder vergleichbare Qualifikation Erfahrung in der Planung von Fernwärme-, Versorgungs- oder Tiefbauprojekten Sicherer Umgang mit AutoCAD und Civil 3D Kenntnisse im Leitungs-, Kanal-, Straßen- oder Infrastrukturtiefbau Verständnis für Planungs- und Ausführungsprozesse innerhalb von Infrastrukturprojekten Strukturierte und eigenständige Arbeitsweise Sicherer Umgang mit digitalen Projekt- und Dokumentationsprozessen Gute Deutschkenntnisse in Wort und Schrift",
-      "first_seen": "2026-10-14T16:30:58.215186+00:00",
-      "id": "92f9e77d4e8ba4cb",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-10-14T18:24:16+02:00",
-      "source": "freelancermap.de",
-      "title": "Bauzeichner Fernwärme / Tiefbau (AutoCAD & Civil 3D) | 100 % Remote",
-      "url": "https://www.freelancermap.de/projekt/bauzeichner-fernwaerme-tiefbau-autocad-und-civil-3d-100-prozent-remote"
-    },
-    {
-      "description": "Hallo zusammen, für ein aktuelles Interim-Mandat suche ich einen erfahrenen EHS Manager (m/w/d) mit Hintergrund in der produzierenden Industrie. Aufgabenschwerpunkte: Verantwortung für Environment, Health & Safety (EHS) Arbeitssicherheit und Gesundheitsschutz Umweltmanagement und Compliance Durchführung von Risiko- und Gefährdungsanalysen Betreuung von Audits und Zertifizierungen Weiterentwicklung der Sicherheitskultur Zusammenarbeit mit Fachbereichen, Management und Behörden Anforderungen: Mehrjährige Erfahrung als EHS-, HSE- oder SHE-Manager Erfahrung im industriellen bzw. produzierenden Umfeld Kenntnisse in ISO 14001 und ISO 45001 Hands-on-Mentalität und ausgeprägte Kommunikationsstärke Deutsch und Englisch Reisebereitschaft erforderlich Rahmendaten: Start: kurzfristig Auslastung: Vollzeit bevorzugt Laufzeit: langfristige Perspektive Einsatz: vor Ort mit Reiseanteilen Interessiert oder jemanden im Netzwerk, der passen könnte? Ich freue mich über Ihre Nachricht inklusive CV und Angabe Ihres Stundensatzes an: ? ***** Vielen Dank und viele Grüße Aris Athanasiadis Senior Recruiter | DIS AG #EHS #HSE #SHE #Arbeitssicherheit #Umweltmanagement #ISO14001 #ISO45001 #Freelancer #InterimManagement #Industrie #Freelancermap #Projektanfrage #HealthAndSafety #EnvironmentalManagement",
-      "first_seen": "2026-10-14T16:30:58.215186+00:00",
-      "id": "ed214b7db6fc3644",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-10-14T18:24:11+02:00",
-      "source": "freelancermap.de",
-      "title": "DIS AG - INTERIM EHS Manager (m/w/d) gesucht | Produzierendes Umfeld | Reisebereitschaft",
-      "url": "https://www.freelancermap.de/projekt/dis-ag-interim-ehs-manager-m-w-d-gesucht-produzierendes-umfeld-reisebereitschaft"
-    },
-    {
-      "description": "Für unseren Kunden suchen wir derzeit einen ServiceNow Developer (SecOps / USEM). Ihre Hauptaufgabe besteht darin, die Implementierung, Konfiguration und Weiterentwicklung von ServiceNow SecOps-/USEM-Komponenten zu unterstützen sowie Workflows, Automatisierungen und Schnittstellen umzusetzen. Aufgaben: • Konfiguration und Weiterentwicklung von ServiceNow SecOps-/USEM-Komponenten sowie Umsetzung fachlicher Anforderungen und technischer Lösungskonzepte • Entwicklung und Optimierung von Workflows, Geschäftsregeln, Automatisierungen und Remediation-Prozessen einschließlich REST-/SOAP-API-Integrationen • Unterstützung bei Tests, Fehlerbehebungen, Deployments, technischer Dokumentation und Wissenstransfer Anforderungen: • Fundierte Erfahrung in der ServiceNow-Entwicklung und -Konfiguration, insbesondere mit JavaScript, Flow Designer, Business Rules, Script Includes, UI Policies und Client Scripts • Erfahrung mit REST-/SOAP-Schnittstellen, ServiceNow-Workflows und Automatisierungen sowie agilen Implementierungsprojekten • Kenntnisse in ServiceNow SecOps, Vulnerability Response, CMDB und USEM-Architektur von Vorteil; Zertifizierungen wie CIS-VR oder Certified Application Developer wünschenswert Projektdetails: Start: ASAP Laufzeit: Bis zum 30.12.2026 (ca. 400 Stunden) Auslastung: Vollzeit Ort: Remote Sprachen: Deutsch und Englisch Telefonische Interviews mit unserem Kunden können kurzfristig vereinbart werden, mit schneller Entscheidung im Anschluss. Bei Interesse an diesem Projekt oder wenn Sie hierfür jemanden empfehlen können, kommen Sie gerne auf mich zu.",
-      "first_seen": "2026-10-14T16:30:58.215186+00:00",
-      "id": "f9ac7e923dc97285",
-      "matched_keywords": [
-        "agil"
-      ],
-      "published": "2026-10-14T18:07:46+02:00",
-      "source": "freelancermap.de",
-      "title": "ServiceNow Developer - 2+ Monate - Remote - ASAP",
-      "url": "https://www.freelancermap.de/projekt/servicenow-developer-2-monate-remote-asap"
-    },
-    {
-      "description": "Sehr geehrte Damen und Herren, derzeit suchen wir für einen Kunden einen 3rd Level Administrator mit Schwerpunkt WINSolvenz (m/w/d). Gerne möchte ich Ihnen das Projekt vorstellen: Projektstart: ab sofort Projektdauer: 6 Monate + Option zur Verlängerung Projektauslastung: Vollzeit Projektstandort: Onsite Köln oder Berlin | Oder vollständig Remote Ihre Aufgaben: Hauptverantwortung für den 3rd-Level-Support sowie technische Verantwortlichkeit für: • WINSolvenz (must have) - zentraler Schwerpunkt • STP1 (Standort Karlsruhe, must have) • LEXolution / Documents (must have) • Lösungsfindung bei komplexen Softwarefehlern über den 2nd Level hinaus • Analyse, Fehlerbehebung sowie Koordination von Changes & Releases • Anpassungen, Updates und Weiterentwicklung der WINSolvenz-Systeme • Sicherstellung der Datenintegrität der angebundenen Systeme • SQL-Server-Administration (inkl. Performanceoptimierung, Backups & Wiederherstellung) • Schnittstellenmanagement zwischen WINSolvenz, Fachbereichen und IT • Sicherstellung des stabilen Betriebs aller geschäftskritischen Systeme im 3rd-Level-Support Weitere Tätigkeiten: • Administration und Optimierung der Infrastruktur mit Schwerpunkt auf: • Microsoft 365 (E5) inkl. Microsoft Intune • Azure (lokal & Cloud) • Citrix-Administration • HP Aruba (Netzwerkadministration) • Fortinet Firewall (Security) • Unterstützung des kontinuierlichen Wachstums im Rahmen des 3rd-Level-Modells Ihr Profil: • Muss-Have: Tiefgehende Erfahrung mit WINSolvenz (im 3rd-Level) und LEXolution / Documents • Erfahrung in der Analyse komplexer Softwarefehler und deren nachhaltiger Behebung • Fundierte Kenntnisse in Microsoft- und Citrix-Umgebungen (M365 E5, Azure, Intune, Citrix) • Netzwerk- und Security-Know-how (HP Aruba, Fortinet Firewall) • Analytische Fähigkeiten, strukturierte Arbeitsweise und hohe Lösungsorientierung • Erfahrung mit DATEV von Vorteil Klingt das Projekt spannend für Sie? Dann freue ich mich über Ihren aussagekräftigen CV. Mit dem Versenden Ihrer Dokumente erklären Sie sich mit der Datenschutzerklärung einverstanden.",
-      "first_seen": "2026-10-14T16:30:58.215186+00:00",
-      "id": "23a2d7db3469eb71",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-10-14T17:40:40+02:00",
-      "source": "freelancermap.de",
-      "title": "3rd Level Administrator für WINSolvenz (m/w/d)_Remote_6M++",
-      "url": "https://www.freelancermap.de/projekt/3rd-level-administrator-fuer-winsolvenz-m-w-d-remote-6m-3060903"
-    },
-    {
-      "description": "Freelance SAP IS-U / WIM Consultant Projektdauer: 18 Monate mit möglicher Verlängerung Start: Ab sofort Einsatzort: 100 % remote Auslastung: Idealerweise Vollzeit Vertragsart: Freelance Sprachen: Deutsch und Englisch Aufgaben Durchführung von End-to-End-Prozessanalysen für intelligente Messsysteme und Marktkommunikation im SAP IS-U. Analyse von End-to-End-Wechselprozessen im Messwesen innerhalb von SAP IS-U sowie Bearbeitung der dazugehörigen Klärfälle. Analyse von Prozessfehlern und Identifikation der Ursachen bei Problemen im Messwesen und in der Marktkommunikation. Zuordnung der Klärfälle zu den zuständigen Fachbereichen und Koordination der weiteren Bearbeitung. Zusammenarbeit mit relevanten Fachbereichen und technischen Teams zur Sicherstellung reibungsloser Prozessabläufe. Unterstützung bei der Optimierung von Prozessen und Sicherstellung einer korrekten Abwicklung messwesenbezogener Geschäftsprozesse. Anforderungen Fundierte Erfahrung mit SAP IS-U, insbesondere im Messwesen und in der Marktkommunikation. Praktische Erfahrung mit intelligenten Messsystemen (iMSys). Erfahrung in der Analyse von End-to-End-Prozessen in der Energiewirtschaft. Kenntnisse in Wechselprozessen im Messwesen und im Klärfallmanagement. Fähigkeit, komplexe Sachverhalte zu analysieren, Ursachen zu identifizieren und Lösungen in Zusammenarbeit mit den zuständigen Fachbereichen zu koordinieren. Ausgeprägte Kommunikations- und Koordinationsfähigkeiten. Gute Deutsch- und Englischkenntnisse. Interesse? Wenn du Interesse an diesem Projekt hast, sende mir gerne deinen aktuellen Lebenslauf an ***** Falls das Projekt nicht zu dir passt, freue ich mich auch über eine Empfehlung aus deinem Netzwerk – und du kannst dir damit einen Empfehlungsbonus sichern!",
-      "first_seen": "2026-10-14T16:30:58.215186+00:00",
-      "id": "7be6303445605163",
-      "matched_keywords": [
-        "energie",
-        "netz",
-        "marktkommunikation"
-      ],
-      "published": "2026-10-14T17:38:44+02:00",
-      "source": "freelancermap.de",
-      "title": "SAP ISU - WIM | Remote | 18 months",
-      "url": "https://www.freelancermap.de/projekt/sap-isu-wim-remote-18-months"
-    },
-    {
-      "description": "Liebe Freelancer*innen, Für ein laufendes Digitalisierungs- und Infrastrukturprojekt im öffentlichen bzw. Bildungsumfeld suchen wir einen erfahrenen IT System Engineer / Infrastructure Consultant (m/w/d). Im Mittelpunkt steht die technische Implementierung, Administration und Weiterentwicklung von Lernmanagement- und Infrastrukturplattformen. Gesucht wird daher kein reiner Administrator, sondern ein technisch versierter Consultant, der Kundenanforderungen aufnehmen, Lösungen konzipieren und anschließend selbstständig technisch umsetzen kann. Aufgaben - Installation und Konfiguration von Learning-Management- und vergleichbaren Plattformlösungen - Integration der Systeme in bestehende Netzwerk- und Serverinfrastrukturen - Administration und Absicherung von Linux- und Windows-Serverumgebungen - Planung und Durchführung von System-Upgrades und Migrationen Analyse bestehender Infrastruktur und Identifikation von Optimierungsmöglichkeiten - Performance-Optimierung und Skalierung der eingesetzten Plattformen - Technische Beratung der jeweiligen Projektverantwortlichen - Troubleshooting bei komplexen System- und Infrastrukturproblemen - Bearbeitung technischer Eskalationen - Dokumentation der umgesetzten Lösungen - Eigenständige Planung und Durchführung von Vor-Ort-Einsätzen Must-have Skills - Mehrjährige Erfahrung in der Systemadministration / IT-Infrastruktur - Sehr gute Kenntnisse in Linux, insbesondere Debian und/oder Ubuntu - Gute Kenntnisse aktueller Windows-Server-Umgebungen - Erfahrung mit Netzwerk- und Serverinfrastrukturen - Erfahrung mit Installation, Konfiguration und Integration komplexer Anwendungen - Kenntnisse in Troubleshooting, Performance-Optimierung und System-Upgrades - Selbstständige und lösungsorientierte Arbeitsweise - Sehr gute Deutschkenntnisse - Führerschein und Bereitschaft zu projektbezogenen Vor-Ort-Einsätzen in Hessen und Rheinland-Pfalz Nice-to-have - Erfahrung mit Learning Management Systems (LMS) - Kenntnisse in Lösungen wie iServ, MNS Pro oder vergleichbaren Plattformen - Erfahrung im öffentlichen Sektor oder Bildungsumfeld - Erfahrung mit größeren Rollout-, Migrations- oder Digitalisierungsprojekten Klingt das Projekt spannend für Sie? Dann freue ich mich über die Zusendung Ihres aussagekräftigen CVs. Mit dem Versenden Ihrer Unterlagen erklären Sie sich mit unserer Datenschutzerklärung einverstanden.",
-      "first_seen": "2026-10-14T16:30:58.215186+00:00",
-      "id": "229456bd239fcc87",
-      "matched_keywords": [
-        "netz",
-        "ems"
-      ],
-      "published": "2026-10-14T17:38:43+02:00",
-      "source": "freelancermap.de",
-      "title": "System Engineer/Consultant (m/w/d) | Mainz | 6M++",
-      "url": "https://www.freelancermap.de/projekt/system-engineer-consultant-m-w-d-mainz-6m-3060898"
-    },
-    {
-      "description": "Zum nächstmöglichen Zeitpunkt wird ein MDM Developer (w/m/d) zur Unterstützung im Projekt gesucht Aufgaben • Migration bestehender Stammdatenobjekte von Microsoft Master Data Services (MDS) nach Profisee • Extraktion, Analyse und Überführung der Bestandsdaten in ein bereits definiertes Ziel-Datenmodell • Durchführung und Begleitung der Datenmigration inklusive Datenvalidierung und Qualitätssicherung • Analyse und Nachentwicklung bestehender Business Rules und Geschäftslogiken innerhalb von Profisee • Konfiguration und Weiterentwicklung von Datenmodellen, Data Products und Workflows in Profisee • Entwicklung und Implementierung von FastApps, Webhooks, Connectoren und REST-API-Integrationen • Entwicklung und Optimierung komplexer SQL- und T-SQL-Abfragen sowie Stored Procedures • Anbindung von Profisee an bestehende operative Systeme und Unternehmensanwendungen • Eigenständige Abstimmung mit Fachbereichen zur Aufnahme, Analyse und Umsetzung fachlicher Anforderungen • Zusammenarbeit mit internen IT-Teams bei Integrations- und Schnittstellenthemen • Erstellung technischer Dokumentationen sowie Sicherstellung des Wissenstransfers an interne Mitarbeiter • Durchführung von Schulungen für Key User und Unterstützung während der Einführungs- und Stabilisierungsphase • Mitarbeit in einem agilen Scrum-Umfeld (Sprint Planning, Daily Stand-ups, Reviews und Retrospektiven) Anforderung: Must-have • Mehrjährige Erfahrung im Bereich Master Data Management (MDM) • Fundierte Kenntnisse in Microsoft Master Data Services (MDS) • Erfahrung mit MDS-Datenmodellen, Entitäten, Attributen, Hierarchien, Business Rules und Views • Sehr gute Kenntnisse in Microsoft SQL Server und T-SQL • Erfahrung in der Entwicklung komplexer SQL-Abfragen und Stored Procedures • Erfahrung in Datenmigrations- und Transformationsprojekten • Erfahrung in der Entwicklung und Integration von REST-APIs • Fundiertes Verständnis von Datenmodellierung, Data Governance und Stammdatenmanagement • Erfahrung bei der Integration von MDM-Lösungen in bestehende Systemlandschaften • Sehr gute Deutschkenntnisse in Wort und Schrift • Ausgeprägte Kommunikationsfähigkeit und sicheres Auftreten gegenüber Fachbereichen und Stakeholdern • Selbstständige, strukturierte und lösungsorientierte Arbeitsweise • Erfahrung in agilen Projektumfeldern nach Scrum Nice-to-have • Projekterfahrung mit Profisee • Erfahrung in der Entwicklung von FastApps, Data Products und komplexen Workflows • Erfahrung mit Webhooks, Azure Functions und Connector-Entwicklung • Erfahrung in der Implementierung von MDM-Plattformen • Erfahrung im Wissenstransfer sowie in der Schulung von Key Usern • Erfahrung in internationalen und stakeholderintensiven Projektumgebungen • Kenntnisse moderner Daten- und Integrationsarchitekturen Branche: Finance & Banking Projektsprache: Deutsch/Englisch Projektstart: asap Projektende: 31.12.2027 + Opt. Auslastung: 100% Leistungsort: remote",
-      "first_seen": "2026-10-14T16:30:58.215186+00:00",
-      "id": "1d339288bc9c7cf1",
-      "matched_keywords": [
-        "agil",
-        "scrum"
-      ],
-      "published": "2026-10-14T17:37:05+02:00",
-      "source": "freelancermap.de",
-      "title": "Experte (w/m/d) MDM, MDS, REST-APIs, Datenmodellierung, Data Governance… *****)",
-      "url": "https://www.freelancermap.de/projekt/experte-w-m-d-mdm-mds-rest-apis-datenmodellierung-data-governance"
-    },
-    {
-      "description": "Aktuell suchen wir Unterstützung in der SPS-Softwareentwicklung im Bereich der Montageautomation. Die wichtigsten Projektdetails: Entwicklung von SPS-Bausteinen für Anlagen der Montageautomation Siemens TIA Portal, Sinamics S120 Start: November 2026 Dauer: 3–6 Monate, Option auf Verlängerung Einsatzort: Großraum Trier, Remote _________________________________________________________ We are currently looking for support in PLC software development for assembly automation. Key project details: Development of PLC function blocks for assembly automation systems Siemens TIA Portal, Sinamics S120 Start: November 2026 Duration: 3–6 months, with option to extend Location: Trier area (Germany), remote",
-      "first_seen": "2026-10-14T16:30:58.215186+00:00",
-      "id": "851886671e8e2a2b",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-10-14T17:28:28+02:00",
-      "source": "freelancermap.de",
-      "title": "SPS-Softwareentwicklung (TIA Portal)/ PLC Software Development (TIA Portal)",
-      "url": "https://www.freelancermap.de/projekt/sps-softwareentwicklung-tia-portal-plc-software-development-tia-portal"
-    },
-    {
-      "description": "Job Titel: SAP ISU WIM Project Duration: 6 months, with possible extension Start Date: As soon as possible Location: Fully remote Utilization: Ideally full-time Contract Type: Freelance Languages: German and English Responsibilities Conduct end-to-end (E2E) process analyses for intelligent metering systems and market communication within SAP IS-U. Analyse end-to-end metering change processes in SAP IS-U and handle the associated clarification cases. Analyse process errors and identify the root causes of issues within metering and market communication processes. Assign clarification cases to the relevant specialist departments and coordinate their resolution. Collaborate with relevant business and technical teams to ensure smooth process execution. Support process optimisation and ensure the correct handling of metering-related business processes. Requirements Strong experience with SAP IS-U, particularly in metering and market communication processes. Practical experience with intelligent metering systems (iMSys). Experience analysing end-to-end processes within the energy sector. Knowledge of metering change processes and clarification case management. Ability to analyse complex issues, identify root causes, and coordinate solutions across specialist departments. Strong communication and coordination skills. Good German and English language skills. Interested? If you are interested in this opportunity, please send your latest CV to ***@***.com . If this project isn't the right fit for you, I'd also appreciate a referral from your network – and you could earn a referral bonus !",
-      "first_seen": "2026-10-14T16:30:58.215186+00:00",
-      "id": "f54b11bd0bda8415",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-10-14T17:28:15+02:00",
-      "source": "freelancermap.de",
-      "title": "SAP ISU / E2E - WIM / Freelance / Brink Group",
-      "url": "https://www.freelancermap.de/projekt/sap-isu-e2e-wim-freelance-brink-group"
-    },
-    {
-      "description": "Projektziel: Für den Aufbau und die Weiterentwicklung einer B2B-SaaS-Plattform mit KI-Funktionen wird ein erfahrener Technical Product Owner gesucht. Die Rolle umfasst die Verantwortung für Produktvision, Roadmap und Backlog sowie die enge Zusammenarbeit mit dem Entwicklungsteam und direkten Kundenkontakt. Hauptaufgaben: - Entwicklung und Pflege der Produktvision, Roadmap und Release-Planung über mehrere Quartale - Verantwortung für Backlog, Feature-Definition, Priorisierung und Abnahme - Anforderungsklärung mit Kunden und Interessenten sowie Rückführung des Feedbacks in die Roadmap - Steuerung des Entwicklungsteams im agilen Zyklus, inklusive Refinement und Review - Treffen von Build/Buy- und Make-or-Buy-Entscheidungen für technische Komponenten - Kosten- und Qualitätsmonitoring, auch bei KI-Komponenten (Provider-Auswahl, Betriebskosten) Voraussetzungen: - Mindestens 4 Jahre Erfahrung als Product Owner oder Product Manager in Softwareprodukten - Eigenverantwortliche Erfahrung in Roadmap, Backlog und Priorisierung (nicht nur Zuarbeit) - Fundierte Kenntnisse in Epics, User Stories, Akzeptanzkriterien, Refinement und Release-Planung - Sicherer Umgang mit Jira, Confluence und Github/Bitbucket - Sehr gute Deutschkenntnisse (Projektsprache), Englisch für Teamabstimmung - Kenntnisse in Scrum und SAFe Wünschenswert: - Erfahrung in KI- oder LLM-Projekten (Chatbot, Agent, Automatisierung) - Erfahrung mit API-getriebenen Produkten oder Plattformen - Kenntnisse in SaaS-Metriken und Monetarisierung (Aktivierung, Retention, Umsatz) - Zertifizierung PSPO, CSPO oder SAFe POPM Zeitrahmen/Projektlaufzeit: Start zum 01/2027, Laufzeit 6 Monate mit Verlängerungsoption, Auslastung 80 bis 100 Prozent. Arbeitsmodell: 95% remote, Onboarding teilweise mit Workshops vor Ort in Berlin. Erwartetes Ergebnis: Eine strukturierte und weiterentwickelte Produktvision sowie eine gepflegte Roadmap und ein priorisiertes Backlog für die B2B-SaaS-Plattform mit KI-Funktionen, einschließlich dokumentierter Anforderungen und abgenommener Features. Für die Bewerbung sind folgende Angaben erforderlich: 1. Frühestmöglicher Starttermin und Verfügbarkeit 2. Auslastung pro Woche 3. Stundensatz remote und, falls abweichend, vor Ort 4. Reisebereitschaft 5. Aktuelles Profil als PDF oder Word",
-      "first_seen": "2026-10-14T11:09:46.164248+00:00",
-      "id": "62d912337cf1e9d0",
-      "matched_keywords": [
-        "product owner",
-        "agil",
-        "scrum"
-      ],
-      "published": "2026-10-14T12:51:27+02:00",
-      "source": "freelancermap.de",
-      "title": "Technical Product Owner für B2B-SaaS-Plattform mit KI-Funktionen gesucht",
-      "url": "https://www.freelancermap.de/projekt/technical-product-owner-fuer-b2b-saas-plattform-mit-ki-funktionen-gesucht"
-    },
-    {
-      "description": "Projektziel: Für die Weiterentwicklung eines KI-gestützten Assistenzsystems im Kundenservice eines mittelständischen Softwareunternehmens wird ein erfahrener Business Analyst gesucht. Das Unternehmen baut und erweitert eine Plattform für Dienstleistungsprozesse. Der Freelancer nimmt Anforderungen bei Fachbereichen und Pilotkunden auf, modelliert die Prozesse und liefert das fachliche Konzept, auf dessen Basis das Entwicklungsteam umsetzt. Hauptaufgaben: - Anforderungsaufnahme bei Fachbereichen und Pilotkunden durch Interviews und Workshops - Überführung der Anforderungen in Fachkonzepte, User Stories und Akzeptanzkriterien - Prozessmodellierung in BPMN 2.0 (Ist- und Soll-Prozesse inklusive Automatisierungspotenzial) - Priorisierung und Pflege des Backlogs gemeinsam mit Entwicklung und Product Owner - Mitdenken von Datenmodell, Schnittstellen und Reporting-Anforderungen - Stakeholder-Management zwischen Fachbereich, IT und Geschäftsführung Voraussetzungen (Muss-Kriterien): - 5+ Jahre Erfahrung als Business Analyst oder Requirements Engineer - Erfahrung in Anforderungsanalyse und Fachkonzepterstellung (nicht nur Ticketpflege) - BPMN 2.0 (Camunda, Signavio, Visio oder vergleichbar) - Kenntnisse in Jira, Confluence, GitHub/Bitbucket - Sehr gute Deutschkenntnisse (Projektsprache Deutsch) - Kenntnisse in Scrum und SAFe Voraussetzungen (Wünschenswert): - Erfahrung in KI- oder LLM-Projekten (Chatbot, Agent, Automatisierung) - DSGVO in der Anforderungsarbeit berücksichtigt - SQL-Kenntnisse und Grundverständnis von APIs - Zertifizierung IREB CPRE, CBAP oder PMI-PBA Zeitrahmen/Projektlaufzeit: Start 01/2027, Laufzeit 6 Monate mit Verlängerungsoption. Auslastung 80 bis 100 Prozent. Arbeitsmodell: 95% Remote, Onboarding teilweise mit Workshops vor Ort in Berlin. Erwartetes Ergebnis: Fachliche Konzepte, modellierte Ist- und Soll-Prozesse sowie gepflegte User Stories und Akzeptanzkriterien, die als Grundlage für die Umsetzung durch das Entwicklungsteam dienen. Für die Bewerbung sind folgende Angaben erforderlich: - Frühestmöglicher Starttermin und Verfügbarkeit - Auslastung pro Woche - Stundensatz remote und, falls abweichend, vor Ort - Reisebereitschaft - Aktuelles Profil als PDF oder Word",
-      "first_seen": "2026-10-14T11:09:46.164248+00:00",
-      "id": "6dc16176a55ce3d7",
-      "matched_keywords": [
-        "requirements engineer",
-        "business analyst",
-        "product owner",
-        "ireb",
-        "cpre",
-        "scrum",
-        "ems"
-      ],
-      "published": "2026-10-14T12:46:26+02:00",
-      "source": "freelancermap.de",
-      "title": "Senior Business Analyst für KI-gestützte Prozessautomatisierung im Kundenservice",
-      "url": "https://www.freelancermap.de/projekt/senior-business-analyst-fuer-ki-gestuetzte-prozessautomatisierung-im-kundenservice"
-    },
-    {
-      "description": "Im Auftrag unseres Kunden, einem weltweit führenden Unternehmen im Maschinenbau und der Intralogistik, suchen wir für den Standort München (Moosburg) einen Content Creator (m/w/d) für Social Media. Du bringst ein erstklassiges Auge für Short-Form-Videos mit, übernimmst von der Kamera bis zum Schnitt die komplette Umsetzung und machst technische Themen auf Kanälen wie Instagram und Facebook nahbar und unterhaltsam. Rahmenbedingungen: Projektstart: kurzfristig Laufzeit: langfristige Zusammenarbeit erwünscht Auslastung: ca. 2–3 Drehtage alle zwei bis drei Monate. Ihre Aufgaben End-to-End Produktion: Du übernimmst Konzeption, Dreh und Editing von unterhaltsamem Content für Instagram und Facebook in Eigenregie. Kreative Co-Kreation: Zusammen mit dem Marketing-Team entwickelst du frische Video-Ideen, Formate und Storyboards. Vor-Ort-Drehs: Du setzt den Content an ca. 2–3 Drehtagen alle 2-3 Monat direkt an unseren Standorten (Hamburg, München) oder auf Events oder bei Kunden um. Marken-Fokus: Du stehst für die Marke unseres Kunden – wir suchen keinen Influencer zur Selbstdarstellung, sondern ein kreatives Multi-Talent, das die Kundenthemen Themen nahbar und unterhaltend verpackt. Unsere Anforderungen Equipment & Know-how: Eigenes professionelles Equipment (Kamera, Audio, Licht, Schnittsoftware) und fundierte, mehrjährige Erfahrung in der Erstellung von Short-Form-Video-Content. Sprachkenntnisse: Fließendes Deutsch und Englisch in Wort und Schrift für die Abstimmung und Content-Erstellung. Reisebereitschaft: Flexibilität und Mobilität für regelmäßige Drehtage vor Ort. Kreativität & Eigeninitiative: Gespür für aktuelle Social-Media-Trends, Humor, Ästhetik und zielgruppengerechte Ansprache.",
-      "first_seen": "2026-10-14T11:09:46.164248+00:00",
-      "id": "b71c0cae905f94a9",
-      "matched_keywords": [
-        "tso"
-      ],
-      "published": "2026-10-14T12:45:09+02:00",
-      "source": "freelancermap.de",
-      "title": "München: Social Media Content Manager (m/w/d) Fokus: Videografie",
-      "url": "https://www.freelancermap.de/projekt/muenchen-social-media-content-manager-m-w-d-fokus-videografie"
-    },
-    {
-      "description": "Senior Product Owner (m/w/d) – Partnergeschäft Schwerpunkt: schützenswertes Geschäft, Datenschutz und Geldwäscheprävention Wir suchen eine erfahrene Persönlichkeit an der Schnittstelle zwischen Business und IT. Für eine Kundenanfrage suchen wir einen Senior Product Owner (m/w/d), der die fachliche Weiterentwicklung im Partnergeschäft vorantreibt und komplexe geschäftliche sowie regulatorische Anforderungen in umsetzbare IT-Lösungen übersetzt. Im Mittelpunkt stehen schützenswertes Geschäft, der verantwortungsvolle Umgang mit sensiblen Daten und die Umsetzung von Anforderungen zur Geldwäscheprävention. Sie verbinden fundierte Business-Analyse mit technologischem Verständnis, können unterschiedliche Interessen zusammenführen und übernehmen Verantwortung für klare Prioritäten und tragfähige fachliche Entscheidungen. Ihre Aufgaben Product Ownership übernehmen: Produktziele und fachliche Prioritäten mit den relevanten Stakeholdern abstimmen sowie das Product Backlog aufbauen, pflegen und nach Geschäftsnutzen, regulatorischer Dringlichkeit und Abhängigkeiten priorisieren. Business und IT verbinden: Als zentrale fachliche Schnittstelle zwischen Partnergeschäft, IT-Entwicklung, Datenschutz, Compliance und Geldwäscheprävention agieren. Anforderungen konkretisieren: Geschäftsprozesse analysieren, Workshops moderieren und fachliche sowie regulatorische Vorgaben in nachvollziehbare Fachkonzepte, User Stories und überprüfbare Akzeptanzkriterien übersetzen. Schützenswertes Geschäft berücksichtigen: Anforderungen an Vertraulichkeit, Zugriffs- und Berechtigungskonzepte sowie die Verarbeitung sensibler Partner- und Geschäftsdaten gemeinsam mit den zuständigen Fachstellen definieren. Datenschutz und Geldwäscheprävention in die Umsetzung integrieren: Fachliche Vorgaben mit den verantwortlichen Stellen klären und deren Berücksichtigung in Prozessen, Datenflüssen und Systemfunktionen sicherstellen. Umsetzung und Qualität begleiten: Rückfragen des Entwicklungsteams klären, Refinements und Reviews fachlich gestalten sowie fachliche Tests und Abnahmen anhand der vereinbarten Kriterien begleiten. Entscheidungen transparent machen: Zielkonflikte, Risiken und Abhängigkeiten frühzeitig adressieren und Anforderungen sowie Entscheidungen nachvollziehbar dokumentieren. Die Rolle verantwortet die fachliche Produktgestaltung und Umsetzung; gesetzliche Kontroll- und Freigabeverantwortlichkeiten verbleiben bei den jeweils zuständigen Funktionen. Das bringen Sie mit Mehrjährige Erfahrung als Product Owner oder als Senior Business Analyst / Requirements Engineer mit nachweisbarer Verantwortung für Priorisierung, Stakeholder-Abstimmung und fachliche Umsetzung. Fundierte Projekterfahrung in regulierten Organisationen, vorzugsweise in der Versicherungs- oder Finanzdienstleistungsbranche. Erfahrung im Umgang mit sensiblen Geschäfts- und personenbezogenen Daten sowie in der Übersetzung von Datenschutz- und Compliance-Vorgaben in fachliche und technische Anforderungen. Fachliches Verständnis der Geldwäscheprävention und ihrer Auswirkungen auf Geschäftsprozesse und IT-Systeme; konkrete Projekterfahrung in diesem Themenfeld ist besonders relevant. Sicheres Handwerk in Anforderungsanalyse, Prozessmodellierung, User-Story-Erstellung und der Definition von Akzeptanzkriterien. Technisches Verständnis für Datenflüsse, Schnittstellen und komplexe Anwendungslandschaften – ohne dass eine Entwicklerrolle vorausgesetzt wird. Routine in agiler Zusammenarbeit sowie im Einsatz von Jira und Confluence oder vergleichbaren Werkzeugen. Ausgeprägte Moderations- und Kommunikationsfähigkeit, ein souveräner Umgang mit unterschiedlichen Stakeholdern und sehr gute Deutschkenntnisse. Zusätzlich von Vorteil Erfahrung im Partnergeschäft, in der Geschäftspartnerverwaltung oder in vergleichbaren partnerbezogenen Prozessen. Praxiserfahrung mit Kunden- bzw. Partneridentifizierung, KYC-Prüfungen, risikobasierten Prüfprozessen oder deren systemseitiger Unterstützung. Kenntnisse in Berechtigungsmodellen, Datenschutz durch Technikgestaltung und revisionsfähiger Dokumentation. PSPO-/CSPO-Zertifizierung oder vergleichbare Qualifikation sowie Kenntnisse in BPMN oder UML. Interesse? Bitte senden Sie uns Ihr aktuelles Profil mit einer kurzen Darstellung Ihrer relevanten Erfahrung in Product Ownership, Partnergeschäft, Datenschutz und Geldwäscheprävention . Ergänzen Sie bitte Ihre frühestmögliche Verfügbarkeit, mögliche Auslastung, Einsatzpräferenzen und Konditionen.",
-      "first_seen": "2026-10-14T11:09:46.164248+00:00",
-      "id": "d87b7887417217ca",
-      "matched_keywords": [
-        "requirements engineer",
-        "business analyst",
-        "product owner",
-        "agil",
-        "ems"
-      ],
-      "published": "2026-10-14T12:40:03+02:00",
-      "source": "freelancermap.de",
-      "title": "Senior Product Owner (m/w/d) Partnergeschäft (schütz. Geschäft, Datenschutz ,Geldwäscheprävention)",
-      "url": "https://www.freelancermap.de/projekt/senior-product-owner-m-w-d-partnergeschaeft-schuetz-geschaeft-datenschutz-geldwaeschepraevention"
-    },
-    {
-      "description": "Aufgaben: Der gesuchte Experte übernimmt die technische Integration und Inbetriebnahme der IT-Infrastruktur des Counter-UAS-Systems. Er plant Netzwerk- und Serverarchitekturen, erstellt Konfigurationskonzepte für die Systemintegratoren der erforderlichen Hard- und Softwarekomponenten und stellt den zuverlässigen Betrieb des Gesamtsystems auf konzeptioneller Ebene sicher. Entwurf und Konzeption der Netzwerkarchitektur Planung und Erstellung von Netzwerkstrukturen Erstellung von Konzepten hinsichtlich Einrüstung der IT-Infrastruktur \"Vordenken\" für System Ingenieure Projekt-Nr.: 1084402 Projekttitel: 1084402 Netzwerk Architekt Stellentyp: freiberuflich Einsatzort: Großraum München Starttermin: 12.10.2026 Dauer: 6-12 Monate Anforderungen: + Netzwerktechnik (Routing, VLANs, TCP/IP) + Firewalls (Mikrotik(RouterOS), OPNsense, FortiGate oder andere) + Linux Server + Swtich Erfahrung (HP aruba, FS OS, PicOs oder andere) + Windows (Betriebssystem) + Virtualisierung (Proxmox KVM / ESXi / XCPng / HyperV) + Ansible + Git Zusätzliche Informationen: SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
-      "first_seen": "2026-10-14T11:09:46.164248+00:00",
-      "id": "414197a012614e5b",
-      "matched_keywords": [
-        "netz",
-        "ems"
-      ],
-      "published": "2026-10-14T12:34:32+02:00",
-      "source": "freelancermap.de",
-      "title": "1084402 Netzwerk Architekt",
-      "url": "https://www.freelancermap.de/projekt/1084402-netzwerk-architekt"
-    },
-    {
-      "description": "Rahmenbedingungen • Start: 01. Januar 2027 • Ende: 29. Februar 2028 • Gesamtumfang: 95 Personentage • Einsatzort: 95 % Remote, 5 % Onsite • Sprache: Deutsch, Englisch Aufgaben • Unterstützung der Projektleitung bei der Planung, Steuerung und Überwachung von Projekten sowie Sicherstellung einheitlicher Projektmanagement-Standards. • Erstellung und Pflege von Projektplänen, Statusberichten, Budgetübersichten und Management-Reports. • Durchführung von Budgetplanung, Forecasting, Kostenkontrolle und Analyse von Kostenabweichungen. • Aufbereitung und Präsentation von Projektfortschritten, Risiken, Abhängigkeiten und Entscheidungsvorlagen für das Management. • Moderation von Status Calls, Koordination zentraler Stakeholder und Nachverfolgung von Maßnahmen und Entscheidungen. • Aufbau und Weiterentwicklung von Projektmanagement-Governance-Strukturen sowie Optimierung von PMO-Prozessen. • Nutzung und Pflege von Excel, SAP, Jira, Confluence und PlanView für das Finanz- und Projektcontrolling. Must Haves • Mindestens 3 Jahre Erfahrung im Project Management Office (PMO). • Fundierte Kenntnisse im Projektkostenmanagement, insbesondere Budgetplanung, Forecasting und Kostenkontrolle. • Erfahrung in der verständlichen und adressatengerechten Präsentation komplexer technischer und finanzieller Zusammenhänge. • Erfahrung in der Moderation von Status Calls mit zentralen Stakeholdern. • Sehr gute Kenntnisse in Finanz- und Projektcontrolling-Tools, insbesondere Excel, SAP, Jira, Confluence und PlanView. • Exzellente Kommunikationsfähigkeiten auf C-Level- und L1-Ebene. • Ausgeprägte analytische Fähigkeiten und hohe Problemlösungskompetenz. • Strukturierte, eigenständige und zuverlässige Arbeitsweise. • Hohe Flexibilität und Fähigkeit, dynamisch und lösungsorientiert auf veränderte Projekt- und Geschäftsanforderungen zu reagieren. Nice to Haves • Expertenkenntnisse in Projektmanagement-Methoden, beispielsweise PMI, PRINCE2, Scrum oder SAFe. • Erfahrung in der Erstellung und Implementierung von Projektmanagement-Governance-Strukturen.",
-      "first_seen": "2026-10-14T11:09:46.164248+00:00",
-      "id": "54b7a6d839e7fabe",
-      "matched_keywords": [
-        "pmo",
-        "scrum"
-      ],
-      "published": "2026-10-14T12:34:01+02:00",
-      "source": "freelancermap.de",
-      "title": "PMO Consultant – Projektsteuerung & Finanzcontrolling (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/pmo-consultant-projektsteuerung-und-finanzcontrolling-m-w-d"
-    },
-    {
-      "description": "Westhouse ist eines der führenden Recruitment-Unternehmen für die Vermittlung hochqualifizierter Fachexperten aus dem gesamten IT-Lifecycle- und Engineering-Bereich. Für unseren Kunden suchen wir aktuell eine/n Junior Linux Systemadministrator – Storage (100 % Remote) (m/w/d) Rahmeninformationen Referenz:180531 Einsatzort:Dresden Starttermin:01.11.2026 Arbeitszeit:Vollzeit Ihre Qualifikationen - Abgeschlossene Ausbildung oder Studium im IT-Bereich, z. B. Fachinformatik Systemintegration, Informatik oder vergleichbare Qualifikation - Erste praktische Erfahrung in der Administration von Linux-Systemen - Gute Kenntnisse grundlegender Linux-Kommandos und Linux-Systemstrukturen - Idealerweise erste Kenntnisse im Bereich Storage, SAN, NAS, Object Storage oder Distributed Storage - Kenntnisse in Ceph von Vorteil, aber bei entsprechender Linux-Erfahrung kein Muss - Erste Berührungspunkte mit OpenStack, Cinder oder Manila von Vorteil - Grundkenntnisse in Bash, PowerShell, Python oder vergleichbaren Skriptsprachen von Vorteil - Kenntnisse in Ansible oder anderen Automatisierungslösungen wünschenswert - Grundverständnis von Netzwerken, TCP/IP und IT-Infrastrukturen - Interesse an Cloud-, Storage- und Automatisierungstechnologien - Analytische und strukturierte Arbeitsweise sowie Freude am Troubleshooting - Bereitschaft zur fachlichen Weiterentwicklung im Linux- und Storage-Umfeld - Gute Deutsch- und Englischkenntnisse Ihre Aufgaben - Betrieb, Administration und Weiterentwicklung der Storage-Infrastruktur - Administration und Betreuung von Ceph Storage Clustern und Object-Storage-Lösungen - Betreuung von Storage-Lösungen im OpenStack-Umfeld, insbesondere Manila und Cinder - Analyse und Behebung von Systemstörungen und Performance-Problemen - Sicherstellung der Verfügbarkeit, Datensicherheit und Stabilität der betreuten Systeme - Mitarbeit bei der Optimierung und Automatisierung bestehender Technologien und Prozesse - Einsatz von Ansible, PowerShell und Bash zur Unterstützung der Automatisierung - Enge Zusammenarbeit mit internen Fachbereichen, Service-Teams sowie nationalen und internationalen Kunden - Unterstützung bei der Bearbeitung und Umsetzung technischer Anforderungen - Mitarbeit bei der Weiterentwicklung der bestehenden Storage-Landschaft - Unterstützung bei Kapazitätsplanung und Performance-Analysen - Mitwirkung bei der Einführung neuer Technologien im Storage-Umfeld - Übernahme eigener Aufgaben und Teilbereiche in technischen Projekten nach entsprechender Einarbeitung - Mitarbeit bei der Umsetzung technischer Projekte im Storage- und Infrastrukturumfeld Interessiert? Interessiert? Wir freuen uns auf Ihren aussagekräftigen Lebenslauf/CV in elektronischer Form. Ihr Ansprechpartner: Nalan Sivri (#gerneperDu) ***** *****",
-      "first_seen": "2026-10-14T11:09:46.164248+00:00",
-      "id": "c0885654cee89ec6",
-      "matched_keywords": [
-        "netz",
-        "ems"
-      ],
-      "published": "2026-10-14T12:31:34+02:00",
-      "source": "freelancermap.de",
-      "title": "Westhouse Job: Junior Linux Systemadministrator – Storage (100 % Remote) (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/westhouse-job-junior-linux-systemadministrator-storage-100-prozent-remote-m-w-d"
-    },
-    {
-      "description": "Scrum Master (m/w/d) | Betreuung mehrerer Entwicklungsteams Details zum Projekt: - Start: Ab Dezember 2026 - Dauer: 6 Monate - Auslastung: Ca. 30 Stunden pro Woche - Einsatzorte: Raum Nürnberg und Halle (Saale), Vor-Ort-Präsenz nach Absprache Aufgaben im Projekt: - Agile Begleitung von zwei Produktentwicklungsteams als Scrum Master - Planung, Moderation und Durchführung der Scrum-Zeremonien vor Ort - Unterstützung der Teams bei der Anwendung agiler Methoden und Prozesse - Förderung der Zusammenarbeit innerhalb der cross-funktionalen Teams - Identifikation und Beseitigung von Hindernissen im Entwicklungsprozess - Unterstützung bei der kontinuierlichen Verbesserung der Teamperformance und Zusammenarbeit - Enge Abstimmung mit relevanten Stakeholdern im Produktentwicklungsumfeld - Regelmäßige Präsenz an beiden Standorten erforderlich Gesuchtes Profil: - Ausbildung, Zertifizierung oder vergleichbare Qualifikation als Scrum Master oder Agile Coach - Mehrjährige Erfahrung in der agilen Begleitung von Produktentwicklungsteams - Erfahrung in der Betreuung cross-funktionaler Teams - Idealerweise Erfahrung im Umfeld Maschinenbau und/oder Elektrotechnik - Erfahrung in der parallelen Betreuung mehrerer Teams - Sehr gute Kenntnisse agiler Methoden und Scrum-Prozesse - Ausgeprägte Kommunikations- und Moderationsfähigkeiten - Hohe Organisationsfähigkeit und selbstständige Arbeitsweise Sind Sie Interessiert? Jetzt online bewerben! Oder schicken Sie mir bitte Ihren aktuellen Lebenslauf im Word-Format! Ich freue mich von Ihnen zu hören! Wir operieren als Personalberatung. Keine der genannten Fachausdrücke soll im Hinblick auf Alter, Geschlecht oder Erfahrung diskriminierend sein. Wir bestätigen, dass wir alle Bewerbungen von Kandidaten jeden Alters, Geschlecht oder Erfahrung gerne entgegennehmen.",
-      "first_seen": "2026-10-14T11:09:46.164248+00:00",
-      "id": "a440d26572a45b1c",
-      "matched_keywords": [
-        "scrum master",
-        "agil",
-        "scrum"
-      ],
-      "published": "2026-10-14T12:29:25+02:00",
-      "source": "freelancermap.de",
-      "title": "Scrum Master (m/w/d) | Betreuung mehrerer Entwicklungsteams",
-      "url": "https://www.freelancermap.de/projekt/scrum-master-m-w-d-betreuung-mehrerer-entwicklungsteams"
-    },
-    {
-      "description": "Leistungsbeschreibung * Analyse von Geschäftsprozessen im Hinblick auf ihre Umsetzung von ca. 120 Online-Produkten * Qualitätsmanagement, Konzeption und Weiterentwicklung der Anforderungsanalyse von Online-Produkten * Weiterentwicklung der Schnittstelle zwischen Fachkonzept und Test sowie der Schnittstelle zwischen Fachkonzept und Design * Fachliche und technische Bewertung der Anforderungen von Fachabteilungen sowie die Planung, Erstellung und Durchführung fachlicher Abnahmetests * Beschreibung der technischen Möglichkeiten und Planung der Umsetzungsaufgaben * Prüfung und Analyse der Umsetzbarkeit bezüglich der Barrierefreiheit und die Erstellung von User Stories * Ausgestaltung der fachlichen Makroarchitektur der Portalintegration sowie die Ableitung von zukünftigen Leitplanken für einheitliche Portalauftritte * 3rd-Level Support der bestehenden Online-Anwendungen inklusive Analyse und Lösungsvorschlag zur Fehlerbehebung Anforderungen * Mehrjährige Erfahrung in Anforderungsanalyse, insbesondere zu Prozesse, Methoden und Werkzeugen * Expertise im Qualitätsmanagement im Kontext von Online-Produkten * Know-how in der Arbeit Softwarearchitektur sowie in der Realisierung von Online-Produkten * Praktisches Wissen zur Barrierefreiheit bei digitalen Anwendungen z. B. User Stories * Kenntnisse zu IT-Security, Change Management, ITSM-Prozesse im agilen Umfeld Kontaktperson: Professional Recruiting Frau Eva Schade FERCHAU Contract GmbH Niederlassung München CONTRACT Claudius-Keller-Straße 3a 81669 München",
-      "first_seen": "2026-10-14T11:09:46.164248+00:00",
-      "id": "ba450c296ed50d7d",
-      "matched_keywords": [
-        "agil"
-      ],
-      "published": "2026-10-14T12:29:24+02:00",
-      "source": "freelancermap.de",
-      "title": "Anforderungsanalyse und Konzeption Online-Portal",
-      "url": "https://www.freelancermap.de/projekt/anforderungsanalyse-und-konzeption-online-portal"
-    },
-    {
-      "description": "Das ist zukünftig Ihr Job * Überwachung der Ausführung von Heizungs-, Lüftungs-, Klima- und Sanitäranlagen gemäß Planung und Normen * Koordination der haustechnischen Gewerke sowie Schnittstellenmanagement auf Baustellen * Kontrolle der Einhaltung technischer Standards, Qualitätsvorgaben, Energieeffizienz und Nachhaltigkeitszielen * Nachverfolgung des Baufortschritts, Erstellung von Berichten und Mängelprotokollen * Mitwirkung bei Begehungen, Abnahmen und Übergaben sowie Kommunikation mit Projektbeteiligten Das bringen Sie mit * Erfahrung in Bauüberwachung oder Bauleitung im Bereich HLKS * Kenntnisse relevanter Normen wie DIN, VDI, GEG und VOB * Erfahrung mit modernen Gebäudetechnologien und nachhaltigen Energiesystemen * Sicherer Umgang mit MS Office sowie Software wie AutoCAD, Revit MEP oder AVA-Tools * Führerschein Klasse B für regelmäßige Baustellenpräsenz in Berlin erforderlich Kontaktperson: Niederlassungsleiter Herr Niels Hahnelt FERCHAU GmbH Niederlassung Darmstadt Rösslerstr. 88 64293 Darmstadt",
-      "first_seen": "2026-10-14T11:09:46.164248+00:00",
-      "id": "34231b64f8d4279a",
-      "matched_keywords": [
-        "energie"
-      ],
-      "published": "2026-10-14T12:29:09+02:00",
-      "source": "freelancermap.de",
-      "title": "Bauüberwachung / Bauherrenvertretung HLKS (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/bauueberwachung-bauherrenvertretung-hlks-m-w-d"
     }
   ],
-  "updated_at": "2026-10-28T10:25:08.651838+00:00"
+  "updated_at": "2026-10-28T16:58:26.947191+00:00"
 }
