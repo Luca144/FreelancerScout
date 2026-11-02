@@ -1,6 +1,160 @@
 {
   "projects": [
     {
+      "description": "Job title - German Payroll Transformation Consultant Client Location - Germany Remote work offering - 100% Contract Length - 12 months Contract type - Freelance Project focus Supporting a payroll transformation programme for the client's German workforce, covering the move onto new payroll systems. The work centres on data migration, testing and parallel runs, making sure the new solution is accurate and meets German statutory and compliance requirements before go-live. Key skills and Experience required Hands-on experience delivering German payroll projects Fluent German and strong English, written and spoken Background in payroll implementation, migration or testing Experience running parallel payrolls and reconciling results Solid knowledge of German statutory payroll outputs and compliance Advantageous: ADP GlobalView, DATEV, Sage or Peras Advantageous: ELSTER / B2A reporting Advantageous: SuccessFactors integration with payroll Advantageous: manufacturing payroll and time and attendance If this role is of interest, please apply with an updated CV. Darwin Recruitment is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-11-02T19:09:54.175613+00:00",
+      "id": "0db750bc67f7a335",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-11-02T19:44:12+01:00",
+      "source": "freelancermap.de",
+      "title": "German Payroll Expert (DRWN)",
+      "url": "https://www.freelancermap.de/projekt/german-payroll-expert-drwn"
+    },
+    {
+      "description": "Für einen unserer Großkunden suchen wir derzeit eine Unterstützung, die die nachfolgenden Anforderungen erfüllt: Deine Aufgaben: Planung, Steuerung und Koordination von IT-Projekten und Teilprojekten im Bereich IPv6-Migration und Netzwerkinfrastruktur Analyse bestehender Netzwerkinfrastrukturen sowie Identifikation technischer und organisatorischer Migrationsanforderungen Erstellung und Umsetzung von Migrations-, Rollout- und Implementierungsplänen Aufnahme, Analyse und Dokumentation fachlicher und technischer Anforderungen im Rahmen des Requirements Engineering Abstimmung und Koordination mit technischen Fachbereichen, Projektbeteiligten und relevanten Stakeholdern Überwachung von Projektfortschritten, Meilensteinen, Risiken und Abhängigkeiten Dokumentation und Nachverfolgung von Anforderungen, Aufgaben und Projektergebnissen mittels Jira und Confluence Dein Profil: Nachweisbare Projekterfahrung in der IPv6-Migration und im Bereich Netzwerkinfrastrukturen (zwingend erforderlich) Fundierte Kenntnisse der technischen und organisatorischen Anforderungen bei IPv6-Migrationsprojekten Mehrjährige Erfahrung im IT-Projektmanagement oder Teilprojektmanagement Sehr gute Kenntnisse im Requirements Engineering und Anforderungsmanagement Sicherer Umgang mit Jira und Confluence Erfahrung in der Erstellung und Steuerung von Migrations-, Rollout- und Umsetzungsplänen Gutes technisches Verständnis komplexer IT- und Netzwerkarchitekturen Rahmenparameter: Einsatzort: Remote und nach Absprache in Berlin Laufzeit: Ab sofort - 31.12.2027 Auslastung: Vollauslastung Dein GECO-Ansprechpartner freut sich auf Deine Kontaktaufnahme und über die Zusendung Deiner aussagekräftigen Projekthistorie sowie Deiner Honorarvorstellung/Gehaltsvorstellung/Preisvorstellung.",
+      "first_seen": "2026-11-02T19:09:54.175613+00:00",
+      "id": "dc46a25359e84ea6",
+      "matched_keywords": [
+        "requirements engineer",
+        "projektmanager",
+        "netz"
+      ],
+      "published": "2026-11-02T19:37:09+01:00",
+      "source": "freelancermap.de",
+      "title": "IT-Projektmanager IPv6-Migration & Netzwerkinfrastruktur (m/w/d) Remote und Berlin  / ZCTA238439",
+      "url": "https://www.freelancermap.de/projekt/it-projektmanager-ipv6-migration-und-netzwerkinfrastruktur-m-w-d-remote-und-berlin-zcta238439"
+    },
+    {
+      "description": "THRYVE is building a pool of freelance controls engineers for battery storage, solar and wind projects across the DACH region. Projects run from site commissioning to longer controls and SCADA engagements, typically 3 to 18 months. Responsibilities (project-dependent) PLC programming and commissioning of plant controls on BESS, PV and hybrid sites SCADA set-up, configuration and integration (plant SCADA, EMS and power plant controller interfaces) Signal and I/O checks, point-to-point testing and protocol integration with inverters, battery systems and substations Power plant controller / park controller testing and grid-operator compliance tests Supporting FAT/SAT, energisation and handover with the integrator, EPC or owner's team Technical documentation and commissioning protocols Requirements Essential: At least 3 years of hands-on PLC and/or SCADA work, with commissioning on site (not just office programming) At least one energy project in the last 2 years (BESS, PV, wind, hybrid, substation or power plant) Industrial protocols: Modbus TCP plus at least one of IEC 60870-5-104, IEC 61850, DNP3 or OPC UA Willing to travel to sites in Germany Highly desirable: Power plant / park controller (PPC) testing, grid-code tests (VDE-AR-N *****, FGW TR 3/TR 8) SCADA platforms: WinCC / WinCC OA, Ignition, zenon, N3uron or equivalent PLC platforms: Siemens TIA Portal, Beckhoff TwinCAT, CODESYS, PLCnext German at B2 or above. English-only profiles are considered for remote and integrator-side roles. Key details Location: DACH (mostly Germany) Remote: depends on the project; commissioning phases are on site Duration: 3–18 months, often extended Start: rolling To apply, please send your CV and include: Energy projects in the last 2 years: site type and size, your role, and the platforms and protocols you used Availability (start date and days per week) Hourly or daily rate German level Two windows for a 15-minute intro call",
+      "first_seen": "2026-11-02T19:09:54.175613+00:00",
+      "id": "a23edfb7d89c3cf5",
+      "matched_keywords": [
+        "scada",
+        "ems"
+      ],
+      "published": "2026-11-02T19:18:31+01:00",
+      "source": "freelancermap.de",
+      "title": "Freelance SCADA / PLC Commissioning Engineer – Battery Storage, Solar & Wind (BESS/PV) : DACH",
+      "url": "https://www.freelancermap.de/projekt/freelance-scada-plc-commissioning-engineer-battery-storage-solar-und-wind-bess-pv-dach"
+    },
+    {
+      "description": "Tätigkeiten: * Entwicklung eines skalierbaren Fertigungskonzepts für Serienproduktion * Definition und Optimierung geeigneter Produktionsprozesse * Auswahl von Maschinen, Anlagen und Lieferanten * Begleitung des gesamten Industrialisierungsprozesses bis zur Serienreife Rahmenbedingungen: * Start: flexibel * Dauer: 12 Monate+ * Auslastung: Vollzeit / Teilzeit * Einsatzort: Remote / vereinzelt in Nürnberg Anforderungen: * Erfahrung in Industrialisierung komplexer Produkte für Serienfertigung * Kenntnisse im Bereich Fertigung, Automatisierung und Lieferantenmanagement * Hintergrund aus Automotive oder Branche mit hoher Stückzahlfertigung wünschenswert * Belastbares Netzwerk zu Maschinenherstellern und Zulieferern im Produktionsumfeld Kontaktperson: Freelance Acquisition Expert Herr Wladimir Sichinski FERCHAU Contract GmbH Niederlassung Stuttgart CONTRACT Bertha-Benz-Platz 4 70771 Leinfelden-Echterdingen",
+      "first_seen": "2026-11-02T19:09:54.175613+00:00",
+      "id": "9b7189ec6a6fd7d8",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-11-02T18:53:50+01:00",
+      "source": "freelancermap.de",
+      "title": "Entwicklung Industrialisierungs- und Fertigungskonzept",
+      "url": "https://www.freelancermap.de/projekt/entwicklung-industrialisierungs-und-fertigungskonzept"
+    },
+    {
+      "description": "Tätigkeiten: * Entwicklung eines mechanischen Gesamtkonzepts für einen Solid State Transformer * Erstellung von 3D-Modellen und Mock-ups zur Visualisierung des Designs * Modularisierung des Systems auf Grundlage theoretischer Ansätze * Umsetzung konstruktiver Lösungen mit CAD-Software Autodesk Inventor Rahmenbedingungen: * Start: flexibel * Dauer: 12 Monate+ * Auslastung: Vollzeit / Teilzeit * Einsatzort: Remote / vereinzelt in Nürnberg Anforderungen: * Fundierte Kenntnisse im Bereich mechanische Konstruktion * Erfahrung in der Anwendung von CAD-Systemen, insbesondere Autodesk Inventor * Erfahrung mit Entwicklung modularer Systeme im Produktdesign * Kenntnisse im Erstellen von 3D-Modellen und Mock-ups für technische Produkte Kontaktperson: Freelance Acquisition Expert Herr Wladimir Sichinski FERCHAU Contract GmbH Niederlassung Stuttgart CONTRACT Bertha-Benz-Platz 4 70771 Leinfelden-Echterdingen",
+      "first_seen": "2026-11-02T19:09:54.175613+00:00",
+      "id": "5b68af3c6c1895c7",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-11-02T18:53:45+01:00",
+      "source": "freelancermap.de",
+      "title": "Mechanisches Produktdesign und Konstruktion Solid State Transformer",
+      "url": "https://www.freelancermap.de/projekt/mechanisches-produktdesign-und-konstruktion-solid-state-transformer"
+    },
+    {
+      "description": "Du kennst dich mit IT-Infrastrukturen aus und möchtest nicht einfach nur Tickets abarbeiten? Dann könnte diese Position genau das Richtige für dich sein. Für ein etabliertes, international tätiges Industrieunternehmen im Raum Freiburg suchen wir einen erfahrenen IT-Spezialisten, der Verantwortung übernimmt, bestehende Systeme weiterentwickelt und eigene Ideen einbringen möchte. Deine Aufgaben: Betreuung und Weiterentwicklung der gesamten IT-Infrastruktur Administration von Windows-Server-Umgebungen und Active Directory Betreuung von Virtualisierung, Storage und Backup Unterstützung bei Netzwerk-, Firewall- und Security-Themen Planung und Umsetzung spannender Infrastrukturprojekte Zusammenarbeit mit internen Teams und externen IT-Partnern Übernahme fachlicher Verantwortung und aktive Mitgestaltung der IT-Landschaft Was du mitbringen solltest: Mehrjährige Erfahrung in der IT-Systemadministration oder als System Engineer Gute Kenntnisse in Windows Server, Active Directory und Virtualisierung Erfahrung mit Netzwerktechnik, idealerweise VLAN, Routing, Switching und Firewalls Berührungspunkte mit Microsoft 365, Intune oder Entra ID Selbstständige Arbeitsweise, Verantwortungsbewusstsein und Lust, Dinge voranzubringen Du musst nicht jede Technologie perfekt beherrschen. Wichtig sind uns ein solides technisches Fundament, praktische Erfahrung und die Bereitschaft, dich in neue Themen einzuarbeiten. Was dich erwartet: Bis zu 95.000 € Jahresbruttogehalt , abhängig von deiner Erfahrung 1 Tag Homeoffice pro Woche Langfristige Festanstellung Viel Eigenverantwortung und Gestaltungsspielraum Abwechslungsreiche Infrastrukturprojekte Ein etabliertes Unternehmen mit langfristiger Perspektive Du bist aktuell nicht aktiv auf Jobsuche? Kein Problem. Manchmal lohnt sich ein unverbindliches Gespräch trotzdem. Schreib mir einfach eine kurze Nachricht. Ich erzähle dir gerne mehr über die Position und wir schauen gemeinsam, ob es passen könnte. Ich freue mich auf den Austausch!",
+      "first_seen": "2026-11-02T19:09:54.175613+00:00",
+      "id": "bbd6c4d5a8c89458",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-11-02T18:24:10+01:00",
+      "source": "freelancermap.de",
+      "title": "Senior IT-Systemadministrator / IT-Infrastruktur Spezialist (m/w/d) | Raum Freiburg | bis 95.000 €",
+      "url": "https://www.freelancermap.de/projekt/senior-it-systemadministrator-it-infrastruktur-spezialist-m-w-d-raum-freiburg-bis-95-000-euro"
+    },
+    {
+      "description": "Aufgaben: Aufbau einer IT-Infrastruktur- und Lösungsarchitektur für ein neues Rechenzentrum Aufbau der Server/Betriebssysteme, Storage, Backup, Netzwerk und Security für das Rechenzentrum Middleware und Identity Management für das Rechenzentrum technische Konzepte und Lösungsdesigns für das Rechenzentrums Projekt-Nr.: 1085022 Projekttitel: 1085022 IT-/Solution-Architekten für verschiedene technische Dienste (m/w/d) Stellentyp: freiberuflich Einsatzort: Remote und Chemnitz Starttermin: 16.11.2026 Dauer: 6 Monate + Anforderungen: Erfahrung IT-Infrastruktur- und Lösungsarchitekturen Kenntnisse in Server/Betriebssysteme, Storage, Backup, Netzwerk und Security Kenntnisse in Middleware und Identity Management Erfahrung in technische Konzepte und Lösungsdesigns Zusätzliche Informationen: SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
+      "first_seen": "2026-11-02T19:09:54.175613+00:00",
+      "id": "d610c4d814005d9e",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-11-02T18:22:08+01:00",
+      "source": "freelancermap.de",
+      "title": "1085022 IT-/Solution-Architekten für verschiedene technische Dienste (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/1085022-it-solution-architekten-fuer-verschiedene-technische-dienste-m-w-d"
+    },
+    {
+      "description": "Für unseren Kunden aus der Finanzbranche in Frankfurt am Main suchen wir einen freiberuflichen Senior AI Trainer & Consultant (gn), der 1-3 Mitarbeiter ohne oder mit geringer AI-Erfahrung beim Aufbau von AI-Kompetenzen unterstützt und die praktische Integration von AI-Technologien in den Arbeitsalltag begleitet Kundendetails Projektstart: 15.11.2026 Projektende: 30.03.2027 Auslastung: Vollzeit (40 Std./Woche) Einsatzort: Frankfurt am Main (hybrid, 2 Tage vor Ort pro Woche) Stellenbeschreibung Durchführung individueller Kompetenz-Assessments zur Ermittlung des AI-Wissensstands und Identifikation von Entwicklungsbedarfen. Erstellung eines strukturierten Trainingskonzepts inklusive Lernzielen, Meilensteinen und messbaren KPIs. Vermittlung von AI-Grundlagen, Machine Learning, Prompt Engineering und relevanten Anwendungsmöglichkeiten. Durchführung praxisnaher Trainings zur Anwendung geeigneter AI-Tools im Arbeitsalltag. Begleitung der Mitarbeiter durch Shadowing und Re-Shadowing zur nachhaltigen Festigung der erworbenen Kompetenzen. Umsetzung eines Train-the-Trainer-Ansatzes zur internen Wissensweitergabe. Beratung zu AI-Einsatzmöglichkeiten, geeigneten Tools und deren Integration in bestehende Arbeitsprozesse. Dokumentation der Trainingsmaßnahmen sowie regelmäßiges Reporting der Lernfortschritte. Profil Must-have: Mindestens 5-7 Jahre Berufserfahrung als AI Trainer, AI Consultant oder in einer vergleichbaren Position. Fundierte Kenntnisse in Artificial Intelligence, Machine Learning, Prompt Engineering und gängigen AI-Tools. Erfahrung in der Konzeption und Durchführung von Trainingsmaßnahmen sowie ausgeprägte didaktische Fähigkeiten. Praktische Erfahrung mit agilen Methoden und Scrum. Erfahrung in der Finanzbranche (Banken, Versicherungen oder FinTech) sowie Verständnis regulatorischer Anforderungen. Fließende Deutschkenntnisse und gute Englischkenntnisse. Nice-to-have: Kenntnisse in Business Analyse, Anforderungsanalyse und Prozessmodellierung. Grundkenntnisse in Python und APIs. AI- und/oder Scrum-Zertifizierungen (z. B. Google AI, Microsoft AI, AWS, PSM oder CSM). Persönliche Anforderungen: Ausgeprägte Kommunikations- und Präsentationsfähigkeiten. Empathie und Geduld im Umgang mit AI-Einsteiger. Selbstständige, strukturierte Arbeitsweise sowie hohe Beratungskompetenz. Verantwortlichkeiten Gesamtverantwortung für die Planung, Durchführung und Nachbereitung der Trainings. Sicherstellung der definierten Lernziele und KPIs. Regelmäßiges Reporting und frühzeitige Eskalation möglicher Risiken. Nachhaltiger Wissenstransfer und Befähigung der Mitarbeiter zur eigenständigen Nutzung und Weitergabe von AI-Wissen. Einhaltung geltender Datenschutz- und Compliance-Vorgaben sowie vertraulicher Umgang mit Unternehmensdaten. Das Angebot Bitte senden Sie mir folgende Informationen: Frühestmöglicher Starttermin Verfügbarkeit pro Woche Aktuelle Auslastung Stundensatz (Remote / Vor Ort) Aktuelles Profil / CV Kurze Einschätzung Ihrer Passgenauigkeit",
+      "first_seen": "2026-11-02T19:09:54.175613+00:00",
+      "id": "ef3b00727b465df4",
+      "matched_keywords": [
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-11-02T18:20:41+01:00",
+      "source": "freelancermap.de",
+      "title": "INTERIM KI / AI Trainer & Consultant (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/interim-ki-ai-trainer-und-consultant-m-w-d"
+    },
+    {
+      "description": "Für einen Endkunden aus der Energiebranche suchen wir ab Januar 2027 einen Workshop-Experten für die Migration von SAP Enable Now. Du ordnest die Ablösung verständlich ein und zeigst, woran dabei alles gedacht werden muss. Das bringst du mit Erfahrung mit SAP Enable Now und dessen Migration oder Ablösung Kenntnis relevanter Best Practices für die Migration Du erklärst komplexe Themen im Workshop so, dass sie jeder versteht Remote, ca. 6 Monate Mehr Infos: https://nijodex.com/job.html?id=finja-300095",
+      "first_seen": "2026-11-02T19:09:54.175613+00:00",
+      "id": "2009a6b16386ae69",
+      "matched_keywords": [
+        "energie"
+      ],
+      "published": "2026-11-02T18:16:01+01:00",
+      "source": "freelancermap.de",
+      "title": "SAP Enable Now Migration - Workshop-Experte",
+      "url": "https://www.freelancermap.de/projekt/sap-enable-now-migration-workshop-experte"
+    },
+    {
+      "description": "Projektrahmen Projekt: Neubau Krankenhaus Einsatzort: Twistringen Start: 01.01.2027 Laufzeit: Bis 31.12.2029 Auslastung: Vollzeit Vertragsart: Freelancer / Freiberufler Einsatz: Vor Ort auf der Baustelle Projektbeschreibung Für ein langfristiges Krankenhausprojekt in Twistringen suchen wir ab dem 01.01.2027 einen erfahrenen Bauleiter Elektrotechnik (ELT) (m/w/d) zur eigenständigen Betreuung und Koordination der elektrotechnischen Gewerke. Sie übernehmen die Verantwortung für die Überwachung und Steuerung der elektrotechnischen Bauausführung und fungieren als zentrale Schnittstelle zwischen Projektleitung, ausführenden Unternehmen, Fachplanern und den weiteren TGA-Gewerken. Ziel ist die Sicherstellung einer fachgerechten, termingerechten und qualitativ hochwertigen Umsetzung sämtlicher elektrotechnischer Leistungen unter Berücksichtigung der besonderen technischen und organisatorischen Anforderungen eines Krankenhausprojekts. Ihre Aufgaben Eigenständige Bauleitung und Überwachung sämtlicher elektrotechnischer Gewerke auf der Baustelle Koordination und Steuerung der ausführenden Nachunternehmer und Montageunternehmen Überwachung der Bauausführung hinsichtlich Qualität, Terminen, Kosten und technischer Vorgaben Prüfung und Umsetzung von Ausführungs- und Montageplanungen sowie technischen Spezifikationen Koordination der Schnittstellen zwischen Elektrotechnik, HKLS, MSR und den weiteren Gewerken Überwachung der fachgerechten Installation elektrotechnischer Anlagen und Systeme Kontrolle von Installationsfortschritten, Personal- und Ressourceneinsatz sowie Einhaltung der Bauablaufplanung Durchführung regelmäßiger Baustellenbegehungen und Qualitätskontrollen Erkennen, Dokumentieren und Nachverfolgen von Mängeln und Ausführungsabweichungen Teilnahme an Baubesprechungen sowie Abstimmung mit Projektleitung, Fachplanern und Auftraggebern Unterstützung bei der Terminplanung, Fortschrittskontrolle und Erstellung von Statusberichten Koordination und Begleitung von Funktionsprüfungen, Inbetriebnahmen und Abnahmen Sicherstellung einer vollständigen und ordnungsgemäßen Revisions- und Baustellendokumentation Ihr Profil Mehrjährige Berufserfahrung als Bauleiter Elektrotechnik (ELT), Obermonteur, Fachbauleiter oder in vergleichbarer Funktion Fundierte Erfahrung in der Bauleitung elektrotechnischer Gewerke, idealerweise bei Krankenhaus-, Klinik- oder vergleichbaren Großbauprojekten Gute Kenntnisse in der Installation und Ausführung elektrotechnischer Anlagen in Gebäuden Erfahrung in der Koordination und Steuerung von Nachunternehmern und Montagepersonal Kenntnisse der relevanten VDE-, DIN- und technischen Regelwerke Erfahrung in der gewerkeübergreifenden Koordination, insbesondere mit HKLS und MSR Sicherer Umgang mit Ausführungsplänen, Leistungsverzeichnissen und technischer Dokumentation Selbstständige, strukturierte und lösungsorientierte Arbeitsweise Durchsetzungsvermögen und Kommunikationsstärke im Umgang mit Projektbeteiligten Bereitschaft zum regelmäßigen Einsatz vor Ort in Twistringen Von Vorteil: Erfahrung mit Krankenhaus- und medizinischen Funktionsbereichen Kenntnisse in Sicherheitsstromversorgung, Netzersatzanlagen, USV-Systemen und medizinisch genutzten Bereichen nach DIN VDE 0100-710 Erfahrung mit Abnahme- und Inbetriebnahmeprozessen komplexer elektrotechnischer Anlagen",
+      "first_seen": "2026-11-02T19:09:54.175613+00:00",
+      "id": "74a1cd1b3604fde4",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-11-02T18:09:41+01:00",
+      "source": "freelancermap.de",
+      "title": "Bauleiter Elektrotechnik (ELT) (m/w/d) – Krankenhausprojekt",
+      "url": "https://www.freelancermap.de/projekt/bauleiter-elektrotechnik-elt-m-w-d-krankenhausprojekt"
+    },
+    {
+      "description": "Senior IT-Projektmanager (m/w/d) – Fokus: BOT- & Anwendungsmigration Branche: Internationales Industrie- & Hochtechnologieumfeld (Luftfahrt / Raumfahrt / Verteidigung) Projektstart: Spätestens Ende Dezember 2026 Laufzeit: Phase 1 (Spanien / WP5): Bis September 2027 Phase 2 (Deutschland / WP6): Bis 2028 Auslastung: Vollzeit / Meilensteinbasiert Einsatzorte: Großraum Madrid (Spanien) sowie zwei Standorte in Süddeutschland (Reisebereitschaft und Präsenz vor Ort zwingend erforderlich) Projektsprache: Verhandlungssicheres Englisch; Deutsch und/oder Spanisch von großem Vorteil Wichtiger Hinweis zur Profileinreichung: Gesucht wird ein Senior IT-Projektmanager (m/w/d) . Es ist zwingend darauf zu achten, dass im Profil neben fundierter End-to-End-Projektleitungskompetenz konkrete Erfahrungen mit BOT-Architekturen (Fertigungs-, Mess-, Prüf- und Engineering-Anlagen / OT-Umfeld) sowie komplexen Anwendungsmigrationen explizit ausgewiesen sind. Profile, aus denen diese Schwerpunkte nicht eindeutig hervorgehen, können leider nicht im Auswahlprozess berücksichtigt werden. Projektkontext & Zielsetzung Im Rahmen eines konzernweiten IT-Transformationsprogramms werden Fachanwendungen aus isolierten nationalen Netzwerken (NAT) in eine standardisierte, divisionale Netzwerkumgebung (DIV) sowie eine Private Cloud migriert. Als Senior IT-Projektmanager steuern Sie die Migration von ca. 70 komplexen Engineering-Tools sowie ca. 19 produktionsnahen BOT-Systemen (Fertigungs-, Mess- und Prüfanlagen). Dabei verantworten Sie das Gesamtprogramm von der Discovery über das Architektur-Framing bis hin zum Go-Live/Cutover unter strikter Einhaltung von Sicherheitsvorgaben für klassifizierte Daten und Netzwerksegmentierung. Ihre Aufgaben als Projektmanager End-to-End-Projektleitung & Migrationssteuerung: Gesamtverantwortung für die Planung, Steuerung und Durchführung der Migrationswellen nach dem 4-Schritte-Modell ( Assess ? Classify ? Decide ? Execute ) von der Discovery bis zum Hypercare-Abschluss. Steuerung der BOT- & Zielarchitekturen: Koordination und Abstimmung der Migrationspfade für Produktions-BOTs und CAE-/Engineering-Anwendungen gemeinsam mit Technical Authorities und Tool Ownern: Track A: Private Cloud HPC (RHEL, Scheduler, VDI) Track B: Private Cloud General Purpose (Shared VM/VDI-Pools) Track C / OT-Netzwerk: Lokale Systeme bzw. isolierter Verbleib im Produktionsnetzwerk Architektur-Deep-Dives & Governance: Technisches Framing für Application Owner, Begleitung der Lizenzkonsolidierung (z. B. Floating-Lizenzen via FlexLM) und Steuerung von Sicherheitsmaßnahmen (OT-Firewalls, CMDB-Registrierung, Segmentierung). Projektorganisation & Controlling: Erstellung und Überwachung integrierter Terminpläne, Steuerung des kritischen Pfads, Budgetcontrolling, Scope- und Changemanagement sowie proaktives Risikomanagement inkl. Notfallplänen. Stakeholder-Management & Reporting: Vorbereitung und Durchführung von Meilenstein-Reviews, Steuerungskreisen und Entscheidungsvorlagen für das Management und das Transformation Management Office (TMO). Anforderungsprofil Must-Have-Kriterien (Zwingend im Profil auszuweisen) Projektmanagement: Langjährige, nachweisbare Erfahrung als IT-Projektmanager in großen, komplexen und internationalen Transformations- oder Migrationsprogrammen (inkl. Termin-, Ressourcen- und Budgetsteuerung). BOT-Architektur & OT-Umfeld: Fundiertes technisches Verständnis von BOT-Architekturen (Steuerung, Integration und Anbindung von Fertigungs-, Prüf- oder Messanlagen bzw. OT-Systemen). Migrationserfahrung: Nachweisbare Praxis in der End-to-End-Migration von Applikationen und Infrastrukturen (Discovery, Build, Testing, Cutover). Technisches Verständnis: Vertrautheit mit Private-Cloud-, VDI- und HPC-Umgebungen (Linux/RHEL), Netzwerksegmentierung sowie zentralen Lizenzierungskonzepten (z. B. FlexLM). Ausbildung: Abgeschlossenes Masterstudium (Informatik, Wirtschaftsingenieurwesen, Ingenieurwissenschaften, Betriebswirtschaftslehre oder vergleichbare Qualifikation). Sprachen & Mobilität: Fließendes Englisch in Wort und Schrift; Bereitschaft zu regelmäßigen Vor-Ort-Einsätzen an den Projektstandorten in Spanien (Madrid) und Süddeutschland. Nice-to-Have Zertifizierungen im Projektmanagement (z. B. PMP, PRINCE2 oder Agile/Scrum). Branchenerfahrung im Umfeld Luft- und Raumfahrt, Defence oder Automotive. Sprachkenntnisse in Deutsch und/oder Spanisch. Erfahrung mit Engineering-Suiten (z. B. Nastran, MATLAB, CATIA). Ich freue mich auf Ihre Rückmeldung und den Tagessätzen.",
+      "first_seen": "2026-11-02T19:09:54.175613+00:00",
+      "id": "447776c401097643",
+      "matched_keywords": [
+        "projektmanager",
+        "agil",
+        "scrum",
+        "netz"
+      ],
+      "published": "2026-11-02T18:03:51+01:00",
+      "source": "freelancermap.de",
+      "title": "#1 Senior IT-Projektmanager (m/w/d) – Fokus: BOT- & Anwendungsmigration",
+      "url": "https://www.freelancermap.de/projekt/1-senior-it-projektmanager-m-w-d-fokus-bot-und-anwendungsmigration"
+    },
+    {
+      "description": "Der Einsatzbereich umfasst die Rolle eines Product Owners zur Einführung einer zukunftsfähigen Lebensversicherungsplattform für die Bestände Leben Klassik. In dieser Schlüsselrolle verantworten Sie die fachliche Ausrichtung, Priorisierung und erfolgreiche Umsetzung eines zentralen Lösungsbereichs innerhalb der Transformation. Sie steuern ein internationales, interdisziplinäres Team mit bis zu 20 Mitarbeitenden und stellen die zielgerichtete Umsetzung der Produktstrategie entlang der vereinbarten Programmziele sicher. Aufgaben und Verantwortlichkeiten Verantwortung für das Product Backlog einschließlich Priorisierung, Scope-Steuerung und transparenter Entscheidungsfindung zur Maximierung des Business Value und zur Erreichung der Programmziele. Aufbau und Pflege belastbarer Beziehungen zu Business-, Operations- und IT-Stakeholdern sowie Herbeiführung tragfähiger Entscheidungen bei konkurrierenden Anforderungen, Zielkonflikten und Abhängigkeiten. Übersetzung fachlicher Anforderungen in eine umsetzbare Produkt-Roadmap, Features und User Stories sowie Sicherstellung einer klaren fachlichen Zielsetzung für die Umsetzungsteams. Eigenverantwortliche fachliche Entscheidungen innerhalb des Verantwortungsbereichs sowie Vertretung der Lösungsstrategie gegenüber Programmleitung, Sponsoren, Workstream-Leitungen und weiteren Entscheidungsgremien. Sicherstellung der fachlichen Qualität der gelieferten Lösungen durch Definition von Akzeptanzkriterien, Steuerung der fachlichen Abnahme sowie konsequente Verfolgung von Qualitäts-, Risiko- und Compliance-Anforderungen. Fachliche Führung des Teams in enger Zusammenarbeit mit dem Scrum Master sowie Verantwortung für Lieferfähigkeit, Planbarkeit und Erreichung der vereinbarten Cycle- und Programmziele. Frühzeitige Identifikation kritischer Risiken, Abhängigkeiten und Umsetzungshemmnisse sowie Initiierung und Nachverfolgung geeigneter Maßnahmen zur Sicherstellung einer termingerechten und qualitativ hochwertigen Lieferung. Skills Mehrjährige Erfahrung als Product Owner, Lead Product Owner oder fachliche Führungskraft in komplexen Transformationsprogrammen Nachgewiesene Erfahrung in der fachlichen Führung und Steuerung internationaler und interdisziplinärer Teams Fundierte Kenntnisse der Plattform MSG iLife und der Prozesse der betrieblichen Lebensversicherungs-Bestandsverwaltung Tiefgreifende Kenntnisse der betrieblichen Altersversorgung (insbesondere §3 Nr. 63 EStG, §40b EStG, Rückdeckung und Unterstützungskassen), idealerweise ergänzt um Erfahrungen mit Konsortiallösungen Erfahrung in Migrations-, Transformations- oder Run-off-Programmen im Versicherungsumfeld Ausgeprägte Fähigkeiten im Stakeholder-Management sowie in der Kommunikation auf Management- und Executive-Ebene Fundierte Kenntnisse agiler Vorgehensmodelle (Scrum, SAFe) sowie sicherer Umgang mit Jira und Confluence Verhandlungssichere Deutsch- und Englischkenntnisse Hohe Eigenverantwortung, Durchsetzungsvermögen sowie ausgeprägte Entscheidungs- und Lösungsorientierung Rahmendaten Laufzeit: 01.01.2027 bis 31.12.2027 Onsite / remote bis zu 95% remote möglich Projektstandort Düsseldorf oder Hamburg Interesse? Dann senden sie gerne ihren CV samt Stundensatz per Nachricht an uns. Vielen Dank vorab",
+      "first_seen": "2026-11-02T19:09:54.175613+00:00",
+      "id": "ba1ee3499c87082b",
+      "matched_keywords": [
+        "scrum master",
+        "product owner",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-11-02T17:13:30+01:00",
+      "source": "freelancermap.de",
+      "title": "Product Owner betriebliche Altersvorsorge (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/product-owner-betriebliche-altersvorsorge-m-w-d"
+    },
+    {
       "description": "Start: November 2026 Dauer: 6 Monate++ Ort: Darmstadt / 90% Remote Auslastung: 20 Stunden / Woche Projekt-ID: 15194 Bewerbungsfrist: 16.11.2026 Liebes Netzwerk, für unseren Kunden in Darmstadt suchen wir einen Project Coordinator – SAP & RFID (m/w/d). ? Link: https://www.constaff.com/projektbeschreibung/?positionID=15194 Aufgaben: Planung und Steuerung internationaler Rollout-Aktivitäten und Projektmeilensteine Erstellung und Aktualisierung länderspezifischer Rollout-Pläne Überwachung der Registrierung und Pflege von Equipment-Stammdaten in SAP Koordination und Überprüfung der Implementierung von Kennzeichnungs- und RFID-Technologien Identifikation und Nachverfolgung von Projektrisiken, Abhängigkeiten und Umsetzungshindernissen Erstellung von Statusberichten, Dashboards und Maßnahmenübersichten Vorbereitung und Dokumentation von Abstimmungs- und Review-Terminen Koordination der Zusammenarbeit mit internationalen Stakeholdern Anforderungen: Erfahrung im internationalen Projektmanagement und Rollout-Management Kenntnisse in SAP, idealerweise im Bereich Equipment-Stammdaten Erfahrung mit RFID-Technologien und Kennzeichnungssystemen wünschenswert Kenntnisse in der Planung und Koordination standortübergreifender Implementierungen Erfahrung im Risiko-, Abhängigkeits- und Maßnahmenmanagement Sicherer Umgang mit Reporting- und Dokumentationstools Analytische, strukturierte und eigenständige Arbeitsweise Proaktive Kommunikation und ausgeprägte Koordinationsfähigkeit Erfahrung in internationalen Projektumgebungen Auslastung: 20 Stunden / Woche Haben Sie Zeit und Interesse an einem spannenden Projekt? Dann freuen wir uns auf Ihre Kontaktaufnahme! Kontakt: Julia Barth Expert Candidate Relations _________________________________ Constaff GmbH - 100%OpenBook. Ehrlich. Kompetent. Transparent.",
       "first_seen": "2026-11-02T08:52:00.937846+00:00",
       "id": "d2df411ca577415a",
@@ -3914,195 +4068,7 @@
       "source": "freelancermap.de",
       "title": "Mendix Entwickler / Mendix Experte (m/w/d) | Befristete Festanstellung | Remote",
       "url": "https://www.freelancermap.de/projekt/mendix-entwickler-mendix-experte-m-w-d-befristete-festanstellung-remote"
-    },
-    {
-      "description": "EHS Trainer (m/w/d) Referenz: fe80a7c0-16b8-479f-96a4-c4954795708a Beginn: asap Dauer: 1 MM Meine Aufgaben: Schulung und hands-on Wissensvermittlung im SAP EHS Vermittlung der SAP Standard Prozesse im EHS, SVT und GLM Meine Qualifikation: Erste Erfahrungen als Trainer sind ein Plus Gewünscht werden praxisnahe Trainings vor Ort oder remote Tiefgehende Kenntnisse im SAP EHS und den Spezialisierungen SVT und GLM Meine Vorteile: Flexible Zeiteinteilung Spannendes und zusätzliches Kurzprojekt für Ende 2026 Über uns: Der Bereich IT ist unsere Kernkompetenz, auf deren Grundlage sich Hays entwickelt hat. Wir sind das größte privatwirtschaftlich organisierte IT-Personaldienstleistungsunternehmen in Deutschland und haben für jede Karrierestufe das passende Angebot – egal ob Sie an Vakanzen in agilen KMUs oder starken DAX-Konzernen interessiert sind. Wir beherrschen die komplette IT-Klaviatur von Support bis zur Softwarearchitektur oder Digitalisierung – dank unseres umfangreichen Portfolios ist für jeden etwas dabei. So konnten wir in den vergangenen Jahrzehnten im Rahmen einer Life-Long-Partnerschaft unzählige Fach- und Führungskräfte aus der IT dabei unterstützen, die Weichen für eine erfolgreiche Karriere zu stellen. Unser Beratungsteam ist spezialisiert und somit in der Lage, auf Ihre Wünsche und Vorstellungen einzugehen und Sie auf Bewerbungsgespräche und Vertragsverhandlungen bestens vorzubereiten. Probieren Sie es aus und erfahren Sie, was der Markt Ihnen zu bieten hat – völlig kostenfrei, diskret und unverbindlich! Wir freuen uns auf Sie. Mein Kontakt bei Hays: Referenznummer: ***** Kontakt aufnehmen: Email: ***** Telefone: *****",
-      "first_seen": "2026-10-19T18:59:21.632009+00:00",
-      "id": "ce91fc442934aae6",
-      "matched_keywords": [
-        "agil"
-      ],
-      "published": "2026-10-19T20:17:09+02:00",
-      "source": "freelancermap.de",
-      "title": "EHS Trainer  (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/ehs-trainer-m-w-d"
-    },
-    {
-      "description": "Experte - Operations Director (Automotive Seating & Trim) (m/w/d) Referenz: 99877126-0253-4c10-8450-d2da2375d0b6 Beginn: asap Dauer: 6 MM++ Meine Aufgaben: Operative Führung des Werks gemeinsam mit Plant Manager und VP Operations Führung und Weiterentwicklung des lokalen Management-Teams Unterstützung bei schwierigen Produktionssituationen, Engpässen und Serienanläufen Verbesserung von Qualität, Produktivität und Lieferperformance Coaching von Führungskräften und Aufbau einer starken Führungsorganisation Meine Qualifikation: Berufserfahrung in einer leitenden Werks- oder Operations-Funktion, z. B. als Senior Plant Manager, Plant Director, Operations Director oder VP Operations Erfahrung in der operativen Führung und Optimierung von Produktionsstandorten Bereitschaft zu einem überwiegend vor-Ort-Einsatz in Bizerte, Tunesien Verhandlungssichere Englisch- und Französischkenntnisse in Wort und Schrift Meine Vorteile: Spannendes Mandat bei einem international führenden Automotive Tier-1-Zulieferer Internationale Aufgabe in einem anspruchsvollen und dynamischen Produktionsumfeld Fokus auf operative Herausforderungen, Produktionsstabilisierung und nachhaltige Leistungssteigerung Über uns: Mit unserer langjährigen Rekrutierungserfahrung und unseren Kenntnissen des Engineering-Personalmarktes bieten wir Fach- und Führungskräften aus dem Ingenieurwesen und dem technischen Umfeld eine starke Partnerschaft. Denn durch unsere intensiven Beziehungen und Netzwerke über alle Industriebranchen hinweg vermitteln wir Ihnen als Engineering-Fachleuten spannende Projekte und attraktive Positionen. Ganz nach Ihren Interessen und abhängig von Ihren Erfahrungen und Qualifikationen. Sie profitieren dabei von einer professionellen Betreuung von der ersten Ansprache bis zum Antritt Ihres neuen Projektes bzw. Ihrer neuen Stelle - und das natürlich völlig kostenfrei. Registrieren Sie sich und freuen Sie sich auf interessante und passende Positionen und Projekte. Mein Kontakt bei Hays: Referenznummer: ***** Kontakt aufnehmen: Email: ***** Telefone: *****",
-      "first_seen": "2026-10-19T18:59:21.632009+00:00",
-      "id": "e618b059fc21f835",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-10-19T20:16:50+02:00",
-      "source": "freelancermap.de",
-      "title": "Experte - Operations Director (Automotive Seating & Trim) (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/experte-operations-director-automotive-seating-und-trim-m-w-d"
-    },
-    {
-      "description": "Qualitässicherer (m/w/d) Referenz: 99cc1ccd-1b0a-4edd-9d4d-23d4203b112f Beginn: asap Dauer: 6 MM Meine Aufgaben: Durchführung von Erstbemusterungen und Wareneingangsprüfungen von Baugruppen und Bauteilen unterschiedlicher Herstellverfahren und Materialien Bearbeitung von Reklamationen gemäß den definierten Prozessen sowie Verwaltung des Sperrlagers Begleitung interner und externer Audits Mitwirkung bei Kundenprojekten, beispielsweise Beratung bei Bezugsermittlungen und Erstellung der erforderlichen Dokumentationen Anwendung, Überwachung und Aktualisierung der Prozesse in der Qualitätssicherung Wissenstransfer an die Lieferanten sowie Vermittlung und Umsetzung von Arbeitsanweisungen Beratung bei der Analyse und nachhaltigen Behebung von Qualitätsproblemen vor Ort Meine Qualifikation: Abgeschlossene Weiterbildung als Qualitätsfachkraft Fundierte Erfahrung und gute Fachkenntnisse im Bereich Qualitätssicherung Hohe Reisebereitschaft Erfahrung mit Faserverbundwerkstoffen, Carbon und Composite-Bauteilen Gute Kenntnisse in MS365 und SAP Ausgeprägte analytische Fähigkeiten und überdurchschnittliche Problemlösungskompetenz Sehr gute Englischkenntnisse in Wort und Schrift Deutschkenntnisse sind wünschenswert Kenntnisse der Regelwerke DIN EN ISO 9001, 9100, 14001 und 9102 wünschenswert Meine Vorteile: Spannendes Projektumfeld Durch Ihre Kandidatur über Hays sind Sie Teil einer kleinen, passgenauen Auswahl, die dem Kunden für diese Position präsentiert wird Über uns: Mit unserer langjährigen Rekrutierungserfahrung und unseren Kenntnissen des Engineering-Personalmarktes bieten wir Fach- und Führungskräften aus dem Ingenieurwesen und dem technischen Umfeld eine starke Partnerschaft. Denn durch unsere intensiven Beziehungen und Netzwerke über alle Industriebranchen hinweg vermitteln wir Ihnen als Engineering-Fachleuten spannende Projekte und attraktive Positionen. Ganz nach Ihren Interessen und abhängig von Ihren Erfahrungen und Qualifikationen. Sie profitieren dabei von einer professionellen Betreuung von der ersten Ansprache bis zum Antritt Ihres neuen Projektes bzw. Ihrer neuen Stelle - und das natürlich völlig kostenfrei. Registrieren Sie sich und freuen Sie sich auf interessante und passende Positionen und Projekte. Mein Kontakt bei Hays: Referenznummer: ***** Kontakt aufnehmen: Email: ***** Telefone: *****",
-      "first_seen": "2026-10-19T18:59:21.632009+00:00",
-      "id": "091f4dde6a08c1d9",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-10-19T20:16:14+02:00",
-      "source": "freelancermap.de",
-      "title": "Qualitässicherer (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/qualitaessicherer-m-w-d"
-    },
-    {
-      "description": "Stellenbeschreibung A consultant is required with specific experience in planning, negotiating and executing a Managed Service setup in SAP RUN Support.Our client is a global manufacturer and distributer of health products and plan create a Managed Service RfP document for SAP-RUN support. The initial aim is to create/manage first phase between 1st November and mid December2026, followed by a 2nd negotiation phase starting in mid-January, for c 4 weeks. A total of 50 man-days (400 Hours).Objective of the RFP Document: To provide SAP RUN Support to the IT services of a multinational manufacturing and distribution company. Scope of the SAP RUN Support could include areas such as; SAP Monitoring, System Administration, SAP Basis Support, Incident and Change-Management, Security / Compliance, Disaster Recovery and Backups. The scope is global with potentially a staged rollout. The client is currently running both S/4 and ECC Operations. Unbedingt erforderlich Deep experience in global SAP IT Operations.Highly experienced in formulating RfP´s for Outsourced Managed IT Services, Scope, SLA´s Evaluation Criteria, etc. Specific Experience with planning, negotiating and executing a Managed Service setup in SAP RUN Support is essential.Fluent English - Written and Spoken Ihr(e) Ansprechpartner(in): Mark Sumner E-Mail: ***** Festnetz: *****",
-      "first_seen": "2026-10-19T18:59:21.632009+00:00",
-      "id": "f11e4c11f4d7da16",
-      "matched_keywords": [
-        "netz",
-        "tso"
-      ],
-      "published": "2026-10-19T19:15:05+02:00",
-      "source": "freelancermap.de",
-      "title": "IT Specialist with Specific Experience in creating RFP, planning, negotiating and executing a Managed Service setup in SAP RUN Support",
-      "url": "https://www.freelancermap.de/projekt/it-specialist-with-specific-experience-in-creating-rfp-planning-negotiating-and-executing-a-managed"
-    },
-    {
-      "description": "Wir suchen für unseren Kunden aus dem Bereich Wasserwirtschaft einen freiberuflichen Bauleiter (m/w/d) für internationale Projekte. Aufgaben Du übernimmst die Gesamtverantwortung für die Bauaufsicht und koordinierst sämtliche relevanten Tätigkeiten vor Ort. Dabei verantwortest du das Projektmanagement, die Vertragsverwaltung, die Termin- und Kostenkontrolle sowie die Qualitätssicherung und das Reklamationsmanagement. Zu deinen weiteren Aufgaben gehören: Du berätst den Auftraggeber in vertraglichen Angelegenheiten, insbesondere bei Abweichungen und Änderungsaufträgen, und erteilst die erforderlichen Anweisungen. Du stellst eine kontinuierliche Präsenz auf der Baustelle sicher und überwachst sämtliche Bautätigkeiten. Du überwachst und überprüfst die Vermessungsarbeiten des Auftragnehmers. Du prüfst, bewertest und genehmigst die vom Auftragnehmer eingereichten Unterlagen und technischen Dokumentationen. Du kontrollierst und testest Materialien, Ausrüstung und fertiggestellte Arbeiten. Du unterstützt die Inbetriebnahme und Übergabe der fertiggestellten Anlagen und Einrichtungen. Du prüfst Zahlungsanträge und erstellst Zwischen- und Abschlusszahlungsbescheinigungen. Du unterstützt die Abnahmeverfahren und wirkst bei der Erstellung von Leistungsnachweisen mit. Du begleitest die Tätigkeiten des Auftragnehmers während der gesamten Mängelrügefrist. Profil Du verfügst über einen Hochschulabschluss im Bauingenieurwesen oder in einem verwandten Fachgebiet. Du bringst mindestens 15 Jahre internationale Berufserfahrung in Projekten der Wasserversorgung, Abwasserentsorgung und Abwasserbehandlung mit. Du hast mindestens 10 Jahre Erfahrung in der Bauaufsicht bei Wasser- und Sanitärinfrastrukturprojekten. Du verfügst über nachweisbare Führungserfahrung in der Leitung multidisziplinärer Teams aus internationalen und lokalen Experten. Du besitzt umfassende Erfahrung in der Abwicklung von FIDIC-basierten Verträgen. Erfahrungen mit Schlichtungsverfahren sind von Vorteil. Du verfügst über ausgezeichnete Englischkenntnisse in Wort und Schrift. Rahmenbedingungen Start: 1. Quartal 2027 Laufzeit: 1 Jahr mit hoher Wahrscheinlichkeit einer Verlängerung Auslastung: Vollzeit Interesse? Dann freuen wir uns über dein aktuelles Projektprofil mit Angabe deiner Verfügbarkeit und deines gewünschten Stunden- bzw. Tagessatzes .",
-      "first_seen": "2026-10-19T18:59:21.632009+00:00",
-      "id": "ca753bb748162940",
-      "matched_keywords": [
-        "tso"
-      ],
-      "published": "2026-10-19T18:55:20+02:00",
-      "source": "freelancermap.de",
-      "title": "1029: Bauleitung (m/w/d) – Internationale Projekte in der Wasserwirtschaft",
-      "url": "https://www.freelancermap.de/projekt/1029-bauleitung-m-w-d-internationale-projekte-in-der-wasserwirtschaft"
-    },
-    {
-      "description": "Senior OT Network Security Architect / Engineer (m/w/d) | Remote | Start: 01.11.26 | Dauer: 6-12 Monaten | Vollzeit möglich Aufgaben Erstellung und Validierung von OT-Netzwerk- und Connectivity-Architekturen. Beratung zur Netzwerk- und Security-Konfiguration in Entwicklungs-, Test- und Kundenumgebungen. Durchführung von Cybersecurity-Analysen inklusive Schwachstellenmanagement und Security Hardening. Erstellung von IAM-, PKI- und Zertifikatskonzepten für Edge-Umgebungen. Erstellung von Edge-Device-Management-Konzepten über den gesamten Device Lifecycle. Dokumentation von Architektur- und Betriebskonzepten Qualifikationen Mehrjährige Erfahrung in OT-Networking und OT-Cybersecurity. Sehr gute Kenntnisse in TCP/IP, Routing, Switching, VLANs, VPN/IPsec und Firewalls. Erfahrung mit Threat & Risk Assessments, Vulnerability Management, Penetrationstests und Hardening. Kenntnisse in PKI, Zertifikaten, Authentifizierungstechnologien sowie SIEM-/Monitoring-Lösungen. Erfahrung mit Edge Devices, industriellen Gateways und komplexen Connectivity-Umgebungen. Sehr gute Dokumentationsfähigkeiten; idealerweise Kenntnisse in SCALANCE, ctrlX/CODESYS, AWS Cloud-to-Edge Connectivity und Software Compliance.",
-      "first_seen": "2026-10-19T12:06:11.681772+00:00",
-      "id": "f99a54330ece0b0b",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-10-19T14:02:48+02:00",
-      "source": "freelancermap.de",
-      "title": "Senior OT Network Security Architect / Engineer (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/senior-ot-network-security-architect-engineer-m-w-d"
-    },
-    {
-      "description": "Liebe Damen und Herren, für ein Mandantenprojekt suchen wir eine erfahrene Unterstützung in der folgenden Position: SBC / VDI-Lösungen Spezialist – Citrix & Linux (w/m/d) Projektbeschreibung Start: asap Dauer/Ende: bis 31.08.2027 mit Verlängerungsoption Ort: 99% Remote und 1% in Nürnberg Auslastung: Vollzeit ~ 1.480 Stunden Remote + 12 Stunden vor Ort Projekthintergrund: Für den Betrieb und die Weiterentwicklung einer bestehenden Virtual Desktop Infrastructure (VDI) wird ein erfahrener Spezialist mit Schwerpunkt Linux und/oder Citrix Virtual Apps and Desktops gesucht. Neben dem Betrieb der bestehenden VDI-Infrastruktur soll eine zusätzliche Plattform für virtuelle Linux-Entwicklungsclients auf Basis von Ubuntu aufgebaut werden. Der Schwerpunkt liegt auf Aufbau, Betrieb und Automatisierung der Plattform unter Berücksichtigung der Stabilitäts- und Sicherheitsanforderungen. Aufgaben Aufbau, Betrieb und Weiterentwicklung der VDI-Infrastruktur mit Schwerpunkt Linux/Ubuntu und Citrix Virtual Apps and Desktops Konfiguration, Implementierung und Betrieb virtueller Linux Clients und Citrix VDAs Automatisierung der Clientbereitstellung und des Betriebs mittels PowerShell, Bash und Shell Scripting Konfiguration Linux-spezifischer Citrix Policies in einer Microsoft Active Directory Umgebung Installation, Konfiguration und Test von VDI-Managementsystemen sowie Deployment neuer Client-Images Analyse und Behebung komplexer Störungen im VDI-, Terminalserver-, Client- und Netzwerkumfeld inklusive Third Level Support Betrieb und Optimierung virtueller Linux Clients in sicheren und ggf. segmentierten Netzwerkumgebungen Umsetzung von Anforderungen der IT-Sicherheit Erstellung und Weiterentwicklung technischer Konzepte, Prozesse und Dokumentationen Unterstützung bei VDI-Cloud- und Virtualisierungslösungen mit Citrix, VMware und Microsoft Bitte beachten Sie: Eine Berücksichtigung Ihrer Bewerbung ist nur möglich, wenn sämtliche Anforderungen der Position vollständig erfüllt sind. Anforderungen Analyse im Netzwerkbereich (Erstellung von Traces und Auswertung) - mindestens ein Jahr Projekterfahrung Sicherheit im Umgang mit gängigen Werkzeugen zur Qualifizierung und Behebung von Fehlern (Remote Desktop-Verbindung, Windows-Bordmittel, Windows Ressource-Kit und Support-Tools, etc.) - mindestens ein Jahr Projekterfahrung Erstellung von Routinen, Skripten mittels PowerShell/Bash/Shell - mindestens ein Jahr Projekterfahrung Einsatz von Broker-Systemen (Zugang von innerhalb und außerhalb des Firmennetzes) - mindestens ein Jahr Projekterfahrung Einsatz von Tools für Kapazitäts-Monitoring - mindestens ein Jahr Projekterfahrung Einsatz von Tools für Massenprovisionierung - mindestens ein Jahr Projekterfahrung Kenntnisse des Produktes SCCM von Microsoft - mindestens ein Jahr Projekterfahrung Kenntnisse von Gefahren und möglicher Schutzmaßnahmen im Bereich der IT-Sicherheit vor allem mit Linux Bezug - Projekterfahrung Bei Interesse und Eignung reichen Sie Ihre Bewerbungsunterlagen inklusive Nachweis der genannten Qualifikationen und Zertifikate ein: orhan.yesilbasATiso-gruppe.com Mit Ihrer Bewerbung erklären Sie sich mit der Verarbeitung Ihrer Daten gemäß unserer Datenschutzerklärung einverstanden. Für weitere Fragen stehe ich Ihnen gerne zur Verfügung. Mit freundlichen Grüßen Orhan Yesilbas Senior Recruiting Specialist ISO Recruiting Consultants GmbH – Ein Unternehmen der ISO-Gruppe – Zum Laurenburger Hof 76 | 60594 Frankfurt am Main orhan.yesilbasATiso-gruppe.com www.iso-gruppe.com Amtsgericht Nürnberg HRB 29609 Geschäftsführer: Harald Goeb, Johannes Reichel | Sitz: Nürnberg Die gesetzlichen Pflichtinformationen zum Thema Datenschutz finden Sie hier: https://www.iso-gruppe.com/de/iso-software-systeme/datenschutzerklaerung#datenschutzinformationspflicht_irc_extern ISO Recruiting Consultants: Wachstumschampion 2018-2024, Top-Personaldienstleister 2017-2020",
-      "first_seen": "2026-10-19T12:06:11.681772+00:00",
-      "id": "ed4ba00e3db5fdbb",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-10-19T13:56:44+02:00",
-      "source": "freelancermap.de",
-      "title": "SBC / VDI-Lösungen Spezialist – Citrix & Linux (w/m/d) - 99% Remote - langristig - € 70,-",
-      "url": "https://www.freelancermap.de/projekt/sbc-vdi-loesungen-spezialist-citrix-und-linux-w-m-d-99-prozent-remote-langristig-euro-70"
-    },
-    {
-      "description": "Business Analyst (m/w/d) – ANÜ | AI & Input Management Projektbeschreibung Für ein Unternehmen aus der Versicherungsbranche suchen wir einen erfahrenen Business Analysten (m/w/d) zur Unterstützung eines agilen Teams. Im Fokus stehen die Weiterentwicklung einer KI-gestützten Input-Management-Lösung zur Verarbeitung und Klassifizierung eingehender E-Mails und Dokumente sowie die Priorisierung von Underwriting Submissions. Rahmenparameter Einsatzart: Arbeitnehmerüberlassung (ANÜ) Standort: Remote, auf Abruf Hannover 2 Vor-Ort-Tage Start / Laufzeit: November 2026 bis31.12.2026 mit Verlängerungsoption Aufgaben Erhebung, Analyse und Dokumentation fachlicher und fachlich-technischer Anforderungen (Requirements Engineering) Erstellung von User Stories, Akzeptanzkriterien und fachlichen Spezifikationen Modellierung von End-to-End-Prozessen, User Flows und Systemabläufen mittels BPMN Fachliche Analyse von Schnittstellen und Integrationen, z. B. zu CRM-, Dokumentenmanagement- und E-Mail-Systemen Konzeption und Durchführung fachlicher Tests, UAT und Regressionstests sowie Analyse und Dokumentation von Fehlern Unterstützung der Qualitätssicherung KI-basierter Lösungen Enge Abstimmung zwischen Business, Entwicklung, Architektur und externen Partnern Profil Mehrjährige Erfahrung als Business Analyst, idealerweise im IT- oder Versicherungsumfeld Fundierte Kenntnisse in Requirements Engineering, BPMN und agilen Methoden Erfahrung mit User Stories, Akzeptanzkriterien, fachlicher Testkonzeption und UAT Kenntnisse in der Qualitätssicherung KI-basierter Lösungen sowie in der Analyse von Systemintegrationen Sehr gute Deutschkenntnisse in Wort und Schrift Ausgeprägte analytische und konzeptionelle Fähigkeiten sowie eine strukturierte, selbstständige und ergebnisorientierte Arbeitsweise Sehr gute Kommunikations- und Moderationsfähigkeiten sowie ausgeprägte Teamfähigkeit Wir freuen uns auf Deine Bewerbung oder ggf. Deine Empfehlung eines geeigneten Kollegen. Bitte sende uns Dein aktuelles Profil in Deutsch oder Englisch an Herr Dong Chen ***** *****",
-      "first_seen": "2026-10-19T12:06:11.681772+00:00",
-      "id": "278022bbfc7e7e3d",
-      "matched_keywords": [
-        "requirements engineer",
-        "business analyst",
-        "agil"
-      ],
-      "published": "2026-10-19T13:56:15+02:00",
-      "source": "freelancermap.de",
-      "title": "Business Analyst (m/w/d) – ANÜ | AI & Input Management",
-      "url": "https://www.freelancermap.de/projekt/business-analyst-m-w-d-anue-ai-und-input-management"
-    },
-    {
-      "description": "Westhouse ist eines der führenden Recruitment-Unternehmen für die Vermittlung hochqualifizierter Fachexperten aus dem gesamten IT-Lifecycle- und Engineering-Bereich. Für unseren Kunden suchen wir aktuell eine/n Scrum-Master (m/w/d) Rahmeninformationen Referenz:180593 Einsatzort:Remote und Frankfurt Starttermin:02.11.2026 Arbeitszeit:Vollzeit Ihre Qualifikationen - • Mind. 2 Jahre praktische Erfahrung als Scrum Master, davon mind. 1 Jahr in skalierten Projekten - • Zertifizierung SAFe (SAFe® 6.0) - • Mind. 1 Jahr Erfahrung bei der Einführung bzw. Begleitung agiler Methoden in Unternehmen mit mehr als 500 Mitarbeitenden, in der Finanzbranche oder in vergleichbar regulierten Branchen - • Erfahrung in Kulturveränderungsprojekten im Kontext agilen Arbeitens - • Praktische Erfahrung im IT-Projektmanagement sowie im Management agiler Teams mit Scrum und/oder Kanban in mind. drei verschiedenen Projekten - • Ausgeprägte Problemlösungsorientierung sowie hohe Konflikt- und Schlichtungsfähigkeit - • IT-Hintergrund und gutes Verständnis für technische Aufgaben, Abhängigkeiten und Priorisierung innerhalb eines Backlogs - • Ausgeprägte Seniorität und mehrjährige Erfahrung als Scrum Master, insbesondere im Aufbau und in der Begleitung neuer Teams - • Fähigkeit, SAFe- und Scrum-Methodiken auch gegenüber Führungskräften sicher zu vermitteln und deren Anwendung zu unterstützen Ihre Aufgaben - • Steuerung und methodische Begleitung agiler Teams nach Scrum - • Einrichtung und Moderation agiler Events - • Abstimmung mit anderen Scrum Mastern innerhalb der Organisation - • Identifikation, Abstimmung und Beseitigung von Impediments • Regelmäßige Abstimmung mit dem RTE des ARTs zu besonderen Ereignissen bzw. Störungen im Team - • Vorbereitung und Unterstützung von Events auf ART-Ebene - • Aktive Beratung und Unterstützung des Scrum Teams im Planning - • Beratung bei der Formulierung von User Stories sowie der Ableitung aus Features und Epics unter Berücksichtigung von Abhängigkeiten und Kapazitäten - • Vorbereitung und Durchführung von Reviews und Retrospektiven - • Methodische Weiterentwicklung des Teams, z. B. durch Workshops - • Sicherstellung bzw. transparente Kommunikation vereinbarter Termine und Meilensteine - • Schutz des Teams vor störenden externen Einflüssen - • Organisation und Durchführung regelmäßiger Scrum-Master-Abstimmungen zu Fortschritten und Impediments - • Begleitung des Teams im Transformationsprozess hin zu agilem Arbeiten - • Methodische Beratung des Product Owners, Product Managers und der Führungskräfte Interessiert? Interessiert? Wir freuen uns auf Ihren aussagekräftigen Lebenslauf/CV in elektronischer Form. Ihr Ansprechpartner: Patrick Hoening ***** ***** *****",
-      "first_seen": "2026-10-19T12:06:11.681772+00:00",
-      "id": "1227888934aa3cf7",
-      "matched_keywords": [
-        "scrum master",
-        "product owner",
-        "agil",
-        "scrum"
-      ],
-      "published": "2026-10-19T13:54:37+02:00",
-      "source": "freelancermap.de",
-      "title": "Scrum-Master (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/scrum-master-m-w-d-3062432"
-    },
-    {
-      "description": "Mit dieser Anfrage suchen wir einen MDM Developer (m/w/d) Für unseren Kunden in Karlsruhe suchen wir zum nächstmöglichen Zeitpunkt einen MDM Developer (w/m/d) zur Unterstützung im Projekt. Aufgaben Migration bestehender Stammdatenobjekte von Microsoft Master Data Services (MDS) nach Profisee Extraktion, Analyse und Überführung der Bestandsdaten in ein bereits definiertes Ziel-Datenmodell Durchführung und Begleitung der Datenmigration inklusive Datenvalidierung und Qualitätssicherung Analyse und Nachentwicklung bestehender Business Rules und Geschäftslogiken innerhalb von Profisee Konfiguration und Weiterentwicklung von Datenmodellen, Data Products und Workflows in Profisee Entwicklung und Implementierung von FastApps, Webhooks, Connectoren und REST-API-Integrationen Entwicklung und Optimierung komplexer SQL- und T-SQL-Abfragen sowie Stored Procedures Anbindung von Profisee an bestehende operative Systeme und Unternehmensanwendungen Eigenständige Abstimmung mit Fachbereichen zur Aufnahme, Analyse und Umsetzung fachlicher Anforderungen Zusammenarbeit mit internen IT-Teams bei Integrations- und Schnittstellenthemen Erstellung technischer Dokumentationen sowie Sicherstellung des Wissenstransfers an interne Mitarbeiter Durchführung von Schulungen für Key User und Unterstützung während der Einführungs- und Stabilisierungsphase Mitarbeit in einem agilen Scrum-Umfeld (Sprint Planning, Daily Stand-ups, Reviews und Retrospektiven) Qualifikationen Must-have Mehrjährige Erfahrung im Bereich Master Data Management (MDM) Fundierte Kenntnisse in Microsoft Master Data Services (MDS) Erfahrung mit MDS-Datenmodellen, Entitäten, Attributen, Hierarchien, Business Rules und Views Sehr gute Kenntnisse in Microsoft SQL Server und T-SQL Erfahrung in der Entwicklung komplexer SQL-Abfragen und Stored Procedures Erfahrung in Datenmigrations- und Transformationsprojekten Erfahrung in der Entwicklung und Integration von REST-APIs Fundiertes Verständnis von Datenmodellierung, Data Governance und Stammdatenmanagement Erfahrung bei der Integration von MDM-Lösungen in bestehende Systemlandschaften Sehr gute Deutschkenntnisse in Wort und Schrift Ausgeprägte Kommunikationsfähigkeit und sicheres Auftreten gegenüber Fachbereichen und Stakeholdern Selbstständige, strukturierte und lösungsorientierte Arbeitsweise Erfahrung in agilen Projektumfeldern nach Scrum Nice-to-have Projekterfahrung mit Profisee Erfahrung in der Entwicklung von FastApps, Data Products und komplexen Workflows Erfahrung mit Webhooks, Azure Functions und Connector-Entwicklung Erfahrung in der Implementierung von MDM-Plattformen Erfahrung im Wissenstransfer sowie in der Schulung von Key Usern Erfahrung in internationalen und stakeholderintensiven Projektumgebungen Kenntnisse moderner Daten- und Integrationsarchitekturen Branche: Finance & Banking Projektsprache:Deutsch/Englisch Auslastung: fulltime Honorar: bitte nennen Sie uns einen Stundensatz für dieses Remote-Projekt Zahlungsziel: 30 Tage Beginn asap Laufzeit / Ende 17 Monate Ort remote",
-      "first_seen": "2026-10-19T12:06:11.681772+00:00",
-      "id": "c2a3af24a42b4753",
-      "matched_keywords": [
-        "agil",
-        "scrum"
-      ],
-      "published": "2026-10-19T13:33:34+02:00",
-      "source": "freelancermap.de",
-      "title": "Freelancer MDM Developer (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/freelancer-mdm-developer-m-w-d"
-    },
-    {
-      "description": "Interim Business Analyst Fokus Asset Management (m/w/d) Kundendetails Unser Kunde ist im Bereich Financial Services tätig. Stellenbeschreibung Aufnahme, Analyse und Abstimmung fachlicher Anforderungen mit den relevantenStakeholdern. Erstellung von Fachkonzepten und funktionalen Spezifikationen inklusive Akzeptanzkriterien. Enge Zusammenarbeit mit Fachbereichen und Entwicklungsteams während Konzeption und Umsetzung. Sicherstellung der Nachverfolgbarkeit von Anforderungen sowie Steuerung von Änderungen. Unterstützung von Fachtests und User Acceptance Tests (UAT). Erstellung und Pflege von Projekt- und Produktdokumentationen. Identifikation und Umsetzung von Verbesserungen im Anforderungsmanagement. Professioneller Umgang mit Stakeholdern bis auf Senior-Management-Ebene. Profil Fundierte Kenntnisse im Asset Management mit Schwerpunkt auf Portfolios, Governance und Steuerungsprozessen Erfahrung mit Anforderungs- und Projektmanagement-Tools, idealerweise Azure DevOps. Nachweisbare Projekterfahrung in diesem Umfeld. Erfahrung mit Bloomberg PORT ist von Vort Sehr gute Deutsch- und Englischkenntnisse. Das Angebot Spannendes Interimmandat.",
-      "first_seen": "2026-10-19T12:06:11.681772+00:00",
-      "id": "b32f84fa5c49c7ad",
-      "matched_keywords": [
-        "business analyst"
-      ],
-      "published": "2026-10-19T13:29:18+02:00",
-      "source": "freelancermap.de",
-      "title": "Interim Business Analyst Fokus Asset Management (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/interim-business-analyst-fokus-asset-management-m-w-d"
-    },
-    {
-      "description": "Für die langfristige Nachfolge eines erfahrenen Projektmanagers suchen wir, die emagine, einen Projektmanager (m/w/d), der/die schrittweise die Verantwortung für bestehende Kundenprojekte übernimmt. In dieser vielseitigen Position verantworten Sie Serviceprojekte bei Kunden im Raum Augsburg und fungieren als zentrale Schnittstelle zwischen Kunden, Technikern, Vertrieb und internen Fachbereichen. Standort: Augsburg und Umgebung Vertragsart: Arbeitnehmerüberlassung (ANÜ, 18 Monate) oder Direktvermittlung Start: Ab sofort Ihre Aufgaben Betreuung von Projekten bei unseren Kunden in Augsburg und der näheren Umgebung Planung, Steuerung und Überwachung von Serviceprojekten Koordination und Einsatzplanung interner sowie externer Techniker Sicherstellung der erfolgreichen Durchführung von Kundenabnahmen und Abnahmetests Operative Mitarbeit in Projekten bei Bedarf Koordination und Bearbeitung von Kundenreklamationen in enger Abstimmung mit dem Vertrieb Erstellung von Reports und regelmäßige Statuskommunikation gegenüber Kunden und internen Stakeholdern Fachliche Unterstützung, Einarbeitung und Weiterentwicklung von Teammitgliedern Sicherstellung eines kundenorientierten, effizienten und professionellen Projektablaufs Ihr Profil Erfolgreich abgeschlossenes technisches Studium oder eine technische Berufsausbildung Mindestens 5–6 Jahre Berufserfahrung in einem vergleichbaren technischen Umfeld Mehrjährige Erfahrung im Projektmanagement Idealerweise Erfahrung im Rechenzentrums-, Netzwerk- und/oder LAN-Umfeld Erfahrung in der Mitarbeiterführung sowie in der Entwicklung von Teams Ausgeprägtes technisches Verständnis kombiniert mit einer pragmatischen Hands-on-Mentalität Hohes Maß an Eigeninitiative, Verantwortungsbewusstsein und Kundenorientierung Ausgeprägte Teamfähigkeit sowie eine ganzheitliche, prozessorientierte Denk- und Arbeitsweise Hervorragendes Organisationsgeschick sowie eine strukturierte Vorgehensweise Reisebereitschaft und Flexibilität innerhalb des Betreuungsgebiets Sehr gute Deutschkenntnisse in Wort und Schrift Gültiger Führerschein Klasse B Polizeiliches Führungszeugnis ohne Einträge Wünschenswerte Qualifikationen PMI-Zertifizierung oder vergleichbare Projektmanagement-Zertifizierung ITIL-Zertifizierung Erfahrung im Service-, Infrastruktur-, Rechenzentrums- oder Netzwerkumfeld Wir freuen uns auf Ihre Bewerbung!",
-      "first_seen": "2026-10-19T12:06:11.681772+00:00",
-      "id": "806949a3d8ba473f",
-      "matched_keywords": [
-        "projektmanager",
-        "netz"
-      ],
-      "published": "2026-10-19T13:24:19+02:00",
-      "source": "freelancermap.de",
-      "title": "Projektmanager (m/w/d) Serviceprojekte & Kundenbetreuung",
-      "url": "https://www.freelancermap.de/projekt/projektmanager-m-w-d-serviceprojekte-und-kundenbetreuung"
-    },
-    {
-      "description": "Für unseren Kunden aus dem Sondermaschinenbau suchen wir einen erfahrenen Yaskawa/Motoman Roboterprogrammierer (m/w/d) auf Freelance-Basis. Ihre Aufgaben: Teachen und Optimieren von Roboterpositionen Anpassungen an bestehenden Roboterprogrammen Fehleranalyse und Optimierung der Roboterabläufe Unterstützung bei Inbetriebnahme und Produktionsanlauf Abstimmung mit den beteiligten Projektteams vor Ort Anforderungen: Fundierte Erfahrung mit Yaskawa/Motoman Robotern Erfahrung in der Roboterprogrammierung und Inbetriebnahme Kenntnisse im Sondermaschinenbau oder Anlagenbau Selbstständige Arbeitsweise und Hands-on-Mentalität Flexibilität hinsichtlich Einsatzbeginn, Einsatzdauer sowie Vor-Ort- und Remote-Anteilen Rahmendaten: Einsatzort: Raum Rhein-Neckar Start: kurzfristig Laufzeit: Nach absprache Interessiert? Dann freue ich mich über Ihr aktuelles Profil, Ihren Stundensatz sowie Ihre Verfügbarkeit. Gerne auch Empfehlungen aus Ihrem Netzwerk.",
-      "first_seen": "2026-10-19T12:06:11.681772+00:00",
-      "id": "388fdc2f2924beb1",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-10-19T13:16:36+02:00",
-      "source": "freelancermap.de",
-      "title": "Freelance Yaskawa Roboterprogrammierer (m/w/d) gesucht",
-      "url": "https://www.freelancermap.de/projekt/freelance-yaskawa-roboterprogrammierer-m-w-d-gesucht"
-    },
-    {
-      "description": "Aufgaben PMO-Unterstützung im HR-Transformationsprogramm und bei der Einführung von SAP SuccessFactors Planung, Steuerung und Monitoring von Projektphasen, Meilensteinen und Ressourcen Erstellung von Statusberichten, Management-Unterlagen und Entscheidungsgrundlagen Steuerung von Abhängigkeiten zwischen Teilprojekten, Budgets und Zeitplänen Durchführung von Quality Gates und Projektcontrolling Vor- und Nachbereitung von Steering Committees und Projektmeetings Stakeholder-Management mit HR, IT, Management und externen Partnern Must-have Skills 10+ Jahre Erfahrung im Projekt-/Programmmanagement 5+ Jahre PMO-Erfahrung in komplexen Projekten 5+ Jahre Erfahrung im öffentlichen bzw. regulierten Umfeld Erfahrung in HR-Transformationen oder HR-Digitalisierungsprogrammen Erfahrung mit SAP SuccessFactors oder vergleichbaren HR-Systemen Sehr gutes Reporting-, Governance- und Stakeholder-Management Nice-to-have SAP HCM / SAP SuccessFactors Employee Central HR-Service-Modelle und Zeitwirtschaft Change Management PRINCE2, PMP oder IPMA Zertifizierung Erfahrung in SAP-Transformations- oder ERP-Projekten",
-      "first_seen": "2026-10-19T12:06:11.681772+00:00",
-      "id": "271a9d46220b0cd9",
-      "matched_keywords": [
-        "pmo"
-      ],
-      "published": "2026-10-19T13:15:33+02:00",
-      "source": "freelancermap.de",
-      "title": "SAP-Projektleiters PMO (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/sap-projektleiters-pmo-m-w-d-3062378"
-    },
-    {
-      "description": "We are currently looking for an SAP HCM & HR Solutions Consultant to join a global end client of ours on a permanent basis. The role is ideal for an experienced SAP HCM professional with strong expertise in German payroll who is looking to play a key role in developing a global HR systems landscape and supporting the strategic transformation towards SAP SuccessFactors. The position offers a competitive salary and company performance-based bonus with a strong benefits package including flexible/mobile working, the option to work abroad for up to 30 days per year, electric car leasing support, gym and wellness benefits. Key Responsibilities & Experience: Several years of experience as an SAP HCM Consultant, with strong knowledge of the German HR environment. Strong expertise in SAP HCM Payroll (PY), with experience in PA/OM and ideally Time Management (PT). Excellent SAP HCM configuration/customising skills, particularly with payroll rules and schemas. Experience consulting with HR teams and key users to analyse, design and implement HR system and process requirements. Strong understanding of German payroll legislation and experience translating legal changes into SAP solutions. Experience in HR process optimisation, digitisation and application management, including 2nd and 3rd level support. Experience supporting testing, integrations and interfaces between SAP HCM and other SAP/non-SAP systems. Experience working on SAP HCM projects, with the ability to take ownership of workstreams or sub-projects. Knowledge of SAP SuccessFactors Employee Central or other SuccessFactors modules would be advantageous, particularly experience within hybrid HCM/SuccessFactors environments. Basic knowledge of ABAP debugging, user exits, BAdIs and integration scenarios would be a plus. Strong analytical, consulting and stakeholder management skills, with a structured and solution-oriented approach. Very good German and English language skills. If you're interested or would like to find out more, please send your latest CV and we'll be in touch with further details.",
-      "first_seen": "2026-10-19T12:06:11.681772+00:00",
-      "id": "b4a4e25f823b51b7",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-10-19T13:05:55+02:00",
-      "source": "freelancermap.de",
-      "title": "SAP HCM & HR Solutions Consultant",
-      "url": "https://www.freelancermap.de/projekt/sap-hcm-und-hr-solutions-consultant"
     }
   ],
-  "updated_at": "2026-11-02T08:52:01.021952+00:00"
+  "updated_at": "2026-11-02T19:09:54.263130+00:00"
 }
