@@ -1,6 +1,96 @@
 {
   "projects": [
     {
+      "description": "Mindestens 5–7 Jahre Berufserfahrung als Trainer und/oder Consultant Fundierte Kenntnisse in Artificial Intelligence, Machine Learning, Generative AI und Prompt Engineering Nachweisbare Erfahrung in der Konzeption und Durchführung technischer Trainings und Workshops Praktische Erfahrung mit agilen Methoden und Scrum Projekterfahrung im Finanzdienstleistungsumfeld (Banken, Versicherungen, FinTech) Ausgeprägte Kommunikations-, Coaching- und Beratungskompetenz Fließende Deutsch- und gute Englischkenntnisse Nice to have Kenntnisse im AWS-Umfeld, idealerweise mit Bezug zu KI-Services (z. B. Amazon Bedrock, SageMaker) Erfahrung in Business Analyse und Prozessmodellierung Grundkenntnisse in Softwareentwicklung (z. B. Python, APIs) AI-, AWS- und/oder Scrum-Zertifizierungen",
+      "first_seen": "2026-11-07T11:29:44.920827+00:00",
+      "id": "00a1138060c3688f",
+      "matched_keywords": [
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-11-07T11:47:03+01:00",
+      "source": "freelancermap.de",
+      "title": "KI Trainer / Consultant (m/w/d) BA & SW-Entwicklung",
+      "url": "https://www.freelancermap.de/projekt/ki-trainer-consultant-m-w-d-ba-und-sw-entwicklung"
+    },
+    {
+      "description": "Momentan suche ich für meinen Kunden aus Frankfurt am Main einen kurzfristig verfügbaren Data Scientist mit Machine-Learning/Power-BI-Erfahrung (m/w/d) für ein 100% Remote Projekt. Das Projekt: Start: 01.12.2026, spätestens 11.01.2027 Länge: 12 Monate (Verlängerung möglich) Ort: 100% Remote (Endkunde sitzt in Frankfurt am Main) Sprache: Deutsch Zu deinen Aufgaben zählen: • Durchführung datengetriebener Analysen sowie Konzeption und Umsetzung von Predictive-Analytics- und Machine-Learning-Lösungen im Business-Intelligence-Umfeld; • Entwicklung und Auswertung relationaler Datenbanken mittels SQL und PostgreSQL sowie Erstellung dynamischer Dashboards in Power BI; • Programmatische Datenanalyse und Modellierung mit Python oder R inklusive Aufbau und Automatisierung effizienter Datenpipelines auf AWS-Cloud-Infrastrukturen; • Durchführung von Zeitreihenanalysen zur Umsatz- und Absatzprognose auf Basis von Betriebsdaten sowie agile Zusammenarbeit im SAFe-Framework und Nutzung KI-gestützter Analyse-Tools. Dein Background (!Selbsteinschätzung auf der Skala: 1-10!): • Python / R; • SQL / PostgreSQL; • Power BI / Machine Learning; • Predictive Analytics / AWS; • Data Pipelines / SAFe. Du hast Interesse und bist zeitnah verfügbar? Dann melde dich gerne mit aktuellem CV, deiner projektbezogenen Selbsteinschätzung und deinem Stundensatz. Gerne können wir uns dann über die Projektdetails telefonisch austauschen.",
+      "first_seen": "2026-11-07T11:29:44.920827+00:00",
+      "id": "c43813a4e1ed717b",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-11-07T09:00:15+01:00",
+      "source": "freelancermap.de",
+      "title": "Data Scientist mit Machine-Learning/Power-BI-Erfahrung (m/w/d) - 100% Remote - Start: 01.12.2026!",
+      "url": "https://www.freelancermap.de/projekt/data-scientist-mit-machine-learning-power-bi-erfahrung-m-w-d-100-prozent-remote-start-01-12-2026"
+    },
+    {
+      "description": "Momentan suche ich für meinen Kunden aus Frankfurt am Main einen kurzfristig verfügbaren Data & Analytics Strategy Consultant mit Power-BI/Fabric-Erfahrung (m/w/d) für ein 100% Remote Projekt. Das Projekt: Start: 01.12.2026, spätestens 11.01.2027 Länge: 12 Monate (Verlängerung möglich) Ort: 100% Remote (Endkunde sitzt in Frankfurt am Main) Sprache: Deutsch Zu deinen Aufgaben zählen: • Strategische Beratung, Konzeption und Weiterentwicklung von Datenplattformen sowie Data-&-Analytics-Lösungen in komplexen Unternehmensstrukturen; • Entwicklung von Zielbildern, Transformations-Roadmaps und Konzepten zur strategischen Einführung von Business-Intelligence- und Microsoft-Fabric-Plattformen; • Umsetzung von Enablement-Ansätzen und Befähigung von Fachbereichen zur nachhaltigen Etablierung von Self-Service Analytics an der Schnittstelle zwischen Business und IT; • Beratung bei Data-&-Analytics-Initiativen und Begleitung agiler Umsetzungsprozesse unter Nutzung von Microsoft Fabric, Azure DevOps und SAFe. Dein Background (!Selbsteinschätzung auf der Skala: 1-10!): • Data & Analytics / Strategy; • Power BI / Microsoft Fabric; • Self-Service Analytics / Enablement; • Transformations-Roadmaps / Transport; • Azure DevOps / SAFe. Du hast Interesse und bist zeitnah verfügbar? Dann melde dich gerne mit aktuellem CV, deiner projektbezogenen Selbsteinschätzung und deinem Stundensatz. Gerne können wir uns dann über die Projektdetails telefonisch austauschen.",
+      "first_seen": "2026-11-07T11:29:44.920827+00:00",
+      "id": "5ba68b71088233c7",
+      "matched_keywords": [
+        "agil"
+      ],
+      "published": "2026-11-07T08:48:36+01:00",
+      "source": "freelancermap.de",
+      "title": "Data & Analytics Strategy Consultant mit Power-BI/Fabric (m/w/d) - 100% Remote - Start: 01.12.2026!",
+      "url": "https://www.freelancermap.de/projekt/data-und-analytics-strategy-consultant-mit-power-bi-fabric-m-w-d-100-prozent-remote-start-01-12-2026"
+    },
+    {
+      "description": "We are looking for an experienced Salesforce Business Analyst (m/f/d) who cosults in regards to Move, Add, Change, and Delete (MACD) subscriber lifecycle processes within the client's Digital Transformation Programme. Description: The Senior Salesforce Business Analyst cosults in regards to Move, Add, Change, and Delete (MACD) subscriber lifecycle processes within the client's Digital Transformation Programme. This role is responsible for translating complex FTTH telecom business requirements into high-quality functional designs across Salesforce Service Cloud, Marketing Cloud, and integrated core systems. Primary Focus: End-to-end process analysis, functional specification, and Value Slice realization for Case Handling and MACD (Moves, Adds, Changes, and Deletes) within Salesforce and BSS/OSS platforms. Key Responsibilities MACD & BSS/OSS Process Architecture consults in regards to lead functional discovery and design workshops for complex MACD workflows (e.g., tariff changes, relocations, service upgrades, cancellations, ownership transfers) and other SalesForce deliverables. Map detailed As-Is and To-Be process flows aligned with DTP methodologies, ensuring seamless user journeys across Salesforce Service Cloud and field/order execution systems. Define precise functional integration specifications for data exchange between Salesforce, CIM, Apache Camel, and ServiceNow OMT. Requirement Lifecycle & SI Delivery Enablement Author clear, unambiguous Epics, User Stories, and Acceptance Criteria with Tech Mahindra for delivery in regular sprint cycles. Check that technical solution designs provided by TechM conform strictly to business intent, functional standards, and the scope of the Variation Agreement. After consultation participation actively in 3-week sprint events / rituals, providing real-time functional guidance, story clarification, and signing off on completed functional acceptance testing. Programme Methodology & User Acceptance Define end-to-end business test scenarios representing real-world subscriber (Case Handling, MACD, etc) journeys across the full BSS/OSS landscape. Facilitate User Acceptance Testing (UAT) with business stakeholders, managing functional defect resolution and change requests via ServiceNow PPM. Experiences (must haves) Business Analysis experience in large-scale IT transformations, and dedicated to Salesforce Service Cloud implementations. Knowledge of SalesForce Marketing and Sales Clouds would be considered a plus. Domain expertise in Telecommunications (FTTH / Fixed Line broadband), specifically in MACD processes, order capture, product catalog design, and customer care workflows. Proven ability to analyse complex multi-system integrations involving middleware (Camel), data models (CIM), and telecom order management (ServiceNow OMT / Netcracker / Amdocs). Demonstrated experience working with offshore SI partners (Tech Mahindra) in agile 3-week sprint frameworks",
+      "first_seen": "2026-11-07T11:29:44.920827+00:00",
+      "id": "c6773b7137f6393d",
+      "matched_keywords": [
+        "business analyst",
+        "agil",
+        "ems"
+      ],
+      "published": "2026-11-07T08:39:28+01:00",
+      "source": "freelancermap.de",
+      "title": "7PEX_23869 - Business Analyst Salesforce (f/m/d)",
+      "url": "https://www.freelancermap.de/projekt/7pex-23869-business-analyst-salesforce-f-m-d"
+    },
+    {
+      "description": "Momentan suche ich für meinen Kunden aus Frankfurt am Main einen kurzfristig verfügbaren SAP Fiori/UI5 Developer mit PM/Instandhaltung-Erfahrung (m/w/d) für ein 100% Remote Projekt. Das Projekt: Start: 01.12.2026, spätestens 11.01.2027 Länge: 12 Monate (Verlängerung möglich) Ort: 100% Remote (Endkunde sitzt in Frankfurt am Main) Sprache: Deutsch Zu deinen Aufgaben zählen: • Entwicklung, Anpassung und mobile Optimierung von SAP Fiori/UI5-Anwendungen im Instandhaltungsumfeld unter SAP S/4HANA und SAP ERP; • Nachführung und Anpassung mobiler Applikationen bei Systemkonvertierungen, Release-Wechseln und Customizing-Änderungen in PM, MM, PP und HCM; • Steuerung von Katalog- und Berechtigungsstrukturen, Fiori-Launchpad-Content sowie Integration von SAP MRS, SAP FSM, SolMan und MDG; • Durchführung von Anforderungs- und Testmanagement nach IREB/ISTQB sowie agile und klassische Projektsteuerung mittels Jira, Confluence und Power BI. Dein Background (!Selbsteinschätzung auf der Skala: 1-10!): • SAP Fiori / UI5; • SAP PM / S/4HANA; • Mobile UI / Berechtigungsmanagement; • SAP MRS / SAP FSM; • ISTQB / Scrum. Du hast Interesse und bist zeitnah verfügbar? Dann melde dich gerne mit aktuellem CV, deiner projektbezogenen Selbsteinschätzung und deinem Stundensatz. Gerne können wir uns dann über die Projektdetails telefonisch austauschen.",
+      "first_seen": "2026-11-07T11:29:44.920827+00:00",
+      "id": "9d2af5f671e82ffb",
+      "matched_keywords": [
+        "ireb",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-11-07T08:27:04+01:00",
+      "source": "freelancermap.de",
+      "title": "SAP Fiori/UI5 Developer mit PM/Instandhaltung-Erfahrung (m/w/d) - 100% Remote - Start: 01.12.2026!",
+      "url": "https://www.freelancermap.de/projekt/sap-fiori-ui5-developer-mit-pm-instandhaltung-erfahrung-m-w-d-100-prozent-remote-start-01-12-2026"
+    },
+    {
+      "description": "Momentan suche ich für meinen Kunden aus Frankfurt am Main einen kurzfristig verfügbaren (Junior) Business Analyst mit User-Stories/Testfall-Erfahrung (m/w/d) für ein 100% Remote Projekt. Das Projekt: Start: 01.12.2026, spätestens 11.01.2027 Länge: 12 Monate (Verlängerung möglich) Ort: 100% Remote (Endkunde sitzt in Frankfurt am Main) Sprache: Deutsch Zu deinen Aufgaben zählen: • Erfassung und Erstellung von User Stories sowie Erhebung und Dokumentation von Soll/Ist-Arbeitsprozessen und deren Alternativen; • Ausarbeitung von Testdurchführungskonzepten, Definition strukturierter Testfälle sowie Mitwirkung bei der operativen Testdurchführung; • Aufbau transparenter Kommunikationsstrukturen zur Darstellung des Analysefortschritts und zielgruppengerechte Präsentation von Analyseergebnissen; • Begleitung von Prozessen unter Nutzung von Jira, Confluence, SharePoint und MS Office. Dein Background (!Selbsteinschätzung auf der Skala: 1-10!): • Business Analysis / User Stories; • Testmanagement / Testfälle; • Soll/Ist-Analyse / Prozessdokumentation; • Jira / Confluence; Du hast Interesse und bist zeitnah verfügbar? Dann melde dich gerne mit aktuellem CV, deiner projektbezogenen Selbsteinschätzung und deinem Stundensatz. Gerne können wir uns dann über die Projektdetails telefonisch austauschen.",
+      "first_seen": "2026-11-07T11:29:44.920827+00:00",
+      "id": "165d3a1b448757b0",
+      "matched_keywords": [
+        "business analyst"
+      ],
+      "published": "2026-11-07T08:00:13+01:00",
+      "source": "freelancermap.de",
+      "title": "(Junior) Business Analyst mit User-Stories/Testfall (m/w/d) - 100% Remote - Start: 01.12.2026!",
+      "url": "https://www.freelancermap.de/projekt/junior-business-analyst-mit-user-stories-testfall-m-w-d-100-prozent-remote-start-01-12-2026"
+    },
+    {
+      "description": "Project Coordinator / PMO (m/w/d) Parameter: Laufzeit: 04/11/2026 to 31/12/2027 Standort: Ingelheim 50% / remote 50% Vertragsart: Dienstleistungsvertrag Projektbeschreibung: Global Commercial Excellence Operations, Governance and Project Coordination with the following requirements: - Minimum five years of relevant professional experience in project coordination, team or business operations, business administration or a comparable coordination role. Experience should include coordinating multiple concurrent activities and senior stakeholders, maintaining project and action trackers, governance documentation, meeting records and structured knowledge repositories. - Strong practical proficiency is required in Microsoft 365, including Microsoft Teams, SharePoint, Word, Excel and PowerPoint; Power BI; the Capability Shelf; the Excellence Journey platform or repository; established budget, collaboration, workflow and access-management systems; AI-enabled productivity and automation tools; and other authorised tools used within the Global Commercial Excellence environment. - International corporate experience is not mandatory. Experience working across countries, functions or geographically dispersed stakeholder groups is advantageous because of the global scope of the assignment. - Formal project-management training is advantageous but not essential. - Professional fluency in German and English is required. SThree_Germany is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-11-07T11:29:44.920827+00:00",
+      "id": "f7d80b211a810af5",
+      "matched_keywords": [
+        "pmo",
+        "ems"
+      ],
+      "published": "2026-11-07T06:36:14+01:00",
+      "source": "freelancermap.de",
+      "title": "Project Coordinator / PMO (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/project-coordinator-pmo-m-w-d-3070187"
+    },
+    {
       "description": "Für ein etabliertes Unternehmen im Raum Frankfurt suchen wir eine erfahrene Persönlichkeit, die ein anspruchsvolles ERP-Transformationsprojekt ganzheitlich verantwortet und aktiv zum Erfolg führt. Im Mittelpunkt steht die Ablösung einer bestehenden ERP-Landschaft durch Microsoft Dynamics 365. Gesucht wird ausdrücklich kein Entwickler oder technischer Spezialist, sondern ein umsetzungsstarker Projektleiter mit kaufmännischem Prozessverständnis, ausgeprägter Kommunikationsstärke und Erfahrung in der Steuerung komplexer Veränderungsvorhaben. Ihre Aufgabe: Sie übernehmen die übergreifende Leitung des Projekts und bilden die zentrale Schnittstelle. Dabei sorgen Sie für eine klare Projektstruktur, koordinieren die unterschiedlichen Interessen und Anforderungen der beteiligten Bereiche und stellen sicher, dass Termine, Budgets und Meilensteine konsequent eingehalten werden. Besonderes Augenmerk liegt auf der Abstimmung zwischen Finance, Controlling, Einkauf, Vertrieb, Logistik und Produktion sowie auf der erfolgreichen Begleitung der Organisation durch den Veränderungsprozess. Das bringen Sie mit: - Langjährige Erfahrung in der Leitung komplexer ERP-Einführungen oder Transformationen. - Erfahrung mit Microsoft Dynamics AX und idealerweise Dynamics 365 Finance & Operations. - Ausgeprägtes Verständnis kaufmännischer und operativer Geschäftsprozesse. - Souveränität im Stakeholder- und Schnittstellenmanagement. - Erfahrung in der Steuerung externer Dienstleister und interdisziplinärer Projektteams. - Eine strukturierte, pragmatische und verbindliche Arbeitsweise. Rahmenbedingungen: Frankfurt am Main Langfristiges Projekt mit einer geplanten Laufzeit von ca. 2 Jahren Regelmäßige Präsenz: ca. 2 Tage vor Ort alle zwei Wochen Geplanter Go-live: April 2028 Projektstart: nach Vereinbarung Sie verbinden strategischen Überblick mit Umsetzungsstärke und verstehen es, Menschen, Prozesse und unterschiedliche Interessen zusammenzuführen? Dann freue ich mich auf Ihre Nachricht oder eine Kontaktaufnahme mit einer kurzen Projektübersicht. Gerne auch Empfehlungen aus Ihrem Netzwerk!",
       "first_seen": "2026-11-06T23:38:37.443537+00:00",
       "id": "7b5d4c66b4185c51",
@@ -3689,21 +3779,7 @@
       "source": "freelancermap.de",
       "title": "DevOps & Cloud Engineering Schwerpunkt KI Infrastruktur",
       "url": "https://www.freelancermap.de/projekt/devops-und-cloud-engineering-schwerpunkt-ki-infrastruktur"
-    },
-    {
-      "description": "Momentan suche ich für meinen Kunden aus Frankfurt am Main einen kurzfristig verfügbaren Business Analyst mit Prozessmodellierung/User-Stories-Erfahrung (m/w/d) für ein 100% Remote Projekt. Das Projekt: Start: 16.11.2026, gerne früher Länge: 3 Monate (Verlängerung möglich) Ort: 100% Remote (Endkunde sitzt in Frankfurt am Main) Sprache: Deutsch Zu deinen Aufgaben zählen: • Dokumentation, Modellierung, Analyse und Optimierung von Geschäftsprozessen sowie Durchführung von Anforderungsworkshops mit Projektstakeholdern; • Formulierung und Refinement von User Stories zur fachlichen Konzeption in agilen Entwicklungsteams nach Scrum und Kanban; • Abstimmung mit externen sowie internen Schnittstellenpartnern und Nachverfolgung von Arbeitspaketen in Jira und Confluence; • Leitung von Konzeptionsprojekten mit komplexer IT-Architektur. Dein Background (!Selbsteinschätzung auf der Skala: 1-10!): • Prozessmodellierung / Anforderungsanalyse; • User Stories / Scrum; • Stakeholder Management / Workshop-Moderation; • Jira / Confluence. Du hast Interesse und bist zeitnah verfügbar? Dann melde dich gerne mit aktuellem CV, deiner projektbezogenen Selbsteinschätzung und deinem Stundensatz. Gerne können wir uns dann über die Projektdetails telefonisch austauschen.",
-      "first_seen": "2026-10-24T08:37:41.150573+00:00",
-      "id": "0a4eb8ba17ee6081",
-      "matched_keywords": [
-        "business analyst",
-        "agil",
-        "scrum"
-      ],
-      "published": "2026-10-24T09:33:43+02:00",
-      "source": "freelancermap.de",
-      "title": "Business Analyst mit Prozessmodellierung/User-Stories (m/w/d) - 100% Remote - Start: 16.11.2026!",
-      "url": "https://www.freelancermap.de/projekt/business-analyst-mit-prozessmodellierung-user-stories-m-w-d-100-prozent-remote-start-16-11-2026"
     }
   ],
-  "updated_at": "2026-11-07T04:37:43.732620+00:00"
+  "updated_at": "2026-11-07T11:29:44.999935+00:00"
 }
