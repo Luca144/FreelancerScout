@@ -1,6 +1,43 @@
 {
   "projects": [
     {
+      "description": "Senior Product Manager (DRWN) Job title - Senior Product Manager (B2B Customer Portal & HR Integrations) Client Location - Remote, Europe Remote work offering - 100% Client Industry - HR Technology / B2B SaaS Contract Length - 6 months+ Contract type - Freelance Project focus The client is evolving the B2B, customer-facing side of its platform: admin portals, self-service tools and multi-entity account structures used by employer customers. You will take over product work already in progress and keep the roadmap moving while a platform migration runs alongside ongoing commercial delivery. HR system integrations (HRIS, payroll, employee data sync, import and export flows) sit at the heart of the work, and the team builds in a spec-driven, AI-assisted way. Key skills and Experience required 7+ years in product management, including senior PM ownership of B2B customer-facing web products such as admin portals, self-service tools and multi-entity account structures Hands-on experience with HR systems and integrations: HRIS, payroll, employee data sync, import and export flows Proven ability to drive platform migrations with strong systems thinking while still delivering commercial outcomes Defines and tracks success and guardrail metrics to protect a high-quality customer experience Writes clear, structured PRDs that engineering can build from directly, within a spec-driven development approach Uses AI tools day to day in your own discovery and documentation Onboards fast and works independently: picks up running work, keeps the roadmap moving and manages stakeholders with minimal supervision Available as soon as possible for a minimum of 6 months Fluent English Nice to have: B2B experience in the Swedish or Finnish market, and an HR-tech background If this role is of interest, please apply with an updated CV. Darwin Recruitment is acting as an Employment Business in relation to this vacancy.",
+      "first_seen": "2026-11-08T15:46:38.943942+00:00",
+      "id": "8d255244e3c73634",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-11-08T15:58:21+01:00",
+      "source": "freelancermap.de",
+      "title": "Product Manager #2 (DRWN)",
+      "url": "https://www.freelancermap.de/projekt/product-manager-2-drwn"
+    },
+    {
+      "description": "Projektrahmenbedingungen Einsatzort: Berlin in der Regel standortunabhängig und remote (Nearshore: Deutschland & EWR) Laufzeit: 01.12.2026–31.12.2027; ca. 13,00 Monate Umfang: 202 PT davon 192 remote, 10 Onsite = 95,05% remote (2026: 22 PT remote; 2027: 180 PT davon 10 Onsite) Auslastung: Durchschnitt ca. 3,58 Tage/Woche (entspricht ca. 71,6 % Auslastung) Onshore / Nearshore: Deutschland & Europäischer Wirtschaftsraum Sprache / gefordertes Sprachniveau: Deutsch – Selbständige Sprachverwendung (B2) Konditionen – Pflichtangaben für Kandidaten Für die weitere Bearbeitung Ihrer Bewerbung sind diese Angaben zwingend erforderlich: Bitte nennen Sie Ihre gewünschte Abrechnungsart sowie Ihren Stunden- oder Tagessatz, jeweils getrennt für Remote und Onsite. Geben Sie außerdem an, ob Reisekosten enthalten sind oder separat berechnet werden. Bei separater Berechnung nennen Sie bitte die Höhe bzw. die Berechnungsgrundlage. Konditionen / Abrechnungsart (Stunden- oder Tagessatz) Stundensatz Remote (EUR/Stunde) und Stundensatz Onsite (EUR/Stunde) Oder Tagessatz Remote (EUR/Tag) und Tagessatz Onsite (EUR/Tag) ggf. Reisekosten 1.1 Projekt-/Verfahrenskontext Im Finanzbereich des DB-Konzerns entsteht mit dem F.HUB eine neue Datenplattform zur zentralen Versorgung mit Finanz- und strukturierten Daten/Datenprodukten für Analytics-Zwecke. Das Projekt steht in Abhängigkeit zum SAP-HANA-Transformationsprojekt Argo. Als Cloud Datawarehouse dient AWS Redshift. Zur Datentransformation, Qualitätssicherung und Dokumentation wird maßgeblich das Python-/SQL-Framework dbt-core eingesetzt. Zur Orchestrierung kommen dagster bzw. Airflow zum Einsatz. Der Auftragnehmer unterstützt die fachbereichsnahe IT bei der Konzeption und Realisierung eines produktionstauglichen Setups inkl. Betriebsmodell sowie beim Aufbau nachhaltig wartbarer Datenstrecken unter Einsatz moderner Entwicklungsprinzipien (CI/CD, Versionierung, Reviews, automatisiertes Testing). 1.2 Projektstruktur Projektarbeit im Daten- und Finanzumfeld nach agilen Zusammenarbeitsmodellen (z. B. SAFe, Scrum). Projektkommunikation auf Deutsch 3.1 Scope Beratung beim Grund-Setup für den dbt-Einsatz (Erarbeitung von teamübergreifenden Konventionen). Implementierung von Datenstrecken und -transformationen mit der Python-Open-Source-Library dbt-core (Konventionen, Repository-Organisation, Materialisierungen, dbt-Packages und Entwicklung eigener Makros inkl. Dokumentation). Entwicklung von dbt-Modellen und -Makros inkl. Dokumentation und Tests gemäß Anforderungen des Auftraggebers. Durchführung von Code-Reviews und Beratung bei der Optimierung der dbt-Transformationen hinsichtlich des Einsatzes auf AWS Redshift. Teilnahme an koordinierenden Meetings des Entwicklerteams (Planning, Dailies/Scrums, Retros). 4.1 Muss-Anforderungen – 100 % zwingend zu erfüllen M1: dbt Analytics Engineering Certification oder dbt Fundamental; Nachweis durch Zertifikate M2: Erfahrungen im Aufbau und der Umsetzung komplexer dbt-Projekte mit dbt-core; Nachweis durch 2 Referenzen. M3: SQL-Expertise für analytische Datenbanken, idealerweise auf AWS Redshift; Nachweis durch Erfahrungslevel in Jahren: Senior (> 5 Jahre Erfahrung). 4.2 Soll-Anforderungen S1 (35%): Erfahrung im Einsatz von AWS Redshift; 1 Referenz S2 (35%): Erfahrung im Einsatz der Open-Source-Orchestrierung Airflow oder dagster; 1 Referenz S3 (30%): Know-How im agilen Projektmanagement (z. B. IAPM/CAPM, PMI-ACP, Scaled Agile Framework); Nachweis durch Zertifikate.",
+      "first_seen": "2026-11-08T15:46:38.943942+00:00",
+      "id": "0488050f242e3e93",
+      "matched_keywords": [
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-11-08T15:46:04+01:00",
+      "source": "freelancermap.de",
+      "title": "Data Engineer – dbt Experte, SQL & AWS Redshift_#3517",
+      "url": "https://www.freelancermap.de/projekt/data-engineer-dbt-experte-sql-und-aws-redshift-3517"
+    },
+    {
+      "description": "zekahub sucht Empfehlungs- und Kooperationspartner! Wir entwickeln SEO-optimierte Websites, Online-Shops, individuelle Softwarelösungen und digitale Anwendungen für Unternehmen. Für die Gewinnung neuer Kunden suchen wir selbstständige Partner, die uns über ihr Netzwerk interessierte Unternehmen vermitteln. Deine Vorteile: 15–20 % Provision für erfolgreich vermittelte Aufträge Provision auf den vereinbarten Netto-Auftragswert Keine eigene Angebotserstellung oder Verkaufsabschlüsse notwendig Keine festen Arbeitszeiten oder Mindestleistungen Ortsunabhängige, flexible Zusammenarbeit Deine Aufgabe: Du stellst den Kontakt zu potenziellen Kunden her. Wir übernehmen Beratung, Angebotserstellung, Vertragsabschluss und Umsetzung. Kommt durch deine Vermittlung ein Auftrag zustande, erhältst du deine Provision nach Zahlungseingang gemäß unserer Partnervereinbarung. Wen wir suchen: Freelancer, Agenturen, Unternehmensberater und gut vernetzte Personen mit Kontakten zu Unternehmen. Interesse? Dann stelle dich kurz vor und erzähle uns, welche Unternehmen oder Branchen du erreichen kannst. zekahub – https://www.zekahub.de Die Zusammenarbeit erfolgt ausschließlich auf selbstständiger Provisionsbasis. Es gibt kein Fixgehalt, keine garantierte Vergütung und keine Verpflichtung zur Vermittlung einer bestimmten Anzahl von Kunden.",
+      "first_seen": "2026-11-08T15:46:38.943942+00:00",
+      "id": "5cff99a339767a1d",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-11-08T11:41:55+01:00",
+      "source": "freelancermap.de",
+      "title": "Empfehlungs- & Kooperationspartner (m/w/d) – 15–20 % Provision",
+      "url": "https://www.freelancermap.de/projekt/empfehlungs-und-kooperationspartner-m-w-d-15-20-prozent-provision"
+    },
+    {
       "description": "Liebe IT-Support-Spezialisten, wir suchen ab sofort mehrere IT-Support-Spezialisten für eines der führenden IT-Beratungsunternehmen Deutschlands. QUICK FACTS: - Freiberuflich/Freelance - Start: ASAP - Dauer: 6+ Monate - Kapazität: Vollzeit oder Teilzeit, beides möglich - Sprache: Deutsch und Englisch - Deutsche Geschäftszeiten ANFORDERUNGEN: - Erfahrung im 1st/2nd Level IT-Support bzw. Helpdesk. - Erfahrung mit Vor-Ort-Support, z. B. Hardwaretausch, Verkabelung, Rack & Stack sowie Einrichtung von Arbeitsplätzen und Peripherie. - Kenntnisse in Windows 10/11, Active Directory bzw. Microsoft Entra ID und Microsoft 365. - Verständnis von IT-Infrastruktur und Netzwerkgrundlagen wie LAN/WLAN, TCP/IP, DNS, DHCP und VPN. - Vertrautheit mit Ticketing-Tools wie ServiceNow oder Jira Service Management; Kenntnisse in macOS oder Windows Server sind ein Plus. Hast du Interesse? Dann schick uns bitte deine Bewerbung inklusive deines aktuellen CVs und nenne uns dein frühestmögliches Startdatum. Bitte füge deiner Nachricht eine Selbsteinschätzung (0-10, 10 = Expert Level) in den folgenden Bereichen bei: - 1st / 2nd Level IT Support & Help Desk - Onsite / Smart Hands Support (f.e. cabling, rack & stack, hardware replacement, peripheral setup) - End-User Hardware & Workstation Management (f.e. laptops, desktops, printers, mobile devices, AV equipment) - Operating Systems: - Windows 10 / Windows 11 - macOS (optional) - General IT Infrastructure & Networking Fundamentals (f.e. LAN/WLAN, TCP/IP, DNS, DHCP, VPN, switches/patching) - Identity & Access Management (f.e. Active Directory, Microsoft Entra ID / Azure AD) - Microsoft 365 / Office 365 Administration (f.e. Exchange Online, Teams, SharePoint, OneDrive) - Ticketing & ITSM Tools (f.e. ServiceNow, Jira Service Management, Zendesk, Freshservice) - Remote Support Tools (f.e. TeamViewer, AnyDesk, RDP, Intune) (optional) - Windows Server Administration (optional) Wir freuen uns auf deine Antwort und wünschen dir einen erfolgreichen Tag! Beste Grüße Dein wynwood tech Team ;-)",
       "first_seen": "2026-11-07T17:24:36.766201+00:00",
       "id": "80e3c5f1e021238c",
@@ -3745,20 +3782,7 @@
       "source": "freelancermap.de",
       "title": "ANÜ: Senior Project Manager / Product Owner ITSM (m/w/d) gesucht!",
       "url": "https://www.freelancermap.de/projekt/anue-senior-project-manager-product-owner-itsm-m-w-d-gesucht"
-    },
-    {
-      "description": "Tätigkeiten: Deployment, Installation und Betrieb einer air-gapped Cloud-Plattform (GCA) in mehreren Rechenzentren. Eigenständige Durchführung von GCA-Deployments auf Basis der offiziellen Operator-Dokumentation. Administration und Weiterentwicklung von Kubernetes- und Linux-Systemen. Betrieb, Konfiguration und Fehleranalyse von Netzwerkkomponenten, einschließlich Switches, Firewalls, VLANs, Routing und DNS. Administration und Wartung der Server-, Storage- und Rechenzentrumsinfrastruktur. Implementierung und Verwaltung von Netzwerktechnologien wie VXLAN/EVPN, VRFs, OSPF und BGP. Anforderungen: GCA Infrastructure Operator Training von Google oder vergleichbar. Mindestens ein eigenständiges GCA-Deployment nach Operator-Dokumentation. 5 Jahre Erfahrung in der Kubernetes-Administration. 5 Jahre Erfahrung in der Linux-Administration: OS-Verwaltung, Netzwerk, PXE-Boot, systemd/journalctl, Container/Namespaces, Bash, Vim, Tmux und SSH. Kenntnisse in Bash- oder Python-Scripting. 5 Jahre Erfahrung mit Networking Basics: Switching, VLANs, Subnetting, Routing, DHCP, DNS, TLS, ip/tcpdump/dig/netstat sowie OOB- und serielle Konsole. 3 Jahre Erfahrung mit Networking Advanced: Cisco-Switch-Konsole, VXLAN/EVPN, VRFs, OSPF, LLDP und BGP. 5 Jahre Erfahrung in der Hardware-Administration: iLO/OOB, Verkabelung, Storage/NetApp, HSM, Server, NTP, Switches und Firewalls. 3 Jahre Erfahrung mit PKI: SSL-Zertifikate, Root-/Intermediate-CA, CSR und OpenSSL CLI. 3 Jahre Erfahrung mit Istio/Service Mesh und Envoy Proxy. Jeweils 3 Jahre Erfahrung mit Ansible, Prometheus, Cilium und Grafana/Loki. 3 Jahre Erfahrung mit Virtualisierung in Kubernetes. 3 Jahre Erfahrung mit Scrum und ITIL.",
-      "first_seen": "2026-10-25T14:47:31.762164+00:00",
-      "id": "a624d48ff4fc21a0",
-      "matched_keywords": [
-        "scrum",
-        "netz"
-      ],
-      "published": "2026-10-25T11:46:22+01:00",
-      "source": "freelancermap.de",
-      "title": "System Engineer (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/system-engineer-m-w-d-3064924"
     }
   ],
-  "updated_at": "2026-11-08T08:34:31.990622+00:00"
+  "updated_at": "2026-11-08T15:46:39.019224+00:00"
 }
