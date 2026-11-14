@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "description": "Wir suchen für unser Accounting-Team kurzfristig eine erfahrene Unterstützung für ca. 3 Monate evtl. länger. Im Mittelpunkt steht die operative Buchhaltung. Du unterstützt uns im Tagesgeschäft und hilfst dabei, unsere laufenden Prozesse während der Einführung unseres neuen ERP-Systems Odoo sicherzustellen. Deine Aufgaben: Prüfung, Kontierung und Buchung von Eingangsrechnungen Kreditoren- und Debitorenbuchhaltung Vorbereitung von Zahlungsläufen Bankabstimmungen und Klärung offener Posten Unterstützung bei Monatsabschlüssen Allgemeine administrative Aufgaben im Accounting Das solltest du mitbringen: Mehrjährige praktische Erfahrung in der Finanzbuchhaltung Gute Kenntnisse in HGB und Umsatzsteuer Sicherer Umgang mit Buchhaltungssoftware, idealerweise Odoo oder DATEV Selbstständige, strukturierte und sorgfältige Arbeitsweise Sehr gute Deutschkenntnisse Rahmenbedingungen: Dauer: ca. 3 Monate Start: möglichst kurzfristig Einsatzort: Frankfurt am Main, Umfang: nach Vereinbarung Wir freuen uns auf eine zuverlässige und engagierte Unterstützung, die sich schnell in bestehende Abläufe einarbeiten kann.",
+      "first_seen": "2026-11-14T20:24:03.485108+00:00",
+      "id": "d6096dfee5156459",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-11-14T21:17:20+01:00",
+      "source": "freelancermap.de",
+      "title": "Buchhalterin /Freelance Accountant",
+      "url": "https://www.freelancermap.de/projekt/buchhalterin-freelance-accountant"
+    },
+    {
       "description": "Projektziel: Gewinnung von Gastronomen und Lieferdiensten als Nutzer eines kostenlosen Bestellsystems mit optimiertem Webshop. Die Agenten sollen Gastronomen davon überzeugen, dass das System dauerhaft kostenlos ist und keine Grundgebühr sowie keine Provision anfällt. Hauptaufgaben: - Durchführung von Cold Calls mit vorhandenen Datensätzen - Überzeugungsarbeit gegenüber Gastronomen hinsichtlich des kostenlosen Modells - Nutzung der bereitgestellten Vertriebs-App zum Telefonieren über VoIP Voraussetzungen: - Erfahrung im Cold Calling - Überzeugungsstärke im telefonischen Vertrieb - Erfahrung im Umgang mit Gastronomen oder im Gastro-Umfeld von Vorteil Erwartetes Ergebnis: Erfolgreiche Gewinnung von Gastronomen und Lieferdiensten als Nutzer des Bestellsystems, sodass diese ihren Betrieb über den bereitgestellten Webshop abwickeln können.",
       "first_seen": "2026-11-14T15:32:21.235540+00:00",
       "id": "d3129b126394ed73",
@@ -3735,19 +3747,7 @@
       "source": "freelancermap.de",
       "title": "SAP ABAP Entwickler (m/w/d) – Schwerpunkt Instandhaltung für Schienenfahrzeuge",
       "url": "https://www.freelancermap.de/projekt/sap-abap-entwickler-m-w-d-schwerpunkt-instandhaltung-fuer-schienenfahrzeuge"
-    },
-    {
-      "description": "Aktuell suche ich für meinen Kunden einen freiberuflichen O2C / Subscription Management Specialist (m/w/d) : Start: ab sofort Laufzeit: 6 Monate mit Option auf Verlängerung Auslastung: Vollzeit Standort: Rhein Neckar Kreis / Remote nach Absprache Aufgaben: • Projektbasierte Analyse und Optimierung des gesamten Order-to-Cash-Prozesses • Mitwirkung bei der Identifikation manueller Prozessschritte, Fehlerquellen und Engpässe • Unterstützung bei der Konzeption und Umsetzung automatisierter und skalierbarer O2C-Workflows • Mitwirkung bei der Optimierung des Subscription Managements für SaaS-Verträge • Unterstützung bei der Verbesserung von Rechnungsstellungs- und wiederkehrenden Abrechnungsprozessen • Projektbasierte Optimierung und Dokumentation von Prozessen zur Umsatzrealisierung nach HGB und IFRS • Mitwirkung bei der Analyse und Optimierung von Mahn- und Forderungsprozessen • Unterstützung bei der Verbesserung der Systemintegration zwischen HubSpot und NetSuite • Mitwirkung bei der Analyse und Verbesserung der Datenqualität von Vertrags-, Kunden- und Abrechnungsstammdaten • Unterstützung bei der Konzeption und Umsetzung automatisierter Prozesskontrollen • Projektbezogene Zusammenarbeit mit Sales Operations, Accounting und Finance Systems Must-Haves: • Fundierte praktische Erfahrung im Order-to-Cash-Umfeld • Nachweisbare Erfahrung mit SaaS-Subscription-Billing und wiederkehrenden Umsätzen • Kenntnisse der Umsatzrealisierung nach IFRS und HGB • Erfahrung mit komplexen SaaS-Vertragsmodellen • Praktische Erfahrung in der Prozessautomatisierung und bei Systemintegrationen • Gute Kenntnisse in NetSuite • Erfahrung im Bereich Datenqualität und Prozesskontrollen • Verhandlungssichere Englischkenntnisse Nice to Have: • Erfahrung mit HubSpot • Kenntnisse internationaler Multi-Entity-Strukturen • Deutschkenntnisse Bitte senden Sie mir Ihr Profil, inkl. Stundensatzvorstellung via E-Mail. Sollte Ihre Expertise in eine andere Richtung gehen, melden Sie sich ebenfalls gerne bei mir, damit wir uns gemeinsam über passende Projekte austauschen können. Ich freue mich von Ihnen zu hören!",
-      "first_seen": "2026-10-31T19:42:19.246410+00:00",
-      "id": "8a7eeab8738bd64d",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-10-31T17:50:42+01:00",
-      "source": "freelancermap.de",
-      "title": "Freiberuflicher O2C / Subscription Management Specialist (m/w/d) - 15570",
-      "url": "https://www.freelancermap.de/projekt/freiberuflicher-o2c-subscription-management-specialist-m-w-d-15570"
     }
   ],
-  "updated_at": "2026-11-14T15:32:21.283446+00:00"
+  "updated_at": "2026-11-14T20:24:03.540085+00:00"
 }
