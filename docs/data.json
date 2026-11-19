@@ -1,6 +1,119 @@
 {
   "projects": [
     {
+      "description": "Westhouse ist eines der führenden Recruitment-Unternehmen für die Vermittlung hochqualifizierter Fachexperten aus dem gesamten IT-Lifecycle- und Engineering-Bereich. Für unseren Kunden suchen wir aktuell eine/n Product Owner mit einer gültigen SAFe Zertifizierung (MUSS) (m/w/d) Rahmeninformationen Referenz:181092 Einsatzort:Remote & Frankfurt am Main Starttermin:02.12.2026 Arbeitszeit:Vollzeit 10 Tage (davon 2 Onsite) Dauer:31.12.2026 mit Option einer Verlängerung in 2027 Sprachen:Deutsch (C2) Ihre Qualifikationen - Bitte NUR bewerben, wenn ALLE KRITERIEN erfüllt sind: - MUSS-Kriterien: - 5 Jahre Erfahrung als Product Owner oder Technical Product Owner in agilen IT-Entwicklungsteams mit Verantwortung für ein Team Product Backlog auf User-Story-Ebene. - Erfahrung als Product Owner oder Technical Product Owner in einem Agile Release Train nach SAFe (PI Planning, Feature Refinement, Team-Backlog im ART) sowie gültige SAFe-Zertifizierung, Nachweis durch Zertifikat: SAFe Product Owner/Product Manager (POPM), SAFe Architect (ARCH) oder SAFe DevOps - 5 Jahre Erfahrung mit Konzeption, Weiterentwicklung oder Steuerung von Datenverarbeitungspipelines für Ingestion, Transformation, Validierung oder Bereitstellung von Daten. - 5 Jahre Erfahrung mit der technischen Bewertung und Abnahme von Anforderungen bzw. User Stories in IT-Entwicklungsprojekten. - 5 Jahre Erfahrung mit Continuous Delivery (Release, Deployment, Patching) in agilen IT-Entwicklungsprojekten. - SOLL-Kriterien: - 5 Jahre Erfahrung Erfahrung mit Datenverarbeitungsarchitekturen im Umfeld von ETL/ELT, Data Lake bzw. Data Lakehouse oder eventgetriebener Datenverarbeitung. - Erfahrung aus mind. 3 Projekten mit geodaten-, BIM- oder sensorbezogenen Datenformaten bzw. Datenflüssen (z. B. Punktwolken, Bild- und Vermessungsdaten; LAS/LAZ, IFC, GeoTIFF, CityGML). - 5 Jahre Erfahrung mit Cloud-basierter Pipeline-Orchestrierung und deren Betrieb (z. B. AWS Step Functions, Apache Airflow, Prefect oder vergleichbar). - 5 Jahre Erfahrung mit technischen Architektur- und Technologieentscheidungen für datenverarbeitende IT-Lösungen (Technologieauswahl, Datenhaltung, Speicherformate, Skalierung). - Erfahrung aus mind. 3 Projekten mit der Synchronisation von Backlogs und technischen Abhängigkeiten über mehrere Teams eines Agile Release Train. Ihre Aufgaben - Analyse fachlicher Anforderungen und Produktziele sowie Erarbeitung von Vorschlägen für deren Überführung in technisch umsetzbare Anforderungen und User Stories; Beratung zur Überführung der vom Product Management übergebenen Features in die technische Umsetzungsplanung. - Analyse und Bewertung des Team Product Backlogs auf User-Story- und Task-Ebene; fortlaufende fachlich-technische Validierung der Anforderungen als Beratungsleistung; Erarbeitung von Empfehlungen zur Strukturierung und Priorisierung sowie Bewertung von Backlog-Änderungen hinsichtlich ihrer technischen Auswirkungen. - Ausarbeitung technischer User Stories einschließlich Akzeptanzkriterien als Entscheidungsgrundlage für das Team; Erarbeitung von Verbesserungsvorschlägen zu Definition of Ready und Definition of Done. - Technische Bewertung von Anforderungen hinsichtlich Machbarkeit, Aufwand, technischer Abhängigkeiten und Auswirkungen auf bestehende Lösungen. - Fachlich-technische Beratung im Rahmen von Feature- und User-Story-Refinements einschließlich Aufbereitung der Beratungsgrundlagen. - Beratung zur Planung technischer Liefergegenstände im Hinblick auf Sprint- und PI-Ziele; Erarbeitung technischer Planungsempfehlungen als Input für das PI Planning. - Analyse von Abhängigkeiten zwischen Team-Backlog, angrenzenden Backlogs und Programmzielen sowie Erarbeitung von Handlungsempfehlungen; technische Beratung von Epic Ownern und Product Management bei der Ausarbeitung von Epics und Features. - Erarbeitung und Fortschreibung eines Vorschlags für eine Pipeline-Roadmap auf Basis der Gesamtarchitektur der Plattform. - Konzeption und Bewertung von Lösungsansätzen für Datenverarbeitung und Datenpipelines (Ingestion, Transformation, Validierung, Bereitstellung), einschließlich Cloud-Speicher- und Transferkonzepten, z. B. S3, SFTP und Cloud-to-Cloud-Synchronisation. - Analyse von Anforderungskonflikten im Pipeline-Kontext (z. B. Batch- oder Streaming-Verarbeitung, Datenstandards, Datenformate) und Erarbeitung von Lösungsoptionen mit Empfehlung. - Erarbeitung und Bewertung von Lösungs- und Architekturoptionen im Pipeline-Kontext (Orchestrierung, Datenhaltung, Speicherformate, Schnittstellen, Skalierung) einschließlich Entscheidungsempfehlungen. - Analyse und Bewertung technischer Schulden sowie Empfehlungen zur Priorisierung von Refactoring gegenüber Feature-Entwicklung. - Technische Prüfung und Bewertung umgesetzter User Stories anhand der Akzeptanzkriterien und der Definition of Done; Erarbeitung einer Empfehlung zur Freigabe von Deployments auf die Abnahmeumgebung. - Fachliche Beratung zur Beschreibung von Testfällen und zu Entwicklungstestmaßnahmen. - Beratung zur Definition und Umsetzung nicht-funktionaler Anforderungen (Performance, Wartbarkeit, Verfügbarkeit, IT-Security); Analyse von Bedrohungen und Schwachstellen und Erarbeitung von Maßnahmenempfehlungen für Architektur und technische Betriebsführung. - Fachliche Beratung zum Continuous-Delivery-Prozess (Release, Deployment, Hotfixing, Patching) einschließlich Analyse und Optimierungsempfehlungen. - Erarbeitung von Konzepten und Empfehlungen zu Run-Books sowie zu Test-, Betriebs- und Dokumentationskonzepten. - Analyse technischer Wartungsbedarfe und Empfehlungen zu deren Priorisierung; Ursachenanalyse technischer Störungen im 3rd-Level-Support einschließlich Lösungsempfehlungen. - Analyse technischer Anforderungen und Abhängigkeiten gegenüber angrenzenden Teams (Plattformbetrieb, Datenmanagement, Datenkonsumenten) und Einbringen der technischen Pipeline-Expertise in übergreifende Architekturrunden in beratender Funktion. - Fachlich-technische Analyse von Schnittstellenanforderungen und Datenlieferungen externer Dienstleister und Datenlieferanten sowie Erarbeitung von Empfehlungen. - Strukturierte Dokumentation der Analyseergebnisse, Empfehlungen und Abhängigkeiten in den agilen Werkzeugen des ART. Interessiert? Interessiert? Wir freuen uns auf Ihren aussagekräftigen Lebenslauf/CV in elektronischer Form. Ihr Ansprechpartner: Elvin Cagi ***** ***** *****",
+      "first_seen": "2026-11-19T18:50:54.393521+00:00",
+      "id": "e331e7828558f3c3",
+      "matched_keywords": [
+        "product owner",
+        "agil"
+      ],
+      "published": "2026-11-19T19:28:32+01:00",
+      "source": "freelancermap.de",
+      "title": "Product Owner mit einer gültigen SAFe Zertifizierung (MUSS) (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/product-owner-mit-einer-gueltigen-safe-zertifizierung-muss-m-w-d"
+    },
+    {
+      "description": "Guten Tag, für einen unserer Kunden im öffentlichen Umfeld suchen wir einen erfahrenen Administrator für den operativen Betrieb von Linux-, Firewall-, Proxy- und VPN-Umgebungen. Projektdetails Start: ASAP Standort: Mainz (Hybrid) Auslastung: Vollzeit Laufzeit: 3–4 Jahre Anforderungen Sehr gute Linux-Kenntnisse Erfahrung in der Firewall-Administration, idealerweise mit Fortinet, Check Point oder Juniper Proxy-Kenntnisse, beispielsweise Blue Coat/ProxySG oder FortiProxy Erfahrung mit VPN Gutes Netzwerkverständnis in TCP/IP, Routing und DNS Sicheres Troubleshooting komplexer IT-Infrastrukturen Sollte diese Anfrage Ihr Interesse geweckt haben, dann freuen wir uns auf Ihre Bewerbung.",
+      "first_seen": "2026-11-19T18:50:54.393521+00:00",
+      "id": "7c84373a018bbb45",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-11-19T19:18:53+01:00",
+      "source": "freelancermap.de",
+      "title": "Linux Administrator (m/w/d) in Mainz OnSite gesucht",
+      "url": "https://www.freelancermap.de/projekt/linux-administrator-m-w-d-in-mainz-onsite-gesucht"
+    },
+    {
+      "description": "Für ein komplexes Transformationsprojekt im Finanzdienstleistungsumfeld suchen wir einen erfahrenen Senior PMO. Anforderungen: Fundierte PMO-Erfahrung in größeren Transformations- oder Migrationsprojekten im Bankenumfeld Erfahrung im Wertpapiergeschäft Sehr gute Kenntnisse im Projektmanagement und im Umgang mit MS-Office-Tools Sehr sichere Kommunikation auf Englisch und Deutsch Bereitschaft zu regelmäßigen Vor-Ort-Einsätzen in München, etwa drei Tage pro Woche",
+      "first_seen": "2026-11-19T18:50:54.393521+00:00",
+      "id": "e2a4a7bd07f0b9d6",
+      "matched_keywords": [
+        "pmo"
+      ],
+      "published": "2026-11-19T19:15:49+01:00",
+      "source": "freelancermap.de",
+      "title": "Senior PMO (m/w/d) – Transformationsprojekt im Finanzumfeld",
+      "url": "https://www.freelancermap.de/projekt/senior-pmo-m-w-d-transformationsprojekt-im-finanzumfeld"
+    },
+    {
+      "description": "Aufgaben: Für ein standortübergreifendes Transformationsprojekt suchen wir einen erfahrenen SAP QM Experten (m/w/d). Im Fokus stehen die Weiterentwicklung und Harmonisierung des Qualitätsmanagementsystems sowie die Überführung operativer Qualitätsprozesse aus Konstruktion und Fertigung in eine einheitliche SAP-Lösung. Gesucht wird eine technisch versierte Persönlichkeit mit SAP-QM-Erfahrung, Projektmanagementkompetenz und Shopfloor-Verständnis. Projekt-Nr.: 1085631 Projekttitel: 1085631 SAP QM (m/w/d) Stellentyp: freiberuflich Einsatzort: Wolfertschwenden Starttermin: 14.12.2026 Dauer: 8-10 Monate Anforderungen: Technisches Studium oder vergleichbare Qualifikation Mehrjährige Erfahrung mit SAP QM Erfahrung in SAP-Transformationsprojekten Kenntnisse in Qualitätsmanagement sowie Konstruktions- und Fertigungsprozessen Erfahrung im operativen Projektmanagement Erfahrung in standortübergreifender fachlicher Koordination Praxisnähe zum Shopfloor Zusätzliche Informationen: SOLCOM zählt zu den führenden Technologiedienstleistern in den Bereichen Softwareentwicklung, IT und Engineering. Seit mehr als 20 Jahren arbeiten wir als Partner global agierender Spitzenunternehmen aller Branchen und sind weltweit im Einsatz, wo Innovation entscheidet.",
+      "first_seen": "2026-11-19T18:50:54.393521+00:00",
+      "id": "172af9eddda40c45",
+      "matched_keywords": [
+        "ems"
+      ],
+      "published": "2026-11-19T18:51:04+01:00",
+      "source": "freelancermap.de",
+      "title": "1085631 SAP QM (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/1085631-sap-qm-m-w-d"
+    },
+    {
+      "description": "Spezialist Messkonzepte / Mieterstrom / MaKo (MK7-Team) Rahmendaten Start: 07.12.2026 Laufzeit: bis 30.06.2027 Auslastung: ca. 120 PT Einsatzort: Dortmund 80 % vor Ort Gesucht wird Für ein interdisziplinäres Bearbeitungsteam werden Spezialisten gesucht, die operative Klärfälle im Umfeld Gerätewesen, Messkonzepte und Mieterstrom eigenständig bearbeiten können.Fachliche Schwerpunkte Messkonzept 7 (MK7) Mieterstrom Messkonzepte Gerätewesen Messstellenbetrieb Marktkommunikation (MaKo) WiM Lieferantenwechsel Smart Metering MDM / EDM Reale und virtuelle Summenzähler Reststrom-MaLo Commercial Groups Datenbereinigung Klärfallbearbeitung und Backlog-Abbau Bitte unbedingt den aktuellen CV, die Verfügbarkeit sowie den gewünschten Stundensatz mitsenden. Die Personalberatung SThree betreut die ausgeschriebene Stelle im Auftrag ihres Kunden.",
+      "first_seen": "2026-11-19T18:50:54.393521+00:00",
+      "id": "e64f0cdf6a0c8c08",
+      "matched_keywords": [
+        "smart meter",
+        "marktkommunikation"
+      ],
+      "published": "2026-11-19T18:41:33+01:00",
+      "source": "freelancermap.de",
+      "title": "Spezialist Messkonzepte / Mieterstrom / MaKo (MK7) (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/spezialist-messkonzepte-mieterstrom-mako-mk7-m-w-d"
+    },
+    {
+      "description": "Teamleiter Messkonzeptverwaltung / Mieterstrom (MK7) Rahmendaten Start: 07.12.2026 Laufzeit: bis 30.06.2027 Auslastung: ca. 120 PT Einsatzort: Dortmund 80 % vor Ort (nach Einarbeitung weniger Präsenz erforderlich) Gesucht wird Für die fachliche Leitung eines Teams im Umfeld Messkonzeptverwaltung wird ein erfahrener Spezialist mit Schwerpunkt Mieterstrom und komplexe Messkonzepte gesucht. Im Fokus stehen anspruchsvolle Klärfälle, Sonderkonstrukte und die Qualitätssicherung innerhalb des Teams.Fachliche Schwerpunkte Messkonzeptverwaltung Messkonzept 7 (MK7) Messkonzept 8 (MK8) Mieterstrom- und Gebäudestromkonzepte Gerätewesen Marktkommunikation (MaKo) WiM-Prozesse Lieferantenwechsel MDM / EDM Reststrom-MaLo Commercial Groups Reale und virtuelle Summenzähler Ursachen- und Eskalationsmanagement Fachliche Führung und Qualitätssicherung Bitte unbedingt den aktuellen CV, die Verfügbarkeit sowie den gewünschten Stundensatz mitsenden. Die Personalberatung SThree betreut die ausgeschriebene Stelle im Auftrag ihres Kunden.",
+      "first_seen": "2026-11-19T18:50:54.393521+00:00",
+      "id": "7a1edbe670f4c824",
+      "matched_keywords": [
+        "marktkommunikation"
+      ],
+      "published": "2026-11-19T18:41:27+01:00",
+      "source": "freelancermap.de",
+      "title": "Teamleiter Messkonzeptverwaltung / Mieterstrom (MK7) (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/teamleiter-messkonzeptverwaltung-mieterstrom-mk7-m-w-d"
+    },
+    {
+      "description": "Teamleiter Turnus- und Gerätewechsel (TGW) (m/w/d) Rahmendaten Start: 07.12.2026 Laufzeit: bis 30.06.2027 Auslastung: ca. 120 PT Einsatzort: Dortmund 80 % vor Ort (remote Anteil wird höher nach Einarbeitung) Gesucht wird Für den Aufbau und die fachliche Führung eines Bearbeitungsteams wird ein erfahrener Experte im Umfeld Turnus- und Gerätewechsel gesucht. Das Team übernimmt die Ende-zu-Ende-Bearbeitung komplexer Klärfälle und unterstützt beim Abbau bestehender Rückstände.Fachliche Schwerpunkte Turnus- und Gerätewechsel (TGW) Gerätewesen / Gerätemanagement Messstellenbetrieb Smart Metering und iMSys Marktkommunikation (MaKo) Stammdaten- und Prozessklärung Geräteverbuchung und Folgefehler Datenbereinigung und Nachmigrationen Einspeiser- und MK8-Konstellationen Fachliche Führung und Qualitätssicherung Klärfallmanagement im produktiven Betrieb Bitte unbedingt den aktuellen CV, die Verfügbarkeit sowie den gewünschten Stundensatz mitsenden. Die Personalberatung SThree betreut die ausgeschriebene Stelle im Auftrag ihres Kunden.",
+      "first_seen": "2026-11-19T18:50:54.393521+00:00",
+      "id": "4d0fc9a109268ce4",
+      "matched_keywords": [
+        "smart meter",
+        "marktkommunikation"
+      ],
+      "published": "2026-11-19T18:41:21+01:00",
+      "source": "freelancermap.de",
+      "title": "Teamleiter Turnus- und Gerätewechsel (TGW) (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/teamleiter-turnus-und-geraetewechsel-tgw-m-w-d"
+    },
+    {
+      "description": "Leistungsbeschreibung: * Vollumfängliche Begleitung von Anforderungen bis zum Go-Live der Plattform * Verantwortung für Betrieb und Weiterentwicklung der Plattform * Koordination zwischen Business, IT, Plattform-Team und Fachbereichen * Aufbau und Etablierung von Releasemanagement sowie Testkonzepten * Analyse, Dispatching und Korrektur von Bugs im laufenden Betrieb * Erstellen von fachlichen und technischen User Stories, Epics sowie Lösungskonzepten * Mitarbeit an API-Design, Integrationsthemen sowie TypeScript Entwicklung * Dokumentation und Visualisierung von Systemarchitekturen, Datenflüssen und Schnittstellen in Deutsch/Englisch Anforderungen: * Mehrjährige Erfahrung im Bereich Requirements Engineering oder Business Analyse im IT-/Plattformumfeld * Fundierte Kenntnisse in TypeScript sowie technisches Verständnis für Architektur, APIs und Integrationen * Erfahrung mit komplexen Systemlandschaften / Plattformbetrieb * Erfahrung in API-Anbindung / Integration (z. B. REST, Events) * Kenntnisse agiler Methoden wie Scrum oder Kanban * Fähigkeit zur Diskussion technischer Konzepte mit Architekten * Erfahrung im Aufbau von Releasemanagement- und Testkonzepten * Kenntnisse in Stakeholdermanagement und Moderation Weitere Informationen: * Homeoffice: 4 Tage Homeoffice/Woche (im Durchschnitt) * ANÜ Projekt * Start: Ab dem 11.01.2027 möglich * Dauer: Mindestens 1 Jahr, eine Verlängerung um weitere 6 Monaten ist denkbar Kontaktperson: Branch Manager Herr Manuel Gieringer FERCHAU GmbH Niederlassung Karlsruhe IT Lorenzstraße 29 76135 Karlsruhe",
+      "first_seen": "2026-11-19T18:50:54.393521+00:00",
+      "id": "4e34f52cb2a8f9a1",
+      "matched_keywords": [
+        "requirements engineer",
+        "agil",
+        "scrum"
+      ],
+      "published": "2026-11-19T18:12:56+01:00",
+      "source": "freelancermap.de",
+      "title": "Plattformbetrieb und Requirements Engineering",
+      "url": "https://www.freelancermap.de/projekt/plattformbetrieb-und-requirements-engineering"
+    },
+    {
+      "description": "Für die Anbindung und Inbetriebnahme einer komplexen, abgeschotteten IT-Infrastruktur suchen wir für unseren Kunden einen erfahrenen freiberuflichen Cisco-Netzwerkspezialisten(m/w/d). Der Fokus der Aufgabe liegt auf der Bewertung bestehender Netzwerkdesigns, der Konfiguration und Integration von Netzwerkkomponenten sowie deren Validierung und Testung. Kundendetails Rahmenbedingungen Start: ab 11.01.2027 Laufzeit: bis 26.02.2027 (mit Option auf Verlängerung) Einsatzort: ca. 20% remote; 80% vor Ort (Niederbayern) Auslastung: Vollzeit (40 PT) StellenbeschreibungAufgaben Analyse und Bewertung der vorhandenen Netzwerkarchitektur sowie der zur Verfügung gestellten Design- und Systemunterlagen Einrichtung, Anpassung und Einbindung von Cisco-Nexus-Switches über die Kommandozeile (CLI) Implementierung und Inbetriebnahme einer Spine-Leaf-Netzwerktopologie Konfiguration, Validierung und Optimierung von Layer-2-Funktionen, VLAN-Strukturen und Switch-Uplinks Abstimmung der Netzwerkintegration mit Firewall- und Gateway-Systemen, welche die Routing-Funktionalitäten bereitstellen Untersuchung und Korrektur von Unstimmigkeiten zwischen Architekturdesign, physischer Verkabelung und aktuellem Betriebszustand Mitwirkung bei der Erstellung technischer Konzepte, Change Requests, Testkonzepte und Netzwerkdokumentationen Unterstützung bei der Einführung und Nutzung von Automatisierungslösungen auf Basis von Ansible Pflege, Nachverfolgung und Dokumentation von Changes sowie Arbeitspaketen in Jira ProfilGesuchtes Profil Muss-Kriterien Mehrjährige praktische Erfahrung im Aufbau, Betrieb und der Konfiguration von Cisco-Netzwerkinfrastrukturen Vorhandene Cisco-Zertifizierung Umfangreiche Kenntnisse in Layer-2-Netzwerken sowie Spine-Leaf-Designs und deren Betrieb Erfahrung in Netzwerkintegration, Troubleshooting und technischer Dokumentation Fähigkeit zur Bewertung bestehender Architekturkonzepte sowie zur Entwicklung praxisnaher Optimierungsvorschläge Praxiserfahrung mit Ansible Hohe Reisebereitschaft bzw. Bereitschaft zu regelmäßigen Vor-Ort-Einsätzen in Niederbayern Erfüllung der notwendigen Sicherheitsanforderungen für Projekte im Umfeld VS-NfD Wünschenswerte Zusatzqualifikationen Erfahrung mit Cisco Nexus in Rechenzentrumsumgebungen mit hohen Bandbreitenanforderungen Kenntnisse im Umgang mit LANCOM-Produkten oder entsprechende Herstellerzertifizierungen Fachwissen in den Bereichen Netzwerkhärtung, GitLab, Jira und ITIL Erfahrung mit RoCEv2-, KI- oder High-Performance-Netzwerken sowie BGP-EVPN; aktuell jedoch kein zwingendes Einstellungskriterium Das Angebot Klingt das Projekt interessant? Ich freue mich auf Ihre Rückmeldung mit folgenden Informationen: Ihre aktuelle Projektverfügbarkeit (frühester Start) Ihre maximale Auslastung pro Woche Können Sie diese Auslastung regelmäßig anbieten? Ihr Stundensatz (Remote / ggf. vor Ort) Ihr aktuelles Profil Eine kurze Einschätzung zur Passgenauigkeit im Hinblick auf die genannten Anforderungen",
+      "first_seen": "2026-11-19T18:50:54.393521+00:00",
+      "id": "a0a29708024029b1",
+      "matched_keywords": [
+        "netz"
+      ],
+      "published": "2026-11-19T18:07:28+01:00",
+      "source": "freelancermap.de",
+      "title": "Interim Cisco Netzwerkspezialist (m/w/d)",
+      "url": "https://www.freelancermap.de/projekt/interim-cisco-netzwerkspezialist-m-w-d"
+    },
+    {
       "description": "WICHTIG: Aus Compliance-Gründen können wir für dieses Projekt leider nur festangestellte, sozialversicherungspflichtige Mitarbeitende berücksichtigen!!! Daher bitten wir Sie, uns ausschließlich Ressourcen anzubieten, die sich bei Ihnen bzw. bei Ihren Subunternehmern (sofern zutreffend) in einem direkten Anstellungsverhältnis befinden. Vielen Dank für Ihr Verständnis. SAFe Scrum Master (PSM II, PSPO II, ICP) (m/w/d) Einsatzort: 90% Remote - 10% Frankfurt a.M. Projektstart: Dezember 2026 Laufzeit: 1 Projektmonat ++ Auslastung: Vollzeit Projektsprache: Deutsch Aufgaben/Anforderungen: • Fachliche Beratung zur Einführung und Anpassung agiler Methoden, insbesondere Scrum, sowie Erarbeitung von Einführungs- und Vorgehensempfehlungen • Fachliche Beratung zur Gestaltung von Kommunikations- und Abstimmungsprozessen sowie zur Weiterentwicklung der agilen Vorgehensweisen insbesondere im Kontext von SAFe • Entwicklung und Dokumentation von Verbesserungsvorschlägen für agile Arbeitsweisen und Prozesse • Durchführung von agilen Reviews zur Bewertung der Umsetzung agiler Prinzipien und Ableitung von Empfehlungen • Beseitigung von Hindernissen sowie fachliche Beratung zu möglichen Lösungs- und Eskalationsprozessen und somit Steigerung der Produktivität der agilen Teams • Fachliche Beratung zur Strukturierung, Priorisierung und Qualitätssicherung des Product Backlogs; Erstellung von Beispielen und Empfehlungen • Koordination und Moderation von Scrum-Events (Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospektive) • Konzeption und Durchführung von Schulungsformaten zu Methoden agiler Frameworks • Fachliche Beratung zur Identifikation von Verbesserungspotenzialen agiler Praktiken und Methoden und Ableitung konkreter Handlungsempfehlungen • Identifikation und Analyse von Risiken und Problemen in agilen Prozessstrukturen und Erarbeitung von Maßnahmenempfehlungen zur Risikominimierung • Beratung bei der methodischen Vorbereitung und Durchführung von SAFe-spezifischen Events wie Inspect & Adapt-Workshop, PI-Planning, System Demo und ART-Sync • Fachlicher Austausch und Beratung des Release Train Engineer (RTE) zur Analyse und Optimierung der Prozesse und Wertströme Muss Anforderungen: • Mehr als 5 Jahre Erfahrung als Scrum Master oder Team Coach in IT-Entwicklungsteams unter Anwendung von Scrum • Mehr als 5 Jahre Erfahrung in der Weiterentwicklung großer agiler Entwicklungsteams oder in der Begleitung von Teamzuschnitten in Subteams • Zertifizierung als Scrum Master sowie Zertifizierung im SAFe-Framework (Zertifikate PSM II, Leading SAFe (SAFe Agilist 6.0) und ICAgile Certified Professional (ICP)) • Mehr als 3 Jahre Erfahrung in der Konzeption und Optimierung von Jira- & Confluence- Strukturen für agile Entwicklungsorganisationen • Erfahrung in Softwareentwicklungsteams mit End-to-End-Verantwortung über den gesamten Entwicklungszyklus von Anforderungsanalyse bis Deployment sowie CI/CD- und DevOps-basierten Lieferprozessen (Zertifikat PSPO II) Soll Anforderungen: • Mehr als 5 Jahre Erfahrung in der Restrukturierung oder Neugestaltung agiler Entwicklungsteams entlang fachlicher, technischer oder wertstromorientierter Verantwortungen • Mehr als 5 Jahre Erfahrung in der Etablierung klarer Verantwortlichkeiten, Schnittstellen und teamübergreifender Arbeitsweisen in agilen Entwicklungseinheiten • Erfahrung in der Konzeption und Optimierung von Jira-Strukturen für skaliertes agiles Arbeiten einschließlich Backlog-Strukturen, Abhängigkeitsmanagement und Steuerungsmetriken (3 Projektreferenzen) • Mehr als 5 Jahre Erfahrung in der Analyse und Optimierung von Abhängigkeiten zwischen Entwicklungsteams zur Steigerung von Lieferfähigkeit und Teamautonomie • Erfahrung in der Zusammenarbeit mit weiteren Scrum Mastern, Team Coaches oder Agile Coaches bei der gemeinsamen Weiterentwicklung größerer Entwicklungseinheiten (3 Projektreferenzen) Sie bringen die geforderten Kenntnisse mit? Dann freuen wir uns auf Ihre Bewerbung! Bitte mit Info zu Ihrer genauen Verfügbarkeit, CV und Ihrem All-In Stundensatz. Besten Dank im Voraus. Referenznummer: 13180",
       "first_seen": "2026-11-19T09:52:12.692225+00:00",
       "id": "c553550065970030",
@@ -3690,82 +3803,7 @@
       "source": "freelancermap.de",
       "title": "Enterprise Network Architect (m/w/d) - (Agentic AI)",
       "url": "https://www.freelancermap.de/projekt/enterprise-network-architect-m-w-d-agentic-ai"
-    },
-    {
-      "description": "Westhouse ist eines der führenden Recruitment-Unternehmen für die Vermittlung hochqualifizierter Fachexperten aus dem gesamten IT-Lifecycle- und Engineering-Bereich. Für unseren Kunden suchen wir aktuell eine/n Projektleiter (m/w/d) Rahmeninformationen Referenz:180880 Einsatzort:Backnang Starttermin:01.12.2026 Arbeitszeit:Vollzeit Ihre Qualifikationen - Abgeschlossenes Studium in einem der MINT Fächer oder vergleichbarer Studiengang - Fundierte Erfahrung im Projektmanagement - Gute Kenntnisse in MS Project- und MS Office - Idealerweise PM-Zertifizierung nach PMI oder vergleichbar - Teamfähigkeit, analytische und strukturierte Arbeitsweise sowie Präsentations- und Moderationsfähigkeiten - Fließende Deutsch- sowie Englischkenntnisse Ihre Aufgaben - Übernahme der Teil-/ Projektleitung - Planung, Koordination, Abwicklung von Projekten im Bereich „Microwave Power Modules Programs“ oder „Systems für Satellitenanwendungen / Raumfahrt“ - Ansprechpartner für internationale Kunden in allen programmatischen und technischen Belangen - Bearbeitung von Projektplänen und Kundenänderungswünschen sowie Management von Risiken und Chancen - Übersicht über den Abarbeitungsgrad, die Terminplanung, die Kosten und die anfallenden technischen Änderungen während des laufenden Projekts - Präsentation des Projektstatus in internen und externen Meetings Interessiert? Interessiert? Wir freuen uns auf Ihren aussagekräftigen Lebenslauf/CV in elektronischer Form. Ihr Ansprechpartner: Sude Kumcu ***** ***** *****",
-      "first_seen": "2026-11-05T16:06:51.254363+00:00",
-      "id": "81b5ca9c45566194",
-      "matched_keywords": [
-        "ems"
-      ],
-      "published": "2026-11-05T17:02:29+01:00",
-      "source": "freelancermap.de",
-      "title": "Westhouse Job: Projektleiter (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/westhouse-job-projektleiter-m-w-d-3069345"
-    },
-    {
-      "description": "Projektbeschreibung Für einen Kunden aus der Logistikbranche suchen wir eine erfahrene PMO-Unterstützung, die die Projektleitung organisatorisch und strukturell entlastet. Die Rolle ist die zentrale Schnittstelle zwischen Projektleitung, internen Stakeholdern und externen Dienstleistern. Sie sorgt dafür, dass Termine, Abstimmungen und offene Punkte verlässlich nachgehalten werden. Rolle: PMO / Projektassistenz Branche: Logistik Start: asap Laufzeit: Erstbeauftragung von 6 Monate Auslastung: Vollzeit Einsatzort: Remote Aufgaben & Verantwortlichkeiten Organisierte und strukturierte Zuarbeit für die Projektleitung Stakeholdermanagement und Koordination der Projektbeteiligten Steuerung und Koordination externer Dienstleister Nachhalten von Deadlines, Aufgaben und offenen Punkten Klassische PMO-Tätigkeiten wie Vor- und Nachbereitung von Meetings, Protokollführung, Statusreporting und Pflege der Projektdokumentation Anforderungen Erfahrung in PMO- oder Projektassistenz-Rollen, idealerweise in der Logistikbranche Sehr gute Kommunikationsfähigkeit, insbesondere in Englisch Strukturierte, selbstständige und zuverlässige Arbeitsweise Sicherer Umgang mit unterschiedlichen Stakeholdern und Dienstleistern Bei Interesse freue ich mich auf Ihre zeitnahe Rückmeldung. Bitte Schicken Sie mir auch gleich Ihren aktuellen CV und Stundesatz mit. Viele Grüße und hoffentlich bis bald!",
-      "first_seen": "2026-11-05T16:06:51.254363+00:00",
-      "id": "372dbcf4b95ae2e4",
-      "matched_keywords": [
-        "pmo"
-      ],
-      "published": "2026-11-05T16:58:10+01:00",
-      "source": "freelancermap.de",
-      "title": "Suche Freelance PMO Experten (m/w/d) // VZ // Start ASAP",
-      "url": "https://www.freelancermap.de/projekt/suche-freelance-pmo-experten-m-w-d-vz-start-asap"
-    },
-    {
-      "description": "Aktuell sind wir für unseren Kunden auf der Suche nach einem freiberuflichen Data Governance Consultant Network & Infrastructure (m/w/d). Kundendetails Rahmendaten Start: 01.12.2026 Projektlaufzeit: 3 Monate mit Verlängerungsoption Auslastung: Vollzeit Einsatzort: Full Remote Projektsprache: Englisch Branche: Energie Stellenbeschreibung Projektkontext Im Rahmen einer strategischen Data-Governance-Initiative unterstützt der Consultant bei der Analyse, Standardisierung und Qualitätssicherung von Daten innerhalb der Netzwerk- und Infrastruktur-Landschaft. Ziel ist die Schaffung einer zentralen Datenbasis für Infrastruktur- und Betriebsdaten sowie die Etablierung nachhaltiger Governance-Strukturen. Profil Aufgaben Entwicklung einer Roadmap zur zentralen Bereitstellung und Nutzung relevanter Infrastruktur- und Betriebsdaten Analyse und Bewertung der bestehenden Netzwerk- und Infrastruktur-Datenlandschaft Definition von Anforderungen an Datenqualität, Datenverfügbarkeit und Datenstrukturen Entwicklung und Einführung von Data-Governance-Richtlinien sowie Datenstandards Konzeption der Datenintegration in Snowflake und ServiceNow Identifikation relevanter sowie bislang ungenutzter Datenquellen bei Managed Service Providern Dokumentation von Datenflüssen, Verantwortlichkeiten und Governance-Prozessen Abstimmung mit Fachbereichen und technischen Stakeholdern zur Harmonisierung der Datenlandschaft Das Angebot Anforderungen Nachweisbare Erfahrung im Bereich Data Governance und Data Management Praxiserfahrung mit Microsoft Purview Erfahrung im Umgang mit CMDBs und Datenklassifizierungsmodellen Gute Kenntnisse in Microsoft Azure Erfahrung mit Snowflake in hybriden Datenumgebungen Nachweisbare Erfahrung bei der Definition und Einführung von Datenstandards und Governance-Prozessen Erfahrung im Netzwerk- und Infrastrukturumfeld von Vorteil Sehr gute Englischkenntnisse in Wort und Schrift",
-      "first_seen": "2026-11-05T16:06:51.254363+00:00",
-      "id": "6e02ddb05e52e883",
-      "matched_keywords": [
-        "energie",
-        "netz"
-      ],
-      "published": "2026-11-05T16:55:23+01:00",
-      "source": "freelancermap.de",
-      "title": "Data Governance Consultant Network & Infrastructure (m/w/d)",
-      "url": "https://www.freelancermap.de/projekt/data-governance-consultant-network-und-infrastructure-m-w-d-3069339"
-    },
-    {
-      "description": "Hintergrund: Es soll eine neue Pega-Applikation für den KYC-Prozess im Banking entwickelt werden. In diesem Projekt muss das SAP-Kernbankensystem angebunden werden. Dazu wird kurzfristig die Analyse der bestehenden Datenstrukturen und Schnittstellen sowie die Erstellung der Schnittstellenspezifikation und des Datenmappings benötigt. Erforderliche Kenntnisse: 1. Mehrjährige (mind. 5+ Jahre) Erfahrung in der technischen Analyse in IT-Projekten 2. Nachgewiesene Erfahrung in der Analyse von Schnittstellen sowie in der Erstellung von Schnittstellenspezifikationen und Datenmappings 3. Technisches Verständnis von Integrationsarchitekturen, Schnittstellentechnologien (z. B. REST-APIs, Datenformate wie JSON/XML) und Datenmodellen 4. Erfahrung in der Abstimmung von Systemlandschaften und Integrationen 5. Sicherer Umgang mit Modellierungsmethoden (UML, BPMN) 6. Erfahrung im Bankenumfeld 7. Kenntnisse von SAP-Datenstrukturen und Pega von Vorteil, aber keine Voraussetzung 8. Fundierte Erfahrung in der agilen Softwareentwicklung (Scrum) 9. Verständnis von Datenschutz- und Compliance-Anforderungen im Bankenumfeld 10. Ausgeprägte analytische und konzeptionelle Fähigkeiten 11. Strukturierte, sorgfältige und eigenverantwortliche Arbeitsweise 12. Agiles Mindset 13. Sehr gute Kommunikations- und Moderationsfähigkeit 14. Sehr gute Deutschkenntnisse (verhandlungssicher) und gute Englischkenntnisse Aufgaben: 15. Analyse der bestehenden SAP-Schnittstellen, Datenstrukturen und Datenflüsse (insbesondere Geschäftspartnerdaten) im Hinblick auf die Anbindung der Pega-Anwendung 16. Ermittlung und Abstimmung des Datenbedarfs: Definition, welche Daten für den KYCProzess benötigt werden und welche Daten an SAP zurückgeschrieben werden, in Abstimmung mit Fachbereich und Entwicklung 17. Erstellung der Schnittstellenspezifikation (Datenobjekte, Datenformate, Lese- /Schreiboperationen etc.) 18. Erstellung des Datenmappings zwischen SAP und dem Pega-Datenmodell 19. Berücksichtigung der Auswirkungen der S/4HANA-Umstellung auf Datenstrukturen 20. Modellierung der Datenflüsse und Integrationsprozesse (z. B. UML, BPMN) 21. Überführung der Ergebnisse in Epics, User Stories und Akzeptanzkriterien sowie Unterstützung bei End-to-End-Testfällen 22. Moderation von Abstimmungen und Workshops Projektzeitraum: asap – 31.12.2026 (+ Option auf Verlängerung bis 30.04.2027) Projektstandort: Frankfurt / remote (80% remote möglich) Projektvolumen: 30 PT in 2026",
-      "first_seen": "2026-11-05T16:06:51.254363+00:00",
-      "id": "c095b6aab3c50388",
-      "matched_keywords": [
-        "agil",
-        "scrum"
-      ],
-      "published": "2026-11-05T16:36:16+01:00",
-      "source": "freelancermap.de",
-      "title": "Technische Analyst für SAP-Integration / Bank / Frankfurt/remote",
-      "url": "https://www.freelancermap.de/projekt/technische-analyst-fuer-sap-integration-bank-frankfurt-remote"
-    },
-    {
-      "description": "Deine Aufgaben Du unterstützt als Junior Business Analyst ein Projekt in der Logistikbranche bei der Weiterentwicklung von Fahrplan- und Kapazitätsprozessen im Kontext europäischer Interoperabilitätsstandards und der EU-Kapazitätsverordnung. Du erhebst, analysierst und beschreibst IST- und SOLL-Zustände der beteiligten Fachbereiche und moderierst Anforderungsworkshops mit geeigneten Kreativmethoden. Du konsolidierst und spezifizierst funktionale und nichtfunktionale Anforderungen, beispielsweise in Form von User Stories. Du analysierst Problemstellungen, IT-Architekturen und technische Konzepte als Grundlage für die Auswahl geeigneter Lösungsanbieter. Du erstellst Detailkonzepte für einzelne Informationssysteme und entwickelst Handlungsoptionen einschließlich strategischer Einschätzungen und Empfehlungen. Die technische Umsetzung gehört nicht zu deinem Aufgabenbereich. Du dokumentierst Prozesse, Anforderungen sowie fachliche und technische Risiken und berätst zu deren Vermeidung oder Minimierung. Du priorisierst Anforderungskataloge und bereitest Entscheidungsvorlagen für Gremien hinsichtlich Entwicklung und Betrieb auf. Du beschreibst Testfälle und berätst zur Übereinstimmung der Anforderungen mit IT-Zielbild, IT-Strategie und Projektfortschritt. Du begleitest die Projektumsetzung beratend und unterstützt bei Qualifizierungskonzepten und Veränderungsprozessen. Das solltest du mitbringen Erforderlich: Du bringst Projekterfahrung als Business Analyst oder in einer vergleichbaren Tätigkeit mit. Du verfügst über erste Kenntnisse in der Erstellung von User Stories und der Durchführung von Testfällen. Du überzeugst durch Kommunikations- und Organisationsfähigkeit. Du arbeitest strukturiert und eigenständig und stellst dich flexibel auf neue Situationen ein. Du gehst sicher mit Plattformen zur Zusammenarbeit und Dokumentenverwaltung, E-Mail- und Kalenderprogrammen sowie weiteren Büroanwendungen um. Du bist bereit, deine Tätigkeit aus Deutschland auszuüben und für fachlich notwendige Präsenztermine nach Frankfurt am Main oder an andere Standorte innerhalb Deutschlands zu reisen. Gute Deutschkenntnisse in Wort und Schrift (mind. C1). Gewünscht: Du besitzt Grundkenntnisse zu Fahrplan-, Trassenbestellungs- und Baufahrplanprozessen. Du kennst Standardtools zur Aufgaben- und Projektsteuerung sowie zur Dokumentation und Wissensverwaltung. Du hast Kenntnisse im Aufbau und in der Umsetzung von Kommunikationsstrukturen, um Analysefortschritte transparent zu machen und Anfordernde fachlich zu begleiten. Du kennst dich mit der Dokumentation von SOLL- und IST-Arbeitsprozessen sowie möglichen Alternativen aus und kannst Präsentationen von Analyseergebnissen vorbereiten, die Wirkzusammenhänge und Prozessveränderungen verdeutlichen. Du hast Erfahrung im Aufbau von Testdurchführungskonzepten, in der Definition von Testfällen und in der Mitwirkung bei deren Durchführung. Das bieten wir dir Du wirkst an einem Projekt zur Weiterentwicklung interoperabler Logistikprozesse und zur Umsetzung europäischer Anforderungen mit. Du erhältst Einblicke in das Zusammenspiel von Fahrplanung, Kapazitätsplanung, Fachprozessen und IT-Systemen. Du kannst deine Kenntnisse in Business Analyse, Anforderungsmanagement und fachlicher Konzeption praxisnah vertiefen. Du gestaltest fachliche Konzepte eigenverantwortlich und arbeitest an der Schnittstelle zwischen Fachbereichen und IT. Du arbeitest überwiegend remote aus Deutschland und nimmst bei fachlicher Notwendigkeit an Vor-Ort-Terminen teil, bevorzugt in Frankfurt am Main; eine konkrete Remote-/Onsite-Verteilung ist nicht angegeben.",
-      "first_seen": "2026-11-05T16:06:51.254363+00:00",
-      "id": "5e045b35155b1127",
-      "matched_keywords": [
-        "business analyst",
-        "ems"
-      ],
-      "published": "2026-11-05T16:27:10+01:00",
-      "source": "freelancermap.de",
-      "title": "Business Analyse – Business Prozesse Special – Junior (m/w/d) (ID: 2064)",
-      "url": "https://www.freelancermap.de/projekt/business-analyse-business-prozesse-special-junior-m-w-d-id-2064"
-    },
-    {
-      "description": "Start: November 2026 Dauer: 6 Monate ++ Ort: München Projekt-ID: 15225 Bewerbungsfrist: 25.11.2026 Liebes Netzwerk, Für unseren Kunden im Großraum München suchen wir einen AIT-Techniker Raumfahrt (m/w/d). https://www.constaff.com/projektbeschreibung/?positionID=15225 Aufgaben: Eigenständige Vorbereitung und Durchführung mechanischer Integrations- und Testaktivitäten in Reinräumen der Klassen ISO 5 und ISO 8 Fachgerechte Handhabung von Werkzeugen, Mess- und Testgeräten Erstellung der AIT-Dokumentation, einschließlich AIT-Prozeduren, Log Sheets und Testberichten Abstimmung mit der Qualitätskontrolle und anderen Fachabteilungen Durchführung von Inspektionen sowie Führung von Tätigkeitsnachweisen und Erstellung von Problemberichten Unterstützung von Testaktivitäten und Testkampagnen in externen Testeinrichtungen im Rahmen von Dienstreisen Unterstützung bei 3D-Messaktivitäten mittels CMM Anforderungen: Abgeschlossene mechanische Berufsausbildung in einer technischen Fachrichtung, beispielsweise Industrie- oder Feinmechanik, Flugzeugmechanik oder mechanische Messtechnik, vorzugsweise mit Erfahrung im Raumfahrtbereich Praktische Erfahrung als AIT Operator, in der Montage im Musterbau oder in vergleichbaren Tätigkeiten Strukturierte Arbeitsweise, hohe Motivation und Identifikation mit dem jeweiligen Projekt Fähigkeit, auch unter Zeitdruck ruhig und konsequent gesetzte Ziele zu erreichen Gute kommunikative Fähigkeiten und Bereitschaft zur Teamarbeit Gute Englischkenntnisse Aufgrund von Kundenvorgaben wird eine projektbezogene Anstellung vorausgesetzt. Haben Sie Zeit und Interesse an einem spannenden Projekt? Dann freuen wir uns auf Ihre Kontaktaufnahme! Kontakt: Annika Kärcher Expert Candidate Relations _________________________________ Constaff GmbH - 100%OpenBook. Ehrlich. Kompetent. Transparent.",
-      "first_seen": "2026-11-05T16:06:51.254363+00:00",
-      "id": "a282454c5d607f53",
-      "matched_keywords": [
-        "netz"
-      ],
-      "published": "2026-11-05T16:22:56+01:00",
-      "source": "freelancermap.de",
-      "title": "AIT-Techniker Raumfahrt (m/w/d) | München | ANK15225",
-      "url": "https://www.freelancermap.de/projekt/ait-techniker-raumfahrt-m-w-d-muenchen-ank15225"
     }
   ],
-  "updated_at": "2026-11-19T09:52:12.747196+00:00"
+  "updated_at": "2026-11-19T18:50:54.491386+00:00"
 }
